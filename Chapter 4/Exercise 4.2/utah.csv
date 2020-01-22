@@ -1,0 +1,943 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"49","49001","90086","04060","84713","99999","00060","2500-9999","2500-9999","UT","Beaver UT","Beaver CCD","Beaver city, UT","99999","Beaver, UT","Beaver School District",3112,1 
+"49","49001","90086","99999","84713","99999","00060","2500-9999","Not in a place","UT","Beaver UT","Beaver CCD"," ","99999","Beaver, UT","Beaver School District",652,1 
+"49","49001","90086","99999","84731","99999","00060","2500-9999","Not in a place","UT","Beaver UT","Beaver CCD"," ","99999","Greenville, UT","Beaver School District",187,1 
+"49","49001","91892","50040","84751","99999","00060","2500-9999","1000-2499","UT","Beaver UT","Milford-Minersville CCD","Milford city, UT","99999","Milford, UT","Beaver School District",1409,1 
+"49","49001","91892","50590","84752","99999","00060","2500-9999","200-999","UT","Beaver UT","Milford-Minersville CCD","Minersville town, UT","99999","Minersville, UT","Beaver School District",907,1 
+"49","49001","91892","99999","84731","99999","00060","2500-9999","Not in a place","UT","Beaver UT","Milford-Minersville CCD"," ","99999","Greenville, UT","Beaver School District",7,1 
+"49","49001","91892","99999","84751","99999","00060","2500-9999","Not in a place","UT","Beaver UT","Milford-Minersville CCD"," ","99999","Milford, UT","Beaver School District",267,1 
+"49","49001","91892","99999","84752","99999","00060","2500-9999","Not in a place","UT","Beaver UT","Milford-Minersville CCD"," ","99999","Minersville, UT","Beaver School District",87,1 
+"49","49001","91892","99999","84753","99999","00060","2500-9999","Not in a place","UT","Beaver UT","Milford-Minersville CCD"," ","99999","Modena, UT","Beaver School District",1,1 
+"49","49003","90258","08460","84302","99999","00090","25,000-99,999","10,000-24,999","UT","Box Elder UT","Brigham City CCD","Brigham City city, UT","99999","Brigham City, UT","Box Elder School District",17899,1 
+"49","49003","90258","47840","84324","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Brigham City CCD","Mantua town, UT","99999","Mantua, UT","Box Elder School District",687,1 
+"49","49003","90258","59390","84302","99999","00090","25,000-99,999","2500-9999","UT","Box Elder UT","Brigham City CCD","Perry city, UT","99999","Brigham City, UT","Box Elder School District",4512,1 
+"49","49003","90258","71255","84340","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Brigham City CCD","South Willard CDP, UT","99999","Willard, UT","Box Elder School District",1571,1 
+"49","49003","90258","84710","84340","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Brigham City CCD","Willard city, UT","99999","Willard, UT","Box Elder School District",1772,1 
+"49","49003","90258","99999","84302","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Brigham City CCD"," ","99999","Brigham City, UT","Box Elder School District",383,1 
+"49","49003","90258","99999","84324","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Brigham City CCD"," ","99999","Mantua, UT","Box Elder School District",14,1 
+"49","49003","90258","99999","84340","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Brigham City CCD"," ","99999","Willard, UT","Box Elder School District",26,1 
+"49","49003","91419","28150","84312","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Howell-Snowville CCD","Garland city, UT","99999","Garland, UT","Box Elder School District",37,1 
+"49","49003","91419","36620","84316","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Howell-Snowville CCD","Howell town, UT","99999","Howell, UT","Box Elder School District",245,1 
+"49","49003","91419","61260","84330","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Howell-Snowville CCD","Plymouth town, UT","99999","Plymouth, UT","Box Elder School District",414,1 
+"49","49003","91419","61590","84331","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Howell-Snowville CCD","Portage town, UT","99999","Portage, UT","Box Elder School District",245,1 
+"49","49003","91419","69970","84336","99999","00090","25,000-99,999","Less than 200","UT","Box Elder UT","Howell-Snowville CCD","Snowville town, UT","99999","Snowville, UT","Box Elder School District",167,1 
+"49","49003","91419","75800","84337","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Howell-Snowville CCD","Thatcher CDP, UT","99999","Tremonton, UT","Box Elder School District",550,1 
+"49","49003","91419","77120","84337","99999","00090","25,000-99,999","2500-9999","UT","Box Elder UT","Howell-Snowville CCD","Tremonton city, UT","99999","Tremonton, UT","Box Elder School District",333,1 
+"49","49003","91419","99999","84307","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Corinne, UT","Box Elder School District",34,1 
+"49","49003","91419","99999","84311","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Fielding, UT","Box Elder School District",81,1 
+"49","49003","91419","99999","84312","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Garland, UT","Box Elder School District",300,1 
+"49","49003","91419","99999","84316","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Howell, UT","Box Elder School District",9,1 
+"49","49003","91419","99999","84329","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Park Valley, UT","Box Elder School District",9,1 
+"49","49003","91419","99999","84330","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Plymouth, UT","Box Elder School District",88,1 
+"49","49003","91419","99999","84331","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Portage, UT","Box Elder School District",27,1 
+"49","49003","91419","99999","84336","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Snowville, UT","Box Elder School District",108,1 
+"49","49003","91419","99999","84337","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Howell-Snowville CCD"," ","99999","Tremonton, UT","Box Elder School District",122,1 
+"49","49003","93440","03950","84301","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Bear River City city, UT","99999","Bear River City, UT","Box Elder School District",853,1 
+"49","49003","93440","15830","84302","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Corinne city, UT","99999","Brigham City, UT","Box Elder School District",30,1 
+"49","49003","93440","15830","84307","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Corinne city, UT","99999","Corinne, UT","Box Elder School District",655,1 
+"49","49003","93440","19680","84309","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Deweyville town, UT","99999","Deweyville, UT","Box Elder School District",332,1 
+"49","49003","93440","22760","84337","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Tremonton CCD","Elwood town, UT","99999","Tremonton, UT","Box Elder School District",1034,1 
+"49","49003","93440","25290","84311","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Fielding town, UT","99999","Fielding, UT","Box Elder School District",445,1 
+"49","49003","93440","25290","84312","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Fielding town, UT","99999","Garland, UT","Box Elder School District",10,1 
+"49","49003","93440","28150","84312","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Tremonton CCD","Garland city, UT","99999","Garland, UT","Box Elder School District",2331,1 
+"49","49003","93440","28150","84337","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Tremonton CCD","Garland city, UT","99999","Tremonton, UT","Box Elder School District",32,1 
+"49","49003","93440","36290","84302","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Tremonton CCD","Honeyville city, UT","99999","Brigham City, UT","Box Elder School District",424,1 
+"49","49003","93440","36290","84314","99999","00090","25,000-99,999","1000-2499","UT","Box Elder UT","Tremonton CCD","Honeyville city, UT","99999","Honeyville, UT","Box Elder School District",1017,1 
+"49","49003","93440","64230","84311","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Riverside CDP, UT","99999","Fielding, UT","Box Elder School District",85,1 
+"49","49003","93440","64230","84312","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Riverside CDP, UT","99999","Garland, UT","Box Elder School District",485,1 
+"49","49003","93440","64230","84334","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Riverside CDP, UT","99999","Riverside, UT","Box Elder School District",190,1 
+"49","49003","93440","75800","84337","99999","00090","25,000-99,999","200-999","UT","Box Elder UT","Tremonton CCD","Thatcher CDP, UT","99999","Tremonton, UT","Box Elder School District",239,1 
+"49","49003","93440","77120","84337","99999","00090","25,000-99,999","2500-9999","UT","Box Elder UT","Tremonton CCD","Tremonton city, UT","99999","Tremonton, UT","Box Elder School District",7314,1 
+"49","49003","93440","99999","84301","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Bear River City, UT","Box Elder School District",30,1 
+"49","49003","93440","99999","84302","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Brigham City, UT","Box Elder School District",455,1 
+"49","49003","93440","99999","84306","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Collinston, UT","Box Elder School District",318,1 
+"49","49003","93440","99999","84307","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Corinne, UT","Box Elder School District",686,1 
+"49","49003","93440","99999","84309","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Deweyville, UT","Box Elder School District",203,1 
+"49","49003","93440","99999","84311","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Fielding, UT","Box Elder School District",103,1 
+"49","49003","93440","99999","84312","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Garland, UT","Box Elder School District",865,1 
+"49","49003","93440","99999","84314","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Honeyville, UT","Box Elder School District",14,1 
+"49","49003","93440","99999","84334","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Riverside, UT","Box Elder School District",40,1 
+"49","49003","93440","99999","84337","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","Tremonton CCD"," ","99999","Tremonton, UT","Box Elder School District",1769,1 
+"49","49003","93827","99999","83312","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","West Box Elder CCD"," ","99999","Almo, ID (PO Boxes)","Box Elder School District",25,1 
+"49","49003","93827","99999","83342","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","West Box Elder CCD"," ","99999","Malta, ID","Box Elder School District",73,1 
+"49","49003","93827","99999","84083","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","West Box Elder CCD"," ","99999","Wendover, UT","Box Elder School District",18,1 
+"49","49003","93827","99999","84313","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","West Box Elder CCD"," ","99999","Grouse Creek, UT","Box Elder School District",68,1 
+"49","49003","93827","99999","84329","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","West Box Elder CCD"," ","99999","Park Valley, UT","Box Elder School District",193,1 
+"49","49003","93827","99999","84336","99999","00090","25,000-99,999","Not in a place","UT","Box Elder UT","West Box Elder CCD"," ","99999","Snowville, UT","Box Elder School District",6,1 
+"49","49005","90635","45860","84321","99999","00510","100,000-249,999","25,000-99,999","UT","Cache UT","East Cache CCD","Logan city, UT","99999","Logan, UT","Logan School District",6,1 
+"49","49005","90635","62360","84332","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","East Cache CCD","Providence city, UT","99999","Providence, UT","Cache School District",70,1 
+"49","49005","90635","99999","84319","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","East Cache CCD"," ","99999","Hyrum, UT","Cache School District",16,1 
+"49","49005","90635","99999","84321","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","East Cache CCD"," ","99999","Logan, UT","Cache School District",7,1 
+"49","49005","90635","99999","84328","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","East Cache CCD"," ","99999","Paradise, UT","Cache School District",6,1 
+"49","49005","91505","02960","84328","99999","00120","100,000-249,999","200-999","UT","Cache UT","Hyrum CCD","Avon CDP, UT","99999","Paradise, UT","Cache School District",367,1 
+"49","49005","91505","37500","84319","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Hyrum CCD","Hyrum city, UT","99999","Hyrum, UT","Cache School District",7558,1 
+"49","49005","91505","54660","84321","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Hyrum CCD","Nibley city, UT","99999","Logan, UT","Cache School District",108,1 
+"49","49005","91505","57850","84328","99999","00120","100,000-249,999","200-999","UT","Cache UT","Hyrum CCD","Paradise town, UT","99999","Paradise, UT","Cache School District",904,1 
+"49","49005","91505","82620","84339","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Hyrum CCD","Wellsville city, UT","99999","Wellsville, UT","Cache School District",54,1 
+"49","49005","91505","99999","84319","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Hyrum CCD"," ","99999","Hyrum, UT","Cache School District",331,1 
+"49","49005","91505","99999","84321","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Hyrum CCD"," ","99999","Logan, UT","Cache School District",10,1 
+"49","49005","91505","99999","84328","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Hyrum CCD"," ","99999","Paradise, UT","Cache School District",389,1 
+"49","49005","91505","99999","84339","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Hyrum CCD"," ","99999","Wellsville, UT","Cache School District",78,1 
+"49","49005","91677","13190","84305","99999","00120","100,000-249,999","200-999","UT","Cache UT","Lewiston CCD","Clarkston town, UT","99999","Clarkston, UT","Cache School District",666,1 
+"49","49005","91677","15940","84308","99999","00120","100,000-249,999","200-999","UT","Cache UT","Lewiston CCD","Cornish town, UT","99999","Cornish, UT","Cache School District",288,1 
+"49","49005","91677","16490","84320","99999","00120","100,000-249,999","200-999","UT","Cache UT","Lewiston CCD","Cove CDP, UT","99999","Lewiston, UT","Cache School District",401,1 
+"49","49005","91677","16490","84333","99999","00120","100,000-249,999","200-999","UT","Cache UT","Lewiston CCD","Cove CDP, UT","99999","Richmond, UT","Cache School District",59,1 
+"49","49005","91677","44760","84320","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Lewiston CCD","Lewiston city, UT","99999","Lewiston, UT","Cache School District",1766,1 
+"49","49005","91677","63680","84333","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Lewiston CCD","Richmond city, UT","99999","Richmond, UT","Cache School District",2470,1 
+"49","49005","91677","77230","84338","99999","00120","100,000-249,999","200-999","UT","Cache UT","Lewiston CCD","Trenton town, UT","99999","Trenton, UT","Cache School District",120,1 
+"49","49005","91677","99999","84305","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Lewiston CCD"," ","99999","Clarkston, UT","Cache School District",85,1 
+"49","49005","91677","99999","84308","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Lewiston CCD"," ","99999","Cornish, UT","Cache School District",37,1 
+"49","49005","91677","99999","84320","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Lewiston CCD"," ","99999","Lewiston, UT","Cache School District",70,1 
+"49","49005","91677","99999","84333","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Lewiston CCD"," ","99999","Richmond, UT","Cache School District",193,1 
+"49","49005","91677","99999","84335","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Lewiston CCD"," ","99999","Smithfield, UT","Cache School District",4,1 
+"49","49005","91677","99999","84338","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Lewiston CCD"," ","99999","Trenton, UT","Cache School District",3,1 
+"49","49005","91763","05050","84321","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","Benson CDP, UT","99999","Logan, UT","Cache School District",416,1 
+"49","49005","91763","05050","84335","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","Benson CDP, UT","99999","Smithfield, UT","Cache School District",381,1 
+"49","49005","91763","05050","84339","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","Benson CDP, UT","99999","Wellsville, UT","Cache School District",508,1 
+"49","49005","91763","37390","84318","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Logan CCD","Hyde Park city, UT","99999","Hyde Park, UT","Cache School District",3833,1 
+"49","49005","91763","37500","84321","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Logan CCD","Hyrum city, UT","99999","Logan, UT","Cache School District",51,1 
+"49","49005","91763","45860","84321","99999","00120","100,000-249,999","25,000-99,999","UT","Cache UT","Logan CCD","Logan city, UT","99999","Logan, UT","Cache School District",72,1 
+"49","49005","91763","45860","84321","99999","00510","100,000-249,999","25,000-99,999","UT","Cache UT","Logan CCD","Logan city, UT","99999","Logan, UT","Logan School District",36074,1 
+"49","49005","91763","45860","84339","99999","00120","100,000-249,999","25,000-99,999","UT","Cache UT","Logan CCD","Logan city, UT","99999","Wellsville, UT","Cache School District",80,1 
+"49","49005","91763","45860","84339","99999","00510","100,000-249,999","25,000-99,999","UT","Cache UT","Logan CCD","Logan city, UT","99999","Wellsville, UT","Logan School District",176,1 
+"49","49005","91763","45860","84341","99999","00510","100,000-249,999","25,000-99,999","UT","Cache UT","Logan CCD","Logan city, UT","99999","Logan, UT","Logan School District",11766,1 
+"49","49005","91763","50370","84321","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","Millville city, UT","99999","Logan, UT","Cache School District",18,1 
+"49","49005","91763","50370","84326","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","Millville city, UT","99999","Millville, UT","Cache School District",1653,1 
+"49","49005","91763","50370","84332","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","Millville city, UT","99999","Providence, UT","Cache School District",158,1 
+"49","49005","91763","54660","84321","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Logan CCD","Nibley city, UT","99999","Logan, UT","Cache School District",5330,1 
+"49","49005","91763","54990","84341","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Logan CCD","North Logan city, UT","99999","Logan, UT","Cache School District",8269,1 
+"49","49005","91763","62360","84321","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Logan CCD","Providence city, UT","99999","Logan, UT","Cache School District",23,1 
+"49","49005","91763","62360","84326","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Logan CCD","Providence city, UT","99999","Millville, UT","Cache School District",52,1 
+"49","49005","91763","62360","84332","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Logan CCD","Providence city, UT","99999","Providence, UT","Cache School District",6930,1 
+"49","49005","91763","64120","84321","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","River Heights city, UT","99999","Logan, UT","Cache School District",1704,1 
+"49","49005","91763","64120","84332","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Logan CCD","River Heights city, UT","99999","Providence, UT","Cache School District",30,1 
+"49","49005","91763","99999","84318","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Logan CCD"," ","99999","Hyde Park, UT","Cache School District",58,1 
+"49","49005","91763","99999","84321","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Logan CCD"," ","99999","Logan, UT","Cache School District",255,1 
+"49","49005","91763","99999","84326","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Logan CCD"," ","99999","Millville, UT","Cache School District",58,1 
+"49","49005","91763","99999","84332","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Logan CCD"," ","99999","Providence, UT","Cache School District",30,1 
+"49","49005","91763","99999","84335","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Logan CCD"," ","99999","Smithfield, UT","Cache School District",95,1 
+"49","49005","91763","99999","84341","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Logan CCD"," ","99999","Logan, UT","Cache School District",74,1 
+"49","49005","93096","01090","84335","99999","00120","100,000-249,999","200-999","UT","Cache UT","Smithfield CCD","Amalga town, UT","99999","Smithfield, UT","Cache School District",488,1 
+"49","49005","93096","05050","84335","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Smithfield CCD","Benson CDP, UT","99999","Smithfield, UT","Cache School District",180,1 
+"49","49005","93096","09725","84304","99999","00120","100,000-249,999","Less than 200","UT","Cache UT","Smithfield CCD","Cache CDP, UT","99999","Cache, UT","Cache School District",38,1 
+"49","49005","93096","54550","84327","99999","00120","100,000-249,999","200-999","UT","Cache UT","Smithfield CCD","Newton town, UT","99999","Newton, UT","Cache School District",789,1 
+"49","49005","93096","59555","84304","99999","00120","100,000-249,999","200-999","UT","Cache UT","Smithfield CCD","Peter CDP, UT","99999","Cache, UT","Cache School District",2,1 
+"49","49005","93096","59555","84325","99999","00120","100,000-249,999","200-999","UT","Cache UT","Smithfield CCD","Peter CDP, UT","99999","Mendon, UT","Cache School District",111,1 
+"49","49005","93096","69640","84335","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Smithfield CCD","Smithfield city, UT","99999","Smithfield, UT","Cache School District",9495,1 
+"49","49005","93096","77230","84338","99999","00120","100,000-249,999","200-999","UT","Cache UT","Smithfield CCD","Trenton town, UT","99999","Trenton, UT","Cache School District",344,1 
+"49","49005","93096","99999","84318","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Smithfield CCD"," ","99999","Hyde Park, UT","Cache School District",27,1 
+"49","49005","93096","99999","84327","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Smithfield CCD"," ","99999","Newton, UT","Cache School District",162,1 
+"49","49005","93096","99999","84335","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Smithfield CCD"," ","99999","Smithfield, UT","Cache School District",729,1 
+"49","49005","93096","99999","84338","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Smithfield CCD"," ","99999","Trenton, UT","Cache School District",14,1 
+"49","49005","93784","49160","84325","99999","00120","100,000-249,999","1000-2499","UT","Cache UT","Wellsville CCD","Mendon city, UT","99999","Mendon, UT","Cache School District",1282,1 
+"49","49005","93784","59555","84325","99999","00120","100,000-249,999","200-999","UT","Cache UT","Wellsville CCD","Peter CDP, UT","99999","Mendon, UT","Cache School District",211,1 
+"49","49005","93784","82620","84339","99999","00120","100,000-249,999","2500-9999","UT","Cache UT","Wellsville CCD","Wellsville city, UT","99999","Wellsville, UT","Cache School District",3378,1 
+"49","49005","93784","99999","84325","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Wellsville CCD"," ","99999","Mendon, UT","Cache School District",474,1 
+"49","49005","93784","99999","84339","99999","00120","100,000-249,999","Not in a place","UT","Cache UT","Wellsville CCD"," ","99999","Wellsville, UT","Cache School District",772,1 
+"49","49007","90645","20890","84520","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","East Carbon CCD","East Carbon city, UT","99999","East Carbon, UT","Carbon School District",1301,1 
+"49","49007","90645","74370","84539","99999","00150","10,000-24,999","200-999","UT","Carbon UT","East Carbon CCD","Sunnyside city, UT","99999","Sunnyside, UT","Carbon School District",377,1 
+"49","49007","90645","99999","84520","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","East Carbon CCD"," ","99999","East Carbon, UT","Carbon School District",1,1 
+"49","49007","90645","99999","84526","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","East Carbon CCD"," ","99999","Helper, UT","Carbon School District",2,1 
+"49","49007","90645","99999","84539","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","East Carbon CCD"," ","99999","Sunnyside, UT","Carbon School District",2,1 
+"49","49007","91333","13740","84526","99999","00150","10,000-24,999","Less than 200","UT","Carbon UT","Helper CCD","Clear Creek CDP, UT","99999","Helper, UT","Carbon School District",4,1 
+"49","49007","91333","34530","84526","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","Helper CCD","Helper city, UT","99999","Helper, UT","Carbon School District",2201,1 
+"49","49007","91333","41020","84529","99999","00150","10,000-24,999","Less than 200","UT","Carbon UT","Helper CCD","Kenilworth CDP, UT","99999","Kenilworth, UT","Carbon School District",180,1 
+"49","49007","91333","67990","84526","99999","00150","10,000-24,999","Less than 200","UT","Carbon UT","Helper CCD","Scofield town, UT","99999","Helper, UT","Carbon School District",24,1 
+"49","49007","91333","72060","84526","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","Helper CCD","Spring Glen CDP, UT","99999","Helper, UT","Carbon School District",1026,1 
+"49","49007","91333","99999","84501","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","Helper CCD"," ","99999","Price, UT","Carbon School District",20,1 
+"49","49007","91333","99999","84526","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","Helper CCD"," ","99999","Helper, UT","Carbon School District",84,1 
+"49","49007","92666","10440","84501","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","Price CCD","Carbonville CDP, UT","99999","Price, UT","Carbon School District",941,1 
+"49","49007","92666","10440","84526","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","Price CCD","Carbonville CDP, UT","99999","Helper, UT","Carbon School District",626,1 
+"49","49007","92666","62030","84501","99999","00150","10,000-24,999","2500-9999","UT","Carbon UT","Price CCD","Price city, UT","99999","Price, UT","Carbon School District",8715,1 
+"49","49007","92666","72060","84526","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","Price CCD","Spring Glen CDP, UT","99999","Helper, UT","Carbon School District",100,1 
+"49","49007","92666","82510","84501","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","Price CCD","Wellington city, UT","99999","Price, UT","Carbon School District",12,1 
+"49","49007","92666","82510","84542","99999","00150","10,000-24,999","1000-2499","UT","Carbon UT","Price CCD","Wellington city, UT","99999","Wellington, UT","Carbon School District",1664,1 
+"49","49007","92666","83730","84501","99999","00150","10,000-24,999","200-999","UT","Carbon UT","Price CCD","West Wood CDP, UT","99999","Price, UT","Carbon School District",844,1 
+"49","49007","92666","99999","84501","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","Price CCD"," ","99999","Price, UT","Carbon School District",3080,1 
+"49","49007","92666","99999","84526","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","Price CCD"," ","99999","Helper, UT","Carbon School District",57,1 
+"49","49007","92666","99999","84542","99999","00150","10,000-24,999","Not in a place","UT","Carbon UT","Price CCD"," ","99999","Wellington, UT","Carbon School District",142,1 
+"49","49009","90688","20780","84023","99999","00180","1000-2499","Less than 200","UT","Daggett UT","East Daggett CCD","Dutch John CDP, UT","99999","Dutch John, UT","Daggett School District",145,1 
+"49","49009","90688","99999","84023","99999","00180","1000-2499","Not in a place","UT","Daggett UT","East Daggett CCD"," ","99999","Dutch John, UT","Daggett School District",28,1 
+"49","49009","93870","25910","84023","99999","00180","1000-2499","Less than 200","UT","Daggett UT","West Daggett CCD","Flaming Gorge CDP, UT","99999","Dutch John, UT","Daggett School District",83,1 
+"49","49009","93870","47620","84046","99999","00180","1000-2499","200-999","UT","Daggett UT","West Daggett CCD","Manila town, UT","99999","Manila, UT","Daggett School District",310,1 
+"49","49009","93870","99999","84023","99999","00180","1000-2499","Not in a place","UT","Daggett UT","West Daggett CCD"," ","99999","Dutch John, UT","Daggett School District",10,1 
+"49","49009","93870","99999","84046","99999","00180","1000-2499","Not in a place","UT","Daggett UT","West Daggett CCD"," ","99999","Manila, UT","Daggett School District",483,1 
+"49","49011","92236","13850","84015","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Clearfield city, UT","99999","Clearfield, UT","Davis School District",27511,1 
+"49","49011","92236","13850","84041","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Clearfield city, UT","99999","Layton, UT","Davis School District",212,1 
+"49","49011","92236","13850","84056","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Clearfield city, UT","99999","Clearfield, UT","Davis School District",2382,1 
+"49","49011","92236","13850","84075","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Clearfield city, UT","99999","Syracuse, UT","Davis School District",7,1 
+"49","49011","92236","14290","84015","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","North Davis CCD","Clinton city, UT","99999","Clearfield, UT","Davis School District",20426,1 
+"49","49011","92236","24740","84025","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","North Davis CCD","Farmington city, UT","99999","Farmington, UT","Davis School District",153,1 
+"49","49011","92236","24740","84037","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","North Davis CCD","Farmington city, UT","99999","Kaysville, UT","Davis School District",21,1 
+"49","49011","92236","27490","84037","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","Fruit Heights city, UT","99999","Kaysville, UT","Davis School District",4841,1 
+"49","49011","92236","40360","84037","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Kaysville city, UT","99999","Kaysville, UT","Davis School District",26801,1 
+"49","49011","92236","40360","84041","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Kaysville city, UT","99999","Layton, UT","Davis School District",5,1 
+"49","49011","92236","43660","84037","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Layton city, UT","99999","Kaysville, UT","Davis School District",181,1 
+"49","49011","92236","43660","84040","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Layton city, UT","99999","Layton, UT","Davis School District",22952,1 
+"49","49011","92236","43660","84041","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","North Davis CCD","Layton city, UT","99999","Layton, UT","Davis School District",44178,1 
+"49","49011","92236","71180","84040","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","South Weber city, UT","99999","Layton, UT","Davis School District",3,1 
+"49","49011","92236","71180","84405","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","South Weber city, UT","99999","Washington Terrace, UT","Davis School District",6048,1 
+"49","49011","92236","74480","84015","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","Sunset city, UT","99999","Clearfield, UT","Davis School District",5108,1 
+"49","49011","92236","74480","84056","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","Sunset city, UT","99999","Clearfield, UT","Davis School District",14,1 
+"49","49011","92236","74810","84015","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","North Davis CCD","Syracuse city, UT","99999","Clearfield, UT","Davis School District",13,1 
+"49","49011","92236","74810","84041","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","North Davis CCD","Syracuse city, UT","99999","Layton, UT","Davis School District",2,1 
+"49","49011","92236","74810","84075","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","North Davis CCD","Syracuse city, UT","99999","Syracuse, UT","Davis School District",24316,1 
+"49","49011","92236","83390","84015","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","West Point city, UT","99999","Clearfield, UT","Davis School District",9433,1 
+"49","49011","92236","83390","84075","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","West Point city, UT","99999","Syracuse, UT","Davis School District",4,1 
+"49","49011","92236","83390","84315","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","North Davis CCD","West Point city, UT","99999","Hooper, UT","Davis School District",74,1 
+"49","49011","92236","99999","84015","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Clearfield, UT","Davis School District",3,1 
+"49","49011","92236","99999","84025","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Farmington, UT","Davis School District",9,1 
+"49","49011","92236","99999","84037","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Kaysville, UT","Davis School District",832,1 
+"49","49011","92236","99999","84040","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Layton, UT","Davis School District",71,1 
+"49","49011","92236","99999","84041","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Layton, UT","Davis School District",228,1 
+"49","49011","92236","99999","84056","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Clearfield, UT","Davis School District",914,1 
+"49","49011","92236","99999","84075","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Syracuse, UT","Davis School District",179,1 
+"49","49011","92236","99999","84315","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Hooper, UT","Davis School District",247,1 
+"49","49011","92236","99999","84405","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","North Davis CCD"," ","99999","Washington Terrace, UT","Davis School District",257,1 
+"49","49011","93182","07690","84010","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","South Davis CCD","Bountiful city, UT","99999","Bountiful, UT","Davis School District",42472,1 
+"49","49011","93182","07690","84014","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","South Davis CCD","Bountiful city, UT","99999","Centerville, UT","Davis School District",61,1 
+"49","49011","93182","07690","84054","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","South Davis CCD","Bountiful city, UT","99999","North Salt Lake, UT","Davis School District",19,1 
+"49","49011","93182","11980","84010","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","Centerville city, UT","99999","Bountiful, UT","Davis School District",122,1 
+"49","49011","93182","11980","84014","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","Centerville city, UT","99999","Centerville, UT","Davis School District",15207,1 
+"49","49011","93182","11980","84025","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","Centerville city, UT","99999","Farmington, UT","Davis School District",6,1 
+"49","49011","93182","24740","84025","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","Farmington city, UT","99999","Farmington, UT","Davis School District",18049,1 
+"49","49011","93182","24740","84037","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","Farmington city, UT","99999","Kaysville, UT","Davis School District",52,1 
+"49","49011","93182","27490","84037","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","South Davis CCD","Fruit Heights city, UT","99999","Kaysville, UT","Davis School District",146,1 
+"49","49011","93182","40360","84037","99999","00210","250,000-999,999","25,000-99,999","UT","Davis UT","South Davis CCD","Kaysville city, UT","99999","Kaysville, UT","Davis School District",494,1 
+"49","49011","93182","55210","84010","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","North Salt Lake city, UT","99999","Bountiful, UT","Davis School District",177,1 
+"49","49011","93182","55210","84054","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","North Salt Lake city, UT","99999","North Salt Lake, UT","Davis School District",16139,1 
+"49","49011","93182","55210","84087","99999","00210","250,000-999,999","10,000-24,999","UT","Davis UT","South Davis CCD","North Salt Lake city, UT","99999","Woods Cross, UT","Davis School District",6,1 
+"49","49011","93182","82840","84010","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","South Davis CCD","West Bountiful city, UT","99999","Bountiful, UT","Davis School District",45,1 
+"49","49011","93182","82840","84087","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","South Davis CCD","West Bountiful city, UT","99999","Woods Cross, UT","Davis School District",5220,1 
+"49","49011","93182","85370","84010","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","South Davis CCD","Woods Cross city, UT","99999","Bountiful, UT","Davis School District",1055,1 
+"49","49011","93182","85370","84087","99999","00210","250,000-999,999","2500-9999","UT","Davis UT","South Davis CCD","Woods Cross city, UT","99999","Woods Cross, UT","Davis School District",8706,1 
+"49","49011","93182","99999","84010","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","South Davis CCD"," ","99999","Bountiful, UT","Davis School District",950,1 
+"49","49011","93182","99999","84025","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","South Davis CCD"," ","99999","Farmington, UT","Davis School District",38,1 
+"49","49011","93182","99999","84037","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","South Davis CCD"," ","99999","Kaysville, UT","Davis School District",1,1 
+"49","49011","93182","99999","84054","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","South Davis CCD"," ","99999","North Salt Lake, UT","Davis School District",38,1 
+"49","49011","93182","99999","84087","99999","00210","250,000-999,999","Not in a place","UT","Davis UT","South Davis CCD"," ","99999","Woods Cross, UT","Davis School District",51,1 
+"49","49013","90559","20340","84021","99999","00240","10,000-24,999","1000-2499","UT","Duchesne UT","Duchesne CCD","Duchesne city, UT","99999","Duchesne, UT","Duchesne School District",1690,1 
+"49","49013","90559","74920","84072","99999","00240","10,000-24,999","Less than 200","UT","Duchesne UT","Duchesne CCD","Tabiona town, UT","99999","Tabiona, UT","Duchesne School District",171,1 
+"49","49013","90559","99999","84021","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Duchesne CCD"," ","99999","Duchesne, UT","Duchesne School District",1070,1 
+"49","49013","90559","99999","84027","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Duchesne CCD"," ","99999","Fruitland, UT","Duchesne School District",452,1 
+"49","49013","90559","99999","84031","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Duchesne CCD"," ","99999","Hanna, UT","Duchesne School District",255,1 
+"49","49013","90559","99999","84072","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Duchesne CCD"," ","99999","Tabiona, UT","Duchesne School District",201,1 
+"49","49013","92279","99999","84002","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","North Duchesne CCD"," ","99999","Altonah, UT","Duchesne School District",2,1 
+"49","49013","92279","99999","84031","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","North Duchesne CCD"," ","99999","Hanna, UT","Duchesne School District",4,1 
+"49","49013","92881","00760","84001","99999","00240","10,000-24,999","200-999","UT","Duchesne UT","Roosevelt CCD","Altamont town, UT","99999","Altamont, UT","Duchesne School District",225,1 
+"49","49013","92881","06590","84007","99999","00240","10,000-24,999","200-999","UT","Duchesne UT","Roosevelt CCD","Bluebell CDP, UT","99999","Bluebell, UT","Duchesne School District",293,1 
+"49","49013","92881","53340","84052","99999","00240","10,000-24,999","200-999","UT","Duchesne UT","Roosevelt CCD","Myton city, UT","99999","Myton, UT","Duchesne School District",569,1 
+"49","49013","92881","54110","84053","99999","00240","10,000-24,999","200-999","UT","Duchesne UT","Roosevelt CCD","Neola CDP, UT","99999","Neola, UT","Duchesne School District",461,1 
+"49","49013","92881","64670","84066","99999","00240","10,000-24,999","2500-9999","UT","Duchesne UT","Roosevelt CCD","Roosevelt city, UT","99999","Roosevelt, UT","Duchesne School District",6046,1 
+"49","49013","92881","99999","84001","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Altamont, UT","Duchesne School District",500,1 
+"49","49013","92881","99999","84002","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Altonah, UT","Duchesne School District",300,1 
+"49","49013","92881","99999","84007","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Bluebell, UT","Duchesne School District",447,1 
+"49","49013","92881","99999","84021","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Duchesne, UT","Duchesne School District",563,1 
+"49","49013","92881","99999","84051","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Mountain Home, UT","Duchesne School District",402,1 
+"49","49013","92881","99999","84052","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Myton, UT","Duchesne School District",653,1 
+"49","49013","92881","99999","84053","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Neola, UT","Duchesne School District",590,1 
+"49","49013","92881","99999","84066","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Roosevelt, UT","Duchesne School District",3520,1 
+"49","49013","92881","99999","84073","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","Roosevelt CCD"," ","99999","Talmage, UT","Duchesne School District",191,1 
+"49","49013","93225","99999","84526","99999","00240","10,000-24,999","Not in a place","UT","Duchesne UT","South Duchesne CCD"," ","99999","Helper, UT","Duchesne School District",2,1 
+"49","49015","90301","10660","84513","99999","00270","10,000-24,999","1000-2499","UT","Emery UT","Castle Dale-Huntington CCD","Castle Dale city, UT","99999","Castle Dale, UT","Emery School District",1630,1 
+"49","49015","90301","14070","84518","99999","00270","10,000-24,999","200-999","UT","Emery UT","Castle Dale-Huntington CCD","Cleveland town, UT","99999","Cleveland, UT","Emery School District",383,1 
+"49","49015","90301","14070","84521","99999","00270","10,000-24,999","200-999","UT","Emery UT","Castle Dale-Huntington CCD","Cleveland town, UT","99999","Elmo, UT","Emery School District",81,1 
+"49","49015","90301","22540","84521","99999","00270","10,000-24,999","200-999","UT","Emery UT","Castle Dale-Huntington CCD","Elmo town, UT","99999","Elmo, UT","Emery School District",418,1 
+"49","49015","90301","36950","84528","99999","00270","10,000-24,999","1000-2499","UT","Emery UT","Castle Dale-Huntington CCD","Huntington city, UT","99999","Huntington, UT","Emery School District",2129,1 
+"49","49015","90301","56860","84537","99999","00270","10,000-24,999","1000-2499","UT","Emery UT","Castle Dale-Huntington CCD","Orangeville city, UT","99999","Orangeville, UT","Emery School District",1470,1 
+"49","49015","90301","99999","84513","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Castle Dale-Huntington CCD"," ","99999","Castle Dale, UT","Emery School District",80,1 
+"49","49015","90301","99999","84516","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Castle Dale-Huntington CCD"," ","99999","Clawson, UT","Emery School District",15,1 
+"49","49015","90301","99999","84518","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Castle Dale-Huntington CCD"," ","99999","Cleveland, UT","Emery School District",319,1 
+"49","49015","90301","99999","84521","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Castle Dale-Huntington CCD"," ","99999","Elmo, UT","Emery School District",341,1 
+"49","49015","90301","99999","84528","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Castle Dale-Huntington CCD"," ","99999","Huntington, UT","Emery School District",613,1 
+"49","49015","90301","99999","84537","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Castle Dale-Huntington CCD"," ","99999","Orangeville, UT","Emery School District",35,1 
+"49","49015","90731","13300","84516","99999","00270","10,000-24,999","Less than 200","UT","Emery UT","Emery-Ferron CCD","Clawson town, UT","99999","Clawson, UT","Emery School District",163,1 
+"49","49015","90731","22870","84522","99999","00270","10,000-24,999","200-999","UT","Emery UT","Emery-Ferron CCD","Emery town, UT","99999","Emery, UT","Emery School District",288,1 
+"49","49015","90731","25180","84523","99999","00270","10,000-24,999","1000-2499","UT","Emery UT","Emery-Ferron CCD","Ferron city, UT","99999","Ferron, UT","Emery School District",1626,1 
+"49","49015","90731","99999","84516","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Emery-Ferron CCD"," ","99999","Clawson, UT","Emery School District",49,1 
+"49","49015","90731","99999","84522","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Emery-Ferron CCD"," ","99999","Emery, UT","Emery School District",33,1 
+"49","49015","90731","99999","84523","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Emery-Ferron CCD"," ","99999","Ferron, UT","Emery School District",171,1 
+"49","49015","91161","31670","84525","99999","00270","10,000-24,999","200-999","UT","Emery UT","Green River CCD","Green River city, UT","99999","Green River, UT","Emery School District",952,1 
+"49","49015","91161","99999","84525","99999","00270","10,000-24,999","Not in a place","UT","Emery UT","Green River CCD"," ","99999","Green River, UT","Emery School District",180,1 
+"49","49017","90702","99999","84533","99999","00300","2500-9999","Not in a place","UT","Garfield UT","East Garfield CCD"," ","99999","Lake Powell, UT","Garfield School District",89,1 
+"49","49017","90702","99999","84775","99999","00300","2500-9999","Not in a place","UT","Garfield UT","East Garfield CCD"," ","99999","Torrey, UT","Garfield School District",9,1 
+"49","49017","90903","07470","84716","99999","00300","2500-9999","200-999","UT","Garfield UT","Escalante CCD","Boulder town, UT","99999","Boulder, UT","Garfield School District",226,1 
+"49","49017","90903","23750","84726","99999","00300","2500-9999","200-999","UT","Garfield UT","Escalante CCD","Escalante city, UT","99999","Escalante, UT","Garfield School District",797,1 
+"49","49017","90903","99999","84716","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Escalante CCD"," ","99999","Boulder, UT","Garfield School District",71,1 
+"49","49017","90903","99999","84726","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Escalante CCD"," ","99999","Escalante, UT","Garfield School District",164,1 
+"49","49017","92537","33760","84735","99999","00300","2500-9999","Less than 200","UT","Garfield UT","Panguitch CCD","Hatch town, UT","99999","Hatch, UT","Garfield School District",133,1 
+"49","49017","92537","57740","84759","99999","00300","2500-9999","1000-2499","UT","Garfield UT","Panguitch CCD","Panguitch city, UT","99999","Panguitch, UT","Garfield School District",1520,1 
+"49","49017","92537","99999","84735","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Panguitch CCD"," ","99999","Hatch, UT","Garfield School District",125,1 
+"49","49017","92537","99999","84759","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Panguitch CCD"," ","99999","Panguitch, UT","Garfield School District",592,1 
+"49","49017","92537","99999","84762","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Panguitch CCD"," ","99999","Duck Creek Village, UT (PO Boxes)","Garfield School District",7,1 
+"49","49017","93483","01860","84712","99999","00300","2500-9999","Less than 200","UT","Garfield UT","Tropic CCD","Antimony town, UT","99999","Antimony, UT","Garfield School District",122,1 
+"49","49017","93483","08787","84764","99999","00300","2500-9999","Less than 200","UT","Garfield UT","Tropic CCD","Bryce Canyon City town, UT","99999","Bryce Canyon City, UT","Garfield School District",198,1 
+"49","49017","93483","10330","84718","99999","00300","2500-9999","Less than 200","UT","Garfield UT","Tropic CCD","Cannonville town, UT","99999","Cannonville, UT","Garfield School District",167,1 
+"49","49017","93483","34750","84736","99999","00300","2500-9999","200-999","UT","Garfield UT","Tropic CCD","Henrieville town, UT","99999","Henrieville, UT","Garfield School District",230,1 
+"49","49017","93483","77560","84776","99999","00300","2500-9999","200-999","UT","Garfield UT","Tropic CCD","Tropic town, UT","99999","Tropic, UT","Garfield School District",530,1 
+"49","49017","93483","99999","84712","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Tropic CCD"," ","99999","Antimony, UT","Garfield School District",25,1 
+"49","49017","93483","99999","84718","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Tropic CCD"," ","99999","Cannonville, UT","Garfield School District",10,1 
+"49","49017","93483","99999","84736","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Tropic CCD"," ","99999","Henrieville, UT","Garfield School District",16,1 
+"49","49017","93483","99999","84764","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Tropic CCD"," ","99999","Bryce Canyon City, UT","Garfield School District",133,1 
+"49","49017","93483","99999","84776","99999","00300","2500-9999","Not in a place","UT","Garfield UT","Tropic CCD"," ","99999","Tropic, UT","Garfield School District",8,1 
+"49","49019","91935","11000","84532","99999","00330","2500-9999","200-999","UT","Grand UT","Moab CCD","Castle Valley town, UT","99999","Moab, UT","Grand School District",319,1 
+"49","49019","91935","50700","84532","99999","00330","2500-9999","2500-9999","UT","Grand UT","Moab CCD","Moab city, UT","99999","Moab, UT","Grand School District",5046,1 
+"49","49019","91935","99999","84515","99999","00330","2500-9999","Not in a place","UT","Grand UT","Moab CCD"," ","99999","Cisco, UT (PO Boxes)","Grand School District",5,1 
+"49","49019","91935","99999","84532","99999","00330","2500-9999","Not in a place","UT","Grand UT","Moab CCD"," ","99999","Moab, UT","Grand School District",3728,1 
+"49","49019","93356","76180","84540","99999","00330","2500-9999","Less than 200","UT","Grand UT","Thompson Springs CCD","Thompson Springs CDP, UT","99999","Thompson Springs, UT","Grand School District",39,1 
+"49","49019","93356","99999","84515","99999","00330","2500-9999","Not in a place","UT","Grand UT","Thompson Springs CCD"," ","99999","Cisco, UT (PO Boxes)","Grand School District",10,1 
+"49","49019","93356","99999","84525","99999","00330","2500-9999","Not in a place","UT","Grand UT","Thompson Springs CCD"," ","99999","Green River, UT","Grand School District",51,1 
+"49","49019","93356","99999","84532","99999","00330","2500-9999","Not in a place","UT","Grand UT","Thompson Springs CCD"," ","99999","Moab, UT","Grand School District",22,1 
+"49","49019","93356","99999","84540","99999","00330","2500-9999","Not in a place","UT","Grand UT","Thompson Springs CCD"," ","99999","Thompson Springs, UT","Grand School District",5,1 
+"49","49021","90129","05380","84714","99999","00390","25,000-99,999","Less than 200","UT","Iron UT","Beryl-Newcastle CCD","Beryl Junction CDP, UT","99999","Beryl, UT","Iron School District",197,1 
+"49","49021","90129","54330","84756","99999","00390","25,000-99,999","200-999","UT","Iron UT","Beryl-Newcastle CCD","Newcastle CDP, UT","99999","Newcastle, UT","Iron School District",247,1 
+"49","49021","90129","99999","84714","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Beryl-Newcastle CCD"," ","99999","Beryl, UT","Iron School District",638,1 
+"49","49021","90129","99999","84720","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Beryl-Newcastle CCD"," ","99999","Cedar City, UT","Iron School District",92,1 
+"49","49021","90129","99999","84721","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Beryl-Newcastle CCD"," ","99999","Cedar City, UT","Iron School District",3,1 
+"49","49021","90129","99999","84753","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Beryl-Newcastle CCD"," ","99999","Modena, UT","Iron School District",25,1 
+"49","49021","90129","99999","84756","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Beryl-Newcastle CCD"," ","99999","Newcastle, UT","Iron School District",111,1 
+"49","49021","90344","11320","84720","99999","00390","25,000-99,999","25,000-99,999","UT","Iron UT","Cedar City CCD","Cedar City city, UT","99999","Cedar City, UT","Iron School District",17290,1 
+"49","49021","90344","11320","84721","99999","00390","25,000-99,999","25,000-99,999","UT","Iron UT","Cedar City CCD","Cedar City city, UT","99999","Cedar City, UT","Iron School District",11567,1 
+"49","49021","90344","23200","84721","99999","00390","25,000-99,999","2500-9999","UT","Iron UT","Cedar City CCD","Enoch city, UT","99999","Cedar City, UT","Iron School District",5803,1 
+"49","49021","90344","40030","84720","99999","00390","25,000-99,999","200-999","UT","Iron UT","Cedar City CCD","Kanarraville town, UT","99999","Cedar City, UT","Iron School District",169,1 
+"49","49021","90344","40030","84742","99999","00390","25,000-99,999","200-999","UT","Iron UT","Cedar City CCD","Kanarraville town, UT","99999","Kanarraville, UT","Iron School District",186,1 
+"49","49021","90344","99999","84720","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Cedar City CCD"," ","99999","Cedar City, UT","Iron School District",2154,1 
+"49","49021","90344","99999","84721","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Cedar City CCD"," ","99999","Cedar City, UT","Iron School District",3588,1 
+"49","49021","90344","99999","84742","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Cedar City CCD"," ","99999","Kanarraville, UT","Iron School District",74,1 
+"49","49021","90344","99999","84757","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Cedar City CCD"," ","99999","New Harmony, UT","Iron School District",68,1 
+"49","49021","92623","08020","84719","99999","00390","25,000-99,999","Less than 200","UT","Iron UT","Parowan CCD","Brian Head town, UT","99999","Brian Head, UT","Iron School District",83,1 
+"49","49021","92623","57960","84760","99999","00390","25,000-99,999","200-999","UT","Iron UT","Parowan CCD","Paragonah town, UT","99999","Paragonah, UT","Iron School District",488,1 
+"49","49021","92623","58510","84719","99999","00390","25,000-99,999","2500-9999","UT","Iron UT","Parowan CCD","Parowan city, UT","99999","Brian Head, UT","Iron School District",1,1 
+"49","49021","92623","58510","84761","99999","00390","25,000-99,999","2500-9999","UT","Iron UT","Parowan CCD","Parowan city, UT","99999","Parowan, UT","Iron School District",2789,1 
+"49","49021","92623","74040","84772","99999","00390","25,000-99,999","Less than 200","UT","Iron UT","Parowan CCD","Summit CDP, UT","99999","Summit, UT","Iron School District",160,1 
+"49","49021","92623","99999","84719","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Parowan CCD"," ","99999","Brian Head, UT","Iron School District",6,1 
+"49","49021","92623","99999","84760","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Parowan CCD"," ","99999","Paragonah, UT","Iron School District",71,1 
+"49","49021","92623","99999","84761","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Parowan CCD"," ","99999","Parowan, UT","Iron School District",342,1 
+"49","49021","92623","99999","84772","99999","00390","25,000-99,999","Not in a place","UT","Iron UT","Parowan CCD"," ","99999","Summit, UT","Iron School District",11,1 
+"49","49023","90946","24080","84628","99999","01020","10,000-24,999","200-999","UT","Juab UT","Eureka CCD","Eureka city, UT","99999","Eureka, UT","Tintic School District",669,1 
+"49","49023","90946","99999","84628","99999","01020","10,000-24,999","Not in a place","UT","Juab UT","Eureka CCD"," ","99999","Eureka, UT","Tintic School District",23,1 
+"49","49023","90946","99999","84648","99999","00450","10,000-24,999","Not in a place","UT","Juab UT","Eureka CCD"," ","99999","Nephi, UT","Juab School District",1,1 
+"49","49023","92193","44650","84639","99999","00450","10,000-24,999","200-999","UT","Juab UT","Nephi CCD","Levan town, UT","99999","Levan, UT","Juab School District",841,1 
+"49","49023","92193","51140","84645","99999","00450","10,000-24,999","1000-2499","UT","Juab UT","Nephi CCD","Mona city, UT","99999","Mona, UT","Juab School District",1541,1 
+"49","49023","92193","51140","84648","99999","00450","10,000-24,999","1000-2499","UT","Juab UT","Nephi CCD","Mona city, UT","99999","Nephi, UT","Juab School District",6,1 
+"49","49023","92193","54220","84648","99999","00450","10,000-24,999","2500-9999","UT","Juab UT","Nephi CCD","Nephi city, UT","99999","Nephi, UT","Juab School District",5389,1 
+"49","49023","92193","64590","84645","99999","00450","10,000-24,999","200-999","UT","Juab UT","Nephi CCD","Rocky Ridge town, UT","99999","Mona, UT","Juab School District",733,1 
+"49","49023","92193","99999","84639","99999","00450","10,000-24,999","Not in a place","UT","Juab UT","Nephi CCD"," ","99999","Levan, UT","Juab School District",122,1 
+"49","49023","92193","99999","84645","99999","00450","10,000-24,999","Not in a place","UT","Juab UT","Nephi CCD"," ","99999","Mona, UT","Juab School District",346,1 
+"49","49023","92193","99999","84648","99999","00450","10,000-24,999","Not in a place","UT","Juab UT","Nephi CCD"," ","99999","Nephi, UT","Juab School District",380,1 
+"49","49023","92193","99999","84656","99999","00450","10,000-24,999","Not in a place","UT","Juab UT","Nephi CCD"," ","99999","Scipio, UT","Juab School District",8,1 
+"49","49023","93913","99999","84022","99999","01020","10,000-24,999","Not in a place","UT","Juab UT","West Juab CCD"," ","99999","Dugway, UT","Tintic School District",2,1 
+"49","49023","93913","99999","84034","99999","01020","10,000-24,999","Not in a place","UT","Juab UT","West Juab CCD"," ","99999","Ibapah, UT","Tintic School District",84,1 
+"49","49023","93913","99999","84083","99999","01020","10,000-24,999","Not in a place","UT","Juab UT","West Juab CCD"," ","99999","Wendover, UT","Tintic School District",98,1 
+"49","49023","93913","99999","99999","99999","01020","10,000-24,999","Not in a place","UT","Juab UT","West Juab CCD"," ","99999","99999","Tintic School District",3,1 
+"49","49025","91591","05534","84741","99999","00480","2500-9999","200-999","UT","Kane UT","Kanab CCD","Big Water town, UT","99999","Kanab, UT","Kane School District",475,1 
+"49","49025","91591","39920","84741","99999","00480","2500-9999","2500-9999","UT","Kane UT","Kanab CCD","Kanab city, UT","99999","Kanab, UT","Kane School District",4312,1 
+"49","49025","91591","99999","84533","99999","00480","2500-9999","Not in a place","UT","Kane UT","Kanab CCD"," ","99999","Lake Powell, UT","Kane School District",144,1 
+"49","49025","91591","99999","84718","99999","00480","2500-9999","Not in a place","UT","Kane UT","Kanab CCD"," ","99999","Cannonville, UT","Kane School District",12,1 
+"49","49025","91591","99999","84741","99999","00480","2500-9999","Not in a place","UT","Kane UT","Kanab CCD"," ","99999","Kanab, UT","Kane School District",754,1 
+"49","49025","92494","00870","84710","99999","00480","2500-9999","Less than 200","UT","Kane UT","Orderville CCD","Alton town, UT","99999","Alton, UT","Kane School District",119,1 
+"49","49025","92494","29360","84729","99999","00480","2500-9999","200-999","UT","Kane UT","Orderville CCD","Glendale town, UT","99999","Glendale, UT","Kane School District",381,1 
+"49","49025","92494","57080","84755","99999","00480","2500-9999","200-999","UT","Kane UT","Orderville CCD","Orderville town, UT","99999","Orderville, UT","Kane School District",74,1 
+"49","49025","92494","57080","84758","99999","00480","2500-9999","200-999","UT","Kane UT","Orderville CCD","Orderville town, UT","99999","Orderville, UT","Kane School District",503,1 
+"49","49025","92494","99999","84710","99999","00480","2500-9999","Not in a place","UT","Kane UT","Orderville CCD"," ","99999","Alton, UT","Kane School District",12,1 
+"49","49025","92494","99999","84729","99999","00480","2500-9999","Not in a place","UT","Kane UT","Orderville CCD"," ","99999","Glendale, UT","Kane School District",15,1 
+"49","49025","92494","99999","84741","99999","00480","2500-9999","Not in a place","UT","Kane UT","Orderville CCD"," ","99999","Kanab, UT","Kane School District",15,1 
+"49","49025","92494","99999","84755","99999","00480","2500-9999","Not in a place","UT","Kane UT","Orderville CCD"," ","99999","Orderville, UT","Kane School District",38,1 
+"49","49025","92494","99999","84758","99999","00480","2500-9999","Not in a place","UT","Kane UT","Orderville CCD"," ","99999","Orderville, UT","Kane School District",30,1 
+"49","49025","92494","99999","84762","99999","00480","2500-9999","Not in a place","UT","Kane UT","Orderville CCD"," ","99999","Duck Creek Village, UT (PO Boxes)","Kane School District",241,1 
+"49","49027","90516","18910","84624","99999","00540","10,000-24,999","2500-9999","UT","Millard UT","Delta CCD","Delta city, UT","99999","Delta, UT","Millard School District",3436,1 
+"49","49027","90516","19020","84624","99999","00540","10,000-24,999","200-999","UT","Millard UT","Delta CCD","Deseret CDP, UT","99999","Delta, UT","Millard School District",353,1 
+"49","49027","90516","35740","84635","99999","00540","10,000-24,999","200-999","UT","Millard UT","Delta CCD","Hinckley town, UT","99999","Hinckley, UT","Millard School District",696,1 
+"49","49027","90516","43880","84638","99999","00540","10,000-24,999","200-999","UT","Millard UT","Delta CCD","Leamington town, UT","99999","Leamington, UT","Millard School District",226,1 
+"49","49027","90516","46740","84640","99999","00540","10,000-24,999","Less than 200","UT","Millard UT","Delta CCD","Lynndyl town, UT","99999","Lynndyl, UT","Millard School District",106,1 
+"49","49027","90516","55430","84649","99999","00540","10,000-24,999","200-999","UT","Millard UT","Delta CCD","Oak City town, UT","99999","Oak City, UT","Millard School District",578,1 
+"49","49027","90516","55760","84624","99999","00540","10,000-24,999","Less than 200","UT","Millard UT","Delta CCD","Oasis CDP, UT","99999","Delta, UT","Millard School District",75,1 
+"49","49027","90516","74590","84624","99999","00540","10,000-24,999","Less than 200","UT","Millard UT","Delta CCD","Sutherland CDP, UT","99999","Delta, UT","Millard School District",165,1 
+"49","49027","90516","99999","84624","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Delta CCD"," ","99999","Delta, UT","Millard School District",1637,1 
+"49","49027","90516","99999","84635","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Delta CCD"," ","99999","Hinckley, UT","Millard School District",167,1 
+"49","49027","90516","99999","84638","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Delta CCD"," ","99999","Leamington, UT","Millard School District",68,1 
+"49","49027","90516","99999","84640","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Delta CCD"," ","99999","Lynndyl, UT","Millard School District",15,1 
+"49","49027","90516","99999","84649","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Delta CCD"," ","99999","Oak City, UT","Millard School District",182,1 
+"49","49027","90989","25510","84631","99999","00540","10,000-24,999","1000-2499","UT","Millard UT","Fillmore CCD","Fillmore city, UT","99999","Fillmore, UT","Millard School District",2435,1 
+"49","49027","90989","35960","84636","99999","00540","10,000-24,999","200-999","UT","Millard UT","Fillmore CCD","Holden town, UT","99999","Holden, UT","Millard School District",378,1 
+"49","49027","90989","40250","84637","99999","00540","10,000-24,999","200-999","UT","Millard UT","Fillmore CCD","Kanosh town, UT","99999","Kanosh, UT","Millard School District",474,1 
+"49","49027","90989","48830","84631","99999","00540","10,000-24,999","200-999","UT","Millard UT","Fillmore CCD","Meadow town, UT","99999","Fillmore, UT","Millard School District",172,1 
+"49","49027","90989","48830","84637","99999","00540","10,000-24,999","200-999","UT","Millard UT","Fillmore CCD","Meadow town, UT","99999","Kanosh, UT","Millard School District",138,1 
+"49","49027","90989","67880","84656","99999","00540","10,000-24,999","200-999","UT","Millard UT","Fillmore CCD","Scipio town, UT","99999","Scipio, UT","Millard School District",327,1 
+"49","49027","90989","99999","84631","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Fillmore CCD"," ","99999","Fillmore, UT","Millard School District",460,1 
+"49","49027","90989","99999","84636","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Fillmore CCD"," ","99999","Holden, UT","Millard School District",96,1 
+"49","49027","90989","99999","84637","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Fillmore CCD"," ","99999","Kanosh, UT","Millard School District",117,1 
+"49","49027","90989","99999","84656","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Fillmore CCD"," ","99999","Scipio, UT","Millard School District",10,1 
+"49","49027","90989","99999","84713","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Fillmore CCD"," ","99999","Beaver, UT","Millard School District",28,1 
+"49","49027","90989","99999","84751","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Fillmore CCD"," ","99999","Milford, UT","Millard School District",4,1 
+"49","49027","91075","99999","84624","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Garrison-Sevier Lake CCD"," ","99999","Delta, UT","Millard School District",2,1 
+"49","49027","91075","99999","84728","99999","00540","10,000-24,999","Not in a place","UT","Millard UT","Garrison-Sevier Lake CCD"," ","99999","Garrison, UT","Millard School District",158,1 
+"49","49029","92064","23310","84050","99999","00570","2500-9999","200-999","UT","Morgan UT","Morgan North CCD","Enterprise CDP, UT","99999","Morgan, UT","Morgan School District",605,1 
+"49","49029","92064","51910","84050","99999","00570","2500-9999","2500-9999","UT","Morgan UT","Morgan North CCD","Morgan city, UT","99999","Morgan, UT","Morgan School District",3687,1 
+"49","49029","92064","52460","84050","99999","00570","2500-9999","1000-2499","UT","Morgan UT","Morgan North CCD","Mountain Green CDP, UT","99999","Morgan, UT","Morgan School District",2309,1 
+"49","49029","92064","99999","84018","99999","00570","2500-9999","Not in a place","UT","Morgan UT","Morgan North CCD"," ","99999","Croydon, UT","Morgan School District",179,1 
+"49","49029","92064","99999","84050","99999","00570","2500-9999","Not in a place","UT","Morgan UT","Morgan North CCD"," ","99999","Morgan, UT","Morgan School District",1262,1 
+"49","49029","92107","99999","84050","99999","00570","2500-9999","Not in a place","UT","Morgan UT","Morgan South CCD"," ","99999","Morgan, UT","Morgan School District",1427,1 
+"49","49031","90387","12970","84723","99999","00780","1000-2499","200-999","UT","Piute UT","Circleville CCD","Circleville town, UT","99999","Circleville, UT","Piute School District",547,1 
+"49","49031","90387","39590","84740","99999","00780","1000-2499","Less than 200","UT","Piute UT","Circleville CCD","Junction town, UT","99999","Junction, UT","Piute School District",191,1 
+"49","49031","90387","41350","84723","99999","00780","1000-2499","Less than 200","UT","Piute UT","Circleville CCD","Kingston town, UT","99999","Circleville, UT","Piute School District",139,1 
+"49","49031","90387","41350","84743","99999","00780","1000-2499","Less than 200","UT","Piute UT","Circleville CCD","Kingston town, UT","99999","Kingston, UT","Piute School District",34,1 
+"49","49031","90387","99999","84712","99999","00780","1000-2499","Not in a place","UT","Piute UT","Circleville CCD"," ","99999","Antimony, UT","Piute School District",54,1 
+"49","49031","90387","99999","84723","99999","00780","1000-2499","Not in a place","UT","Piute UT","Circleville CCD"," ","99999","Circleville, UT","Piute School District",1,1 
+"49","49031","90387","99999","84732","99999","00780","1000-2499","Not in a place","UT","Piute UT","Circleville CCD"," ","99999","Greenwich, UT","Piute School District",77,1 
+"49","49031","90387","99999","84744","99999","00780","1000-2499","Not in a place","UT","Piute UT","Circleville CCD"," ","99999","Koosharem, UT","Piute School District",44,1 
+"49","49031","91849","48610","84750","99999","00780","1000-2499","200-999","UT","Piute UT","Marysvale CCD","Marysvale town, UT","99999","Marysvale, UT","Piute School District",408,1 
+"49","49031","91849","99999","84750","99999","00780","1000-2499","Not in a place","UT","Piute UT","Marysvale CCD"," ","99999","Marysvale, UT","Piute School District",61,1 
+"49","49033","91032","27902","84028","99999","00840","1000-2499","Less than 200","UT","Rich UT","Garden City-Laketown CCD","Garden CDP, UT","99999","Garden City, UT","Rich School District",174,1 
+"49","49033","91032","27902","84038","99999","00840","1000-2499","Less than 200","UT","Rich UT","Garden City-Laketown CCD","Garden CDP, UT","99999","Laketown, UT","Rich School District",7,1 
+"49","49033","91032","27930","84028","99999","00840","1000-2499","200-999","UT","Rich UT","Garden City-Laketown CCD","Garden City town, UT","99999","Garden City, UT","Rich School District",562,1 
+"49","49033","91032","42560","84038","99999","00840","1000-2499","200-999","UT","Rich UT","Garden City-Laketown CCD","Laketown town, UT","99999","Laketown, UT","Rich School District",248,1 
+"49","49033","91032","99999","84028","99999","00840","1000-2499","Not in a place","UT","Rich UT","Garden City-Laketown CCD"," ","99999","Garden City, UT","Rich School District",88,1 
+"49","49033","91032","99999","84038","99999","00840","1000-2499","Not in a place","UT","Rich UT","Garden City-Laketown CCD"," ","99999","Laketown, UT","Rich School District",92,1 
+"49","49033","91032","99999","84064","99999","00840","1000-2499","Not in a place","UT","Rich UT","Garden City-Laketown CCD"," ","99999","Randolph, UT","Rich School District",55,1 
+"49","49033","92752","63020","84064","99999","00840","1000-2499","200-999","UT","Rich UT","Randolph-Woodruff CCD","Randolph town, UT","99999","Randolph, UT","Rich School District",464,1 
+"49","49033","92752","85260","84086","99999","00840","1000-2499","Less than 200","UT","Rich UT","Randolph-Woodruff CCD","Woodruff town, UT","99999","Woodruff, UT","Rich School District",180,1 
+"49","49033","92752","99999","84064","99999","00840","1000-2499","Not in a place","UT","Rich UT","Randolph-Woodruff CCD"," ","99999","Randolph, UT","Rich School District",173,1 
+"49","49033","92752","99999","84086","99999","00840","1000-2499","Not in a place","UT","Rich UT","Randolph-Woodruff CCD"," ","99999","Woodruff, UT","Rich School District",221,1 
+"49","49035","90172","06810","84065","99999","00420","1,000,000+","2500-9999","UT","Salt Lake UT","Bingham CCD","Bluffdale city, UT","99999","Riverton, UT","Jordan School District",13,1 
+"49","49035","90172","15720","84006","99999","00420","1,000,000+","200-999","UT","Salt Lake UT","Bingham CCD","Copperton CDP, UT","99999","Copperton, UT","Jordan School District",826,1 
+"49","49035","90172","34970","84065","99999","00420","1,000,000+","10,000-24,999","UT","Salt Lake UT","Bingham CCD","Herriman city, UT","99999","Riverton, UT","Jordan School District",6,1 
+"49","49035","90172","34970","84096","99999","00420","1,000,000+","10,000-24,999","UT","Salt Lake UT","Bingham CCD","Herriman city, UT","99999","Herriman, UT","Jordan School District",21779,1 
+"49","49035","90172","64340","84096","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Bingham CCD","Riverton city, UT","99999","Herriman, UT","Jordan School District",10037,1 
+"49","49035","90172","70850","84095","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Bingham CCD","South Jordan city, UT","99999","South Jordan, UT","Jordan School District",2616,1 
+"49","49035","90172","82950","84081","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Bingham CCD","West Jordan city, UT","99999","West Jordan, UT","Jordan School District",7949,1 
+"49","49035","90172","82950","84088","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Bingham CCD","West Jordan city, UT","99999","West Jordan, UT","Jordan School District",10989,1 
+"49","49035","90172","82950","84095","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Bingham CCD","West Jordan city, UT","99999","South Jordan, UT","Jordan School District",50,1 
+"49","49035","90172","99999","84096","99999","00420","1,000,000+","Not in a place","UT","Salt Lake UT","Bingham CCD"," ","99999","Herriman, UT","Jordan School District",1023,1 
+"49","49035","90473","00650","84092","99999","00142","1,000,000+","200-999","UT","Salt Lake UT","Cottonwood CCD","Alta town, UT","99999","Sandy, UT","Canyons School District",383,1 
+"49","49035","90473","16270","84093","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Cottonwood CCD","Cottonwood Heights city, UT","99999","Sandy, UT","Canyons School District",36,1 
+"49","49035","90473","16270","84121","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Cottonwood CCD","Cottonwood Heights city, UT","99999","Cottonwood Heights, UT","Canyons School District",1994,1 
+"49","49035","90473","30900","84092","99999","00142","1,000,000+","1000-2499","UT","Salt Lake UT","Cottonwood CCD","Granite CDP, UT","99999","Sandy, UT","Canyons School District",962,1 
+"49","49035","90473","30900","84121","99999","00142","1,000,000+","1000-2499","UT","Salt Lake UT","Cottonwood CCD","Granite CDP, UT","99999","Cottonwood Heights, UT","Canyons School District",3,1 
+"49","49035","90473","36070","84121","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Cottonwood CCD","Holladay city, UT","99999","Cottonwood Heights, UT","Granite School District",443,1 
+"49","49035","90473","67440","84092","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Cottonwood CCD","Sandy city, UT","99999","Sandy, UT","Canyons School District",259,1 
+"49","49035","90473","99999","84092","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Cottonwood CCD"," ","99999","Sandy, UT","Canyons School District",79,1 
+"49","49035","90473","99999","84121","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Cottonwood CCD"," ","99999","Cottonwood Heights, UT","Canyons School District",268,1 
+"49","49035","90774","22875","84108","99999","00360","1,000,000+","1000-2499","UT","Salt Lake UT","Emigration CCD","Emigration Canyon CDP, UT","99999","Salt Lake City, UT","Granite School District",1567,1 
+"49","49035","90774","36070","84121","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Emigration CCD","Holladay city, UT","99999","Cottonwood Heights, UT","Granite School District",302,1 
+"49","49035","90774","50150","84109","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Emigration CCD","Millcreek CDP, UT","99999","Millcreek, UT","Granite School District",2274,1 
+"49","49035","90774","50150","84124","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Emigration CCD","Millcreek CDP, UT","99999","Millcreek, UT","Granite School District",4709,1 
+"49","49035","90774","99999","84108","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Emigration CCD"," ","99999","Salt Lake City, UT","Granite School District",19,1 
+"49","49035","90774","99999","84109","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Emigration CCD"," ","99999","Millcreek, UT","Canyons School District",9,1 
+"49","49035","90774","99999","84109","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Emigration CCD"," ","99999","Millcreek, UT","Granite School District",20,1 
+"49","49035","90774","99999","84121","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Emigration CCD"," ","99999","Cottonwood Heights, UT","Granite School District",4,1 
+"49","49035","90774","99999","84124","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Emigration CCD"," ","99999","Millcreek, UT","Granite School District",4,1 
+"49","49035","91806","47290","84044","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Magna CCD","Magna CDP, UT","99999","Magna, UT","Granite School District",26505,1 
+"49","49035","91806","82950","84081","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Magna CCD","West Jordan city, UT","99999","West Jordan, UT","Jordan School District",2037,1 
+"49","49035","91806","83470","84044","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Magna CCD","West Valley City city, UT","99999","Magna, UT","Granite School District",8,1 
+"49","49035","91806","83470","84081","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Magna CCD","West Valley City city, UT","99999","West Jordan, UT","Granite School District",137,1 
+"49","49035","91806","83470","84118","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Magna CCD","West Valley City city, UT","99999","Kearns, UT","Granite School District",10,1 
+"49","49035","91806","99999","84044","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Magna CCD"," ","99999","Magna, UT","Granite School District",10,1 
+"49","49035","91806","99999","84116","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Magna CCD"," ","99999","Salt Lake City, UT","Granite School District",5,1 
+"49","49035","93010","06810","84065","99999","00420","1,000,000+","2500-9999","UT","Salt Lake UT","Salt Lake City CCD","Bluffdale city, UT","99999","Riverton, UT","Jordan School District",7585,1 
+"49","49035","93010","16270","84047","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Cottonwood Heights city, UT","99999","Midvale, UT","Canyons School District",1083,1 
+"49","49035","93010","16270","84093","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Cottonwood Heights city, UT","99999","Sandy, UT","Canyons School District",3301,1 
+"49","49035","93010","16270","84121","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Cottonwood Heights city, UT","99999","Cottonwood Heights, UT","Canyons School District",27019,1 
+"49","49035","93010","20120","84020","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Draper city, UT","99999","Draper, UT","Canyons School District",38029,1 
+"49","49035","93010","20120","84065","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Draper city, UT","99999","Riverton, UT","Canyons School District",2503,1 
+"49","49035","93010","30900","84092","99999","00142","1,000,000+","1000-2499","UT","Salt Lake UT","Salt Lake City CCD","Granite CDP, UT","99999","Sandy, UT","Canyons School District",967,1 
+"49","49035","93010","36070","84117","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Holladay city, UT","99999","Holladay, UT","Granite School District",15547,1 
+"49","49035","93010","36070","84121","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Holladay city, UT","99999","Cottonwood Heights, UT","Granite School District",3394,1 
+"49","49035","93010","36070","84124","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Holladay city, UT","99999","Millcreek, UT","Granite School District",6786,1 
+"49","49035","93010","40470","84118","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Kearns CDP, UT","99999","Kearns, UT","Granite School District",35702,1 
+"49","49035","93010","40470","84120","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Kearns CDP, UT","99999","West Valley City, UT","Granite School District",29,1 
+"49","49035","93010","49710","84047","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Midvale city, UT","99999","Midvale, UT","Canyons School District",26586,1 
+"49","49035","93010","49710","84070","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Midvale city, UT","99999","Sandy, UT","Canyons School District",1377,1 
+"49","49035","93010","49710","84107","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Midvale city, UT","99999","Murray, UT","Canyons School District",1,1 
+"49","49035","93010","50150","84106","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Millcreek CDP, UT","99999","Salt Lake City, UT","Granite School District",14666,1 
+"49","49035","93010","50150","84107","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Millcreek CDP, UT","99999","Murray, UT","Granite School District",8670,1 
+"49","49035","93010","50150","84109","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Millcreek CDP, UT","99999","Millcreek, UT","Granite School District",16028,1 
+"49","49035","93010","50150","84117","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Millcreek CDP, UT","99999","Holladay, UT","Granite School District",4420,1 
+"49","49035","93010","50150","84123","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Millcreek CDP, UT","99999","Taylorsville, UT","Granite School District",1576,1 
+"49","49035","93010","50150","84124","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Millcreek CDP, UT","99999","Millcreek, UT","Granite School District",9796,1 
+"49","49035","93010","53230","84047","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Midvale, UT","Canyons School District",11,1 
+"49","49035","93010","53230","84047","99999","00600","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Midvale, UT","Murray School District",159,1 
+"49","49035","93010","53230","84084","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","West Jordan, UT","Jordan School District",4,1 
+"49","49035","93010","53230","84107","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Murray, UT","Canyons School District",36,1 
+"49","49035","93010","53230","84107","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Murray, UT","Granite School District",941,1 
+"49","49035","93010","53230","84107","99999","00600","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Murray, UT","Murray School District",21212,1 
+"49","49035","93010","53230","84117","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Holladay, UT","Granite School District",3084,1 
+"49","49035","93010","53230","84117","99999","00600","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Holladay, UT","Murray School District",13,1 
+"49","49035","93010","53230","84121","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Cottonwood Heights, UT","Granite School District",7587,1 
+"49","49035","93010","53230","84121","99999","00600","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Cottonwood Heights, UT","Murray School District",688,1 
+"49","49035","93010","53230","84123","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Taylorsville, UT","Granite School District",14,1 
+"49","49035","93010","53230","84123","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Taylorsville, UT","Jordan School District",65,1 
+"49","49035","93010","53230","84123","99999","00600","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Murray city, UT","99999","Taylorsville, UT","Murray School District",12932,1 
+"49","49035","93010","64340","84065","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Riverton city, UT","99999","Riverton, UT","Jordan School District",28061,1 
+"49","49035","93010","64340","84095","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Riverton city, UT","99999","South Jordan, UT","Jordan School District",98,1 
+"49","49035","93010","64340","84096","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Riverton city, UT","99999","Herriman, UT","Jordan School District",557,1 
+"49","49035","93010","67000","84044","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Magna, UT","Salt Lake City School District",1,1 
+"49","49035","93010","67000","84101","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",5277,1 
+"49","49035","93010","67000","84102","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",17421,1 
+"49","49035","93010","67000","84103","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",21084,1 
+"49","49035","93010","67000","84104","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",24869,1 
+"49","49035","93010","67000","84105","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",22140,1 
+"49","49035","93010","67000","84106","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",15646,1 
+"49","49035","93010","67000","84108","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",19152,1 
+"49","49035","93010","67000","84109","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Millcreek, UT","Salt Lake City School District",5527,1 
+"49","49035","93010","67000","84111","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",10744,1 
+"49","49035","93010","67000","84112","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",1942,1 
+"49","49035","93010","67000","84113","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",245,1 
+"49","49035","93010","67000","84115","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","South Salt Lake, UT","Salt Lake City School District",9058,1 
+"49","49035","93010","67000","84116","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","Salt Lake City, UT","Salt Lake City School District",33224,1 
+"49","49035","93010","67000","84119","99999","00870","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","Salt Lake City city, UT","99999","West Valley City, UT","Salt Lake City School District",110,1 
+"49","49035","93010","67440","84047","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Sandy city, UT","99999","Midvale, UT","Canyons School District",1059,1 
+"49","49035","93010","67440","84070","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Sandy city, UT","99999","Sandy, UT","Canyons School District",23060,1 
+"49","49035","93010","67440","84092","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Sandy city, UT","99999","Sandy, UT","Canyons School District",25781,1 
+"49","49035","93010","67440","84093","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Sandy city, UT","99999","Sandy, UT","Canyons School District",15803,1 
+"49","49035","93010","67440","84094","99999","00142","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Sandy city, UT","99999","Sandy, UT","Canyons School District",21499,1 
+"49","49035","93010","70850","84095","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","South Jordan city, UT","99999","South Jordan, UT","Jordan School District",47802,1 
+"49","49035","93010","71070","84106","99999","00360","1,000,000+","10,000-24,999","UT","Salt Lake UT","Salt Lake City CCD","South Salt Lake city, UT","99999","Salt Lake City, UT","Granite School District",3053,1 
+"49","49035","93010","71070","84107","99999","00360","1,000,000+","10,000-24,999","UT","Salt Lake UT","Salt Lake City CCD","South Salt Lake city, UT","99999","Murray, UT","Granite School District",3,1 
+"49","49035","93010","71070","84115","99999","00360","1,000,000+","10,000-24,999","UT","Salt Lake UT","Salt Lake City CCD","South Salt Lake city, UT","99999","South Salt Lake, UT","Granite School District",15610,1 
+"49","49035","93010","71070","84119","99999","00360","1,000,000+","10,000-24,999","UT","Salt Lake UT","Salt Lake City CCD","South Salt Lake city, UT","99999","West Valley City, UT","Granite School District",4951,1 
+"49","49035","93010","75360","84084","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Taylorsville city, UT","99999","West Jordan, UT","Granite School District",7393,1 
+"49","49035","93010","75360","84118","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Taylorsville city, UT","99999","Kearns, UT","Granite School District",27333,1 
+"49","49035","93010","75360","84119","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Taylorsville city, UT","99999","West Valley City, UT","Granite School District",3703,1 
+"49","49035","93010","75360","84123","99999","00360","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Taylorsville city, UT","99999","Taylorsville, UT","Granite School District",20210,1 
+"49","49035","93010","75360","84123","99999","00420","1,000,000+","25,000-99,999","UT","Salt Lake UT","Salt Lake City CCD","Taylorsville city, UT","99999","Taylorsville, UT","Jordan School District",13,1 
+"49","49035","93010","82950","84081","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","West Jordan, UT","Granite School District",4582,1 
+"49","49035","93010","82950","84081","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","West Jordan, UT","Jordan School District",23471,1 
+"49","49035","93010","82950","84084","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","West Jordan, UT","Granite School District",2293,1 
+"49","49035","93010","82950","84084","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","West Jordan, UT","Jordan School District",27557,1 
+"49","49035","93010","82950","84088","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","West Jordan, UT","Jordan School District",24614,1 
+"49","49035","93010","82950","84118","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","Kearns, UT","Granite School District",19,1 
+"49","49035","93010","82950","84123","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","Taylorsville, UT","Granite School District",3,1 
+"49","49035","93010","82950","84123","99999","00420","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Jordan city, UT","99999","Taylorsville, UT","Jordan School District",148,1 
+"49","49035","93010","83470","84118","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Valley City city, UT","99999","Kearns, UT","Granite School District",5174,1 
+"49","49035","93010","83470","84119","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Valley City city, UT","99999","West Valley City, UT","Granite School District",44313,1 
+"49","49035","93010","83470","84120","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Valley City city, UT","99999","West Valley City, UT","Granite School District",48927,1 
+"49","49035","93010","83470","84123","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Valley City city, UT","99999","Taylorsville, UT","Granite School District",2928,1 
+"49","49035","93010","83470","84128","99999","00360","1,000,000+","100,000-249,999","UT","Salt Lake UT","Salt Lake City CCD","West Valley City city, UT","99999","West Valley City, UT","Granite School District",27983,1 
+"49","49035","93010","84050","84094","99999","00142","1,000,000+","2500-9999","UT","Salt Lake UT","Salt Lake City CCD","White City CDP, UT","99999","Sandy, UT","Canyons School District",5407,1 
+"49","49035","93010","99999","84047","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Midvale, UT","Canyons School District",38,1 
+"49","49035","93010","99999","84070","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Sandy, UT","Canyons School District",424,1 
+"49","49035","93010","99999","84081","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","West Jordan, UT","Granite School District",1063,1 
+"49","49035","93010","99999","84081","99999","00420","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","West Jordan, UT","Jordan School District",1493,1 
+"49","49035","93010","99999","84092","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Sandy, UT","Canyons School District",1094,1 
+"49","49035","93010","99999","84093","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Sandy, UT","Canyons School District",3990,1 
+"49","49035","93010","99999","84094","99999","00142","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Sandy, UT","Canyons School District",1163,1 
+"49","49035","93010","99999","84106","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Salt Lake City, UT","Granite School District",19,1 
+"49","49035","93010","99999","84116","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Salt Lake City, UT","Granite School District",68,1 
+"49","49035","93010","99999","84117","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Holladay, UT","Granite School District",1241,1 
+"49","49035","93010","99999","84118","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Kearns, UT","Granite School District",57,1 
+"49","49035","93010","99999","84123","99999","00360","1,000,000+","Not in a place","UT","Salt Lake UT","Salt Lake City CCD"," ","99999","Taylorsville, UT","Granite School District",11,1 
+"49","49037","90215","06370","84511","99999","00900","10,000-24,999","2500-9999","UT","San Juan UT","Blanding CCD","Blanding city, UT","99999","Blanding, UT","San Juan School District",3375,1 
+"49","49037","90215","06700","84512","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Blanding CCD","Bluff CDP, UT","99999","Bluff, UT (PO Boxes)","San Juan School District",258,1 
+"49","49037","90215","33027","84533","99999","00900","10,000-24,999","Less than 200","UT","San Juan UT","Blanding CCD","Halls Crossing CDP, UT","99999","Lake Powell, UT","San Juan School District",6,1 
+"49","49037","90215","49380","84531","99999","00900","10,000-24,999","Less than 200","UT","San Juan UT","Blanding CCD","Mexican Hat CDP, UT","99999","Mexican Hat, UT (PO Boxes)","San Juan School District",31,1 
+"49","49037","90215","84095","84511","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Blanding CCD","White Mesa CDP, UT","99999","Blanding, UT","San Juan School District",242,1 
+"49","49037","90215","99999","84511","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Blanding CCD"," ","99999","Blanding, UT","San Juan School District",935,1 
+"49","49037","90215","99999","84531","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Blanding CCD"," ","99999","Mexican Hat, UT (PO Boxes)","San Juan School District",4,1 
+"49","49037","90215","99999","84532","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Blanding CCD"," ","99999","Moab, UT","San Juan School District",23,1 
+"49","49037","90215","99999","84533","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Blanding CCD"," ","99999","Lake Powell, UT","San Juan School District",28,1 
+"49","49037","90215","99999","84535","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Blanding CCD"," ","99999","Monticello, UT","San Juan School District",2,1 
+"49","49037","90280","01530","84534","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Casa del Eco Mesa-White Mesa CCD","Aneth CDP, UT","99999","Montezuma Creek, UT (PO Boxes)","San Juan School District",501,1 
+"49","49037","90280","51470","84534","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Casa del Eco Mesa-White Mesa CCD","Montezuma Creek CDP, UT","99999","Montezuma Creek, UT (PO Boxes)","San Juan School District",335,1 
+"49","49037","90280","77697","84512","99999","00900","10,000-24,999","Less than 200","UT","San Juan UT","Casa del Eco Mesa-White Mesa CCD","Tselakai Dezza CDP, UT","99999","Bluff, UT (PO Boxes)","San Juan School District",109,1 
+"49","49037","90280","99999","84511","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Casa del Eco Mesa-White Mesa CCD"," ","99999","Blanding, UT","San Juan School District",103,1 
+"49","49037","90280","99999","84512","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Casa del Eco Mesa-White Mesa CCD"," ","99999","Bluff, UT (PO Boxes)","San Juan School District",726,1 
+"49","49037","90280","99999","84534","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Casa del Eco Mesa-White Mesa CCD"," ","99999","Montezuma Creek, UT (PO Boxes)","San Juan School District",1802,1 
+"49","49037","90280","99999","86514","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Casa del Eco Mesa-White Mesa CCD"," ","99999","Teec Nos Pos, AZ","San Juan School District",306,1 
+"49","49037","92021","43110","84530","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Monticello CCD","La Sal CDP, UT","99999","La Sal, UT","San Juan School District",395,1 
+"49","49037","92021","51580","84535","99999","00900","10,000-24,999","1000-2499","UT","San Juan UT","Monticello CCD","Monticello city, UT","99999","Monticello, UT","San Juan School District",1972,1 
+"49","49037","92021","71455","84532","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Monticello CCD","Spanish Valley CDP, UT","99999","Moab, UT","San Juan School District",491,1 
+"49","49037","92021","99999","81324","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Monticello CCD"," ","99999","Dove Creek, CO","San Juan School District",47,1 
+"49","49037","92021","99999","84511","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Monticello CCD"," ","99999","Blanding, UT","San Juan School District",17,1 
+"49","49037","92021","99999","84530","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Monticello CCD"," ","99999","La Sal, UT","San Juan School District",65,1 
+"49","49037","92021","99999","84532","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Monticello CCD"," ","99999","Moab, UT","San Juan School District",143,1 
+"49","49037","92021","99999","84534","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Monticello CCD"," ","99999","Montezuma Creek, UT (PO Boxes)","San Juan School District",16,1 
+"49","49037","92021","99999","84535","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Monticello CCD"," ","99999","Monticello, UT","San Juan School District",627,1 
+"49","49037","92408","33002","84531","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Oljato CCD","Halchita CDP, UT","99999","Mexican Hat, UT (PO Boxes)","San Juan School District",266,1 
+"49","49037","92408","53890","86044","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Oljato CCD","Navajo Mountain CDP, UT","99999","Tonalea, AZ","San Juan School District",354,1 
+"49","49037","92408","56440","84536","99999","00900","10,000-24,999","200-999","UT","San Juan UT","Oljato CCD","Oljato-Monument Valley CDP, UT","99999","Oljato-Monument Valley, UT","San Juan School District",674,1 
+"49","49037","92408","99999","84531","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Oljato CCD"," ","99999","Mexican Hat, UT (PO Boxes)","San Juan School District",321,1 
+"49","49037","92408","99999","84536","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Oljato CCD"," ","99999","Oljato-Monument Valley, UT","San Juan School District",500,1 
+"49","49037","92408","99999","86044","99999","00900","10,000-24,999","Not in a place","UT","San Juan UT","Oljato CCD"," ","99999","Tonalea, AZ","San Juan School District",72,1 
+"49","49039","90860","23530","84627","99999","00960","25,000-99,999","2500-9999","UT","Sanpete UT","Ephraim-Manti CCD","Ephraim city, UT","99999","Ephraim, UT","South Sanpete School District",6135,1 
+"49","49039","90860","47730","84642","99999","00960","25,000-99,999","2500-9999","UT","Sanpete UT","Ephraim-Manti CCD","Manti city, UT","99999","Manti, UT","South Sanpete School District",3276,1 
+"49","49039","90860","48720","84643","99999","00960","25,000-99,999","200-999","UT","Sanpete UT","Ephraim-Manti CCD","Mayfield town, UT","99999","Mayfield, UT","South Sanpete School District",496,1 
+"49","49039","90860","72940","84665","99999","00960","25,000-99,999","200-999","UT","Sanpete UT","Ephraim-Manti CCD","Sterling town, UT","99999","Sterling, UT","South Sanpete School District",262,1 
+"49","49039","90860","99999","84627","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Ephraim-Manti CCD"," ","99999","Ephraim, UT","South Sanpete School District",160,1 
+"49","49039","90860","99999","84634","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Ephraim-Manti CCD"," ","99999","Gunnison, UT","South Sanpete School District",15,1 
+"49","49039","90860","99999","84642","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Ephraim-Manti CCD"," ","99999","Manti, UT","South Sanpete School District",272,1 
+"49","49039","90860","99999","84643","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Ephraim-Manti CCD"," ","99999","Mayfield, UT","South Sanpete School District",100,1 
+"49","49039","90860","99999","84665","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Ephraim-Manti CCD"," ","99999","Sterling, UT","South Sanpete School District",266,1 
+"49","49039","91204","11870","84622","99999","00960","25,000-99,999","1000-2499","UT","Sanpete UT","Gunnison CCD","Centerfield town, UT","99999","Centerfield, UT","South Sanpete School District",1367,1 
+"49","49039","91204","25070","84630","99999","00960","25,000-99,999","200-999","UT","Sanpete UT","Gunnison CCD","Fayette town, UT","99999","Fayette, UT","South Sanpete School District",242,1 
+"49","49039","91204","32660","84634","99999","00960","25,000-99,999","2500-9999","UT","Sanpete UT","Gunnison CCD","Gunnison city, UT","99999","Gunnison, UT","South Sanpete School District",3285,1 
+"49","49039","91204","99999","84621","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Gunnison CCD"," ","99999","Axtell, UT (PO Boxes)","South Sanpete School District",240,1 
+"49","49039","91204","99999","84622","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Gunnison CCD"," ","99999","Centerfield, UT","South Sanpete School District",150,1 
+"49","49039","91204","99999","84630","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Gunnison CCD"," ","99999","Fayette, UT","South Sanpete School District",52,1 
+"49","49039","91204","99999","84634","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Gunnison CCD"," ","99999","Gunnison, UT","South Sanpete School District",95,1 
+"49","49039","91204","99999","84643","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Gunnison CCD"," ","99999","Mayfield, UT","South Sanpete School District",9,1 
+"49","49039","92150","24630","84629","99999","00660","25,000-99,999","1000-2499","UT","Sanpete UT","Mount Pleasant-Moroni CCD","Fairview city, UT","99999","Fairview, UT","North Sanpete School District",1247,1 
+"49","49039","92150","26720","84632","99999","00660","25,000-99,999","1000-2499","UT","Sanpete UT","Mount Pleasant-Moroni CCD","Fountain Green city, UT","99999","Fountain Green, UT","North Sanpete School District",1071,1 
+"49","49039","92150","52130","84646","99999","00660","25,000-99,999","1000-2499","UT","Sanpete UT","Mount Pleasant-Moroni CCD","Moroni city, UT","99999","Moroni, UT","North Sanpete School District",1423,1 
+"49","49039","92150","53010","84647","99999","00660","25,000-99,999","2500-9999","UT","Sanpete UT","Mount Pleasant-Moroni CCD","Mount Pleasant city, UT","99999","Mount Pleasant, UT","North Sanpete School District",3260,1 
+"49","49039","92150","71730","84662","99999","00660","25,000-99,999","200-999","UT","Sanpete UT","Mount Pleasant-Moroni CCD","Spring City city, UT","99999","Spring City, UT","North Sanpete School District",988,1 
+"49","49039","92150","80860","84667","99999","00660","25,000-99,999","200-999","UT","Sanpete UT","Mount Pleasant-Moroni CCD","Wales town, UT","99999","Wales, UT","North Sanpete School District",302,1 
+"49","49039","92150","99999","84623","99999","00660","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Chester, UT (PO Boxes)","North Sanpete School District",399,1 
+"49","49039","92150","99999","84623","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Chester, UT (PO Boxes)","South Sanpete School District",6,1 
+"49","49039","92150","99999","84627","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Ephraim, UT","South Sanpete School District",15,1 
+"49","49039","92150","99999","84629","99999","00660","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Fairview, UT","North Sanpete School District",1133,1 
+"49","49039","92150","99999","84632","99999","00660","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Fountain Green, UT","North Sanpete School District",77,1 
+"49","49039","92150","99999","84646","99999","00660","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Moroni, UT","North Sanpete School District",234,1 
+"49","49039","92150","99999","84647","99999","00660","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Mount Pleasant, UT","North Sanpete School District",759,1 
+"49","49039","92150","99999","84662","99999","00660","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Spring City, UT","North Sanpete School District",378,1 
+"49","49039","92150","99999","84662","99999","00960","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Spring City, UT","South Sanpete School District",5,1 
+"49","49039","92150","99999","84667","99999","00660","25,000-99,999","Not in a place","UT","Sanpete UT","Mount Pleasant-Moroni CCD"," ","99999","Wales, UT","North Sanpete School District",103,1 
+"49","49041","91978","22650","84724","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Monroe CCD","Elsinore town, UT","99999","Elsinore, UT","Sevier School District",847,1 
+"49","49041","91978","39370","84739","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Monroe CCD","Joseph town, UT","99999","Joseph, UT","Sevier School District",344,1 
+"49","49041","91978","51360","84754","99999","00930","10,000-24,999","1000-2499","UT","Sevier UT","Monroe CCD","Monroe city, UT","99999","Monroe, UT","Sevier School District",2256,1 
+"49","49041","91978","99999","84724","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Monroe CCD"," ","99999","Elsinore, UT","Sevier School District",367,1 
+"49","49041","91978","99999","84739","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Monroe CCD"," ","99999","Joseph, UT","Sevier School District",163,1 
+"49","49041","91978","99999","84754","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Monroe CCD"," ","99999","Monroe, UT","Sevier School District",778,1 
+"49","49041","91978","99999","84766","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Monroe CCD"," ","99999","Sevier, UT","Sevier School District",147,1 
+"49","49041","92838","01750","84701","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Richfield CCD","Annabella town, UT","99999","Richfield, UT","Sevier School District",136,1 
+"49","49041","92838","01750","84711","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Richfield CCD","Annabella town, UT","99999","Annabella, UT","Sevier School District",659,1 
+"49","49041","92838","12260","84754","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Richfield CCD","Central Valley town, UT","99999","Monroe, UT","Sevier School District",528,1 
+"49","49041","92838","29580","84701","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Richfield CCD","Glenwood town, UT","99999","Richfield, UT","Sevier School District",260,1 
+"49","49041","92838","29580","84730","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Richfield CCD","Glenwood town, UT","99999","Glenwood, UT","Sevier School District",204,1 
+"49","49041","92838","41680","84744","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Richfield CCD","Koosharem town, UT","99999","Koosharem, UT","Sevier School District",327,1 
+"49","49041","92838","63570","84701","99999","00930","10,000-24,999","2500-9999","UT","Sevier UT","Richfield CCD","Richfield city, UT","99999","Richfield, UT","Sevier School District",7551,1 
+"49","49041","92838","68650","84657","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Richfield CCD","Sigurd town, UT","99999","Sigurd, UT","Sevier School District",429,1 
+"49","49041","92838","99999","84620","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Richfield CCD"," ","99999","Aurora, UT","Sevier School District",10,1 
+"49","49041","92838","99999","84657","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Richfield CCD"," ","99999","Sigurd, UT","Sevier School District",76,1 
+"49","49041","92838","99999","84701","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Richfield CCD"," ","99999","Richfield, UT","Sevier School District",745,1 
+"49","49041","92838","99999","84711","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Richfield CCD"," ","99999","Annabella, UT","Sevier School District",76,1 
+"49","49041","92838","99999","84730","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Richfield CCD"," ","99999","Glenwood, UT","Sevier School District",64,1 
+"49","49041","92838","99999","84744","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Richfield CCD"," ","99999","Koosharem, UT","Sevier School District",40,1 
+"49","49041","92838","99999","84754","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Richfield CCD"," ","99999","Monroe, UT","Sevier School District",90,1 
+"49","49041","92967","02740","84620","99999","00930","10,000-24,999","1000-2499","UT","Sevier UT","Salina CCD","Aurora city, UT","99999","Aurora, UT","Sevier School District",1016,1 
+"49","49041","92967","63240","84652","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Salina CCD","Redmond town, UT","99999","Redmond, UT","Sevier School District",718,1 
+"49","49041","92967","63240","84654","99999","00930","10,000-24,999","200-999","UT","Sevier UT","Salina CCD","Redmond town, UT","99999","Salina, UT","Sevier School District",12,1 
+"49","49041","92967","65880","84654","99999","00930","10,000-24,999","1000-2499","UT","Sevier UT","Salina CCD","Salina city, UT","99999","Salina, UT","Sevier School District",2489,1 
+"49","49041","92967","99999","84620","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Salina CCD"," ","99999","Aurora, UT","Sevier School District",125,1 
+"49","49041","92967","99999","84652","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Salina CCD"," ","99999","Redmond, UT","Sevier School District",154,1 
+"49","49041","92967","99999","84654","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Salina CCD"," ","99999","Salina, UT","Sevier School District",188,1 
+"49","49041","92967","99999","99999","99999","00930","10,000-24,999","Not in a place","UT","Sevier UT","Salina CCD"," ","99999","99999","Sevier School District",3,1 
+"49","49043","90430","14840","84017","99999","00690","25,000-99,999","1000-2499","UT","Summit UT","Coalville CCD","Coalville city, UT","99999","Coalville, UT","North Summit School District",1363,1 
+"49","49043","90430","21880","84024","99999","00690","25,000-99,999","Less than 200","UT","Summit UT","Coalville CCD","Echo CDP, UT","99999","Echo, UT","North Summit School District",56,1 
+"49","49043","90430","34640","84033","99999","00690","25,000-99,999","200-999","UT","Summit UT","Coalville CCD","Henefer town, UT","99999","Henefer, UT","North Summit School District",766,1 
+"49","49043","90430","36730","84017","99999","00690","25,000-99,999","200-999","UT","Summit UT","Coalville CCD","Hoytsville CDP, UT","99999","Coalville, UT","North Summit School District",607,1 
+"49","49043","90430","69280","84098","99999","00690","25,000-99,999","2500-9999","UT","Summit UT","Coalville CCD","Silver Summit CDP, UT","99999","Summit Park, UT","North Summit School District",78,1 
+"49","49043","90430","69280","84098","99999","00990","25,000-99,999","2500-9999","UT","Summit UT","Coalville CCD","Silver Summit CDP, UT","99999","Summit Park, UT","South Summit School District",212,1 
+"49","49043","90430","81190","84017","99999","00690","25,000-99,999","200-999","UT","Summit UT","Coalville CCD","Wanship CDP, UT","99999","Coalville, UT","North Summit School District",400,1 
+"49","49043","90430","99999","84017","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Coalville CCD"," ","99999","Coalville, UT","North Summit School District",1044,1 
+"49","49043","90430","99999","84024","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Coalville CCD"," ","99999","Echo, UT","North Summit School District",7,1 
+"49","49043","90430","99999","84033","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Coalville CCD"," ","99999","Henefer, UT","North Summit School District",266,1 
+"49","49043","90430","99999","84061","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Coalville CCD"," ","99999","Peoa, UT","North Summit School District",21,1 
+"49","49043","90430","99999","84061","99999","00990","25,000-99,999","Not in a place","UT","Summit UT","Coalville CCD"," ","99999","Peoa, UT","South Summit School District",26,1 
+"49","49043","90430","99999","84098","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Coalville CCD"," ","99999","Summit Park, UT","North Summit School District",14,1 
+"49","49043","90430","99999","84098","99999","00990","25,000-99,999","Not in a place","UT","Summit UT","Coalville CCD"," ","99999","Summit Park, UT","South Summit School District",5,1 
+"49","49043","91548","26940","84036","99999","00990","25,000-99,999","1000-2499","UT","Summit UT","Kamas CCD","Francis town, UT","99999","Kamas, UT","South Summit School District",1077,1 
+"49","49043","91548","39810","84036","99999","00990","25,000-99,999","1000-2499","UT","Summit UT","Kamas CCD","Kamas city, UT","99999","Kamas, UT","South Summit School District",1811,1 
+"49","49043","91548","48170","84036","99999","00990","25,000-99,999","200-999","UT","Summit UT","Kamas CCD","Marion CDP, UT","99999","Kamas, UT","South Summit School District",685,1 
+"49","49043","91548","55650","84036","99999","00990","25,000-99,999","1000-2499","UT","Summit UT","Kamas CCD","Oakley city, UT","99999","Kamas, UT","South Summit School District",193,1 
+"49","49043","91548","55650","84055","99999","00990","25,000-99,999","1000-2499","UT","Summit UT","Kamas CCD","Oakley city, UT","99999","Oakley, UT","South Summit School District",1272,1 
+"49","49043","91548","55650","84061","99999","00990","25,000-99,999","1000-2499","UT","Summit UT","Kamas CCD","Oakley city, UT","99999","Peoa, UT","South Summit School District",5,1 
+"49","49043","91548","59280","84061","99999","00990","25,000-99,999","200-999","UT","Summit UT","Kamas CCD","Peoa CDP, UT","99999","Peoa, UT","South Summit School District",253,1 
+"49","49043","91548","67400","84036","99999","00990","25,000-99,999","200-999","UT","Summit UT","Kamas CCD","Samak CDP, UT","99999","Kamas, UT","South Summit School District",287,1 
+"49","49043","91548","85040","84036","99999","00990","25,000-99,999","200-999","UT","Summit UT","Kamas CCD","Woodland CDP, UT","99999","Kamas, UT","South Summit School District",343,1 
+"49","49043","91548","99999","82930","99999","00990","25,000-99,999","Not in a place","UT","Summit UT","Kamas CCD"," ","99999","Evanston, WY","South Summit School District",35,1 
+"49","49043","91548","99999","84036","99999","00990","25,000-99,999","Not in a place","UT","Summit UT","Kamas CCD"," ","99999","Kamas, UT","South Summit School District",582,1 
+"49","49043","91548","99999","84055","99999","00990","25,000-99,999","Not in a place","UT","Summit UT","Kamas CCD"," ","99999","Oakley, UT","South Summit School District",134,1 
+"49","49043","91548","99999","84061","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Kamas CCD"," ","99999","Peoa, UT","North Summit School District",5,1 
+"49","49043","91548","99999","84061","99999","00990","25,000-99,999","Not in a place","UT","Summit UT","Kamas CCD"," ","99999","Peoa, UT","South Summit School District",81,1 
+"49","49043","92580","58070","84060","99999","00750","25,000-99,999","2500-9999","UT","Summit UT","Park City CCD","Park City city, UT","99999","Park City, UT","Park City School District",7547,1 
+"49","49043","92580","69280","84098","99999","00690","25,000-99,999","2500-9999","UT","Summit UT","Park City CCD","Silver Summit CDP, UT","99999","Summit Park, UT","North Summit School District",45,1 
+"49","49043","92580","69280","84098","99999","00750","25,000-99,999","2500-9999","UT","Summit UT","Park City CCD","Silver Summit CDP, UT","99999","Summit Park, UT","Park City School District",3297,1 
+"49","49043","92580","70190","84060","99999","00750","25,000-99,999","2500-9999","UT","Summit UT","Park City CCD","Snyderville CDP, UT","99999","Park City, UT","Park City School District",8,1 
+"49","49043","92580","70190","84098","99999","00750","25,000-99,999","2500-9999","UT","Summit UT","Park City CCD","Snyderville CDP, UT","99999","Summit Park, UT","Park City School District",5604,1 
+"49","49043","92580","74095","84098","99999","00750","25,000-99,999","2500-9999","UT","Summit UT","Park City CCD","Summit Park CDP, UT","99999","Summit Park, UT","Park City School District",7775,1 
+"49","49043","92580","99999","84017","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Park City CCD"," ","99999","Coalville, UT","North Summit School District",142,1 
+"49","49043","92580","99999","84060","99999","00750","25,000-99,999","Not in a place","UT","Summit UT","Park City CCD"," ","99999","Park City, UT","Park City School District",26,1 
+"49","49043","92580","99999","84098","99999","00690","25,000-99,999","Not in a place","UT","Summit UT","Park City CCD"," ","99999","Summit Park, UT","North Summit School District",108,1 
+"49","49043","92580","99999","84098","99999","00750","25,000-99,999","Not in a place","UT","Summit UT","Park City CCD"," ","99999","Summit Park, UT","Park City School District",144,1 
+"49","49045","90602","20450","84022","99999","01050","25,000-99,999","200-999","UT","Tooele UT","Dugway-Wendover CCD","Dugway CDP, UT","99999","Dugway, UT","Tooele School District",795,1 
+"49","49045","90602","82730","84083","99999","01050","25,000-99,999","1000-2499","UT","Tooele UT","Dugway-Wendover CCD","Wendover city, UT","99999","Wendover, UT","Tooele School District",1400,1 
+"49","49045","90602","99999","84022","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Dugway-Wendover CCD"," ","99999","Dugway, UT","Tooele School District",99,1 
+"49","49045","90602","99999","84029","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Dugway-Wendover CCD"," ","99999","Grantsville, UT","Tooele School District",79,1 
+"49","49045","90602","99999","84034","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Dugway-Wendover CCD"," ","99999","Ibapah, UT","Tooele School District",104,1 
+"49","49045","92902","56750","84071","99999","01050","25,000-99,999","Less than 200","UT","Tooele UT","Rush Valley CCD","Ophir town, UT","99999","Stockton, UT","Tooele School District",38,1 
+"49","49045","92902","65240","84069","99999","01050","25,000-99,999","200-999","UT","Tooele UT","Rush Valley CCD","Rush Valley town, UT","99999","Rush Valley, UT","Tooele School District",447,1 
+"49","49045","92902","80200","84080","99999","01050","25,000-99,999","200-999","UT","Tooele UT","Rush Valley CCD","Vernon town, UT","99999","Vernon, UT","Tooele School District",243,1 
+"49","49045","92902","99999","84069","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Rush Valley CCD"," ","99999","Rush Valley, UT","Tooele School District",52,1 
+"49","49045","92902","99999","84071","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Rush Valley CCD"," ","99999","Stockton, UT","Tooele School District",65,1 
+"49","49045","92902","99999","84080","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Rush Valley CCD"," ","99999","Vernon, UT","Tooele School District",61,1 
+"49","49045","92902","99999","84628","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Rush Valley CCD"," ","99999","Eureka, UT","Tooele School District",29,1 
+"49","49045","92902","99999","99999","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Rush Valley CCD"," ","99999","99999","Tooele School District",6,1 
+"49","49045","93397","23640","84029","99999","01050","25,000-99,999","2500-9999","UT","Tooele UT","Tooele-Grantsville CCD","Erda CDP, UT","99999","Grantsville, UT","Tooele School District",138,1 
+"49","49045","93397","23640","84074","99999","01050","25,000-99,999","2500-9999","UT","Tooele UT","Tooele-Grantsville CCD","Erda CDP, UT","99999","Tooele, UT","Tooele School District",4504,1 
+"49","49045","93397","31120","84029","99999","01050","25,000-99,999","2500-9999","UT","Tooele UT","Tooele-Grantsville CCD","Grantsville city, UT","99999","Grantsville, UT","Tooele School District",8893,1 
+"49","49045","93397","72720","84074","99999","01050","25,000-99,999","2500-9999","UT","Tooele UT","Tooele-Grantsville CCD","Stansbury Park CDP, UT","99999","Tooele, UT","Tooele School District",5145,1 
+"49","49045","93397","73050","84071","99999","01050","25,000-99,999","200-999","UT","Tooele UT","Tooele-Grantsville CCD","Stockton town, UT","99999","Stockton, UT","Tooele School District",616,1 
+"49","49045","93397","76680","84074","99999","01050","25,000-99,999","25,000-99,999","UT","Tooele UT","Tooele-Grantsville CCD","Tooele city, UT","99999","Tooele, UT","Tooele School District",31605,1 
+"49","49045","93397","99999","84029","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Tooele-Grantsville CCD"," ","99999","Grantsville, UT","Tooele School District",363,1 
+"49","49045","93397","99999","84069","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Tooele-Grantsville CCD"," ","99999","Rush Valley, UT","Tooele School District",6,1 
+"49","49045","93397","99999","84071","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Tooele-Grantsville CCD"," ","99999","Stockton, UT","Tooele School District",456,1 
+"49","49045","93397","99999","84074","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Tooele-Grantsville CCD"," ","99999","Tooele, UT","Tooele School District",3056,1 
+"49","49045","93397","99999","99999","99999","01050","25,000-99,999","Not in a place","UT","Tooele UT","Tooele-Grantsville CCD"," ","99999","99999","Tooele School District",18,1 
+"49","49047","93569","03345","84066","99999","01080","25,000-99,999","200-999","UT","Uintah UT","Uintah and Ouray CCD","Ballard town, UT","99999","Roosevelt, UT","Uintah School District",801,1 
+"49","49047","93569","06920","84035","99999","01080","25,000-99,999","Less than 200","UT","Uintah UT","Uintah and Ouray CCD","Bonanza CDP, UT","99999","Jensen, UT","Uintah School District",1,1 
+"49","49047","93569","26610","84026","99999","01080","25,000-99,999","200-999","UT","Uintah UT","Uintah and Ouray CCD","Fort Duchesne CDP, UT","99999","Fort Duchesne, UT","Uintah School District",702,1 
+"49","49047","93569","26610","84066","99999","01080","25,000-99,999","200-999","UT","Uintah UT","Uintah and Ouray CCD","Fort Duchesne CDP, UT","99999","Roosevelt, UT","Uintah School District",12,1 
+"49","49047","93569","62910","84026","99999","01080","25,000-99,999","200-999","UT","Uintah UT","Uintah and Ouray CCD","Randlett CDP, UT","99999","Fort Duchesne, UT","Uintah School District",220,1 
+"49","49047","93569","84160","84085","99999","01080","25,000-99,999","200-999","UT","Uintah UT","Uintah and Ouray CCD","Whiterocks CDP, UT","99999","Whiterocks, UT","Uintah School District",289,1 
+"49","49047","93569","99999","84026","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Fort Duchesne, UT","Uintah School District",746,1 
+"49","49047","93569","99999","84035","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Jensen, UT","Uintah School District",16,1 
+"49","49047","93569","99999","84039","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Lapoint, UT","Uintah School District",855,1 
+"49","49047","93569","99999","84052","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Myton, UT","Uintah School District",181,1 
+"49","49047","93569","99999","84053","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Neola, UT","Uintah School District",64,1 
+"49","49047","93569","99999","84063","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Randlett, UT","Uintah School District",328,1 
+"49","49047","93569","99999","84066","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Roosevelt, UT","Uintah School District",904,1 
+"49","49047","93569","99999","84076","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Tridell, UT","Uintah School District",390,1 
+"49","49047","93569","99999","84085","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Whiterocks, UT","Uintah School District",242,1 
+"49","49047","93569","99999","84540","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Uintah and Ouray CCD"," ","99999","Thompson Springs, UT","Uintah School District",2,1 
+"49","49047","93655","39040","84035","99999","01080","25,000-99,999","200-999","UT","Uintah UT","Vernal CCD","Jensen CDP, UT","99999","Jensen, UT","Uintah School District",412,1 
+"49","49047","93655","47180","84078","99999","01080","25,000-99,999","2500-9999","UT","Uintah UT","Vernal CCD","Maeser CDP, UT","99999","Vernal, UT","Uintah School District",3601,1 
+"49","49047","93655","53560","84078","99999","01080","25,000-99,999","1000-2499","UT","Uintah UT","Vernal CCD","Naples city, UT","99999","Vernal, UT","Uintah School District",1755,1 
+"49","49047","93655","80090","84078","99999","01080","25,000-99,999","2500-9999","UT","Uintah UT","Vernal CCD","Vernal city, UT","99999","Vernal, UT","Uintah School District",9089,1 
+"49","49047","93655","99999","84035","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Vernal CCD"," ","99999","Jensen, UT","Uintah School District",319,1 
+"49","49047","93655","99999","84039","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Vernal CCD"," ","99999","Lapoint, UT","Uintah School District",247,1 
+"49","49047","93655","99999","84063","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Vernal CCD"," ","99999","Randlett, UT","Uintah School District",6,1 
+"49","49047","93655","99999","84078","99999","01080","25,000-99,999","Not in a place","UT","Uintah UT","Vernal CCD"," ","99999","Vernal, UT","Uintah School District",11406,1 
+"49","49049","90043","00540","84004","99999","00030","250,000-999,999","2500-9999","UT","Utah UT","American Fork-Pleasant Grove CCD","Alpine city, UT","99999","Alpine, UT","Alpine School District",9555,1 
+"49","49049","90043","01310","84003","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","American Fork city, UT","99999","American Fork, UT","Alpine School District",25142,1 
+"49","49049","90043","01310","84062","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","American Fork city, UT","99999","Pleasant Grove, UT","Alpine School District",41,1 
+"49","49049","90043","11440","84062","99999","00030","250,000-999,999","2500-9999","UT","Utah UT","American Fork-Pleasant Grove CCD","Cedar Hills city, UT","99999","Pleasant Grove, UT","Alpine School District",9796,1 
+"49","49049","90043","20120","84003","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Draper city, UT","99999","American Fork, UT","Alpine School District",6,1 
+"49","49049","90043","20120","84020","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Draper city, UT","99999","Draper, UT","Alpine School District",1736,1 
+"49","49049","90043","35190","84003","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Highland city, UT","99999","American Fork, UT","Alpine School District",15454,1 
+"49","49049","90043","35190","84004","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Highland city, UT","99999","Alpine, UT","Alpine School District",48,1 
+"49","49049","90043","35190","84043","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Highland city, UT","99999","Lehi, UT","Alpine School District",18,1 
+"49","49049","90043","35190","84062","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Highland city, UT","99999","Pleasant Grove, UT","Alpine School District",3,1 
+"49","49049","90043","44320","84043","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Lehi city, UT","99999","Lehi, UT","Alpine School District",14764,1 
+"49","49049","90043","45090","84042","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Lindon city, UT","99999","Lindon, UT","Alpine School District",10070,1 
+"49","49049","90043","57300","84604","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Orem city, UT","99999","Provo, UT","Alpine School District",7,1 
+"49","49049","90043","60930","84003","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Pleasant Grove city, UT","99999","American Fork, UT","Alpine School District",67,1 
+"49","49049","90043","60930","84042","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Pleasant Grove city, UT","99999","Lindon, UT","Alpine School District",24,1 
+"49","49049","90043","60930","84062","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Pleasant Grove city, UT","99999","Pleasant Grove, UT","Alpine School District",33418,1 
+"49","49049","90043","62470","84604","99999","00810","250,000-999,999","100,000-249,999","UT","Utah UT","American Fork-Pleasant Grove CCD","Provo city, UT","99999","Provo, UT","Provo School District",75,1 
+"49","49049","90043","99999","84003","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","American Fork-Pleasant Grove CCD"," ","99999","American Fork, UT","Alpine School District",474,1 
+"49","49049","90043","99999","84004","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","American Fork-Pleasant Grove CCD"," ","99999","Alpine, UT","Alpine School District",215,1 
+"49","49049","90043","99999","84043","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","American Fork-Pleasant Grove CCD"," ","99999","Lehi, UT","Alpine School District",236,1 
+"49","49049","90043","99999","84062","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","American Fork-Pleasant Grove CCD"," ","99999","Pleasant Grove, UT","Alpine School District",11,1 
+"49","49049","90043","99999","84604","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","American Fork-Pleasant Grove CCD"," ","99999","Provo, UT","Alpine School District",292,1 
+"49","49049","91118","22210","84626","99999","00630","250,000-999,999","200-999","UT","Utah UT","Goshen CCD","Elberta CDP, UT","99999","Elberta, UT","Nebo School District",256,1 
+"49","49049","91118","28810","84655","99999","00630","250,000-999,999","1000-2499","UT","Utah UT","Goshen CCD","Genola town, UT","99999","Santaquin, UT","Nebo School District",1370,1 
+"49","49049","91118","30130","84633","99999","00630","250,000-999,999","200-999","UT","Utah UT","Goshen CCD","Goshen town, UT","99999","Goshen, UT","Nebo School District",921,1 
+"49","49049","91118","67770","84655","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Goshen CCD","Santaquin city, UT","99999","Santaquin, UT","Nebo School District",625,1 
+"49","49049","91118","99999","84626","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Goshen CCD"," ","99999","Elberta, UT","Nebo School District",87,1 
+"49","49049","91118","99999","84633","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Goshen CCD"," ","99999","Goshen, UT","Nebo School District",127,1 
+"49","49049","91118","99999","84651","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Goshen CCD"," ","99999","Payson, UT","Nebo School District",20,1 
+"49","49049","91118","99999","84655","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Goshen CCD"," ","99999","Santaquin, UT","Nebo School District",31,1 
+"49","49049","91118","99999","84660","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Goshen CCD"," ","99999","Spanish Fork, UT","Nebo School District",64,1 
+"49","49049","91634","01310","84003","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","Lehi CCD","American Fork city, UT","99999","American Fork, UT","Alpine School District",1080,1 
+"49","49049","91634","11430","84013","99999","00030","250,000-999,999","200-999","UT","Utah UT","Lehi CCD","Cedar Fort town, UT","99999","Cedar Valley, UT","Alpine School District",368,1 
+"49","49049","91634","20810","84005","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","Lehi CCD","Eagle Mountain city, UT","99999","Eagle Mountain, UT","Alpine School District",21403,1 
+"49","49049","91634","20810","84013","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","Lehi CCD","Eagle Mountain city, UT","99999","Cedar Valley, UT","Alpine School District",8,1 
+"49","49049","91634","20810","84045","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","Lehi CCD","Eagle Mountain city, UT","99999","Saratoga Springs, UT","Alpine School District",4,1 
+"49","49049","91634","24410","84013","99999","00030","250,000-999,999","Less than 200","UT","Utah UT","Lehi CCD","Fairfield town, UT","99999","Cedar Valley, UT","Alpine School District",119,1 
+"49","49049","91634","44320","84043","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","Lehi CCD","Lehi city, UT","99999","Lehi, UT","Alpine School District",32605,1 
+"49","49049","91634","44320","84045","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","Lehi CCD","Lehi city, UT","99999","Saratoga Springs, UT","Alpine School District",38,1 
+"49","49049","91634","67825","84043","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","Lehi CCD","Saratoga Springs city, UT","99999","Lehi, UT","Alpine School District",969,1 
+"49","49049","91634","67825","84045","99999","00030","250,000-999,999","10,000-24,999","UT","Utah UT","Lehi CCD","Saratoga Springs city, UT","99999","Saratoga Springs, UT","Alpine School District",16812,1 
+"49","49049","91634","99999","84003","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Lehi CCD"," ","99999","American Fork, UT","Alpine School District",161,1 
+"49","49049","91634","99999","84005","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Lehi CCD"," ","99999","Eagle Mountain, UT","Alpine School District",7,1 
+"49","49049","91634","99999","84013","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Lehi CCD"," ","99999","Cedar Valley, UT","Alpine School District",516,1 
+"49","49049","91634","99999","84043","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Lehi CCD"," ","99999","Lehi, UT","Alpine School District",438,1 
+"49","49049","91634","99999","84045","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Lehi CCD"," ","99999","Saratoga Springs, UT","Alpine School District",16,1 
+"49","49049","91634","99999","84045","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Lehi CCD"," ","99999","Saratoga Springs, UT","Nebo School District",5,1 
+"49","49049","91634","99999","84626","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Lehi CCD"," ","99999","Elberta, UT","Nebo School District",67,1 
+"49","49049","92709","57300","84057","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","Provo-Orem CCD","Orem city, UT","99999","Orem, UT","Alpine School District",36666,1 
+"49","49049","92709","57300","84058","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","Provo-Orem CCD","Orem city, UT","99999","Orem, UT","Alpine School District",30352,1 
+"49","49049","92709","57300","84097","99999","00030","250,000-999,999","25,000-99,999","UT","Utah UT","Provo-Orem CCD","Orem city, UT","99999","Orem, UT","Alpine School District",21303,1 
+"49","49049","92709","62470","84097","99999","00810","250,000-999,999","100,000-249,999","UT","Utah UT","Provo-Orem CCD","Provo city, UT","99999","Orem, UT","Provo School District",6,1 
+"49","49049","92709","62470","84601","99999","00810","250,000-999,999","100,000-249,999","UT","Utah UT","Provo-Orem CCD","Provo city, UT","99999","Provo, UT","Provo School District",31486,1 
+"49","49049","92709","62470","84604","99999","00810","250,000-999,999","100,000-249,999","UT","Utah UT","Provo-Orem CCD","Provo city, UT","99999","Provo, UT","Provo School District",48630,1 
+"49","49049","92709","62470","84606","99999","00810","250,000-999,999","100,000-249,999","UT","Utah UT","Provo-Orem CCD","Provo city, UT","99999","Provo, UT","Provo School District",32291,1 
+"49","49049","92709","72280","84663","99999","00630","250,000-999,999","25,000-99,999","UT","Utah UT","Provo-Orem CCD","Springville city, UT","99999","Springville, UT","Nebo School District",3,1 
+"49","49049","92709","80420","84058","99999","00030","250,000-999,999","Less than 200","UT","Utah UT","Provo-Orem CCD","Vineyard town, UT","99999","Orem, UT","Alpine School District",139,1 
+"49","49049","92709","99999","84058","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Provo-Orem CCD"," ","99999","Orem, UT","Alpine School District",49,1 
+"49","49049","92709","99999","84097","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Provo-Orem CCD"," ","99999","Orem, UT","Alpine School District",13,1 
+"49","49049","92709","99999","84604","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Provo-Orem CCD"," ","99999","Provo, UT","Alpine School District",57,1 
+"49","49049","93268","04720","84651","99999","00630","250,000-999,999","1000-2499","UT","Utah UT","Spanish Fork-Payson CCD","Benjamin CDP, UT","99999","Payson, UT","Nebo School District",46,1 
+"49","49049","93268","04720","84660","99999","00630","250,000-999,999","1000-2499","UT","Utah UT","Spanish Fork-Payson CCD","Benjamin CDP, UT","99999","Spanish Fork, UT","Nebo School District",1099,1 
+"49","49049","93268","22370","84651","99999","00630","250,000-999,999","1000-2499","UT","Utah UT","Spanish Fork-Payson CCD","Elk Ridge city, UT","99999","Payson, UT","Nebo School District",2436,1 
+"49","49049","93268","42230","84660","99999","00630","250,000-999,999","200-999","UT","Utah UT","Spanish Fork-Payson CCD","Lake Shore CDP, UT","99999","Spanish Fork, UT","Nebo School District",817,1 
+"49","49049","93268","57630","84660","99999","00630","250,000-999,999","200-999","UT","Utah UT","Spanish Fork-Payson CCD","Palmyra CDP, UT","99999","Spanish Fork, UT","Nebo School District",491,1 
+"49","49049","93268","58730","84651","99999","00630","250,000-999,999","10,000-24,999","UT","Utah UT","Spanish Fork-Payson CCD","Payson city, UT","99999","Payson, UT","Nebo School District",18294,1 
+"49","49049","93268","65770","84651","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Spanish Fork-Payson CCD","Salem city, UT","99999","Payson, UT","Nebo School District",6,1 
+"49","49049","93268","65770","84653","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Spanish Fork-Payson CCD","Salem city, UT","99999","Salem, UT","Nebo School District",6366,1 
+"49","49049","93268","65770","84660","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Spanish Fork-Payson CCD","Salem city, UT","99999","Spanish Fork, UT","Nebo School District",51,1 
+"49","49049","93268","67770","84651","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Spanish Fork-Payson CCD","Santaquin city, UT","99999","Payson, UT","Nebo School District",40,1 
+"49","49049","93268","67770","84655","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Spanish Fork-Payson CCD","Santaquin city, UT","99999","Santaquin, UT","Nebo School District",8463,1 
+"49","49049","93268","71290","84660","99999","00630","250,000-999,999","25,000-99,999","UT","Utah UT","Spanish Fork-Payson CCD","Spanish Fork city, UT","99999","Spanish Fork, UT","Nebo School District",30381,1 
+"49","49049","93268","71290","84663","99999","00630","250,000-999,999","25,000-99,999","UT","Utah UT","Spanish Fork-Payson CCD","Spanish Fork city, UT","99999","Springville, UT","Nebo School District",12,1 
+"49","49049","93268","72170","84651","99999","00630","250,000-999,999","200-999","UT","Utah UT","Spanish Fork-Payson CCD","Spring Lake CDP, UT","99999","Payson, UT","Nebo School District",458,1 
+"49","49049","93268","72280","84663","99999","00630","250,000-999,999","25,000-99,999","UT","Utah UT","Spanish Fork-Payson CCD","Springville city, UT","99999","Springville, UT","Nebo School District",231,1 
+"49","49049","93268","83252","84651","99999","00630","250,000-999,999","1000-2499","UT","Utah UT","Spanish Fork-Payson CCD","West Mountain CDP, UT","99999","Payson, UT","Nebo School District",1182,1 
+"49","49049","93268","83252","84660","99999","00630","250,000-999,999","1000-2499","UT","Utah UT","Spanish Fork-Payson CCD","West Mountain CDP, UT","99999","Spanish Fork, UT","Nebo School District",4,1 
+"49","49049","93268","85050","84653","99999","00630","250,000-999,999","1000-2499","UT","Utah UT","Spanish Fork-Payson CCD","Woodland Hills city, UT","99999","Salem, UT","Nebo School District",1344,1 
+"49","49049","93268","99999","84651","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Spanish Fork-Payson CCD"," ","99999","Payson, UT","Nebo School District",975,1 
+"49","49049","93268","99999","84653","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Spanish Fork-Payson CCD"," ","99999","Salem, UT","Nebo School District",237,1 
+"49","49049","93268","99999","84655","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Spanish Fork-Payson CCD"," ","99999","Santaquin, UT","Nebo School District",58,1 
+"49","49049","93268","99999","84660","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Spanish Fork-Payson CCD"," ","99999","Spanish Fork, UT","Nebo School District",536,1 
+"49","49049","93311","47950","84663","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Springville-Mapleton CCD","Mapleton city, UT","99999","Springville, UT","Nebo School District",24,1 
+"49","49049","93311","47950","84664","99999","00630","250,000-999,999","2500-9999","UT","Utah UT","Springville-Mapleton CCD","Mapleton city, UT","99999","Mapleton, UT","Nebo School District",7955,1 
+"49","49049","93311","71290","84660","99999","00630","250,000-999,999","25,000-99,999","UT","Utah UT","Springville-Mapleton CCD","Spanish Fork city, UT","99999","Spanish Fork, UT","Nebo School District",4298,1 
+"49","49049","93311","72280","84663","99999","00630","250,000-999,999","25,000-99,999","UT","Utah UT","Springville-Mapleton CCD","Springville city, UT","99999","Springville, UT","Nebo School District",29232,1 
+"49","49049","93311","99999","84526","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Springville-Mapleton CCD"," ","99999","Helper, UT","Nebo School District",8,1 
+"49","49049","93311","99999","84629","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Springville-Mapleton CCD"," ","99999","Fairview, UT","Nebo School District",151,1 
+"49","49049","93311","99999","84660","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Springville-Mapleton CCD"," ","99999","Spanish Fork, UT","Nebo School District",254,1 
+"49","49049","93311","99999","84663","99999","00030","250,000-999,999","Not in a place","UT","Utah UT","Springville-Mapleton CCD"," ","99999","Springville, UT","Alpine School District",5,1 
+"49","49049","93311","99999","84663","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Springville-Mapleton CCD"," ","99999","Springville, UT","Nebo School District",468,1 
+"49","49049","93311","99999","84664","99999","00630","250,000-999,999","Not in a place","UT","Utah UT","Springville-Mapleton CCD"," ","99999","Mapleton, UT","Nebo School District",78,1 
+"49","49051","91300","18140","84032","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","Heber City East CCD","Daniel town, UT","99999","Heber, UT","Wasatch School District",10,1 
+"49","49051","91300","34200","84032","99999","01110","10,000-24,999","10,000-24,999","UT","Wasatch UT","Heber City East CCD","Heber city, UT","99999","Heber, UT","Wasatch School District",5841,1 
+"49","49051","91300","37690","84032","99999","01110","10,000-24,999","Less than 200","UT","Wasatch UT","Heber City East CCD","Independence town, UT","99999","Heber, UT","Wasatch School District",164,1 
+"49","49051","91300","76280","84032","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","Heber City East CCD","Timber Lakes CDP, UT","99999","Heber, UT","Wasatch School District",607,1 
+"49","49051","91300","99999","84032","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Heber City East CCD"," ","99999","Heber, UT","Wasatch School District",3327,1 
+"49","49051","91300","99999","84036","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Heber City East CCD"," ","99999","Kamas, UT","Wasatch School District",16,1 
+"49","49051","91308","12420","84032","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","Heber City South CCD","Charleston town, UT","99999","Heber, UT","Wasatch School District",31,1 
+"49","49051","91308","18140","84032","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","Heber City South CCD","Daniel town, UT","99999","Heber, UT","Wasatch School District",928,1 
+"49","49051","91308","34200","84032","99999","01110","10,000-24,999","10,000-24,999","UT","Wasatch UT","Heber City South CCD","Heber city, UT","99999","Heber, UT","Wasatch School District",1629,1 
+"49","49051","91308","80970","84082","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","Heber City South CCD","Wallsburg town, UT","99999","Wallsburg, UT","Wasatch School District",250,1 
+"49","49051","91308","99999","84032","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Heber City South CCD"," ","99999","Heber, UT","Wasatch School District",4,1 
+"49","49051","91308","99999","84082","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Heber City South CCD"," ","99999","Wallsburg, UT","Wasatch School District",493,1 
+"49","49051","91312","12420","84032","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","Heber City West CCD","Charleston town, UT","99999","Heber, UT","Wasatch School District",384,1 
+"49","49051","91312","34200","84032","99999","01110","10,000-24,999","10,000-24,999","UT","Wasatch UT","Heber City West CCD","Heber city, UT","99999","Heber, UT","Wasatch School District",3892,1 
+"49","49051","91312","49820","84049","99999","01110","10,000-24,999","2500-9999","UT","Wasatch UT","Heber City West CCD","Midway city, UT","99999","Midway, UT","Wasatch School District",3270,1 
+"49","49051","91312","99999","84032","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Heber City West CCD"," ","99999","Heber, UT","Wasatch School District",249,1 
+"49","49051","91312","99999","84049","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Heber City West CCD"," ","99999","Midway, UT","Wasatch School District",254,1 
+"49","49051","91312","99999","84604","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Heber City West CCD"," ","99999","Provo, UT","Wasatch School District",84,1 
+"49","49051","92301","35120","84032","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","North Wasatch CCD","Hideout town, UT","99999","Heber, UT","Wasatch School District",9,1 
+"49","49051","92301","35120","84036","99999","01110","10,000-24,999","200-999","UT","Wasatch UT","North Wasatch CCD","Hideout town, UT","99999","Kamas, UT","Wasatch School District",647,1 
+"49","49051","92301","49820","84049","99999","01110","10,000-24,999","2500-9999","UT","Wasatch UT","North Wasatch CCD","Midway city, UT","99999","Midway, UT","Wasatch School District",575,1 
+"49","49051","92301","58070","84060","99999","01110","10,000-24,999","2500-9999","UT","Wasatch UT","North Wasatch CCD","Park City city, UT","99999","Park City, UT","Wasatch School District",11,1 
+"49","49051","92301","99999","84032","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","North Wasatch CCD"," ","99999","Heber, UT","Wasatch School District",163,1 
+"49","49051","92301","99999","84036","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","North Wasatch CCD"," ","99999","Kamas, UT","Wasatch School District",404,1 
+"49","49051","92301","99999","84049","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","North Wasatch CCD"," ","99999","Midway, UT","Wasatch School District",273,1 
+"49","49051","92301","99999","84060","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","North Wasatch CCD"," ","99999","Park City, UT","Wasatch School District",4,1 
+"49","49051","93612","99999","84032","99999","01110","10,000-24,999","Not in a place","UT","Wasatch UT","Uintah and Ouray CCD"," ","99999","Heber, UT","Wasatch School District",11,1 
+"49","49053","90817","12200","84722","99999","01140","100,000-249,999","200-999","UT","Washington UT","Enterprise CCD","Central CDP, UT","99999","Central, UT","Washington School District",162,1 
+"49","49053","90817","23420","84725","99999","01140","100,000-249,999","1000-2499","UT","Washington UT","Enterprise CCD","Enterprise city, UT","99999","Enterprise, UT","Washington School District",1711,1 
+"49","49053","90817","60270","84781","99999","01140","100,000-249,999","Less than 200","UT","Washington UT","Enterprise CCD","Pine Valley CDP, UT","99999","Pine Valley, UT","Washington School District",186,1 
+"49","49053","90817","99999","84722","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Enterprise CCD"," ","99999","Central, UT","Washington School District",1,1 
+"49","49053","90817","99999","84725","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Enterprise CCD"," ","99999","Enterprise, UT","Washington School District",253,1 
+"49","49053","90817","99999","84756","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Enterprise CCD"," ","99999","Newcastle, UT","Washington School District",8,1 
+"49","49053","90817","99999","84781","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Enterprise CCD"," ","99999","Pine Valley, UT","Washington School District",2,1 
+"49","49053","91462","01905","84737","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","Apple Valley town, UT","99999","Hurricane, UT","Washington School District",701,1 
+"49","49053","91462","35300","84784","99999","01140","100,000-249,999","2500-9999","UT","Washington UT","Hurricane CCD","Hildale city, UT","99999","Hildale, UT","Washington School District",2726,1 
+"49","49053","91462","37170","84737","99999","01140","100,000-249,999","10,000-24,999","UT","Washington UT","Hurricane CCD","Hurricane city, UT","99999","Hurricane, UT","Washington School District",12588,1 
+"49","49053","91462","43440","84745","99999","01140","100,000-249,999","2500-9999","UT","Washington UT","Hurricane CCD","La Verkin city, UT","99999","La Verkin, UT","Washington School District",4060,1 
+"49","49053","91462","44100","84737","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","Leeds town, UT","99999","Hurricane, UT","Washington School District",1,1 
+"49","49053","91462","44100","84746","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","Leeds town, UT","99999","Leeds, UT","Washington School District",819,1 
+"49","49053","91462","54440","84757","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","New Harmony town, UT","99999","New Harmony, UT","Washington School District",207,1 
+"49","49053","91462","64560","84763","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","Rockville town, UT","99999","Rockville, UT","Washington School District",245,1 
+"49","49053","91462","71840","84767","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","Springdale town, UT","99999","Springdale, UT","Washington School District",529,1 
+"49","49053","91462","76900","84774","99999","01140","100,000-249,999","1000-2499","UT","Washington UT","Hurricane CCD","Toquerville town, UT","99999","Toquerville, UT","Washington School District",1370,1 
+"49","49053","91462","80530","84745","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","Virgin town, UT","99999","La Verkin, UT","Washington School District",6,1 
+"49","49053","91462","80530","84779","99999","01140","100,000-249,999","200-999","UT","Washington UT","Hurricane CCD","Virgin town, UT","99999","Virgin, UT","Washington School District",590,1 
+"49","49053","91462","99999","84737","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Hurricane CCD"," ","99999","Hurricane, UT","Washington School District",388,1 
+"49","49053","91462","99999","84746","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Hurricane CCD"," ","99999","Leeds, UT","Washington School District",330,1 
+"49","49053","91462","99999","84757","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Hurricane CCD"," ","99999","New Harmony, UT","Washington School District",892,1 
+"49","49053","91462","99999","84767","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Hurricane CCD"," ","99999","Springdale, UT","Washington School District",150,1 
+"49","49053","91462","99999","84774","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Hurricane CCD"," ","99999","Toquerville, UT","Washington School District",29,1 
+"49","49053","91462","99999","84779","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Hurricane CCD"," ","99999","Virgin, UT","Washington School District",51,1 
+"49","49053","91462","99999","84784","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","Hurricane CCD"," ","99999","Hildale, UT","Washington School District",19,1 
+"49","49053","92924","12200","84722","99999","01140","100,000-249,999","200-999","UT","Washington UT","St. George CCD","Central CDP, UT","99999","Central, UT","Washington School District",451,1 
+"49","49053","92924","18090","84783","99999","01140","100,000-249,999","200-999","UT","Washington UT","St. George CCD","Dammeron Valley CDP, UT","99999","Dammeron Valley, UT","Washington School District",803,1 
+"49","49053","92924","37170","84737","99999","01140","100,000-249,999","10,000-24,999","UT","Washington UT","St. George CCD","Hurricane city, UT","99999","Hurricane, UT","Washington School District",1160,1 
+"49","49053","92924","38710","84738","99999","01140","100,000-249,999","2500-9999","UT","Washington UT","St. George CCD","Ivins city, UT","99999","Ivins, UT","Washington School District",6753,1 
+"49","49053","92924","65330","84738","99999","01140","100,000-249,999","25,000-99,999","UT","Washington UT","St. George CCD","St. George city, UT","99999","Ivins, UT","Washington School District",2,1 
+"49","49053","92924","65330","84765","99999","01140","100,000-249,999","25,000-99,999","UT","Washington UT","St. George CCD","St. George city, UT","99999","Santa Clara, UT","Washington School District",174,1 
+"49","49053","92924","65330","84770","99999","01140","100,000-249,999","25,000-99,999","UT","Washington UT","St. George CCD","St. George city, UT","99999","St. George, UT","Washington School District",36990,1 
+"49","49053","92924","65330","84790","99999","01140","100,000-249,999","25,000-99,999","UT","Washington UT","St. George CCD","St. George city, UT","99999","St. George, UT","Washington School District",35731,1 
+"49","49053","92924","67660","84738","99999","01140","100,000-249,999","2500-9999","UT","Washington UT","St. George CCD","Santa Clara city, UT","99999","Ivins, UT","Washington School District",14,1 
+"49","49053","92924","67660","84765","99999","01140","100,000-249,999","2500-9999","UT","Washington UT","St. George CCD","Santa Clara city, UT","99999","Santa Clara, UT","Washington School District",5969,1 
+"49","49053","92924","67660","84770","99999","01140","100,000-249,999","2500-9999","UT","Washington UT","St. George CCD","Santa Clara city, UT","99999","St. George, UT","Washington School District",20,1 
+"49","49053","92924","80310","84782","99999","01140","100,000-249,999","200-999","UT","Washington UT","St. George CCD","Veyo CDP, UT","99999","Veyo, UT","Washington School District",483,1 
+"49","49053","92924","81960","84780","99999","01140","100,000-249,999","10,000-24,999","UT","Washington UT","St. George CCD","Washington city, UT","99999","Washington, UT","Washington School District",18732,1 
+"49","49053","92924","81960","84790","99999","01140","100,000-249,999","10,000-24,999","UT","Washington UT","St. George CCD","Washington city, UT","99999","St. George, UT","Washington School District",29,1 
+"49","49053","92924","99999","84722","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","Central, UT","Washington School District",1,1 
+"49","49053","92924","99999","84733","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","Gunlock, UT (PO Boxes)","Washington School District",202,1 
+"49","49053","92924","99999","84738","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","Ivins, UT","Washington School District",109,1 
+"49","49053","92924","99999","84770","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","St. George, UT","Washington School District",2121,1 
+"49","49053","92924","99999","84780","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","Washington, UT","Washington School District",24,1 
+"49","49053","92924","99999","84782","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","Veyo, UT","Washington School District",311,1 
+"49","49053","92924","99999","84783","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","Dammeron Valley, UT","Washington School District",2,1 
+"49","49053","92924","99999","84790","99999","01140","100,000-249,999","Not in a place","UT","Washington UT","St. George CCD"," ","99999","St. George, UT","Washington School District",10,1 
+"49","49055","91247","33100","84734","99999","01170","2500-9999","200-999","UT","Wayne UT","Hanksville CCD","Hanksville town, UT","99999","Hanksville, UT","Wayne School District",219,1 
+"49","49055","91247","99999","84734","99999","01170","2500-9999","Not in a place","UT","Wayne UT","Hanksville CCD"," ","99999","Hanksville, UT","Wayne School District",42,1 
+"49","49055","91247","99999","84775","99999","01170","2500-9999","Not in a place","UT","Wayne UT","Hanksville CCD"," ","99999","Torrey, UT","Wayne School District",53,1 
+"49","49055","91720","05490","84715","99999","01170","2500-9999","200-999","UT","Wayne UT","Loa CCD","Bicknell town, UT","99999","Bicknell, UT","Wayne School District",327,1 
+"49","49055","91720","27270","84747","99999","01170","2500-9999","Less than 200","UT","Wayne UT","Loa CCD","Fremont CDP, UT","99999","Loa, UT","Wayne School District",145,1 
+"49","49055","91720","45530","84747","99999","01170","2500-9999","200-999","UT","Wayne UT","Loa CCD","Loa town, UT","99999","Loa, UT","Wayne School District",572,1 
+"49","49055","91720","46410","84747","99999","01170","2500-9999","200-999","UT","Wayne UT","Loa CCD","Lyman town, UT","99999","Loa, UT","Wayne School District",69,1 
+"49","49055","91720","46410","84749","99999","01170","2500-9999","200-999","UT","Wayne UT","Loa CCD","Lyman town, UT","99999","Lyman, UT","Wayne School District",189,1 
+"49","49055","91720","75470","84773","99999","01170","2500-9999","Less than 200","UT","Wayne UT","Loa CCD","Teasdale CDP, UT","99999","Teasdale, UT","Wayne School District",191,1 
+"49","49055","91720","77010","84775","99999","01170","2500-9999","Less than 200","UT","Wayne UT","Loa CCD","Torrey town, UT","99999","Torrey, UT","Wayne School District",182,1 
+"49","49055","91720","99999","84715","99999","01170","2500-9999","Not in a place","UT","Wayne UT","Loa CCD"," ","99999","Bicknell, UT","Wayne School District",132,1 
+"49","49055","91720","99999","84747","99999","01170","2500-9999","Not in a place","UT","Wayne UT","Loa CCD"," ","99999","Loa, UT","Wayne School District",311,1 
+"49","49055","91720","99999","84749","99999","01170","2500-9999","Not in a place","UT","Wayne UT","Loa CCD"," ","99999","Lyman, UT","Wayne School District",29,1 
+"49","49055","91720","99999","84773","99999","01170","2500-9999","Not in a place","UT","Wayne UT","Loa CCD"," ","99999","Teasdale, UT","Wayne School District",130,1 
+"49","49055","91720","99999","84775","99999","01170","2500-9999","Not in a place","UT","Wayne UT","Loa CCD"," ","99999","Torrey, UT","Wayne School District",187,1 
+"49","49057","92308","24850","84404","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Northwest Weber CCD","Farr West city, UT","99999","Ogden, UT","Weber School District",5927,1 
+"49","49057","92308","33540","84404","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Northwest Weber CCD","Harrisville city, UT","99999","Ogden, UT","Weber School District",381,1 
+"49","49057","92308","48300","84404","99999","01200","100,000-249,999","1000-2499","UT","Weber UT","Northwest Weber CCD","Marriott-Slaterville city, UT","99999","Ogden, UT","Weber School District",1701,1 
+"49","49057","92308","55980","84401","99999","00720","100,000-249,999","25,000-99,999","UT","Weber UT","Northwest Weber CCD","Ogden city, UT","99999","Ogden, UT","Ogden School District",2,1 
+"49","49057","92308","55980","84404","99999","00720","100,000-249,999","25,000-99,999","UT","Weber UT","Northwest Weber CCD","Ogden city, UT","99999","Ogden, UT","Ogden School District",806,1 
+"49","49057","92308","60710","84404","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Northwest Weber CCD","Plain City city, UT","99999","Ogden, UT","Weber School District",5476,1 
+"49","49057","92308","99999","84404","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Northwest Weber CCD"," ","99999","Ogden, UT","Weber School District",2230,1 
+"49","49057","92322","24850","84404","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Farr West city, UT","99999","Ogden, UT","Weber School District",1,1 
+"49","49057","92322","33540","84404","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Harrisville city, UT","99999","Ogden, UT","Weber School District",2277,1 
+"49","49057","92322","33540","84414","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Harrisville city, UT","99999","North Ogden, UT","Weber School District",2909,1 
+"49","49057","92322","36400","84067","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Hooper city, UT","99999","Roy, UT","Weber School District",70,1 
+"49","49057","92322","36400","84315","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Hooper city, UT","99999","Hooper, UT","Weber School District",7142,1 
+"49","49057","92322","36400","84401","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Hooper city, UT","99999","Ogden, UT","Weber School District",6,1 
+"49","49057","92322","55100","84404","99999","01200","100,000-249,999","10,000-24,999","UT","Weber UT","Ogden CCD","North Ogden city, UT","99999","Ogden, UT","Weber School District",622,1 
+"49","49057","92322","55100","84414","99999","01200","100,000-249,999","10,000-24,999","UT","Weber UT","Ogden CCD","North Ogden city, UT","99999","North Ogden, UT","Weber School District",16725,1 
+"49","49057","92322","55980","84401","99999","00720","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Ogden city, UT","99999","Ogden, UT","Ogden School District",22666,1 
+"49","49057","92322","55980","84401","99999","01200","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Ogden city, UT","99999","Ogden, UT","Weber School District",9,1 
+"49","49057","92322","55980","84403","99999","00720","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Ogden city, UT","99999","Ogden, UT","Ogden School District",23681,1 
+"49","49057","92322","55980","84404","99999","00720","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Ogden city, UT","99999","Ogden, UT","Ogden School District",35642,1 
+"49","49057","92322","55980","84404","99999","01200","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Ogden city, UT","99999","Ogden, UT","Weber School District",16,1 
+"49","49057","92322","55980","84405","99999","00720","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Ogden city, UT","99999","Washington Terrace, UT","Ogden School District",3,1 
+"49","49057","92322","61150","84404","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Pleasant View city, UT","99999","Ogden, UT","Weber School District",1258,1 
+"49","49057","92322","61150","84414","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Pleasant View city, UT","99999","North Ogden, UT","Weber School District",6721,1 
+"49","49057","92322","64010","84405","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Riverdale city, UT","99999","Washington Terrace, UT","Weber School District",8426,1 
+"49","49057","92322","65110","84067","99999","01200","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Roy city, UT","99999","Roy, UT","Weber School District",36744,1 
+"49","49057","92322","65110","84315","99999","01200","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Roy city, UT","99999","Hooper, UT","Weber School District",118,1 
+"49","49057","92322","65110","84401","99999","01200","100,000-249,999","25,000-99,999","UT","Weber UT","Ogden CCD","Roy city, UT","99999","Ogden, UT","Weber School District",22,1 
+"49","49057","92322","70960","84403","99999","01200","100,000-249,999","10,000-24,999","UT","Weber UT","Ogden CCD","South Ogden city, UT","99999","Ogden, UT","Weber School District",10245,1 
+"49","49057","92322","70960","84405","99999","01200","100,000-249,999","10,000-24,999","UT","Weber UT","Ogden CCD","South Ogden city, UT","99999","Washington Terrace, UT","Weber School District",6287,1 
+"49","49057","92322","77890","84403","99999","01200","100,000-249,999","1000-2499","UT","Weber UT","Ogden CCD","Uintah town, UT","99999","Ogden, UT","Weber School District",131,1 
+"49","49057","92322","77890","84405","99999","01200","100,000-249,999","1000-2499","UT","Weber UT","Ogden CCD","Uintah town, UT","99999","Washington Terrace, UT","Weber School District",1191,1 
+"49","49057","92322","82070","84405","99999","01200","100,000-249,999","2500-9999","UT","Weber UT","Ogden CCD","Washington Terrace city, UT","99999","Washington Terrace, UT","Weber School District",9067,1 
+"49","49057","92322","82930","84067","99999","01200","100,000-249,999","10,000-24,999","UT","Weber UT","Ogden CCD","West Haven city, UT","99999","Roy, UT","Weber School District",91,1 
+"49","49057","92322","82930","84401","99999","01200","100,000-249,999","10,000-24,999","UT","Weber UT","Ogden CCD","West Haven city, UT","99999","Ogden, UT","Weber School District",10181,1 
+"49","49057","92322","99999","84067","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden CCD"," ","99999","Roy, UT","Weber School District",539,1 
+"49","49057","92322","99999","84401","99999","00720","100,000-249,999","Not in a place","UT","Weber UT","Ogden CCD"," ","99999","Ogden, UT","Ogden School District",14,1 
+"49","49057","92322","99999","84401","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden CCD"," ","99999","Ogden, UT","Weber School District",2547,1 
+"49","49057","92322","99999","84403","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden CCD"," ","99999","Ogden, UT","Weber School District",2521,1 
+"49","49057","92322","99999","84404","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden CCD"," ","99999","Ogden, UT","Weber School District",26,1 
+"49","49057","92322","99999","84405","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden CCD"," ","99999","Washington Terrace, UT","Weber School District",69,1 
+"49","49057","92322","99999","84414","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden CCD"," ","99999","North Ogden, UT","Weber School District",142,1 
+"49","49057","92365","21990","84310","99999","01200","100,000-249,999","200-999","UT","Weber UT","Ogden Valley CCD","Eden CDP, UT","99999","Wolf Creek, UT","Weber School District",600,1 
+"49","49057","92365","37060","84317","99999","01200","100,000-249,999","200-999","UT","Weber UT","Ogden Valley CCD","Huntsville town, UT","99999","Huntsville, UT","Weber School District",608,1 
+"49","49057","92365","44870","84310","99999","01200","100,000-249,999","1000-2499","UT","Weber UT","Ogden Valley CCD","Liberty CDP, UT","99999","Wolf Creek, UT","Weber School District",1257,1 
+"49","49057","92365","55100","84414","99999","01200","100,000-249,999","10,000-24,999","UT","Weber UT","Ogden Valley CCD","North Ogden city, UT","99999","North Ogden, UT","Weber School District",10,1 
+"49","49057","92365","84950","84310","99999","01200","100,000-249,999","1000-2499","UT","Weber UT","Ogden Valley CCD","Wolf Creek CDP, UT","99999","Wolf Creek, UT","Weber School District",1336,1 
+"49","49057","92365","99999","84310","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden Valley CCD"," ","99999","Wolf Creek, UT","Weber School District",918,1 
+"49","49057","92365","99999","84317","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden Valley CCD"," ","99999","Huntsville, UT","Weber School District",1696,1 
+"49","49057","92365","99999","84401","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden Valley CCD"," ","99999","Ogden, UT","Weber School District",175,1 
+"49","49057","92365","99999","84403","99999","01200","100,000-249,999","Not in a place","UT","Weber UT","Ogden Valley CCD"," ","99999","Ogden, UT","Weber School District",4,1 

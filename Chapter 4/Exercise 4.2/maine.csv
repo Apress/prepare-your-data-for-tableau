@@ -1,0 +1,911 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"23","23001","02060","02060","04210","99999","02610","100,000-249,999","10,000-24,999","ME","Androscoggin ME","Auburn city","Auburn city, ME","99999","Auburn, ME","Auburn",23045,1 
+"23","23001","02060","02060","04258","99999","02610","100,000-249,999","10,000-24,999","ME","Androscoggin ME","Auburn city","Auburn city, ME","99999","Minot, ME","Auburn",10,1 
+"23","23001","19105","99999","04222","99999","14789","100,000-249,999","Not in a place","ME","Androscoggin ME","Durham town"," ","99999","Durham, ME","Regional School Unit 05",3848,1 
+"23","23001","29255","99999","04236","99999","14160","100,000-249,999","Not in a place","ME","Androscoggin ME","Greene town"," ","99999","Greene, ME","School Administrative District 52",4350,1 
+"23","23001","38565","99999","04263","99999","14160","100,000-249,999","Not in a place","ME","Androscoggin ME","Leeds town"," ","99999","Leeds, ME","School Administrative District 52",2326,1 
+"23","23001","38740","38740","04240","99999","07320","100,000-249,999","25,000-99,999","ME","Androscoggin ME","Lewiston city","Lewiston city, ME","99999","Lewiston, ME","Lewiston",36592,1 
+"23","23001","40035","40105","04252","99999","07530","100,000-249,999","2500-9999","ME","Androscoggin ME","Lisbon town","Lisbon Falls CDP, ME","99999","Lisbon Falls, ME","Lisbon",4100,1 
+"23","23001","40035","99999","04250","99999","07530","100,000-249,999","Not in a place","ME","Androscoggin ME","Lisbon town"," ","99999","Lisbon, ME","Lisbon",4210,1 
+"23","23001","40035","99999","04252","99999","07530","100,000-249,999","Not in a place","ME","Androscoggin ME","Lisbon town"," ","99999","Lisbon Falls, ME","Lisbon",699,1 
+"23","23001","40665","99999","04253","99999","11400","100,000-249,999","Not in a place","ME","Androscoggin ME","Livermore town"," ","99999","Livermore, ME","School Administrative District 36",2095,1 
+"23","23001","40770","40735","04254","99999","11400","100,000-249,999","1000-2499","ME","Androscoggin ME","Livermore Falls town","Livermore Falls CDP, ME","99999","Livermore Falls, ME","School Administrative District 36",1594,1 
+"23","23001","40770","99999","04228","99999","11400","100,000-249,999","Not in a place","ME","Androscoggin ME","Livermore Falls town"," ","99999","East Livermore, ME (PO Boxes)","School Administrative District 36",6,1 
+"23","23001","40770","99999","04254","99999","11400","100,000-249,999","Not in a place","ME","Androscoggin ME","Livermore Falls town"," ","99999","Livermore Falls, ME","School Administrative District 36",1587,1 
+"23","23001","44585","44620","04256","99999","14775","100,000-249,999","1000-2499","ME","Androscoggin ME","Mechanic Falls town","Mechanic Falls CDP, ME","99999","Mechanic Falls, ME","Regional School Unit 16",2237,1 
+"23","23001","44585","99999","04256","99999","14775","100,000-249,999","Not in a place","ME","Androscoggin ME","Mechanic Falls town"," ","99999","Mechanic Falls, ME","Regional School Unit 16",793,1 
+"23","23001","44585","99999","04274","99999","14775","100,000-249,999","Not in a place","ME","Androscoggin ME","Mechanic Falls town"," ","99999","Poland, ME","Regional School Unit 16",1,1 
+"23","23001","46160","99999","04258","99999","14775","100,000-249,999","Not in a place","ME","Androscoggin ME","Minot town"," ","99999","Minot, ME","Regional School Unit 16",2607,1 
+"23","23001","60020","99999","04256","99999","14775","100,000-249,999","Not in a place","ME","Androscoggin ME","Poland town"," ","99999","Mechanic Falls, ME","Regional School Unit 16",34,1 
+"23","23001","60020","99999","04274","99999","14775","100,000-249,999","Not in a place","ME","Androscoggin ME","Poland town"," ","99999","Poland, ME","Regional School Unit 16",5342,1 
+"23","23001","64570","99999","04250","99999","14783","100,000-249,999","Not in a place","ME","Androscoggin ME","Sabattus town"," ","99999","Lisbon, ME","Regional School Unit 04",18,1 
+"23","23001","64570","99999","04280","99999","14783","100,000-249,999","Not in a place","ME","Androscoggin ME","Sabattus town"," ","99999","Sabattus, ME","Regional School Unit 04",4858,1 
+"23","23001","77800","99999","04282","99999","14160","100,000-249,999","Not in a place","ME","Androscoggin ME","Turner town"," ","99999","Turner, ME","School Administrative District 52",5734,1 
+"23","23001","79585","99999","04280","99999","14783","100,000-249,999","Not in a place","ME","Androscoggin ME","Wales town"," ","99999","Sabattus, ME","Regional School Unit 04",1616,1 
+"23","23003","00800","99999","04774","99999","10560","25,000-99,999","Not in a place","ME","Aroostook ME","Allagash town"," ","99999","Saint Francis, ME","School Administration District 10",239,1 
+"23","23003","01220","99999","04471","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","Amity town"," ","99999","Orient, ME","School Administrative District 70",238,1 
+"23","23003","01710","01675","04732","99999","11280","25,000-99,999","200-999","ME","Aroostook ME","Ashland town","Ashland CDP, ME","99999","Ashland, ME","School Administrative District 32",709,1 
+"23","23003","01710","99999","04732","99999","11280","25,000-99,999","Not in a place","ME","Aroostook ME","Ashland town"," ","99999","Ashland, ME","School Administrative District 32",593,1 
+"23","23003","02760","99999","04424","99999","02790","25,000-99,999","Not in a place","ME","Aroostook ME","Bancroft town"," ","99999","Danforth, ME","Bancroft",12,1 
+"23","23003","02760","99999","04497","99999","02790","25,000-99,999","Not in a place","ME","Aroostook ME","Bancroft town"," ","99999","Wytopitlock, ME","Bancroft",56,1 
+"23","23003","05385","05350","04734","99999","11610","25,000-99,999","200-999","ME","Aroostook ME","Blaine town","Blaine CDP, ME","99999","Blaine, ME (PO Boxes)","School Administrative District 42",301,1 
+"23","23003","05385","99999","04734","99999","11610","25,000-99,999","Not in a place","ME","Aroostook ME","Blaine town"," ","99999","Blaine, ME (PO Boxes)","School Administrative District 42",425,1 
+"23","23003","07065","99999","04735","99999","00004","25,000-99,999","Not in a place","ME","Aroostook ME","Bridgewater town"," ","99999","Bridgewater, ME","Bridgewater",610,1 
+"23","23003","10565","10565","04736","99999","14794","25,000-99,999","2500-9999","ME","Aroostook ME","Caribou city","Caribou city, ME","99999","Caribou, ME","Regional School Unit 39",8189,1 
+"23","23003","11020","99999","04471","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","Cary plantation"," ","99999","Orient, ME","School Administrative District 70",218,1 
+"23","23003","11300","99999","04757","99999","10860","25,000-99,999","Not in a place","ME","Aroostook ME","Castle Hill town"," ","99999","Mapleton, ME","School Administrative District 01",425,1 
+"23","23003","11335","99999","04736","99999","04110","25,000-99,999","Not in a place","ME","Aroostook ME","Caswell town"," ","99999","Caribou, ME","Caswell",17,1 
+"23","23003","11335","99999","04750","99999","04110","25,000-99,999","Not in a place","ME","Aroostook ME","Caswell town"," ","99999","Limestone, ME","Caswell",289,1 
+"23","23003","11785","99999","04734","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Central Aroostook UT"," ","99999","Blaine, ME (PO Boxes)","Aroostook Unorganized Territory",74,1 
+"23","23003","11785","99999","04735","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Central Aroostook UT"," ","99999","Bridgewater, ME","Aroostook Unorganized Territory",7,1 
+"23","23003","11785","99999","04757","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Central Aroostook UT"," ","99999","Mapleton, ME","Aroostook Unorganized Territory",29,1 
+"23","23003","11785","99999","04760","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Central Aroostook UT"," ","99999","Monticello, ME","Aroostook Unorganized Territory",5,1 
+"23","23003","11785","99999","04780","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Central Aroostook UT"," ","99999","Smyrna Mills, ME","Aroostook Unorganized Territory",3,1 
+"23","23003","12000","99999","04757","99999","10860","25,000-99,999","Not in a place","ME","Aroostook ME","Chapman town"," ","99999","Mapleton, ME","School Administrative District 01",468,1 
+"23","23003","13900","99999","04736","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Connor UT"," ","99999","Caribou, ME","Aroostook Unorganized Territory",457,1 
+"23","23003","15395","99999","04747","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Crystal town"," ","99999","Island Falls, ME","Southern Aroostook Community School District",269,1 
+"23","23003","15990","99999","04785","99999","11010","25,000-99,999","Not in a place","ME","Aroostook ME","Cyr plantation"," ","99999","Van Buren, ME","School Administrative District 24",103,1 
+"23","23003","19210","99999","04747","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Dyer Brook town"," ","99999","Island Falls, ME","Southern Aroostook Community School District",207,1 
+"23","23003","19210","99999","04780","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Dyer Brook town"," ","99999","Smyrna Mills, ME","Southern Aroostook Community School District",6,1 
+"23","23003","19420","19385","04739","99999","11100","25,000-99,999","200-999","ME","Aroostook ME","Eagle Lake town","Eagle Lake CDP, ME","99999","Eagle Lake, ME","School Administrative District 27",625,1 
+"23","23003","19420","99999","04739","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","Eagle Lake town"," ","99999","Eagle Lake, ME","School Administrative District 27",239,1 
+"23","23003","21380","99999","04740","99999","05310","25,000-99,999","Not in a place","ME","Aroostook ME","Easton town"," ","99999","Easton, ME","Easton",1287,1 
+"23","23003","25615","25580","04742","99999","10890","25,000-99,999","1000-2499","ME","Aroostook ME","Fort Fairfield town","Fort Fairfield CDP, ME","99999","Fort Fairfield, ME","School Administrative District 20",1825,1 
+"23","23003","25615","99999","04742","99999","10890","25,000-99,999","Not in a place","ME","Aroostook ME","Fort Fairfield town"," ","99999","Fort Fairfield, ME","School Administrative District 20",1671,1 
+"23","23003","25755","25720","04743","99999","11100","25,000-99,999","1000-2499","ME","Aroostook ME","Fort Kent town","Fort Kent CDP, ME","99999","Fort Kent, ME","School Administrative District 27",2488,1 
+"23","23003","25755","99999","04743","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","Fort Kent town"," ","99999","Fort Kent, ME","School Administrative District 27",1609,1 
+"23","23003","26735","99999","04743","99999","11310","25,000-99,999","Not in a place","ME","Aroostook ME","Frenchville town"," ","99999","Fort Kent, ME","School Administrative District 33",5,1 
+"23","23003","26735","99999","04745","99999","11310","25,000-99,999","Not in a place","ME","Aroostook ME","Frenchville town"," ","99999","Frenchville, ME","School Administrative District 33",1082,1 
+"23","23003","27120","99999","04732","99999","11280","25,000-99,999","Not in a place","ME","Aroostook ME","Garfield plantation"," ","99999","Ashland, ME","School Administrative District 32",81,1 
+"23","23003","27855","99999","04497","99999","06030","25,000-99,999","Not in a place","ME","Aroostook ME","Glenwood plantation"," ","99999","Wytopitlock, ME","Glenwood Plantation",3,1 
+"23","23003","28590","99999","04746","99999","00005","25,000-99,999","Not in a place","ME","Aroostook ME","Grand Isle town"," ","99999","Grand Isle, ME","Grand Isle",467,1 
+"23","23003","30690","99999","04785","99999","11010","25,000-99,999","Not in a place","ME","Aroostook ME","Hamlin town"," ","99999","Van Buren, ME","School Administrative District 24",219,1 
+"23","23003","30725","99999","04730","99999","11160","25,000-99,999","Not in a place","ME","Aroostook ME","Hammond town"," ","99999","Houlton, ME","School Administrative District 29",118,1 
+"23","23003","32195","99999","04497","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","Haynesville town"," ","99999","Wytopitlock, ME","School Administrative District 70",121,1 
+"23","23003","32685","99999","04747","99999","06540","25,000-99,999","Not in a place","ME","Aroostook ME","Hersey town"," ","99999","Island Falls, ME","Hersey",23,1 
+"23","23003","32685","99999","04780","99999","06540","25,000-99,999","Not in a place","ME","Aroostook ME","Hersey town"," ","99999","Smyrna Mills, ME","Hersey",60,1 
+"23","23003","33385","99999","04730","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","Hodgdon town"," ","99999","Houlton, ME","School Administrative District 70",1309,1 
+"23","23003","33980","33945","04730","99999","11160","25,000-99,999","2500-9999","ME","Aroostook ME","Houlton town","Houlton CDP, ME","99999","Houlton, ME","School Administrative District 29",4856,1 
+"23","23003","33980","99999","04730","99999","11160","25,000-99,999","Not in a place","ME","Aroostook ME","Houlton town"," ","99999","Houlton, ME","School Administrative District 29",1267,1 
+"23","23003","35065","99999","04747","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Island Falls town"," ","99999","Island Falls, ME","Southern Aroostook Community School District",837,1 
+"23","23003","39300","39265","04750","99999","14794","25,000-99,999","1000-2499","ME","Aroostook ME","Limestone town","Limestone CDP, ME","99999","Limestone, ME","Regional School Unit 39",1075,1 
+"23","23003","39300","99999","04750","99999","14794","25,000-99,999","Not in a place","ME","Aroostook ME","Limestone town"," ","99999","Limestone, ME","Regional School Unit 39",1239,1 
+"23","23003","39965","99999","04730","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","Linneus town"," ","99999","Houlton, ME","School Administrative District 70",965,1 
+"23","23003","39965","99999","04761","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","Linneus town"," ","99999","New Limerick, ME","School Administrative District 70",19,1 
+"23","23003","40595","99999","04730","99999","11160","25,000-99,999","Not in a place","ME","Aroostook ME","Littleton town"," ","99999","Houlton, ME","School Administrative District 29",1068,1 
+"23","23003","41715","99999","04730","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","Ludlow town"," ","99999","Houlton, ME","School Administrative District 70",404,1 
+"23","23003","42450","99999","04451","99999","07770","25,000-99,999","Not in a place","ME","Aroostook ME","Macwahoc plantation"," ","99999","Kingman, ME","Macwahoc Plantation",79,1 
+"23","23003","42520","42485","04756","99999","07800","25,000-99,999","2500-9999","ME","Aroostook ME","Madawaska town","Madawaska CDP, ME","99999","Madawaska, ME","Madawaska",2967,1 
+"23","23003","42520","99999","04756","99999","07800","25,000-99,999","Not in a place","ME","Aroostook ME","Madawaska town"," ","99999","Madawaska, ME","Madawaska",377,1 
+"23","23003","42520","99999","04773","99999","07800","25,000-99,999","Not in a place","ME","Aroostook ME","Madawaska town"," ","99999","Saint David, ME","Madawaska",691,1 
+"23","23003","43255","43220","04757","99999","10860","25,000-99,999","200-999","ME","Aroostook ME","Mapleton town","Mapleton CDP, ME","99999","Mapleton, ME","School Administrative District 01",683,1 
+"23","23003","43255","99999","04757","99999","10860","25,000-99,999","Not in a place","ME","Aroostook ME","Mapleton town"," ","99999","Mapleton, ME","School Administrative District 01",1265,1 
+"23","23003","43710","43675","04758","99999","11610","25,000-99,999","200-999","ME","Aroostook ME","Mars Hill town","Mars Hill CDP, ME","99999","Mars Hill, ME","School Administrative District 42",980,1 
+"23","23003","43710","99999","04758","99999","11610","25,000-99,999","Not in a place","ME","Aroostook ME","Mars Hill town"," ","99999","Mars Hill, ME","School Administrative District 42",513,1 
+"23","23003","43990","99999","04732","99999","11280","25,000-99,999","Not in a place","ME","Aroostook ME","Masardis town"," ","99999","Ashland, ME","School Administrative District 32",249,1 
+"23","23003","45180","99999","04780","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Merrill town"," ","99999","Smyrna Mills, ME","Southern Aroostook Community School District",273,1 
+"23","23003","46685","99999","04760","99999","11160","25,000-99,999","Not in a place","ME","Aroostook ME","Monticello town"," ","99999","Monticello, ME","School Administrative District 29",790,1 
+"23","23003","47175","99999","04765","99999","08430","25,000-99,999","Not in a place","ME","Aroostook ME","Moro plantation"," ","99999","Patten, ME","Moro Plantation",21,1 
+"23","23003","47175","99999","04780","99999","08430","25,000-99,999","Not in a place","ME","Aroostook ME","Moro plantation"," ","99999","Smyrna Mills, ME","Moro Plantation",17,1 
+"23","23003","48120","99999","04732","99999","08580","25,000-99,999","Not in a place","ME","Aroostook ME","Nashville plantation"," ","99999","Ashland, ME","Nashville Plantation",38,1 
+"23","23003","48120","99999","04768","99999","08580","25,000-99,999","Not in a place","ME","Aroostook ME","Nashville plantation"," ","99999","Portage, ME (PO Boxes)","Nashville Plantation",8,1 
+"23","23003","48575","99999","04743","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","New Canada town"," ","99999","Fort Kent, ME","School Administrative District 27",307,1 
+"23","23003","48575","99999","04781","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","New Canada town"," ","99999","Wallagrass, ME","School Administrative District 27",14,1 
+"23","23003","48960","99999","04761","99999","14762","25,000-99,999","Not in a place","ME","Aroostook ME","New Limerick town"," ","99999","New Limerick, ME","School Administrative District 70",510,1 
+"23","23003","49415","99999","04762","99999","08700","25,000-99,999","Not in a place","ME","Aroostook ME","New Sweden town"," ","99999","New Sweden, ME","New Sweden",602,1 
+"23","23003","53602","99999","04741","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Northwest Aroostook UT"," ","99999","Estcourt Station, ME","Aroostook Unorganized Territory",3,1 
+"23","23003","53602","99999","04768","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Northwest Aroostook UT"," ","99999","Portage, ME (PO Boxes)","Aroostook Unorganized Territory",1,1 
+"23","23003","53602","99999","04774","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Northwest Aroostook UT"," ","99999","Saint Francis, ME","Aroostook Unorganized Territory",6,1 
+"23","23003","54385","99999","04763","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Oakfield town"," ","99999","Oakfield, ME","Southern Aroostook Community School District",726,1 
+"23","23003","54385","99999","04780","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Oakfield town"," ","99999","Smyrna Mills, ME","Southern Aroostook Community School District",11,1 
+"23","23003","55435","99999","04471","99999","09240","25,000-99,999","Not in a place","ME","Aroostook ME","Orient town"," ","99999","Orient, ME","Orient",147,1 
+"23","23003","56205","99999","04764","99999","11280","25,000-99,999","Not in a place","ME","Aroostook ME","Oxbow plantation"," ","99999","Oxbow, ME","School Administrative District 32",66,1 
+"23","23003","58060","99999","04766","99999","11700","25,000-99,999","Not in a place","ME","Aroostook ME","Perham town"," ","99999","Perham, ME","School Administrative District 45",386,1 
+"23","23003","60300","99999","04768","99999","11280","25,000-99,999","Not in a place","ME","Aroostook ME","Portage Lake town"," ","99999","Portage, ME (PO Boxes)","School Administrative District 32",391,1 
+"23","23003","60825","60825","04769","99999","10860","25,000-99,999","2500-9999","ME","Aroostook ME","Presque Isle city","Presque Isle city, ME","99999","Presque Isle, ME","School Administrative District 01",9692,1 
+"23","23003","62400","99999","04497","99999","10140","25,000-99,999","Not in a place","ME","Aroostook ME","Reed plantation"," ","99999","Wytopitlock, ME","Reed Plantation",161,1 
+"23","23003","64780","99999","04772","99999","11310","25,000-99,999","Not in a place","ME","Aroostook ME","St. Agatha town"," ","99999","Saint Agatha, ME","School Administrative District 33",747,1 
+"23","23003","65025","99999","04774","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","St. Francis town"," ","99999","Saint Francis, ME","School Administrative District 27",485,1 
+"23","23003","65200","99999","04743","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","St. John plantation"," ","99999","Fort Kent, ME","School Administrative District 27",267,1 
+"23","23003","67790","99999","04776","99999","11040","25,000-99,999","Not in a place","ME","Aroostook ME","Sherman town"," ","99999","Sherman, ME","School Administrative District 25",848,1 
+"23","23003","69260","99999","04730","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Smyrna town"," ","99999","Houlton, ME","Southern Aroostook Community School District",4,1 
+"23","23003","69260","99999","04780","99999","12410","25,000-99,999","Not in a place","ME","Aroostook ME","Smyrna town"," ","99999","Smyrna Mills, ME","Southern Aroostook Community School District",438,1 
+"23","23003","69930","99999","04459","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","South Aroostook UT"," ","99999","Mattawamkeag, ME","Aroostook Unorganized Territory",86,1 
+"23","23003","69930","99999","04460","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","South Aroostook UT"," ","99999","Medway, ME","Aroostook Unorganized Territory",14,1 
+"23","23003","69930","99999","04497","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","South Aroostook UT"," ","99999","Wytopitlock, ME","Aroostook Unorganized Territory",2,1 
+"23","23003","69930","99999","04730","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","South Aroostook UT"," ","99999","Houlton, ME","Aroostook Unorganized Territory",1,1 
+"23","23003","69930","99999","04733","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","South Aroostook UT"," ","99999","Benedicta, ME","Aroostook Unorganized Territory",205,1 
+"23","23003","69930","99999","04747","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","South Aroostook UT"," ","99999","Island Falls, ME","Aroostook Unorganized Territory",1,1 
+"23","23003","69930","99999","04776","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","South Aroostook UT"," ","99999","Sherman, ME","Aroostook Unorganized Territory",77,1 
+"23","23003","73472","99999","04739","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Square Lake UT"," ","99999","Eagle Lake, ME","Aroostook Unorganized Territory",24,1 
+"23","23003","73472","99999","04772","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Square Lake UT"," ","99999","Saint Agatha, ME","Aroostook Unorganized Territory",15,1 
+"23","23003","73472","99999","04773","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Square Lake UT"," ","99999","Saint David, ME","Aroostook Unorganized Territory",32,1 
+"23","23003","73472","99999","04779","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Square Lake UT"," ","99999","Sinclair, ME","Aroostook Unorganized Territory",398,1 
+"23","23003","73472","99999","04783","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Square Lake UT"," ","99999","Stockholm, ME","Aroostook Unorganized Territory",111,1 
+"23","23003","73472","99999","04785","99999","82001","25,000-99,999","Not in a place","ME","Aroostook ME","Square Lake UT"," ","99999","Van Buren, ME","Aroostook Unorganized Territory",14,1 
+"23","23003","74405","99999","04783","99999","14794","25,000-99,999","Not in a place","ME","Aroostook ME","Stockholm town"," ","99999","Stockholm, ME","Regional School Unit 39",253,1 
+"23","23003","78570","78535","04785","99999","11010","25,000-99,999","1000-2499","ME","Aroostook ME","Van Buren town","Van Buren CDP, ME","99999","Van Buren, ME","School Administrative District 24",1937,1 
+"23","23003","78570","99999","04746","99999","11010","25,000-99,999","Not in a place","ME","Aroostook ME","Van Buren town"," ","99999","Grand Isle, ME","School Administrative District 24",3,1 
+"23","23003","78570","99999","04785","99999","11010","25,000-99,999","Not in a place","ME","Aroostook ME","Van Buren town"," ","99999","Van Buren, ME","School Administrative District 24",231,1 
+"23","23003","79270","99999","04786","99999","11700","25,000-99,999","Not in a place","ME","Aroostook ME","Wade town"," ","99999","Washburn, ME","School Administrative District 45",283,1 
+"23","23003","79865","99999","04781","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","Wallagrass town"," ","99999","Wallagrass, ME","School Administrative District 27",546,1 
+"23","23003","80285","80250","04786","99999","11700","25,000-99,999","200-999","ME","Aroostook ME","Washburn town","Washburn CDP, ME","99999","Washburn, ME","School Administrative District 45",997,1 
+"23","23003","80285","99999","04786","99999","11700","25,000-99,999","Not in a place","ME","Aroostook ME","Washburn town"," ","99999","Washburn, ME","School Administrative District 45",690,1 
+"23","23003","82770","99999","04758","99999","10860","25,000-99,999","Not in a place","ME","Aroostook ME","Westfield town"," ","99999","Mars Hill, ME","School Administrative District 01",5,1 
+"23","23003","82770","99999","04787","99999","10860","25,000-99,999","Not in a place","ME","Aroostook ME","Westfield town"," ","99999","Westfield, ME","School Administrative District 01",544,1 
+"23","23003","83540","99999","04783","99999","13590","25,000-99,999","Not in a place","ME","Aroostook ME","Westmanland town"," ","99999","Stockholm, ME","Westmanland",62,1 
+"23","23003","83785","99999","04424","99999","10680","25,000-99,999","Not in a place","ME","Aroostook ME","Weston town"," ","99999","Danforth, ME","School Administrative District 14",222,1 
+"23","23003","83785","99999","04471","99999","10680","25,000-99,999","Not in a place","ME","Aroostook ME","Weston town"," ","99999","Orient, ME","School Administrative District 14",6,1 
+"23","23003","86865","99999","04739","99999","11100","25,000-99,999","Not in a place","ME","Aroostook ME","Winterville plantation"," ","99999","Eagle Lake, ME","School Administrative District 27",224,1 
+"23","23003","87215","99999","04736","99999","14010","25,000-99,999","Not in a place","ME","Aroostook ME","Woodland town"," ","99999","Caribou, ME","Woodland",1213,1 
+"23","23005","02655","99999","04024","99999","14190","250,000-999,999","Not in a place","ME","Cumberland ME","Baldwin town"," ","99999","East Baldwin, ME","School Administrative District 55",608,1 
+"23","23005","02655","99999","04029","99999","14190","250,000-999,999","Not in a place","ME","Cumberland ME","Baldwin town"," ","99999","Sebago, ME","School Administrative District 55",6,1 
+"23","23005","02655","99999","04091","99999","14190","250,000-999,999","Not in a place","ME","Cumberland ME","Baldwin town"," ","99999","West Baldwin, ME","School Administrative District 55",911,1 
+"23","23005","07170","07135","04009","99999","14210","250,000-999,999","1000-2499","ME","Cumberland ME","Bridgton town","Bridgton CDP, ME","99999","Bridgton, ME","School Administrative District 61",2015,1 
+"23","23005","07170","07135","04057","99999","14210","250,000-999,999","1000-2499","ME","Cumberland ME","Bridgton town","Bridgton CDP, ME","99999","Bridgton, ME","School Administrative District 61",56,1 
+"23","23005","07170","99999","04009","99999","14210","250,000-999,999","Not in a place","ME","Cumberland ME","Bridgton town"," ","99999","Bridgton, ME","School Administrative District 61",3136,1 
+"23","23005","07170","99999","04040","99999","14210","250,000-999,999","Not in a place","ME","Cumberland ME","Bridgton town"," ","99999","Harrison, ME","School Administrative District 61",3,1 
+"23","23005","08430","08395","04011","99999","03780","250,000-999,999","10,000-24,999","ME","Cumberland ME","Brunswick town","Brunswick CDP, ME","99999","Brunswick, ME","Brunswick",15175,1 
+"23","23005","08430","08500","04011","99999","03780","250,000-999,999","200-999","ME","Cumberland ME","Brunswick town","Brunswick Station CDP, ME","99999","Brunswick, ME","Brunswick",578,1 
+"23","23005","08430","99999","04011","99999","03780","250,000-999,999","Not in a place","ME","Cumberland ME","Brunswick town"," ","99999","Brunswick, ME","Brunswick",4525,1 
+"23","23005","10180","99999","04106","99999","03930","250,000-999,999","Not in a place","ME","Cumberland ME","Cape Elizabeth town"," ","99999","South Portland, ME","Cape Elizabeth",49,1 
+"23","23005","10180","99999","04107","99999","03930","250,000-999,999","Not in a place","ME","Cumberland ME","Cape Elizabeth town"," ","99999","Cape Elizabeth, ME","Cape Elizabeth",8966,1 
+"23","23005","11125","11090","04015","99999","14210","250,000-999,999","200-999","ME","Cumberland ME","Casco town","Casco CDP, ME","99999","Casco, ME","School Administrative District 61",587,1 
+"23","23005","11125","99999","04015","99999","14210","250,000-999,999","Not in a place","ME","Cumberland ME","Casco town"," ","99999","Casco, ME","School Administrative District 61",3142,1 
+"23","23005","11125","99999","04071","99999","14210","250,000-999,999","Not in a place","ME","Cumberland ME","Casco town"," ","99999","Raymond, ME","School Administrative District 61",13,1 
+"23","23005","12300","99999","04017","99999","14240","250,000-999,999","Not in a place","ME","Cumberland ME","Chebeague Island town"," ","99999","Chebeague Island, ME","School Administrative District 51",3,1 
+"23","23005","12300","99999","04017","99999","14771","250,000-999,999","Not in a place","ME","Cumberland ME","Chebeague Island town"," ","99999","Chebeague Island, ME","Chebeague Island",338,1 
+"23","23005","15430","15500","04021","99999","14240","250,000-999,999","1000-2499","ME","Cumberland ME","Cumberland town","Cumberland Center CDP, ME","99999","Cumberland Center, ME","School Administrative District 51",2499,1 
+"23","23005","15430","99999","04021","99999","14240","250,000-999,999","Not in a place","ME","Cumberland ME","Cumberland town"," ","99999","Cumberland Center, ME","School Administrative District 51",3321,1 
+"23","23005","15430","99999","04110","99999","14240","250,000-999,999","Not in a place","ME","Cumberland ME","Cumberland town"," ","99999","Cumberland Foreside, ME","School Administrative District 51",1391,1 
+"23","23005","24495","24480","04105","99999","05670","250,000-999,999","1000-2499","ME","Cumberland ME","Falmouth town","Falmouth CDP, ME","99999","Falmouth, ME","Falmouth",1855,1 
+"23","23005","24495","24530","04105","99999","05670","250,000-999,999","1000-2499","ME","Cumberland ME","Falmouth town","Falmouth Foreside CDP, ME","99999","Falmouth, ME","Falmouth",1511,1 
+"23","23005","24495","99999","04062","99999","05670","250,000-999,999","Not in a place","ME","Cumberland ME","Falmouth town"," ","99999","Windham, ME","Falmouth",27,1 
+"23","23005","24495","99999","04105","99999","05670","250,000-999,999","Not in a place","ME","Cumberland ME","Falmouth town"," ","99999","Falmouth, ME","Falmouth",7792,1 
+"23","23005","26525","26490","04032","99999","14789","250,000-999,999","1000-2499","ME","Cumberland ME","Freeport town","Freeport CDP, ME","99999","Freeport, ME","Regional School Unit 05",1485,1 
+"23","23005","26525","99999","04032","99999","14789","250,000-999,999","Not in a place","ME","Cumberland ME","Freeport town"," ","99999","Freeport, ME","Regional School Unit 05",6394,1 
+"23","23005","27025","99999","04071","99999","11790","250,000-999,999","Not in a place","ME","Cumberland ME","Frye Island town"," ","99999","Raymond, ME","School Administrative District 06",5,1 
+"23","23005","28240","28205","04038","99999","06060","250,000-999,999","2500-9999","ME","Cumberland ME","Gorham town","Gorham CDP, ME","99999","Gorham, ME","Gorham",6882,1 
+"23","23005","28240","40350","04038","99999","06060","250,000-999,999","200-999","ME","Cumberland ME","Gorham town","Little Falls CDP, ME","99999","Gorham, ME","Gorham",708,1 
+"23","23005","28240","99999","04038","99999","06060","250,000-999,999","Not in a place","ME","Cumberland ME","Gorham town"," ","99999","Gorham, ME","Gorham",8791,1 
+"23","23005","28870","28835","04039","99999","10710","250,000-999,999","200-999","ME","Cumberland ME","Gray town","Gray CDP, ME","99999","Gray, ME","School Administrative District 15",884,1 
+"23","23005","28870","99999","04039","99999","10710","250,000-999,999","Not in a place","ME","Cumberland ME","Gray town"," ","99999","Gray, ME","School Administrative District 15",6538,1 
+"23","23005","28870","99999","04062","99999","10710","250,000-999,999","Not in a place","ME","Cumberland ME","Gray town"," ","99999","Windham, ME","School Administrative District 15",14,1 
+"23","23005","28870","99999","04071","99999","10710","250,000-999,999","Not in a place","ME","Cumberland ME","Gray town"," ","99999","Raymond, ME","School Administrative District 15",325,1 
+"23","23005","31390","99999","04003","99999","14768","250,000-999,999","Not in a place","ME","Cumberland ME","Harpswell town"," ","99999","Bailey Island, ME","School Administrative District 75",330,1 
+"23","23005","31390","99999","04066","99999","14768","250,000-999,999","Not in a place","ME","Cumberland ME","Harpswell town"," ","99999","Orrs Island, ME","School Administrative District 75",539,1 
+"23","23005","31390","99999","04079","99999","14768","250,000-999,999","Not in a place","ME","Cumberland ME","Harpswell town"," ","99999","Harpswell, ME","School Administrative District 75",3871,1 
+"23","23005","31600","99999","04040","99999","10770","250,000-999,999","Not in a place","ME","Cumberland ME","Harrison town"," ","99999","Harrison, ME","School Administrative District 17",2730,1 
+"23","23005","41067","99999","04050","99999","00009","250,000-999,999","Not in a place","ME","Cumberland ME","Long Island town"," ","99999","Long Island, ME","Long Island",230,1 
+"23","23005","48085","48050","04055","99999","14210","250,000-999,999","200-999","ME","Cumberland ME","Naples town","Naples CDP, ME","99999","Naples, ME","School Administrative District 61",428,1 
+"23","23005","48085","99999","04015","99999","14210","250,000-999,999","Not in a place","ME","Cumberland ME","Naples town"," ","99999","Casco, ME","School Administrative District 61",79,1 
+"23","23005","48085","99999","04055","99999","14210","250,000-999,999","Not in a place","ME","Cumberland ME","Naples town"," ","99999","Naples, ME","School Administrative District 61",3365,1 
+"23","23005","48820","99999","04260","99999","10710","250,000-999,999","Not in a place","ME","Cumberland ME","New Gloucester town"," ","99999","New Gloucester, ME","School Administrative District 15",5542,1 
+"23","23005","53860","99999","04097","99999","14240","250,000-999,999","Not in a place","ME","Cumberland ME","North Yarmouth town"," ","99999","North Yarmouth, ME","School Administrative District 51",3565,1 
+"23","23005","60545","60545","04019","99999","09930","250,000-999,999","25,000-99,999","ME","Cumberland ME","Portland city","Portland city, ME","99999","Portland, ME","Portland",71,1 
+"23","23005","60545","60545","04101","99999","09930","250,000-999,999","25,000-99,999","ME","Cumberland ME","Portland city","Portland city, ME","99999","Portland, ME","Portland",17227,1 
+"23","23005","60545","60545","04102","99999","09930","250,000-999,999","25,000-99,999","ME","Cumberland ME","Portland city","Portland city, ME","99999","Portland, ME","Portland",17335,1 
+"23","23005","60545","60545","04103","99999","09930","250,000-999,999","25,000-99,999","ME","Cumberland ME","Portland city","Portland city, ME","99999","Portland, ME","Portland",30606,1 
+"23","23005","60545","60545","04108","99999","09930","250,000-999,999","25,000-99,999","ME","Cumberland ME","Portland city","Portland city, ME","99999","Portland, ME","Portland",862,1 
+"23","23005","60545","60545","04109","99999","09930","250,000-999,999","25,000-99,999","ME","Cumberland ME","Portland city","Portland city, ME","99999","Portland, ME","Portland",93,1 
+"23","23005","60685","99999","04069","99999","14789","250,000-999,999","Not in a place","ME","Cumberland ME","Pownal town"," ","99999","Pownal, ME","Regional School Unit 05",1465,1 
+"23","23005","60685","99999","04097","99999","14789","250,000-999,999","Not in a place","ME","Cumberland ME","Pownal town"," ","99999","North Yarmouth, ME","Regional School Unit 05",9,1 
+"23","23005","61945","99999","04071","99999","14793","250,000-999,999","Not in a place","ME","Cumberland ME","Raymond town"," ","99999","Raymond, ME","Regional School Unit 14",4436,1 
+"23","23005","66145","66110","04074","99999","10530","250,000-999,999","2500-9999","ME","Cumberland ME","Scarborough town","Scarborough CDP, ME","99999","Scarborough, ME","Scarborough",4403,1 
+"23","23005","66145","99999","04074","99999","10530","250,000-999,999","Not in a place","ME","Cumberland ME","Scarborough town"," ","99999","Scarborough, ME","Scarborough",14357,1 
+"23","23005","66145","99999","04092","99999","10530","250,000-999,999","Not in a place","ME","Cumberland ME","Scarborough town"," ","99999","Westbrook, ME","Scarborough",21,1 
+"23","23005","66145","99999","04106","99999","10530","250,000-999,999","Not in a place","ME","Cumberland ME","Scarborough town"," ","99999","South Portland, ME","Scarborough",138,1 
+"23","23005","66775","99999","04029","99999","14210","250,000-999,999","Not in a place","ME","Cumberland ME","Sebago town"," ","99999","Sebago, ME","School Administrative District 61",1719,1 
+"23","23005","71990","71990","04106","99999","12330","250,000-999,999","25,000-99,999","ME","Cumberland ME","South Portland city","South Portland city, ME","99999","South Portland, ME","South Portland",24988,1 
+"23","23005","71990","71990","04107","99999","12330","250,000-999,999","25,000-99,999","ME","Cumberland ME","South Portland city","South Portland city, ME","99999","Cape Elizabeth, ME","South Portland",14,1 
+"23","23005","73670","73635","04084","99999","11790","250,000-999,999","200-999","ME","Cumberland ME","Standish town","Standish CDP, ME","99999","Standish, ME","School Administrative District 06",469,1 
+"23","23005","73670","73985","04084","99999","11790","250,000-999,999","1000-2499","ME","Cumberland ME","Standish town","Steep Falls CDP, ME","99999","Standish, ME","School Administrative District 06",46,1 
+"23","23005","73670","73985","04085","99999","11790","250,000-999,999","1000-2499","ME","Cumberland ME","Standish town","Steep Falls CDP, ME","99999","Steep Falls, ME","School Administrative District 06",1093,1 
+"23","23005","73670","99999","04084","99999","11790","250,000-999,999","Not in a place","ME","Cumberland ME","Standish town"," ","99999","Standish, ME","School Administrative District 06",7573,1 
+"23","23005","73670","99999","04085","99999","11790","250,000-999,999","Not in a place","ME","Cumberland ME","Standish town"," ","99999","Steep Falls, ME","School Administrative District 06",693,1 
+"23","23005","82105","82105","04092","99999","13560","250,000-999,999","10,000-24,999","ME","Cumberland ME","Westbrook city","Westbrook city, ME","99999","Westbrook, ME","Westbrook",17494,1 
+"23","23005","86025","53685","04062","99999","14793","250,000-999,999","2500-9999","ME","Cumberland ME","Windham town","North Windham CDP, ME","99999","Windham, ME","Regional School Unit 14",4904,1 
+"23","23005","86025","72900","04062","99999","14793","250,000-999,999","1000-2499","ME","Cumberland ME","Windham town","South Windham CDP, ME","99999","Windham, ME","Regional School Unit 14",1374,1 
+"23","23005","86025","99999","04062","99999","14793","250,000-999,999","Not in a place","ME","Cumberland ME","Windham town"," ","99999","Windham, ME","Regional School Unit 14",10701,1 
+"23","23005","86025","99999","04071","99999","14793","250,000-999,999","Not in a place","ME","Cumberland ME","Windham town"," ","99999","Raymond, ME","Regional School Unit 14",22,1 
+"23","23005","87845","14800","04096","99999","14100","250,000-999,999","200-999","ME","Cumberland ME","Yarmouth town","Cousins Island CDP, ME","99999","Yarmouth, ME","Yarmouth",490,1 
+"23","23005","87845","40470","04096","99999","14100","250,000-999,999","Less than 200","ME","Cumberland ME","Yarmouth town","Littlejohn Island CDP, ME","99999","Yarmouth, ME","Yarmouth",118,1 
+"23","23005","87845","87810","04096","99999","14100","250,000-999,999","2500-9999","ME","Cumberland ME","Yarmouth town","Yarmouth CDP, ME","99999","Yarmouth, ME","Yarmouth",5869,1 
+"23","23005","87845","99999","04096","99999","14100","250,000-999,999","Not in a place","ME","Cumberland ME","Yarmouth town"," ","99999","Yarmouth, ME","Yarmouth",1872,1 
+"23","23007","02235","99999","04966","99999","14300","25,000-99,999","Not in a place","ME","Franklin ME","Avon town"," ","99999","Phillips, ME","School Administrative District 58",461,1 
+"23","23007","10740","99999","04947","99999","03980","25,000-99,999","Not in a place","ME","Franklin ME","Carrabassett Valley town"," ","99999","Kingfield, ME","Carrabassett Valley",781,1 
+"23","23007","10915","99999","04224","99999","14795","25,000-99,999","Not in a place","ME","Franklin ME","Carthage town"," ","99999","Dixfield, ME","Regional School Unit 10",560,1 
+"23","23007","12595","99999","04938","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Chesterville town"," ","99999","Farmington, ME","School Administrative District 09",1344,1 
+"23","23007","12595","99999","04940","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Chesterville town"," ","99999","Farmington Falls, ME (PO Boxes)","School Administrative District 09",8,1 
+"23","23007","14205","99999","04970","99999","04500","25,000-99,999","Not in a place","ME","Franklin ME","Coplin plantation"," ","99999","Rangeley, ME","Coplin Plantation",6,1 
+"23","23007","14205","99999","04982","99999","04500","25,000-99,999","Not in a place","ME","Franklin ME","Coplin plantation"," ","99999","Stratton, ME","Coplin Plantation",160,1 
+"23","23007","16165","99999","04970","99999","04800","25,000-99,999","Not in a place","ME","Franklin ME","Dallas plantation"," ","99999","Rangeley, ME","Dallas Plantation",309,1 
+"23","23007","19865","99999","04947","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","East Central Franklin UT"," ","99999","Kingfield, ME","Franklin Unorganized Territory",73,1 
+"23","23007","19865","99999","04956","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","East Central Franklin UT"," ","99999","New Vineyard, ME","Franklin Unorganized Territory",3,1 
+"23","23007","19865","99999","04966","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","East Central Franklin UT"," ","99999","Phillips, ME","Franklin Unorganized Territory",193,1 
+"23","23007","19865","99999","04983","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","East Central Franklin UT"," ","99999","Strong, ME","Franklin Unorganized Territory",539,1 
+"23","23007","24005","99999","04936","99999","14300","25,000-99,999","Not in a place","ME","Franklin ME","Eustis town"," ","99999","Eustis, ME","School Administrative District 58",235,1 
+"23","23007","24005","99999","04982","99999","14300","25,000-99,999","Not in a place","ME","Franklin ME","Eustis town"," ","99999","Stratton, ME","School Administrative District 58",383,1 
+"23","23007","24775","24740","04938","99999","11880","25,000-99,999","2500-9999","ME","Franklin ME","Farmington town","Farmington CDP, ME","99999","Farmington, ME","School Administrative District 09",4222,1 
+"23","23007","24775","24740","04992","99999","11880","25,000-99,999","2500-9999","ME","Franklin ME","Farmington town","Farmington CDP, ME","99999","Farmington, ME","School Administrative District 09",66,1 
+"23","23007","24775","99999","04938","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Farmington town"," ","99999","Farmington, ME","School Administrative District 09",3317,1 
+"23","23007","24775","99999","04940","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Farmington town"," ","99999","Farmington Falls, ME (PO Boxes)","School Administrative District 09",110,1 
+"23","23007","24775","99999","04955","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Farmington town"," ","99999","New Sharon, ME","School Administrative District 09",8,1 
+"23","23007","24775","99999","04992","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Farmington town"," ","99999","Farmington, ME","School Administrative District 09",37,1 
+"23","23007","34820","99999","04938","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Industry town"," ","99999","Farmington, ME","School Administrative District 09",929,1 
+"23","23007","35625","12770","04239","99999","06840","25,000-99,999","1000-2499","ME","Franklin ME","Jay town","Chisholm CDP, ME","99999","Jay, ME","Jay",1380,1 
+"23","23007","35625","99999","04239","99999","06840","25,000-99,999","Not in a place","ME","Franklin ME","Jay town"," ","99999","Jay, ME","Jay",3471,1 
+"23","23007","37025","99999","04947","99999","14300","25,000-99,999","Not in a place","ME","Franklin ME","Kingfield town"," ","99999","Kingfield, ME","School Administrative District 58",997,1 
+"23","23007","49345","99999","04938","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","New Sharon town"," ","99999","Farmington, ME","School Administrative District 09",53,1 
+"23","23007","49345","99999","04955","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","New Sharon town"," ","99999","New Sharon, ME","School Administrative District 09",1354,1 
+"23","23007","49520","99999","04956","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","New Vineyard town"," ","99999","New Vineyard, ME","School Administrative District 09",757,1 
+"23","23007","51400","99999","04936","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","North Franklin UT"," ","99999","Eustis, ME","Franklin Unorganized Territory",26,1 
+"23","23007","51400","99999","04970","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","North Franklin UT"," ","99999","Rangeley, ME","Franklin Unorganized Territory",35,1 
+"23","23007","58445","99999","04966","99999","14300","25,000-99,999","Not in a place","ME","Franklin ME","Phillips town"," ","99999","Phillips, ME","School Administrative District 58",1028,1 
+"23","23007","61840","99999","04964","99999","10020","25,000-99,999","Not in a place","ME","Franklin ME","Rangeley town"," ","99999","Oquossoc, ME (PO Boxes)","Rangeley",110,1 
+"23","23007","61840","99999","04970","99999","10020","25,000-99,999","Not in a place","ME","Franklin ME","Rangeley town"," ","99999","Rangeley, ME","Rangeley",1058,1 
+"23","23007","61875","99999","04964","99999","10050","25,000-99,999","Not in a place","ME","Franklin ME","Rangeley plantation"," ","99999","Oquossoc, ME (PO Boxes)","Rangeley Plantation",110,1 
+"23","23007","61875","99999","04970","99999","10050","25,000-99,999","Not in a place","ME","Franklin ME","Rangeley plantation"," ","99999","Rangeley, ME","Rangeley Plantation",79,1 
+"23","23007","65655","99999","04970","99999","10470","25,000-99,999","Not in a place","ME","Franklin ME","Sandy River plantation"," ","99999","Rangeley, ME","Sandy River Plantation",133,1 
+"23","23007","70760","99999","04285","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","South Franklin UT"," ","99999","Weld, ME","Franklin Unorganized Territory",14,1 
+"23","23007","70760","99999","04294","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","South Franklin UT"," ","99999","Wilton, ME","Franklin Unorganized Territory",55,1 
+"23","23007","74825","99999","04983","99999","14300","25,000-99,999","Not in a place","ME","Franklin ME","Strong town"," ","99999","Strong, ME","School Administrative District 58",1213,1 
+"23","23007","75980","99999","04294","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Temple town"," ","99999","Wilton, ME","School Administrative District 09",5,1 
+"23","23007","75980","99999","04984","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Temple town"," ","99999","Temple, ME","School Administrative District 09",523,1 
+"23","23007","81300","99999","04285","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Weld town"," ","99999","Weld, ME","School Administrative District 09",419,1 
+"23","23007","85850","85815","04294","99999","11880","25,000-99,999","1000-2499","ME","Franklin ME","Wilton town","Wilton CDP, ME","99999","Wilton, ME","School Administrative District 09",2198,1 
+"23","23007","85850","99999","04224","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Wilton town"," ","99999","Dixfield, ME","School Administrative District 09",9,1 
+"23","23007","85850","99999","04234","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Wilton town"," ","99999","East Wilton, ME (PO Boxes)","School Administrative District 09",168,1 
+"23","23007","85850","99999","04294","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Wilton town"," ","99999","Wilton, ME","School Administrative District 09",1737,1 
+"23","23007","85850","99999","04938","99999","11880","25,000-99,999","Not in a place","ME","Franklin ME","Wilton town"," ","99999","Farmington, ME","School Administrative District 09",4,1 
+"23","23007","87680","99999","04947","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","Wyman UT"," ","99999","Kingfield, ME","Franklin Unorganized Territory",1,1 
+"23","23007","87680","99999","04982","99999","82003","25,000-99,999","Not in a place","ME","Franklin ME","Wyman UT"," ","99999","Stratton, ME","Franklin Unorganized Territory",87,1 
+"23","23009","01185","99999","04605","99999","02500","25,000-99,999","Not in a place","ME","Hancock ME","Amherst town"," ","99999","Ellsworth, ME","Airline Community School District",265,1 
+"23","23009","02165","99999","04408","99999","02500","25,000-99,999","Not in a place","ME","Hancock ME","Aurora town"," ","99999","Aurora, ME","Airline Community School District",114,1 
+"23","23009","02865","02830","04609","99999"," ","25,000-99,999","2500-9999","ME","Hancock ME","Bar Harbor town","Bar Harbor CDP, ME","99999","Bar Harbor, ME","23",2552,1 
+"23","23009","02865","99999","04609","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Bar Harbor town"," ","99999","Bar Harbor, ME","23",2670,1 
+"23","23009","02865","99999","04644","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Bar Harbor town"," ","99999","Hulls Cove, ME (PO Boxes)","23",13,1 
+"23","23009","05700","05665","04614","99999","03210","25,000-99,999","200-999","ME","Hancock ME","Blue Hill town","Blue Hill CDP, ME","99999","Blue Hill, ME","Blue Hill",943,1 
+"23","23009","05700","99999","04614","99999","03210","25,000-99,999","Not in a place","ME","Hancock ME","Blue Hill town"," ","99999","Blue Hill, ME","Blue Hill",1636,1 
+"23","23009","05700","99999","04629","99999","03210","25,000-99,999","Not in a place","ME","Hancock ME","Blue Hill town"," ","99999","East Blue Hill, ME","Blue Hill",107,1 
+"23","23009","07800","99999","04616","99999","03610","25,000-99,999","Not in a place","ME","Hancock ME","Brooklin town"," ","99999","Brooklin, ME","Brooklin",824,1 
+"23","23009","07975","99999","04617","99999","03640","25,000-99,999","Not in a place","ME","Hancock ME","Brooksville town"," ","99999","Brooksville, ME","Brooksville",811,1 
+"23","23009","07975","99999","04642","99999","03640","25,000-99,999","Not in a place","ME","Hancock ME","Brooksville town"," ","99999","Harborside, ME","Brooksville",123,1 
+"23","23009","08815","08780","04416","99999","14796","25,000-99,999","2500-9999","ME","Hancock ME","Bucksport town","Bucksport CDP, ME","99999","Bucksport, ME","Regional School Unit 25",2885,1 
+"23","23009","08815","99999","04416","99999","14796","25,000-99,999","Not in a place","ME","Hancock ME","Bucksport town"," ","99999","Bucksport, ME","Regional School Unit 25",2039,1 
+"23","23009","11265","11230","04421","99999","04080","25,000-99,999","1000-2499","ME","Hancock ME","Castine town","Castine CDP, ME","99999","Castine, ME","Castine",1029,1 
+"23","23009","11265","99999","04421","99999","04080","25,000-99,999","Not in a place","ME","Hancock ME","Castine town"," ","99999","Castine, ME","Castine",337,1 
+"23","23009","11800","99999","04605","99999","82011","25,000-99,999","Not in a place","ME","Hancock ME","Central Hancock UT"," ","99999","Ellsworth, ME","Hancock Unorganized Territory",117,1 
+"23","23009","14905","99999","04625","99999","04620","25,000-99,999","Not in a place","ME","Hancock ME","Cranberry Isles town"," ","99999","Cranberry Isles, ME (PO Boxes)","Cranberry Isles",47,1 
+"23","23009","14905","99999","04646","99999","04620","25,000-99,999","Not in a place","ME","Hancock ME","Cranberry Isles town"," ","99999","Islesford, ME (PO Boxes)","Cranberry Isles",94,1 
+"23","23009","16935","99999","04429","99999","04890","25,000-99,999","Not in a place","ME","Hancock ME","Dedham town"," ","99999","Holden, ME","Dedham",1641,1 
+"23","23009","16935","99999","04605","99999","04890","25,000-99,999","Not in a place","ME","Hancock ME","Dedham town"," ","99999","Ellsworth, ME","Dedham",40,1 
+"23","23009","17145","99999","04627","99999","04895","25,000-99,999","Not in a place","ME","Hancock ME","Deer Isle town"," ","99999","Deer Isle, ME","Deer Isle-Stonington Community School District",1636,1 
+"23","23009","17145","99999","04650","99999","04895","25,000-99,999","Not in a place","ME","Hancock ME","Deer Isle town"," ","99999","Little Deer Isle, ME","Deer Isle-Stonington Community School District",235,1 
+"23","23009","17145","99999","04683","99999","04895","25,000-99,999","Not in a place","ME","Hancock ME","Deer Isle town"," ","99999","Sunset, ME","Deer Isle-Stonington Community School District",104,1 
+"23","23009","19770","99999","04634","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Eastbrook town"," ","99999","Franklin, ME","Regional School Unit 24",423,1 
+"23","23009","20405","99999","04408","99999","82011","25,000-99,999","Not in a place","ME","Hancock ME","East Hancock UT"," ","99999","Aurora, ME","Hancock Unorganized Territory",2,1 
+"23","23009","20405","99999","04607","99999","82011","25,000-99,999","Not in a place","ME","Hancock ME","East Hancock UT"," ","99999","Gouldsboro, ME","Hancock Unorganized Territory",18,1 
+"23","23009","20405","99999","04622","99999","82011","25,000-99,999","Not in a place","ME","Hancock ME","East Hancock UT"," ","99999","Cherryfield, ME","Hancock Unorganized Territory",64,1 
+"23","23009","20405","99999","04634","99999","82011","25,000-99,999","Not in a place","ME","Hancock ME","East Hancock UT"," ","99999","Franklin, ME","Hancock Unorganized Territory",7,1 
+"23","23009","20405","99999","99999","99999","82011","25,000-99,999","Not in a place","ME","Hancock ME","East Hancock UT"," ","99999","99999","Hancock Unorganized Territory",3,1 
+"23","23009","23200","23200","04605","99999","14790","25,000-99,999","2500-9999","ME","Hancock ME","Ellsworth city","Ellsworth city, ME","99999","Ellsworth, ME","Regional School Unit 24",7741,1 
+"23","23009","26350","99999","04634","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Franklin town"," ","99999","Franklin, ME","Regional School Unit 24",1483,1 
+"23","23009","26595","99999","04635","99999","07590","25,000-99,999","Not in a place","ME","Hancock ME","Frenchboro town"," ","99999","Frenchboro, ME (PO Boxes)","Frenchboro",61,1 
+"23","23009","28450","99999","04607","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Gouldsboro town"," ","99999","Gouldsboro, ME","Regional School Unit 24",1164,1 
+"23","23009","28450","99999","04613","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Gouldsboro town"," ","99999","Birch Harbor, ME","Regional School Unit 24",183,1 
+"23","23009","28450","99999","04624","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Gouldsboro town"," ","99999","Corea, ME","Regional School Unit 24",184,1 
+"23","23009","28450","99999","04664","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Gouldsboro town"," ","99999","Sullivan, ME","Regional School Unit 24",2,1 
+"23","23009","28450","99999","04669","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Gouldsboro town"," ","99999","Prospect Harbor, ME","Regional School Unit 24",204,1 
+"23","23009","28975","99999","04408","99999","02500","25,000-99,999","Not in a place","ME","Hancock ME","Great Pond town"," ","99999","Aurora, ME","Airline Community School District",58,1 
+"23","23009","30970","99999","04605","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Hancock town"," ","99999","Ellsworth, ME","Regional School Unit 24",133,1 
+"23","23009","30970","99999","04640","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Hancock town"," ","99999","Hancock, ME","Regional School Unit 24",2261,1 
+"23","23009","38180","99999","04605","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Lamoine town"," ","99999","Ellsworth, ME","Regional School Unit 24",1602,1 
+"23","23009","43430","99999","04605","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Mariaville town"," ","99999","Ellsworth, ME","Regional School Unit 24",513,1 
+"23","23009","47630","99999","04660","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Mount Desert town"," ","99999","Mount Desert, ME","23",1309,1 
+"23","23009","47630","99999","04662","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Mount Desert town"," ","99999","Northeast Harbor, ME (PO Boxes)","23",488,1 
+"23","23009","47630","99999","04675","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Mount Desert town"," ","99999","Seal Harbor, ME (PO Boxes)","23",253,1 
+"23","23009","47630","99999","04679","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Mount Desert town"," ","99999","Southwest Harbor, ME","23",3,1 
+"23","23009","53620","99999","04605","99999","82011","25,000-99,999","Not in a place","ME","Hancock ME","Northwest Hancock UT"," ","99999","Ellsworth, ME","Hancock Unorganized Territory",2,1 
+"23","23009","55505","99999","04431","99999","14796","25,000-99,999","Not in a place","ME","Hancock ME","Orland town"," ","99999","East Orland, ME (PO Boxes)","Regional School Unit 25",81,1 
+"23","23009","55505","99999","04472","99999","14796","25,000-99,999","Not in a place","ME","Hancock ME","Orland town"," ","99999","Orland, ME","Regional School Unit 25",2144,1 
+"23","23009","55855","99999","04408","99999","02500","25,000-99,999","Not in a place","ME","Hancock ME","Osborn town"," ","99999","Aurora, ME","Airline Community School District",2,1 
+"23","23009","55855","99999","04605","99999","02500","25,000-99,999","Not in a place","ME","Hancock ME","Osborn town"," ","99999","Ellsworth, ME","Airline Community School District",61,1 
+"23","23009","55855","99999","04634","99999","02500","25,000-99,999","Not in a place","ME","Hancock ME","Osborn town"," ","99999","Franklin, ME","Airline Community School District",4,1 
+"23","23009","55890","99999","04605","99999","09390","25,000-99,999","Not in a place","ME","Hancock ME","Otis town"," ","99999","Ellsworth, ME","Otis",672,1 
+"23","23009","57920","99999","04476","99999","09630","25,000-99,999","Not in a place","ME","Hancock ME","Penobscot town"," ","99999","Penobscot, ME","Penobscot",1259,1 
+"23","23009","57920","99999","04676","99999","09630","25,000-99,999","Not in a place","ME","Hancock ME","Penobscot town"," ","99999","Sedgwick, ME","Penobscot",4,1 
+"23","23009","67300","99999","04673","99999","12140","25,000-99,999","Not in a place","ME","Hancock ME","Sedgwick town"," ","99999","Sargentville, ME","Sedgwick",112,1 
+"23","23009","67300","99999","04676","99999","12140","25,000-99,999","Not in a place","ME","Hancock ME","Sedgwick town"," ","99999","Sedgwick, ME","Sedgwick",1084,1 
+"23","23009","69750","99999","04677","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Sorrento town"," ","99999","Sorrento, ME","Regional School Unit 24",274,1 
+"23","23009","72865","72830","04679","99999"," ","25,000-99,999","200-999","ME","Hancock ME","Southwest Harbor town","Southwest Harbor CDP, ME","99999","Southwest Harbor, ME","23",720,1 
+"23","23009","72865","99999","04679","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Southwest Harbor town"," ","99999","Southwest Harbor, ME","23",1044,1 
+"23","23009","74580","99999","04681","99999","04895","25,000-99,999","Not in a place","ME","Hancock ME","Stonington town"," ","99999","Stonington, ME","Deer Isle-Stonington Community School District",1043,1 
+"23","23009","74965","99999","04664","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Sullivan town"," ","99999","Sullivan, ME","Regional School Unit 24",1236,1 
+"23","23009","75280","99999","04684","99999","12750","25,000-99,999","Not in a place","ME","Hancock ME","Surry town"," ","99999","Surry, ME","Surry",1466,1 
+"23","23009","75455","99999","04685","99999","11910","25,000-99,999","Not in a place","ME","Hancock ME","Swans Island town"," ","99999","Swans Island, ME","School Administrative District 76",332,1 
+"23","23009","77345","99999","04612","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Tremont town"," ","99999","Bernard, ME","23",589,1 
+"23","23009","77345","99999","04653","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Tremont town"," ","99999","Bass Harbor, ME","23",490,1 
+"23","23009","77345","99999","04674","99999"," ","25,000-99,999","Not in a place","ME","Hancock ME","Tremont town"," ","99999","Seal Cove, ME","23",484,1 
+"23","23009","77415","99999","04605","99999","12980","25,000-99,999","Not in a place","ME","Hancock ME","Trenton town"," ","99999","Ellsworth, ME","Trenton",1481,1 
+"23","23009","78925","99999","04416","99999","14796","25,000-99,999","Not in a place","ME","Hancock ME","Verona Island town"," ","99999","Bucksport, ME","Regional School Unit 25",544,1 
+"23","23009","80040","99999","04605","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Waltham town"," ","99999","Ellsworth, ME","Regional School Unit 24",347,1 
+"23","23009","80040","99999","04634","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Waltham town"," ","99999","Franklin, ME","Regional School Unit 24",6,1 
+"23","23009","86655","86620","04693","99999","14790","25,000-99,999","200-999","ME","Hancock ME","Winter Harbor town","Winter Harbor CDP, ME","99999","Winter Harbor, ME","Regional School Unit 24",426,1 
+"23","23009","86655","99999","04693","99999","14790","25,000-99,999","Not in a place","ME","Hancock ME","Winter Harbor town"," ","99999","Winter Harbor, ME","Regional School Unit 24",90,1 
+"23","23011","00590","99999","04910","99999","14330","100,000-249,999","Not in a place","ME","Kennebec ME","Albion town"," ","99999","Albion, ME","School Administrative District 49",2041,1 
+"23","23011","02100","02100","04330","99999","02640","100,000-249,999","10,000-24,999","ME","Kennebec ME","Augusta city","Augusta city, ME","99999","Augusta, ME","Augusta",19136,1 
+"23","23011","04020","99999","04917","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","Belgrade town"," ","99999","Belgrade, ME","Regional School Unit 18",2840,1 
+"23","23011","04020","99999","04918","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","Belgrade town"," ","99999","Belgrade Lakes, ME","Regional School Unit 18",349,1 
+"23","23011","04475","99999","04901","99999","14330","100,000-249,999","Not in a place","ME","Kennebec ME","Benton town"," ","99999","Waterville, ME","School Administrative District 49",2732,1 
+"23","23011","12350","99999","04330","99999","14780","100,000-249,999","Not in a place","ME","Kennebec ME","Chelsea town"," ","99999","Augusta, ME","Regional School Unit 12",2721,1 
+"23","23011","12735","99999","04358","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","China town"," ","99999","South China, ME","Regional School Unit 18",4276,1 
+"23","23011","12735","99999","04926","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","China town"," ","99999","China Village, ME (PO Boxes)","Regional School Unit 18",52,1 
+"23","23011","13470","13435","04927","99999","14330","100,000-249,999","1000-2499","ME","Kennebec ME","Clinton town","Clinton CDP, ME","99999","Clinton, ME","School Administrative District 49",1419,1 
+"23","23011","13470","99999","04927","99999","14330","100,000-249,999","Not in a place","ME","Kennebec ME","Clinton town"," ","99999","Clinton, ME","School Administrative District 49",2067,1 
+"23","23011","24670","24635","04344","99999","14776","100,000-249,999","1000-2499","ME","Kennebec ME","Farmingdale town","Farmingdale CDP, ME","99999","Farmingdale, ME","Regional School Unit 02",1939,1 
+"23","23011","24670","24635","04345","99999","14776","100,000-249,999","1000-2499","ME","Kennebec ME","Farmingdale town","Farmingdale CDP, ME","99999","Gardiner, ME","Regional School Unit 02",31,1 
+"23","23011","24670","99999","04344","99999","14776","100,000-249,999","Not in a place","ME","Kennebec ME","Farmingdale town"," ","99999","Farmingdale, ME","Regional School Unit 02",986,1 
+"23","23011","24950","99999","04349","99999","00008","100,000-249,999","Not in a place","ME","Kennebec ME","Fayette town"," ","99999","Kents Hill, ME","Fayette",1140,1 
+"23","23011","27085","27085","04345","99999","10590","100,000-249,999","2500-9999","ME","Kennebec ME","Gardiner city","Gardiner city, ME","99999","Gardiner, ME","School Administrative District 11",5412,1 
+"23","23011","27085","27085","04359","99999","10590","100,000-249,999","2500-9999","ME","Kennebec ME","Gardiner city","Gardiner city, ME","99999","Gardiner, ME","School Administrative District 11",388,1 
+"23","23011","30550","30550","04344","99999","14776","100,000-249,999","1000-2499","ME","Kennebec ME","Hallowell city","Hallowell city, ME","99999","Farmingdale, ME","Regional School Unit 02",26,1 
+"23","23011","30550","30550","04347","99999","14776","100,000-249,999","1000-2499","ME","Kennebec ME","Hallowell city","Hallowell city, ME","99999","Hallowell, ME","Regional School Unit 02",2355,1 
+"23","23011","40175","99999","04345","99999","14783","100,000-249,999","Not in a place","ME","Kennebec ME","Litchfield town"," ","99999","Gardiner, ME","Regional School Unit 04",47,1 
+"23","23011","40175","99999","04350","99999","14783","100,000-249,999","Not in a place","ME","Kennebec ME","Litchfield town"," ","99999","Litchfield, ME","Regional School Unit 04",3577,1 
+"23","23011","43080","99999","04330","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Manchester town"," ","99999","Augusta, ME","Regional School Unit 38",18,1 
+"23","23011","43080","99999","04345","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Manchester town"," ","99999","Gardiner, ME","Regional School Unit 38",4,1 
+"23","23011","43080","99999","04351","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Manchester town"," ","99999","Manchester, ME","Regional School Unit 38",2558,1 
+"23","23011","46405","99999","04259","99999","14776","100,000-249,999","Not in a place","ME","Kennebec ME","Monmouth town"," ","99999","Monmouth, ME","Regional School Unit 02",3237,1 
+"23","23011","46405","99999","04265","99999","14776","100,000-249,999","Not in a place","ME","Kennebec ME","Monmouth town"," ","99999","North Monmouth, ME","Regional School Unit 02",867,1 
+"23","23011","47770","99999","04349","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Mount Vernon town"," ","99999","Kents Hill, ME","Regional School Unit 38",18,1 
+"23","23011","47770","99999","04352","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Mount Vernon town"," ","99999","Mount Vernon, ME","Regional School Unit 38",1622,1 
+"23","23011","54560","54525","04963","99999","14779","100,000-249,999","2500-9999","ME","Kennebec ME","Oakland town","Oakland CDP, ME","99999","Oakland, ME","Regional School Unit 18",2602,1 
+"23","23011","54560","99999","04330","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","Oakland town"," ","99999","Augusta, ME","Regional School Unit 18",3,1 
+"23","23011","54560","99999","04963","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","Oakland town"," ","99999","Oakland, ME","Regional School Unit 18",3635,1 
+"23","23011","59110","99999","04345","99999","10590","100,000-249,999","Not in a place","ME","Kennebec ME","Pittston town"," ","99999","Gardiner, ME","School Administrative District 11",2666,1 
+"23","23011","61700","61735","04346","99999","10590","100,000-249,999","1000-2499","ME","Kennebec ME","Randolph town","Randolph CDP, ME","99999","Randolph, ME","School Administrative District 11",1772,1 
+"23","23011","62190","99999","04355","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Readfield town"," ","99999","Readfield, ME","Regional School Unit 38",2598,1 
+"23","23011","63835","99999","04917","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","Rome town"," ","99999","Belgrade, ME","Regional School Unit 18",9,1 
+"23","23011","63835","99999","04963","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","Rome town"," ","99999","Oakland, ME","Regional School Unit 18",1001,1 
+"23","23011","68385","99999","04330","99999","14779","100,000-249,999","Not in a place","ME","Kennebec ME","Sidney town"," ","99999","Augusta, ME","Regional School Unit 18",4208,1 
+"23","23011","78190","99999","04988","99999","82005","100,000-249,999","Not in a place","ME","Kennebec ME","Unity UT"," ","99999","Unity, ME","Kennebec Unorganized Territory",43,1 
+"23","23011","78745","99999","04962","99999","13110","100,000-249,999","Not in a place","ME","Kennebec ME","Vassalboro town"," ","99999","North Vassalboro, ME (PO Boxes)","Vassalboro",125,1 
+"23","23011","78745","99999","04989","99999","13110","100,000-249,999","Not in a place","ME","Kennebec ME","Vassalboro town"," ","99999","Vassalboro, ME","Vassalboro",4215,1 
+"23","23011","79025","99999","04352","99999","11880","100,000-249,999","Not in a place","ME","Kennebec ME","Vienna town"," ","99999","Mount Vernon, ME","School Administrative District 09",10,1 
+"23","23011","79025","99999","04360","99999","11880","100,000-249,999","Not in a place","ME","Kennebec ME","Vienna town"," ","99999","Vienna, ME","School Administrative District 09",560,1 
+"23","23011","80740","80740","04901","99999","13350","100,000-249,999","10,000-24,999","ME","Kennebec ME","Waterville city","Waterville city, ME","99999","Waterville, ME","Waterville",15722,1 
+"23","23011","80880","99999","04265","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Wayne town"," ","99999","North Monmouth, ME","Regional School Unit 38",51,1 
+"23","23011","80880","99999","04284","99999","14788","100,000-249,999","Not in a place","ME","Kennebec ME","Wayne town"," ","99999","Wayne, ME","Regional School Unit 38",1138,1 
+"23","23011","82945","99999","04345","99999","10590","100,000-249,999","Not in a place","ME","Kennebec ME","West Gardiner town"," ","99999","Gardiner, ME","School Administrative District 11",3474,1 
+"23","23011","86165","99999","04363","99999","14780","100,000-249,999","Not in a place","ME","Kennebec ME","Windsor town"," ","99999","Windsor, ME","Regional School Unit 12",2575,1 
+"23","23011","86515","86480","04901","99999","13860","100,000-249,999","2500-9999","ME","Kennebec ME","Winslow town","Winslow CDP, ME","99999","Waterville, ME","Winslow",7794,1 
+"23","23011","86970","86935","04364","99999","13970","100,000-249,999","2500-9999","ME","Kennebec ME","Winthrop town","Winthrop CDP, ME","99999","Winthrop, ME","Winthrop",2650,1 
+"23","23011","86970","99999","04259","99999","13970","100,000-249,999","Not in a place","ME","Kennebec ME","Winthrop town"," ","99999","Monmouth, ME","Winthrop",27,1 
+"23","23011","86970","99999","04343","99999","13970","100,000-249,999","Not in a place","ME","Kennebec ME","Winthrop town"," ","99999","East Winthrop, ME (PO Boxes)","Winthrop",25,1 
+"23","23011","86970","99999","04351","99999","13970","100,000-249,999","Not in a place","ME","Kennebec ME","Winthrop town"," ","99999","Manchester, ME","Winthrop",13,1 
+"23","23011","86970","99999","04355","99999","13970","100,000-249,999","Not in a place","ME","Kennebec ME","Winthrop town"," ","99999","Readfield, ME","Winthrop",2,1 
+"23","23011","86970","99999","04364","99999","13970","100,000-249,999","Not in a place","ME","Kennebec ME","Winthrop town"," ","99999","Winthrop, ME","Winthrop",3375,1 
+"23","23013","01465","99999","04862","99999","02510","25,000-99,999","Not in a place","ME","Knox ME","Appleton town"," ","99999","Union, ME","Appleton",1316,1 
+"23","23013","09725","09690","04843","99999","11130","25,000-99,999","2500-9999","ME","Knox ME","Camden town","Camden CDP, ME","99999","Camden, ME","School Administrative District 28",3570,1 
+"23","23013","09725","99999","04843","99999","11130","25,000-99,999","Not in a place","ME","Knox ME","Camden town"," ","99999","Camden, ME","School Administrative District 28",1280,1 
+"23","23013","15125","99999","04851","99999","82007","25,000-99,999","Not in a place","ME","Knox ME","Criehaven UT"," ","99999","Matinicus, ME (PO Boxes)","Knox Unorganized Territory",1,1 
+"23","23013","15780","99999","04563","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","Cushing town"," ","99999","Cushing, ME","Regional School Unit 13",1534,1 
+"23","23013","26805","99999","04547","99999","11550","25,000-99,999","Not in a place","ME","Knox ME","Friendship town"," ","99999","Friendship, ME","School Administrative District 40",1152,1 
+"23","23013","33840","99999","04847","99999","06610","25,000-99,999","Not in a place","ME","Knox ME","Hope town"," ","99999","Hope, ME","Hope",1536,1 
+"23","23013","35135","99999","04645","99999","06780","25,000-99,999","Not in a place","ME","Knox ME","Isle au Haut town"," ","99999","Isle Au Haut, ME","Isle au Haut",73,1 
+"23","23013","44165","99999","04851","99999","14410","25,000-99,999","Not in a place","ME","Knox ME","Matinicus Isle plantation"," ","99999","Matinicus, ME (PO Boxes)","School Administrative District 65",74,1 
+"23","23013","47962","99999","04859","99999","11850","25,000-99,999","Not in a place","ME","Knox ME","Muscle Ridge Islands UT"," ","99999","Spruce Head, ME","School Administrative District 08",6,1 
+"23","23013","51620","99999","04843","99999","11820","25,000-99,999","Not in a place","ME","Knox ME","North Haven town"," ","99999","Camden, ME","School Administrative District 07",1,1 
+"23","23013","51620","99999","04853","99999","11820","25,000-99,999","Not in a place","ME","Knox ME","North Haven town"," ","99999","North Haven, ME","School Administrative District 07",354,1 
+"23","23013","56135","99999","04854","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","Owls Head town"," ","99999","Owls Head, ME","Regional School Unit 13",1580,1 
+"23","23013","63590","63590","04841","99999","14787","25,000-99,999","2500-9999","ME","Knox ME","Rockland city","Rockland city, ME","99999","Rockland, ME","Regional School Unit 13",7297,1 
+"23","23013","63660","99999","04856","99999","11130","25,000-99,999","Not in a place","ME","Knox ME","Rockport town"," ","99999","Rockport, ME","School Administrative District 28",3330,1 
+"23","23013","65130","99999","04855","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","St. George town"," ","99999","Port Clyde, ME (PO Boxes)","Regional School Unit 13",307,1 
+"23","23013","65130","99999","04859","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","St. George town"," ","99999","Spruce Head, ME","Regional School Unit 13",693,1 
+"23","23013","65130","99999","04860","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","St. George town"," ","99999","Tenants Harbor, ME","Regional School Unit 13",1591,1 
+"23","23013","72585","99999","04858","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","South Thomaston town"," ","99999","South Thomaston, ME","Regional School Unit 13",1533,1 
+"23","23013","72585","99999","04859","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","South Thomaston town"," ","99999","Spruce Head, ME","Regional School Unit 13",25,1 
+"23","23013","76365","76330","04861","99999","14787","25,000-99,999","1000-2499","ME","Knox ME","Thomaston town","Thomaston CDP, ME","99999","Thomaston, ME","Regional School Unit 13",1875,1 
+"23","23013","76365","99999","04861","99999","14787","25,000-99,999","Not in a place","ME","Knox ME","Thomaston town"," ","99999","Thomaston, ME","Regional School Unit 13",906,1 
+"23","23013","78115","99999","04862","99999","11550","25,000-99,999","Not in a place","ME","Knox ME","Union town"," ","99999","Union, ME","School Administrative District 40",2259,1 
+"23","23013","79130","99999","04863","99999","11850","25,000-99,999","Not in a place","ME","Knox ME","Vinalhaven town"," ","99999","Vinalhaven, ME","School Administrative District 08",1165,1 
+"23","23013","80215","99999","04864","99999","11550","25,000-99,999","Not in a place","ME","Knox ME","Warren town"," ","99999","Warren, ME","School Administrative District 40",4751,1 
+"23","23013","80425","99999","04574","99999","11550","25,000-99,999","Not in a place","ME","Knox ME","Washington town"," ","99999","Washington, ME","School Administrative District 40",1510,1 
+"23","23013","80425","99999","04862","99999","11550","25,000-99,999","Not in a place","ME","Knox ME","Washington town"," ","99999","Union, ME","School Administrative District 40",17,1 
+"23","23015","01010","99999","04535","99999","14780","25,000-99,999","Not in a place","ME","Lincoln ME","Alna town"," ","99999","Alna, ME","Regional School Unit 12",709,1 
+"23","23015","06050","99999","04537","99999","03290","25,000-99,999","Not in a place","ME","Lincoln ME","Boothbay town"," ","99999","Boothbay, ME","Boothbay-Boothbay Harbor Community School District",2073,1 
+"23","23015","06050","99999","04544","99999","03290","25,000-99,999","Not in a place","ME","Lincoln ME","Boothbay town"," ","99999","East Boothbay, ME","Boothbay-Boothbay Harbor Community School District",724,1 
+"23","23015","06050","99999","04571","99999","03290","25,000-99,999","Not in a place","ME","Lincoln ME","Boothbay town"," ","99999","Trevett, ME","Boothbay-Boothbay Harbor Community School District",323,1 
+"23","23015","06120","06085","04538","99999","03290","25,000-99,999","1000-2499","ME","Lincoln ME","Boothbay Harbor town","Boothbay Harbor CDP, ME","99999","Boothbay Harbor, ME","Boothbay-Boothbay Harbor Community School District",1086,1 
+"23","23015","06120","99999","04538","99999","03290","25,000-99,999","Not in a place","ME","Lincoln ME","Boothbay Harbor town"," ","99999","Boothbay Harbor, ME","Boothbay-Boothbay Harbor Community School District",994,1 
+"23","23015","06120","99999","04575","99999","03290","25,000-99,999","Not in a place","ME","Lincoln ME","Boothbay Harbor town"," ","99999","West Boothbay Harbor, ME (PO Boxes)","Boothbay-Boothbay Harbor Community School District",85,1 
+"23","23015","06855","99999","04551","99999"," ","25,000-99,999","Not in a place","ME","Lincoln ME","Bremen town"," ","99999","Bremen, ME","23",806,1 
+"23","23015","07485","99999","04539","99999","03600","25,000-99,999","Not in a place","ME","Lincoln ME","Bristol town"," ","99999","Bristol, ME","Bristol",1168,1 
+"23","23015","07485","99999","04541","99999","03600","25,000-99,999","Not in a place","ME","Lincoln ME","Bristol town"," ","99999","Chamberlain, ME","Bristol",80,1 
+"23","23015","07485","99999","04554","99999","03600","25,000-99,999","Not in a place","ME","Lincoln ME","Bristol town"," ","99999","New Harbor, ME","Bristol",710,1 
+"23","23015","07485","99999","04558","99999","03600","25,000-99,999","Not in a place","ME","Lincoln ME","Bristol town"," ","99999","Pemaquid, ME","Bristol",308,1 
+"23","23015","07485","99999","04564","99999","03600","25,000-99,999","Not in a place","ME","Lincoln ME","Bristol town"," ","99999","Round Pond, ME","Bristol",489,1 
+"23","23015","16235","16200","04543","99999"," ","25,000-99,999","1000-2499","ME","Lincoln ME","Damariscotta town","Damariscotta CDP, ME","99999","Damariscotta, ME","23",1142,1 
+"23","23015","16235","99999","04543","99999"," ","25,000-99,999","Not in a place","ME","Lincoln ME","Damariscotta town"," ","99999","Damariscotta, ME","23",1076,1 
+"23","23015","18475","99999","04342","99999","14776","25,000-99,999","Not in a place","ME","Lincoln ME","Dresden town"," ","99999","Dresden, ME","Regional School Unit 02",1672,1 
+"23","23015","22675","99999","04556","99999","05400","25,000-99,999","Not in a place","ME","Lincoln ME","Edgecomb town"," ","99999","Edgecomb, ME","Edgecomb",1249,1 
+"23","23015","32715","99999","04348","99999","82006","25,000-99,999","Not in a place","ME","Lincoln ME","Hibberts gore"," ","99999","Jefferson, ME","Lincoln Unorganized Territory",1,1 
+"23","23015","35695","99999","04348","99999","06870","25,000-99,999","Not in a place","ME","Lincoln ME","Jefferson town"," ","99999","Jefferson, ME","Jefferson",2427,1 
+"23","23015","46335","99999","04852","99999","08340","25,000-99,999","Not in a place","ME","Lincoln ME","Monhegan plantation"," ","99999","Monhegan, ME (PO Boxes)","Monhegan Plantation",69,1 
+"23","23015","48645","48610","04553","99999"," ","25,000-99,999","200-999","ME","Lincoln ME","Newcastle town","Newcastle CDP, ME","99999","Newcastle, ME","23",667,1 
+"23","23015","48645","99999","04553","99999"," ","25,000-99,999","Not in a place","ME","Lincoln ME","Newcastle town"," ","99999","Newcastle, ME","23",1085,1 
+"23","23015","49660","99999","04555","99999","08940","25,000-99,999","Not in a place","ME","Lincoln ME","Nobleboro town"," ","99999","Nobleboro, ME","Nobleboro",1643,1 
+"23","23015","69645","99999","04348","99999","14780","25,000-99,999","Not in a place","ME","Lincoln ME","Somerville town"," ","99999","Jefferson, ME","Regional School Unit 12",548,1 
+"23","23015","70240","99999","04568","99999","12300","25,000-99,999","Not in a place","ME","Lincoln ME","South Bristol town"," ","99999","South Bristol, ME","South Bristol",391,1 
+"23","23015","70240","99999","04573","99999","12300","25,000-99,999","Not in a place","ME","Lincoln ME","South Bristol town"," ","99999","Walpole, ME","South Bristol",501,1 
+"23","23015","71955","99999","04570","99999","12360","25,000-99,999","Not in a place","ME","Lincoln ME","Southport town"," ","99999","Squirrel Island, ME","Southport",2,1 
+"23","23015","71955","99999","04576","99999","12360","25,000-99,999","Not in a place","ME","Lincoln ME","Southport town"," ","99999","Southport, ME","Southport",604,1 
+"23","23015","79550","79515","04572","99999","11550","25,000-99,999","1000-2499","ME","Lincoln ME","Waldoboro town","Waldoboro CDP, ME","99999","Waldoboro, ME","School Administrative District 40",1233,1 
+"23","23015","79550","99999","04572","99999","11550","25,000-99,999","Not in a place","ME","Lincoln ME","Waldoboro town"," ","99999","Waldoboro, ME","School Administrative District 40",3842,1 
+"23","23015","84140","99999","04578","99999","14780","25,000-99,999","Not in a place","ME","Lincoln ME","Westport Island town"," ","99999","Wiscasset, ME","Regional School Unit 12",718,1 
+"23","23015","85010","99999","04353","99999","14780","25,000-99,999","Not in a place","ME","Lincoln ME","Whitefield town"," ","99999","Whitefield, ME","Regional School Unit 12",2300,1 
+"23","23015","87075","87040","04578","99999","14780","25,000-99,999","1000-2499","ME","Lincoln ME","Wiscasset town","Wiscasset CDP, ME","99999","Wiscasset, ME","Regional School Unit 12",1097,1 
+"23","23015","87075","99999","04578","99999","14780","25,000-99,999","Not in a place","ME","Lincoln ME","Wiscasset town"," ","99999","Wiscasset, ME","Regional School Unit 12",2635,1 
+"23","23017","01325","99999","04216","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Andover town"," ","99999","Andover, ME","School Administrative District 44",631,1 
+"23","23017","01325","99999","04226","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Andover town"," ","99999","East Andover, ME","School Administrative District 44",190,1 
+"23","23017","04825","99999","04217","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Bethel town"," ","99999","Bethel, ME","School Administrative District 44",2505,1 
+"23","23017","04825","99999","04219","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Bethel town"," ","99999","Bryant Pond, ME","School Administrative District 44",55,1 
+"23","23017","04825","99999","04286","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Bethel town"," ","99999","West Bethel, ME","School Administrative District 44",47,1 
+"23","23017","08150","99999","04010","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Brownfield town"," ","99999","Brownfield, ME","School Administrative District 72",1597,1 
+"23","23017","08710","99999","04220","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Buckfield town"," ","99999","Buckfield, ME","Regional School Unit 10",2009,1 
+"23","23017","09550","99999","04275","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Byron town"," ","99999","Roxbury, ME","Regional School Unit 10",145,1 
+"23","23017","10005","99999","04221","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Canton town"," ","99999","Canton, ME","Regional School Unit 10",990,1 
+"23","23017","17250","99999","04022","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Denmark town"," ","99999","Denmark, ME","School Administrative District 72",1148,1 
+"23","23017","17740","17705","04224","99999","14795","25,000-99,999","1000-2499","ME","Oxford ME","Dixfield town","Dixfield CDP, ME","99999","Dixfield, ME","Regional School Unit 10",1076,1 
+"23","23017","17740","99999","04224","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Dixfield town"," ","99999","Dixfield, ME","Regional School Unit 10",1395,1 
+"23","23017","17740","99999","04227","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Dixfield town"," ","99999","East Dixfield, ME (PO Boxes)","Regional School Unit 10",79,1 
+"23","23017","26910","26875","04037","99999","14765","25,000-99,999","1000-2499","ME","Oxford ME","Fryeburg town","Fryeburg CDP, ME","99999","Fryeburg, ME","School Administrative District 72",1631,1 
+"23","23017","26910","99999","04037","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Fryeburg town"," ","99999","Fryeburg, ME","School Administrative District 72",1818,1 
+"23","23017","27505","99999","04217","99999","05980","25,000-99,999","Not in a place","ME","Oxford ME","Gilead town"," ","99999","Bethel, ME","Gilead",209,1 
+"23","23017","29710","99999","04217","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Greenwood town"," ","99999","Bethel, ME","School Administrative District 44",19,1 
+"23","23017","29710","99999","04255","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Greenwood town"," ","99999","Greenwood, ME","School Administrative District 44",802,1 
+"23","23017","29710","99999","04268","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Greenwood town"," ","99999","Norway, ME","School Administrative District 44",9,1 
+"23","23017","31110","99999","04237","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Hanover town"," ","99999","Hanover, ME","Regional School Unit 10",238,1 
+"23","23017","31670","99999","04220","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Hartford town"," ","99999","Buckfield, ME","Regional School Unit 10",1068,1 
+"23","23017","31670","99999","04221","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Hartford town"," ","99999","Canton, ME","Regional School Unit 10",108,1 
+"23","23017","31670","99999","04292","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Hartford town"," ","99999","Sumner, ME","Regional School Unit 10",9,1 
+"23","23017","32370","99999","04238","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Hebron town"," ","99999","Hebron, ME","School Administrative District 17",1416,1 
+"23","23017","33315","99999","04041","99999","14190","25,000-99,999","Not in a place","ME","Oxford ME","Hiram town"," ","99999","Hiram, ME","School Administrative District 55",1613,1 
+"23","23017","33315","99999","04068","99999","14190","25,000-99,999","Not in a place","ME","Oxford ME","Hiram town"," ","99999","Porter, ME","School Administrative District 55",7,1 
+"23","23017","39422","99999","03579","99999","07440","25,000-99,999","Not in a place","ME","Oxford ME","Lincoln plantation"," ","99999","Errol, NH","Lincoln Plantation",45,1 
+"23","23017","41365","99999","04051","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Lovell town"," ","99999","Lovell, ME","School Administrative District 72",1140,1 
+"23","23017","42835","99999","03579","99999","07890","25,000-99,999","Not in a place","ME","Oxford ME","Magalloway plantation"," ","99999","Errol, NH","Magalloway Plantation",46,1 
+"23","23017","45285","45250","04257","99999","14795","25,000-99,999","1000-2499","ME","Oxford ME","Mexico town","Mexico CDP, ME","99999","Mexico, ME","Regional School Unit 10",1743,1 
+"23","23017","45285","99999","04257","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Mexico town"," ","99999","Mexico, ME","Regional School Unit 10",938,1 
+"23","23017","46105","99999","04219","99999","82002","25,000-99,999","Not in a place","ME","Oxford ME","Milton UT"," ","99999","Bryant Pond, ME","Oxford Unorganized Territory",143,1 
+"23","23017","49275","99999","04261","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Newry town"," ","99999","Newry, ME","School Administrative District 44",329,1 
+"23","23017","52575","99999","03579","99999","82002","25,000-99,999","Not in a place","ME","Oxford ME","North Oxford UT"," ","99999","Errol, NH","Oxford Unorganized Territory",12,1 
+"23","23017","52575","99999","04216","99999","82002","25,000-99,999","Not in a place","ME","Oxford ME","North Oxford UT"," ","99999","Andover, ME","Oxford Unorganized Territory",9,1 
+"23","23017","52575","99999","04261","99999","82002","25,000-99,999","Not in a place","ME","Oxford ME","North Oxford UT"," ","99999","Newry, ME","Oxford Unorganized Territory",2,1 
+"23","23017","52575","99999","04964","99999","82002","25,000-99,999","Not in a place","ME","Oxford ME","North Oxford UT"," ","99999","Oquossoc, ME (PO Boxes)","Oxford Unorganized Territory",1,1 
+"23","23017","54000","53965","04268","99999","10770","25,000-99,999","2500-9999","ME","Oxford ME","Norway town","Norway CDP, ME","99999","Norway, ME","School Administrative District 17",2748,1 
+"23","23017","54000","99999","04268","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Norway town"," ","99999","Norway, ME","School Administrative District 17",2266,1 
+"23","23017","55960","99999","04270","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Otisfield town"," ","99999","Oxford, ME","School Administrative District 17",1770,1 
+"23","23017","56310","56240","04270","99999","10770","25,000-99,999","1000-2499","ME","Oxford ME","Oxford town","Oxford CDP, ME","99999","Oxford, ME","School Administrative District 17",1263,1 
+"23","23017","56310","99999","04270","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Oxford town"," ","99999","Oxford, ME","School Administrative District 17",2847,1 
+"23","23017","56625","71780","04281","99999","10770","25,000-99,999","1000-2499","ME","Oxford ME","Paris town","South Paris CDP, ME","99999","South Paris, ME","School Administrative District 17",2267,1 
+"23","23017","56625","99999","04271","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Paris town"," ","99999","Paris, ME (PO Boxes)","School Administrative District 17",67,1 
+"23","23017","56625","99999","04281","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Paris town"," ","99999","South Paris, ME","School Administrative District 17",2849,1 
+"23","23017","58270","99999","04290","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Peru town"," ","99999","Peru, ME","Regional School Unit 10",1541,1 
+"23","23017","60405","99999","04068","99999","14190","25,000-99,999","Not in a place","ME","Oxford ME","Porter town"," ","99999","Porter, ME","School Administrative District 55",1498,1 
+"23","23017","64185","99999","04275","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Roxbury town"," ","99999","Roxbury, ME","Regional School Unit 10",369,1 
+"23","23017","64290","64255","04276","99999","14795","25,000-99,999","2500-9999","ME","Oxford ME","Rumford town","Rumford CDP, ME","99999","Rumford, ME","Regional School Unit 10",4218,1 
+"23","23017","64290","99999","04276","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Rumford town"," ","99999","Rumford, ME","Regional School Unit 10",1623,1 
+"23","23017","71755","99999","04217","99999","82002","25,000-99,999","Not in a place","ME","Oxford ME","South Oxford UT"," ","99999","Bethel, ME","Oxford Unorganized Territory",579,1 
+"23","23017","74510","99999","04231","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Stoneham town"," ","99999","Stoneham, ME","School Administrative District 72",236,1 
+"23","23017","74685","99999","04037","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Stow town"," ","99999","Fryeburg, ME","School Administrative District 72",385,1 
+"23","23017","75035","99999","04292","99999","14795","25,000-99,999","Not in a place","ME","Oxford ME","Sumner town"," ","99999","Sumner, ME","Regional School Unit 10",939,1 
+"23","23017","75595","99999","04040","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Sweden town"," ","99999","Harrison, ME","School Administrative District 72",378,1 
+"23","23017","75595","99999","04051","99999","14765","25,000-99,999","Not in a place","ME","Oxford ME","Sweden town"," ","99999","Lovell, ME","School Administrative District 72",13,1 
+"23","23017","78465","99999","04261","99999","13070","25,000-99,999","Not in a place","ME","Oxford ME","Upton town"," ","99999","Newry, ME","Upton",113,1 
+"23","23017","80635","99999","04088","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Waterford town"," ","99999","Waterford, ME","School Administrative District 17",1516,1 
+"23","23017","80635","99999","04267","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","Waterford town"," ","99999","North Waterford, ME (PO Boxes)","School Administrative District 17",37,1 
+"23","23017","83890","99999","04289","99999","10770","25,000-99,999","Not in a place","ME","Oxford ME","West Paris town"," ","99999","West Paris, ME","School Administrative District 17",1812,1 
+"23","23017","87355","99999","04219","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Woodstock town"," ","99999","Bryant Pond, ME","School Administrative District 44",1274,1 
+"23","23017","87355","99999","04289","99999","11670","25,000-99,999","Not in a place","ME","Oxford ME","Woodstock town"," ","99999","West Paris, ME","School Administrative District 44",3,1 
+"23","23019","01115","99999","04468","99999","14782","100,000-249,999","Not in a place","ME","Penobscot ME","Alton town"," ","99999","Old Town, ME","Regional School Unit 34",890,1 
+"23","23019","01500","99999","04468","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","Argyle UT"," ","99999","Old Town, ME","Penobscot Unorganized Territory",277,1 
+"23","23019","02795","02795","04401","99999","02820","100,000-249,999","25,000-99,999","ME","Penobscot ME","Bangor city","Bangor city, ME","99999","Bangor, ME","Bangor",33039,1 
+"23","23019","06575","99999","04410","99999","14440","100,000-249,999","Not in a place","ME","Penobscot ME","Bradford town"," ","99999","Bradford, ME","School Administrative District 64",1290,1 
+"23","23019","06680","99999","04411","99999","14782","100,000-249,999","Not in a place","ME","Penobscot ME","Bradley town"," ","99999","Bradley, ME","Regional School Unit 34",1492,1 
+"23","23019","06925","06925","04412","99999","03510","100,000-249,999","2500-9999","ME","Penobscot ME","Brewer city","Brewer city, ME","99999","Brewer, ME","Brewer",9482,1 
+"23","23019","09200","99999","04417","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Burlington town"," ","99999","Burlington, ME","School Administrative District 31",348,1 
+"23","23019","09200","99999","04457","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Burlington town"," ","99999","Lincoln, ME","School Administrative District 31",10,1 
+"23","23019","09200","99999","04493","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Burlington town"," ","99999","West Enfield, ME","School Administrative District 31",5,1 
+"23","23019","10670","99999","04419","99999","10980","100,000-249,999","Not in a place","ME","Penobscot ME","Carmel town"," ","99999","Carmel, ME","School Administrative District 23",2794,1 
+"23","23019","10810","99999","04487","99999","03990","100,000-249,999","Not in a place","ME","Penobscot ME","Carroll plantation"," ","99999","Springfield, ME","Carroll Plantation",153,1 
+"23","23019","12105","99999","04422","99999","14761","100,000-249,999","Not in a place","ME","Penobscot ME","Charleston town"," ","99999","Charleston, ME","School Administrative District 68",1409,1 
+"23","23019","12525","99999","04457","99999","14760","100,000-249,999","Not in a place","ME","Penobscot ME","Chester town"," ","99999","Lincoln, ME","School Administrative District 67",546,1 
+"23","23019","13365","99999","04428","99999","14470","100,000-249,999","Not in a place","ME","Penobscot ME","Clifton town"," ","99999","Eddington, ME","School Administrative District 63",921,1 
+"23","23019","14310","99999","04928","99999","14785","100,000-249,999","Not in a place","ME","Penobscot ME","Corinna town"," ","99999","Corinna, ME","Regional School Unit 19",2198,1 
+"23","23019","14380","99999","04427","99999","14440","100,000-249,999","Not in a place","ME","Penobscot ME","Corinth town"," ","99999","Corinth, ME","School Administrative District 64",2858,1 
+"23","23019","14380","99999","04450","99999","14440","100,000-249,999","Not in a place","ME","Penobscot ME","Corinth town"," ","99999","Kenduskeag, ME","School Administrative District 64",20,1 
+"23","23019","17530","17495","04930","99999","14530","100,000-249,999","1000-2499","ME","Penobscot ME","Dexter town","Dexter CDP, ME","99999","Dexter, ME","School Administrative District 46",2158,1 
+"23","23019","17530","99999","04930","99999","14530","100,000-249,999","Not in a place","ME","Penobscot ME","Dexter town"," ","99999","Dexter, ME","School Administrative District 46",1737,1 
+"23","23019","17950","99999","04932","99999","14785","100,000-249,999","Not in a place","ME","Penobscot ME","Dixmont town"," ","99999","Dixmont, ME","Regional School Unit 19",1181,1 
+"23","23019","18580","99999","04451","99999","05160","100,000-249,999","Not in a place","ME","Penobscot ME","Drew plantation"," ","99999","Kingman, ME","Drew Plantation",6,1 
+"23","23019","18580","99999","04497","99999","05160","100,000-249,999","Not in a place","ME","Penobscot ME","Drew plantation"," ","99999","Wytopitlock, ME","Drew Plantation",40,1 
+"23","23019","19868","99999","04417","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","East Central Penobscot UT"," ","99999","Burlington, ME","Penobscot Unorganized Territory",19,1 
+"23","23019","19868","99999","04418","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","East Central Penobscot UT"," ","99999","Greenbush, ME","Penobscot Unorganized Territory",324,1 
+"23","23019","21030","21065","04430","99999","05280","100,000-249,999","1000-2499","ME","Penobscot ME","East Millinocket town","East Millinocket CDP, ME","99999","East Millinocket, ME","East Millinocket",1567,1 
+"23","23019","21030","99999","04430","99999","05280","100,000-249,999","Not in a place","ME","Penobscot ME","East Millinocket town"," ","99999","East Millinocket, ME","East Millinocket",156,1 
+"23","23019","22535","99999","04428","99999","14470","100,000-249,999","Not in a place","ME","Penobscot ME","Eddington town"," ","99999","Eddington, ME","School Administrative District 63",2225,1 
+"23","23019","22710","99999","04448","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Edinburg town"," ","99999","Howland, ME","School Administrative District 31",130,1 
+"23","23019","22710","99999","04468","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Edinburg town"," ","99999","Old Town, ME","School Administrative District 31",1,1 
+"23","23019","23620","99999","04493","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Enfield town"," ","99999","West Enfield, ME","School Administrative District 31",1607,1 
+"23","23019","23865","99999","04434","99999","14785","100,000-249,999","Not in a place","ME","Penobscot ME","Etna town"," ","99999","Etna, ME","Regional School Unit 19",1246,1 
+"23","23019","24110","99999","04435","99999","14530","100,000-249,999","Not in a place","ME","Penobscot ME","Exeter town"," ","99999","Exeter, ME","School Administrative District 46",1092,1 
+"23","23019","27190","99999","04939","99999","14530","100,000-249,999","Not in a place","ME","Penobscot ME","Garland town"," ","99999","Garland, ME","School Administrative District 46",1105,1 
+"23","23019","27645","99999","04401","99999","14778","100,000-249,999","Not in a place","ME","Penobscot ME","Glenburn town"," ","99999","Bangor, ME","Regional School Unit 26",4535,1 
+"23","23019","27645","99999","04468","99999","14778","100,000-249,999","Not in a place","ME","Penobscot ME","Glenburn town"," ","99999","Old Town, ME","Regional School Unit 26",59,1 
+"23","23019","29185","99999","04418","99999","06180","100,000-249,999","Not in a place","ME","Penobscot ME","Greenbush town"," ","99999","Greenbush, ME","Greenbush",1447,1 
+"23","23019","29185","99999","04475","99999","06180","100,000-249,999","Not in a place","ME","Penobscot ME","Greenbush town"," ","99999","Passadumkeag, ME","Greenbush",44,1 
+"23","23019","30795","30760","04444","99999","10950","100,000-249,999","2500-9999","ME","Penobscot ME","Hampden town","Hampden CDP, ME","99999","Hampden, ME","School Administrative District 22",4343,1 
+"23","23019","30795","99999","04444","99999","10950","100,000-249,999","Not in a place","ME","Penobscot ME","Hampden town"," ","99999","Hampden, ME","School Administrative District 22",2914,1 
+"23","23019","32510","99999","04401","99999","06510","100,000-249,999","Not in a place","ME","Penobscot ME","Hermon town"," ","99999","Bangor, ME","Hermon",5400,1 
+"23","23019","32510","99999","04444","99999","06510","100,000-249,999","Not in a place","ME","Penobscot ME","Hermon town"," ","99999","Hampden, ME","Hermon",16,1 
+"23","23019","33490","99999","04429","99999","14470","100,000-249,999","Not in a place","ME","Penobscot ME","Holden town"," ","99999","Holden, ME","School Administrative District 63",3076,1 
+"23","23019","34190","34225","04448","99999","11250","100,000-249,999","1000-2499","ME","Penobscot ME","Howland town","Howland CDP, ME","99999","Howland, ME","School Administrative District 31",1096,1 
+"23","23019","34190","99999","04448","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Howland town"," ","99999","Howland, ME","School Administrative District 31",144,1 
+"23","23019","34190","99999","04457","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Howland town"," ","99999","Lincoln, ME","School Administrative District 31",1,1 
+"23","23019","34365","99999","04449","99999","14440","100,000-249,999","Not in a place","ME","Penobscot ME","Hudson town"," ","99999","Hudson, ME","School Administrative District 64",1489,1 
+"23","23019","34365","99999","04468","99999","14440","100,000-249,999","Not in a place","ME","Penobscot ME","Hudson town"," ","99999","Old Town, ME","School Administrative District 64",47,1 
+"23","23019","36325","99999","04450","99999","14440","100,000-249,999","Not in a place","ME","Penobscot ME","Kenduskeag town"," ","99999","Kenduskeag, ME","School Administrative District 64",1348,1 
+"23","23019","37075","99999","04451","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","Kingman UT"," ","99999","Kingman, ME","Penobscot Unorganized Territory",174,1 
+"23","23019","37760","99999","04453","99999","11580","100,000-249,999","Not in a place","ME","Penobscot ME","Lagrange town"," ","99999","Lagrange, ME","School Administrative District 41",708,1 
+"23","23019","38005","99999","04487","99999","07200","100,000-249,999","Not in a place","ME","Penobscot ME","Lakeville town"," ","99999","Springfield, ME","Lakeville",105,1 
+"23","23019","38530","99999","04455","99999","11220","100,000-249,999","Not in a place","ME","Penobscot ME","Lee town"," ","99999","Lee, ME","School Administrative District 30",922,1 
+"23","23019","38705","99999","04456","99999","10980","100,000-249,999","Not in a place","ME","Penobscot ME","Levant town"," ","99999","Levant, ME","School Administrative District 23",2851,1 
+"23","23019","39475","39440","04457","99999","14760","100,000-249,999","2500-9999","ME","Penobscot ME","Lincoln town","Lincoln CDP, ME","99999","Lincoln, ME","School Administrative District 67",2884,1 
+"23","23019","39475","99999","04457","99999","14760","100,000-249,999","Not in a place","ME","Penobscot ME","Lincoln town"," ","99999","Lincoln, ME","School Administrative District 67",2201,1 
+"23","23019","41435","99999","04417","99999","00063","100,000-249,999","Not in a place","ME","Penobscot ME","Lowell town"," ","99999","Burlington, ME","Lowell",3,1 
+"23","23019","41435","99999","04493","99999","00063","100,000-249,999","Not in a place","ME","Penobscot ME","Lowell town"," ","99999","West Enfield, ME","Lowell",355,1 
+"23","23019","44270","99999","04459","99999","14760","100,000-249,999","Not in a place","ME","Penobscot ME","Mattawamkeag town"," ","99999","Mattawamkeag, ME","School Administrative District 67",687,1 
+"23","23019","44340","99999","04448","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Maxfield town"," ","99999","Howland, ME","School Administrative District 31",26,1 
+"23","23019","44340","99999","04453","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Maxfield town"," ","99999","Lagrange, ME","School Administrative District 31",71,1 
+"23","23019","45005","99999","04460","99999","08160","100,000-249,999","Not in a place","ME","Penobscot ME","Medway town"," ","99999","Medway, ME","Medway",1349,1 
+"23","23019","45670","45635","04461","99999","08250","100,000-249,999","1000-2499","ME","Penobscot ME","Milford town","Milford CDP, ME","99999","Milford, ME","Milford",2233,1 
+"23","23019","45670","99999","04461","99999","08250","100,000-249,999","Not in a place","ME","Penobscot ME","Milford town"," ","99999","Milford, ME","Milford",837,1 
+"23","23019","45810","45845","04462","99999","08280","100,000-249,999","2500-9999","ME","Penobscot ME","Millinocket town","Millinocket CDP, ME","99999","Millinocket, ME","Millinocket",4466,1 
+"23","23019","45810","99999","04462","99999","08280","100,000-249,999","Not in a place","ME","Penobscot ME","Millinocket town"," ","99999","Millinocket, ME","Millinocket",40,1 
+"23","23019","47560","99999","04765","99999","11040","100,000-249,999","Not in a place","ME","Penobscot ME","Mount Chase town"," ","99999","Patten, ME","School Administrative District 25",201,1 
+"23","23019","48505","99999","04444","99999","10950","100,000-249,999","Not in a place","ME","Penobscot ME","Newburgh town"," ","99999","Hampden, ME","School Administrative District 22",1551,1 
+"23","23019","49065","49100","04953","99999","14785","100,000-249,999","1000-2499","ME","Penobscot ME","Newport town","Newport CDP, ME","99999","Newport, ME","Regional School Unit 19",1776,1 
+"23","23019","49065","99999","04933","99999","14785","100,000-249,999","Not in a place","ME","Penobscot ME","Newport town"," ","99999","East Newport, ME (PO Boxes)","Regional School Unit 19",65,1 
+"23","23019","49065","99999","04953","99999","14785","100,000-249,999","Not in a place","ME","Penobscot ME","Newport town"," ","99999","Newport, ME","Regional School Unit 19",1434,1 
+"23","23019","52710","99999","04430","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","North Penobscot UT"," ","99999","East Millinocket, ME","Penobscot Unorganized Territory",5,1 
+"23","23019","52710","99999","04457","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","North Penobscot UT"," ","99999","Lincoln, ME","Penobscot Unorganized Territory",58,1 
+"23","23019","52710","99999","04460","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","North Penobscot UT"," ","99999","Medway, ME","Penobscot Unorganized Territory",56,1 
+"23","23019","52710","99999","04462","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","North Penobscot UT"," ","99999","Millinocket, ME","Penobscot Unorganized Territory",279,1 
+"23","23019","52710","99999","04733","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","North Penobscot UT"," ","99999","Benedicta, ME","Penobscot Unorganized Territory",16,1 
+"23","23019","52710","99999","04765","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","North Penobscot UT"," ","99999","Patten, ME","Penobscot Unorganized Territory",34,1 
+"23","23019","52710","99999","04777","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","North Penobscot UT"," ","99999","Stacyville, ME","Penobscot Unorganized Territory",15,1 
+"23","23019","55225","55225","04401","99999","14782","100,000-249,999","2500-9999","ME","Penobscot ME","Old Town city","Old Town city, ME","99999","Bangor, ME","Regional School Unit 34",6,1 
+"23","23019","55225","55225","04468","99999","14782","100,000-249,999","2500-9999","ME","Penobscot ME","Old Town city","Old Town city, ME","99999","Old Town, ME","Regional School Unit 34",7637,1 
+"23","23019","55225","55225","04489","99999","14782","100,000-249,999","2500-9999","ME","Penobscot ME","Old Town city","Old Town city, ME","99999","Old Town, ME","Regional School Unit 34",197,1 
+"23","23019","55565","55575","04469","99999","14778","100,000-249,999","2500-9999","ME","Penobscot ME","Orono town","Orono CDP, ME","99999","Orono, ME","Regional School Unit 26",2702,1 
+"23","23019","55565","55575","04473","99999","14778","100,000-249,999","2500-9999","ME","Penobscot ME","Orono town","Orono CDP, ME","99999","Orono, ME","Regional School Unit 26",6772,1 
+"23","23019","55565","99999","04473","99999","14778","100,000-249,999","Not in a place","ME","Penobscot ME","Orono town"," ","99999","Orono, ME","Regional School Unit 26",888,1 
+"23","23019","55680","99999","04474","99999","09330","100,000-249,999","Not in a place","ME","Penobscot ME","Orrington town"," ","99999","Orrington, ME","Orrington",3733,1 
+"23","23019","57045","99999","04475","99999","11250","100,000-249,999","Not in a place","ME","Penobscot ME","Passadumkeag town"," ","99999","Passadumkeag, ME","School Administrative District 31",374,1 
+"23","23019","57150","99999","04765","99999","11040","100,000-249,999","Not in a place","ME","Penobscot ME","Patten town"," ","99999","Patten, ME","School Administrative District 25",1006,1 
+"23","23019","57150","99999","04777","99999","11040","100,000-249,999","Not in a place","ME","Penobscot ME","Patten town"," ","99999","Stacyville, ME","School Administrative District 25",11,1 
+"23","23019","57937","99999","04468","99999","00001","100,000-249,999","Not in a place","ME","Penobscot ME","Penobscot Indian Island Reservation"," ","99999","Old Town, ME","Indian Island",610,1 
+"23","23019","59950","99999","04953","99999","14785","100,000-249,999","Not in a place","ME","Penobscot ME","Plymouth town"," ","99999","Newport, ME","Regional School Unit 19",18,1 
+"23","23019","59950","99999","04969","99999","14785","100,000-249,999","Not in a place","ME","Penobscot ME","Plymouth town"," ","99999","Plymouth, ME","Regional School Unit 19",1362,1 
+"23","23019","60790","99999","04487","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","Prentiss UT"," ","99999","Springfield, ME","Penobscot Unorganized Territory",208,1 
+"23","23019","60790","99999","04497","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","Prentiss UT"," ","99999","Wytopitlock, ME","Penobscot Unorganized Territory",6,1 
+"23","23019","67160","99999","04448","99999","00057","100,000-249,999","Not in a place","ME","Penobscot ME","Seboeis plantation"," ","99999","Howland, ME","Seboeis Plantation",35,1 
+"23","23019","73250","99999","04455","99999","11220","100,000-249,999","Not in a place","ME","Penobscot ME","Springfield town"," ","99999","Lee, ME","School Administrative District 30",1,1 
+"23","23019","73250","99999","04487","99999","11220","100,000-249,999","Not in a place","ME","Penobscot ME","Springfield town"," ","99999","Springfield, ME","School Administrative District 30",408,1 
+"23","23019","73600","99999","04777","99999","11040","100,000-249,999","Not in a place","ME","Penobscot ME","Stacyville town"," ","99999","Stacyville, ME","School Administrative District 25",396,1 
+"23","23019","74055","99999","04488","99999","14440","100,000-249,999","Not in a place","ME","Penobscot ME","Stetson town"," ","99999","Stetson, ME","School Administrative District 64",1202,1 
+"23","23019","78780","99999","04401","99999","14778","100,000-249,999","Not in a place","ME","Penobscot ME","Veazie town"," ","99999","Bangor, ME","Regional School Unit 26",1919,1 
+"23","23019","81055","99999","04487","99999","11220","100,000-249,999","Not in a place","ME","Penobscot ME","Webster plantation"," ","99999","Springfield, ME","School Administrative District 30",85,1 
+"23","23019","85230","99999","04487","99999","82010","100,000-249,999","Not in a place","ME","Penobscot ME","Whitney UT"," ","99999","Springfield, ME","Penobscot Unorganized Territory",5,1 
+"23","23019","86305","99999","04495","99999","11220","100,000-249,999","Not in a place","ME","Penobscot ME","Winn town"," ","99999","Winn, ME","School Administrative District 30",407,1 
+"23","23019","87390","99999","04457","99999","14040","100,000-249,999","Not in a place","ME","Penobscot ME","Woodville town"," ","99999","Lincoln, ME","Woodville",248,1 
+"23","23021","00100","99999","04406","99999","11730","10,000-24,999","Not in a place","ME","Piscataquis ME","Abbot town"," ","99999","Abbot, ME","School Administrative District 04",714,1 
+"23","23021","01920","99999","04426","99999","11580","10,000-24,999","Not in a place","ME","Piscataquis ME","Atkinson town"," ","99999","Dover-Foxcroft, ME","School Administrative District 41",326,1 
+"23","23021","03740","99999","04441","99999","02960","10,000-24,999","Not in a place","ME","Piscataquis ME","Beaver Cove town"," ","99999","Greenville, ME","Beaver Cove",122,1 
+"23","23021","05560","99999","04406","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Blanchard UT"," ","99999","Abbot, ME","Piscataquis Unorganized Territory",98,1 
+"23","23021","06400","99999","04426","99999","03390","10,000-24,999","Not in a place","ME","Piscataquis ME","Bowerbank town"," ","99999","Dover-Foxcroft, ME","Bowerbank",116,1 
+"23","23021","08325","99999","04414","99999","11580","10,000-24,999","Not in a place","ME","Piscataquis ME","Brownville town"," ","99999","Brownville, ME","School Administrative District 41",974,1 
+"23","23021","08325","99999","04415","99999","11580","10,000-24,999","Not in a place","ME","Piscataquis ME","Brownville town"," ","99999","Brownville Junction, ME (PO Boxes)","School Administrative District 41",276,1 
+"23","23021","18195","18230","04426","99999","14761","10,000-24,999","2500-9999","ME","Piscataquis ME","Dover-Foxcroft town","Dover-Foxcroft CDP, ME","99999","Dover-Foxcroft, ME","School Administrative District 68",2528,1 
+"23","23021","18195","99999","04426","99999","14761","10,000-24,999","Not in a place","ME","Piscataquis ME","Dover-Foxcroft town"," ","99999","Dover-Foxcroft, ME","School Administrative District 68",1685,1 
+"23","23021","29535","29500","04441","99999","06250","10,000-24,999","1000-2499","ME","Piscataquis ME","Greenville town","Greenville CDP, ME","99999","Greenville, ME","Greenville",1257,1 
+"23","23021","29535","99999","04441","99999","06250","10,000-24,999","Not in a place","ME","Piscataquis ME","Greenville town"," ","99999","Greenville, ME","Greenville",389,1 
+"23","23021","30095","30060","04443","99999","11730","10,000-24,999","200-999","ME","Piscataquis ME","Guilford town","Guilford CDP, ME","99999","Guilford, ME","School Administrative District 04",903,1 
+"23","23021","30095","99999","04443","99999","11730","10,000-24,999","Not in a place","ME","Piscataquis ME","Guilford town"," ","99999","Guilford, ME","School Administrative District 04",618,1 
+"23","23021","37095","99999","04406","99999","07110","10,000-24,999","Not in a place","ME","Piscataquis ME","Kingsbury plantation"," ","99999","Abbot, ME","Kingsbury Plantation",2,1 
+"23","23021","37095","99999","04942","99999","07110","10,000-24,999","Not in a place","ME","Piscataquis ME","Kingsbury plantation"," ","99999","Harmony, ME","Kingsbury Plantation",26,1 
+"23","23021","37970","99999","04414","99999","00059","10,000-24,999","Not in a place","ME","Piscataquis ME","Lake View plantation"," ","99999","Brownville, ME","Lake View Plantation",69,1 
+"23","23021","37970","99999","04463","99999","00059","10,000-24,999","Not in a place","ME","Piscataquis ME","Lake View plantation"," ","99999","Milo, ME","Lake View Plantation",20,1 
+"23","23021","44830","99999","04463","99999","08140","10,000-24,999","Not in a place","ME","Piscataquis ME","Medford town"," ","99999","Milo, ME","Medford",254,1 
+"23","23021","46020","45985","04463","99999","11580","10,000-24,999","1000-2499","ME","Piscataquis ME","Milo town","Milo CDP, ME","99999","Milo, ME","School Administrative District 41",1847,1 
+"23","23021","46020","99999","04414","99999","11580","10,000-24,999","Not in a place","ME","Piscataquis ME","Milo town"," ","99999","Brownville, ME","School Administrative District 41",26,1 
+"23","23021","46020","99999","04463","99999","11580","10,000-24,999","Not in a place","ME","Piscataquis ME","Milo town"," ","99999","Milo, ME","School Administrative District 41",467,1 
+"23","23021","46580","99999","04406","99999","14761","10,000-24,999","Not in a place","ME","Piscataquis ME","Monson town"," ","99999","Abbot, ME","School Administrative District 68",5,1 
+"23","23021","46580","99999","04464","99999","14761","10,000-24,999","Not in a place","ME","Piscataquis ME","Monson town"," ","99999","Monson, ME","School Administrative District 68",681,1 
+"23","23021","51105","99999","04414","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northeast Piscataquis UT"," ","99999","Brownville, ME","Piscataquis Unorganized Territory",179,1 
+"23","23021","51105","99999","04441","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northeast Piscataquis UT"," ","99999","Greenville, ME","Piscataquis Unorganized Territory",21,1 
+"23","23021","51105","99999","04443","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northeast Piscataquis UT"," ","99999","Guilford, ME","Piscataquis Unorganized Territory",23,1 
+"23","23021","51105","99999","04462","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northeast Piscataquis UT"," ","99999","Millinocket, ME","Piscataquis Unorganized Territory",47,1 
+"23","23021","51105","99999","04464","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northeast Piscataquis UT"," ","99999","Monson, ME","Piscataquis Unorganized Territory",3,1 
+"23","23021","53628","99999","04441","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northwest Piscataquis UT"," ","99999","Greenville, ME","Piscataquis Unorganized Territory",51,1 
+"23","23021","53628","99999","04442","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northwest Piscataquis UT"," ","99999","Greenville Junction, ME (PO Boxes)","Piscataquis Unorganized Territory",93,1 
+"23","23021","53628","99999","04462","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Northwest Piscataquis UT"," ","99999","Millinocket, ME","Piscataquis Unorganized Territory",3,1 
+"23","23021","56765","99999","04443","99999","11730","10,000-24,999","Not in a place","ME","Piscataquis ME","Parkman town"," ","99999","Guilford, ME","School Administrative District 04",843,1 
+"23","23021","65865","99999","04479","99999","11730","10,000-24,999","Not in a place","ME","Piscataquis ME","Sangerville town"," ","99999","Sangerville, ME","School Administrative District 04",1343,1 
+"23","23021","66950","99999","04426","99999","14761","10,000-24,999","Not in a place","ME","Piscataquis ME","Sebec town"," ","99999","Dover-Foxcroft, ME","School Administrative District 68",65,1 
+"23","23021","66950","99999","04463","99999","14761","10,000-24,999","Not in a place","ME","Piscataquis ME","Sebec town"," ","99999","Milo, ME","School Administrative District 68",6,1 
+"23","23021","66950","99999","04481","99999","14761","10,000-24,999","Not in a place","ME","Piscataquis ME","Sebec town"," ","99999","Sebec, ME","School Administrative District 68",559,1 
+"23","23021","68140","99999","04485","99999","12180","10,000-24,999","Not in a place","ME","Piscataquis ME","Shirley town"," ","99999","Shirley Mills, ME","Shirley",233,1 
+"23","23021","70655","99999","04463","99999","82009","10,000-24,999","Not in a place","ME","Piscataquis ME","Southeast Piscataquis UT"," ","99999","Milo, ME","Piscataquis Unorganized Territory",253,1 
+"23","23021","81405","99999","04942","99999","11730","10,000-24,999","Not in a place","ME","Piscataquis ME","Wellington town"," ","99999","Harmony, ME","School Administrative District 04",260,1 
+"23","23021","85710","99999","04443","99999","13740","10,000-24,999","Not in a place","ME","Piscataquis ME","Willimantic town"," ","99999","Guilford, ME","Willimantic",150,1 
+"23","23023","01570","99999","04530","99999","14772","25,000-99,999","Not in a place","ME","Sagadahoc ME","Arrowsic town"," ","99999","Bath, ME","Regional School Unit 01",427,1 
+"23","23023","03355","03355","04530","99999","14772","25,000-99,999","2500-9999","ME","Sagadahoc ME","Bath city","Bath city, ME","99999","Bath, ME","Regional School Unit 01",8514,1 
+"23","23023","06260","99999","04008","99999","14768","25,000-99,999","Not in a place","ME","Sagadahoc ME","Bowdoin town"," ","99999","Bowdoinham, ME","School Administrative District 75",44,1 
+"23","23023","06260","99999","04086","99999","14768","25,000-99,999","Not in a place","ME","Sagadahoc ME","Bowdoin town"," ","99999","Topsham, ME","School Administrative District 75",3,1 
+"23","23023","06260","99999","04287","99999","14768","25,000-99,999","Not in a place","ME","Sagadahoc ME","Bowdoin town"," ","99999","Bowdoin, ME","School Administrative District 75",3014,1 
+"23","23023","06365","06330","04008","99999","14768","25,000-99,999","200-999","ME","Sagadahoc ME","Bowdoinham town","Bowdoinham CDP, ME","99999","Bowdoinham, ME","School Administrative District 75",570,1 
+"23","23023","06365","06330","04287","99999","14768","25,000-99,999","200-999","ME","Sagadahoc ME","Bowdoinham town","Bowdoinham CDP, ME","99999","Bowdoin, ME","School Administrative District 75",152,1 
+"23","23023","06365","99999","04008","99999","14768","25,000-99,999","Not in a place","ME","Sagadahoc ME","Bowdoinham town"," ","99999","Bowdoinham, ME","School Administrative District 75",2109,1 
+"23","23023","06365","99999","04287","99999","14768","25,000-99,999","Not in a place","ME","Sagadahoc ME","Bowdoinham town"," ","99999","Bowdoin, ME","School Administrative District 75",58,1 
+"23","23023","27295","99999","04548","99999","05970","25,000-99,999","Not in a place","ME","Sagadahoc ME","Georgetown town"," ","99999","Georgetown, ME","Georgetown",1042,1 
+"23","23023","58515","99999","04562","99999","14772","25,000-99,999","Not in a place","ME","Sagadahoc ME","Phippsburg town"," ","99999","Phippsburg, ME","Regional School Unit 01",2216,1 
+"23","23023","62645","62610","04357","99999","14776","25,000-99,999","1000-2499","ME","Sagadahoc ME","Richmond town","Richmond CDP, ME","99999","Richmond, ME","Regional School Unit 02",1760,1 
+"23","23023","62645","99999","04345","99999","14776","25,000-99,999","Not in a place","ME","Sagadahoc ME","Richmond town"," ","99999","Gardiner, ME","Regional School Unit 02",12,1 
+"23","23023","62645","99999","04357","99999","14776","25,000-99,999","Not in a place","ME","Sagadahoc ME","Richmond town"," ","99999","Richmond, ME","Regional School Unit 02",1639,1 
+"23","23023","76960","76925","04086","99999","14768","25,000-99,999","2500-9999","ME","Sagadahoc ME","Topsham town","Topsham CDP, ME","99999","Topsham, ME","School Administrative District 75",5931,1 
+"23","23023","76960","99999","04086","99999","14768","25,000-99,999","Not in a place","ME","Sagadahoc ME","Topsham town"," ","99999","Topsham, ME","School Administrative District 75",2853,1 
+"23","23023","81930","99999","04530","99999","14772","25,000-99,999","Not in a place","ME","Sagadahoc ME","West Bath town"," ","99999","Bath, ME","Regional School Unit 01",1877,1 
+"23","23023","87460","99999","04579","99999","14772","25,000-99,999","Not in a place","ME","Sagadahoc ME","Woolwich town"," ","99999","Woolwich, ME","Regional School Unit 01",3072,1 
+"23","23025","01395","01360","04911","99999","14767","25,000-99,999","200-999","ME","Somerset ME","Anson town","Anson CDP, ME","99999","Anson, ME","School Administrative District 74",742,1 
+"23","23025","01395","01360","04958","99999","14767","25,000-99,999","200-999","ME","Somerset ME","Anson town","Anson CDP, ME","99999","North Anson, ME","School Administrative District 74",10,1 
+"23","23025","01395","99999","04911","99999","14767","25,000-99,999","Not in a place","ME","Somerset ME","Anson town"," ","99999","Anson, ME","School Administrative District 74",754,1 
+"23","23025","01395","99999","04958","99999","14767","25,000-99,999","Not in a place","ME","Somerset ME","Anson town"," ","99999","North Anson, ME","School Administrative District 74",1005,1 
+"23","23025","01885","99999","04912","99999","14560","25,000-99,999","Not in a place","ME","Somerset ME","Athens town"," ","99999","Athens, ME","School Administrative District 59",1010,1 
+"23","23025","01885","99999","04979","99999","14560","25,000-99,999","Not in a place","ME","Somerset ME","Athens town"," ","99999","Solon, ME","School Administrative District 59",9,1 
+"23","23025","05000","04965","04920","99999","10650","25,000-99,999","200-999","ME","Somerset ME","Bingham town","Bingham CDP, ME","99999","Bingham, ME","School Administrative District 13",758,1 
+"23","23025","05000","99999","04920","99999","10650","25,000-99,999","Not in a place","ME","Somerset ME","Bingham town"," ","99999","Bingham, ME","School Administrative District 13",162,1 
+"23","23025","05000","99999","04979","99999","10650","25,000-99,999","Not in a place","ME","Somerset ME","Bingham town"," ","99999","Solon, ME","School Administrative District 13",2,1 
+"23","23025","07380","99999","04912","99999","14560","25,000-99,999","Not in a place","ME","Somerset ME","Brighton plantation"," ","99999","Athens, ME","School Administrative District 59",38,1 
+"23","23025","07380","99999","04942","99999","14560","25,000-99,999","Not in a place","ME","Somerset ME","Brighton plantation"," ","99999","Harmony, ME","School Administrative District 59",32,1 
+"23","23025","09655","99999","04923","99999","11730","25,000-99,999","Not in a place","ME","Somerset ME","Cambridge town"," ","99999","Cambridge, ME","School Administrative District 04",462,1 
+"23","23025","09935","99999","04924","99999","14590","25,000-99,999","Not in a place","ME","Somerset ME","Canaan town"," ","99999","Canaan, ME","School Administrative District 54",2275,1 
+"23","23025","10495","99999","04925","99999","00061","25,000-99,999","Not in a place","ME","Somerset ME","Caratunk town"," ","99999","Caratunk, ME","Caratunk",69,1 
+"23","23025","11820","99999","04920","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Central Somerset UT"," ","99999","Bingham, ME","Somerset Unorganized Territory",184,1 
+"23","23025","11820","99999","04961","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Central Somerset UT"," ","99999","New Portland, ME","Somerset Unorganized Territory",154,1 
+"23","23025","14555","99999","04976","99999","14590","25,000-99,999","Not in a place","ME","Somerset ME","Cornville town"," ","99999","Skowhegan, ME","School Administrative District 54",1314,1 
+"23","23025","17285","99999","04945","99999","04897","25,000-99,999","Not in a place","ME","Somerset ME","Dennistown plantation"," ","99999","Jackman, ME","Dennistown Plantation",33,1 
+"23","23025","17460","99999","04929","99999","14610","25,000-99,999","Not in a place","ME","Somerset ME","Detroit town"," ","99999","Detroit, ME","School Administrative District 53",837,1 
+"23","23025","17460","99999","04967","99999","14610","25,000-99,999","Not in a place","ME","Somerset ME","Detroit town"," ","99999","Pittsfield, ME","School Administrative District 53",15,1 
+"23","23025","23410","99999","04958","99999","14767","25,000-99,999","Not in a place","ME","Somerset ME","Embden town"," ","99999","North Anson, ME","School Administrative District 74",939,1 
+"23","23025","24320","24285","04937","99999","14330","25,000-99,999","2500-9999","ME","Somerset ME","Fairfield town","Fairfield CDP, ME","99999","Fairfield, ME","School Administrative District 49",2638,1 
+"23","23025","24320","99999","04937","99999","14330","25,000-99,999","Not in a place","ME","Somerset ME","Fairfield town"," ","99999","Fairfield, ME","School Administrative District 49",4007,1 
+"23","23025","24320","99999","04944","99999","14330","25,000-99,999","Not in a place","ME","Somerset ME","Fairfield town"," ","99999","Hinckley, ME (PO Boxes)","School Administrative District 49",42,1 
+"23","23025","24320","99999","04975","99999","14330","25,000-99,999","Not in a place","ME","Somerset ME","Fairfield town"," ","99999","Shawmut, ME (PO Boxes)","School Administrative District 49",48,1 
+"23","23025","31355","99999","04942","99999","06330","25,000-99,999","Not in a place","ME","Somerset ME","Harmony town"," ","99999","Harmony, ME","Harmony",939,1 
+"23","23025","31740","31705","04943","99999","14785","25,000-99,999","200-999","ME","Somerset ME","Hartland town","Hartland CDP, ME","99999","Hartland, ME","Regional School Unit 19",813,1 
+"23","23025","31740","99999","04943","99999","14785","25,000-99,999","Not in a place","ME","Somerset ME","Hartland town"," ","99999","Hartland, ME","Regional School Unit 19",969,1 
+"23","23025","32895","99999","04961","99999","06600","25,000-99,999","Not in a place","ME","Somerset ME","Highland plantation"," ","99999","New Portland, ME","Highland Plantation",73,1 
+"23","23025","35345","99999","04945","99999","10620","25,000-99,999","Not in a place","ME","Somerset ME","Jackman town"," ","99999","Jackman, ME","School Administrative District 12",862,1 
+"23","23025","42660","42625","04950","99999","14560","25,000-99,999","2500-9999","ME","Somerset ME","Madison town","Madison CDP, ME","99999","Madison, ME","School Administrative District 59",2630,1 
+"23","23025","42660","99999","04950","99999","14560","25,000-99,999","Not in a place","ME","Somerset ME","Madison town"," ","99999","Madison, ME","School Administrative District 59",2225,1 
+"23","23025","45110","99999","04957","99999","14590","25,000-99,999","Not in a place","ME","Somerset ME","Mercer town"," ","99999","Norridgewock, ME","School Administrative District 54",664,1 
+"23","23025","47140","99999","04945","99999","10620","25,000-99,999","Not in a place","ME","Somerset ME","Moose River town"," ","99999","Jackman, ME","School Administrative District 12",218,1 
+"23","23025","47455","99999","04920","99999","10650","25,000-99,999","Not in a place","ME","Somerset ME","Moscow town"," ","99999","Bingham, ME","School Administrative District 13",512,1 
+"23","23025","49205","99999","04961","99999","14767","25,000-99,999","Not in a place","ME","Somerset ME","New Portland town"," ","99999","New Portland, ME","School Administrative District 74",718,1 
+"23","23025","49835","49800","04957","99999","14590","25,000-99,999","1000-2499","ME","Somerset ME","Norridgewock town","Norridgewock CDP, ME","99999","Norridgewock, ME","School Administrative District 54",1438,1 
+"23","23025","49835","99999","04957","99999","14590","25,000-99,999","Not in a place","ME","Somerset ME","Norridgewock town"," ","99999","Norridgewock, ME","School Administrative District 54",1929,1 
+"23","23025","51114","99999","04478","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Northeast Somerset UT"," ","99999","Rockwood, ME","Somerset Unorganized Territory",285,1 
+"23","23025","51114","99999","04920","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Northeast Somerset UT"," ","99999","Bingham, ME","Somerset Unorganized Territory",4,1 
+"23","23025","51114","99999","04942","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Northeast Somerset UT"," ","99999","Harmony, ME","Somerset Unorganized Territory",1,1 
+"23","23025","51114","99999","04945","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Northeast Somerset UT"," ","99999","Jackman, ME","Somerset Unorganized Territory",77,1 
+"23","23025","51114","99999","04985","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Northeast Somerset UT"," ","99999","West Forks, ME","Somerset Unorganized Territory",23,1 
+"23","23025","53636","99999","04945","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Northwest Somerset UT"," ","99999","Jackman, ME","Somerset Unorganized Territory",35,1 
+"23","23025","53636","99999","04961","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Northwest Somerset UT"," ","99999","New Portland, ME","Somerset Unorganized Territory",27,1 
+"23","23025","56520","99999","04943","99999","14785","25,000-99,999","Not in a place","ME","Somerset ME","Palmyra town"," ","99999","Hartland, ME","Regional School Unit 19",10,1 
+"23","23025","56520","99999","04965","99999","14785","25,000-99,999","Not in a place","ME","Somerset ME","Palmyra town"," ","99999","Palmyra, ME","Regional School Unit 19",1976,1 
+"23","23025","59005","58970","04967","99999","14610","25,000-99,999","2500-9999","ME","Somerset ME","Pittsfield town","Pittsfield CDP, ME","99999","Pittsfield, ME","School Administrative District 53",3150,1 
+"23","23025","59005","99999","04967","99999","14610","25,000-99,999","Not in a place","ME","Somerset ME","Pittsfield town"," ","99999","Pittsfield, ME","School Administrative District 53",1065,1 
+"23","23025","59705","99999","04920","99999","09810","25,000-99,999","Not in a place","ME","Somerset ME","Pleasant Ridge plantation"," ","99999","Bingham, ME","Pleasant Ridge Plantation",93,1 
+"23","23025","62995","99999","04923","99999","14530","25,000-99,999","Not in a place","ME","Somerset ME","Ripley town"," ","99999","Cambridge, ME","School Administrative District 46",20,1 
+"23","23025","62995","99999","04930","99999","14530","25,000-99,999","Not in a place","ME","Somerset ME","Ripley town"," ","99999","Dexter, ME","School Administrative District 46",400,1 
+"23","23025","62995","99999","04942","99999","14530","25,000-99,999","Not in a place","ME","Somerset ME","Ripley town"," ","99999","Harmony, ME","School Administrative District 46",68,1 
+"23","23025","64850","99999","04971","99999","14785","25,000-99,999","Not in a place","ME","Somerset ME","St. Albans town"," ","99999","Saint Albans, ME","Regional School Unit 19",2005,1 
+"23","23025","67238","99999","04478","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Seboomook Lake UT"," ","99999","Rockwood, ME","Somerset Unorganized Territory",31,1 
+"23","23025","67238","99999","04945","99999","82008","25,000-99,999","Not in a place","ME","Somerset ME","Seboomook Lake UT"," ","99999","Jackman, ME","Somerset Unorganized Territory",17,1 
+"23","23025","68910","68875","04976","99999","14590","25,000-99,999","2500-9999","ME","Somerset ME","Skowhegan town","Skowhegan CDP, ME","99999","Skowhegan, ME","School Administrative District 54",6297,1 
+"23","23025","68910","99999","04976","99999","14590","25,000-99,999","Not in a place","ME","Somerset ME","Skowhegan town"," ","99999","Skowhegan, ME","School Administrative District 54",2292,1 
+"23","23025","69155","99999","04957","99999","14590","25,000-99,999","Not in a place","ME","Somerset ME","Smithfield town"," ","99999","Norridgewock, ME","School Administrative District 54",234,1 
+"23","23025","69155","99999","04978","99999","14590","25,000-99,999","Not in a place","ME","Somerset ME","Smithfield town"," ","99999","Smithfield, ME","School Administrative District 54",799,1 
+"23","23025","69505","99999","04979","99999","14767","25,000-99,999","Not in a place","ME","Somerset ME","Solon town"," ","99999","Solon, ME","School Administrative District 74",1053,1 
+"23","23025","73845","99999","04911","99999","14560","25,000-99,999","Not in a place","ME","Somerset ME","Starks town"," ","99999","Anson, ME","School Administrative District 59",640,1 
+"23","23025","76190","99999","04925","99999","00052","25,000-99,999","Not in a place","ME","Somerset ME","The Forks plantation"," ","99999","Caratunk, ME","The Forks Plantation",6,1 
+"23","23025","76190","99999","04985","99999","00052","25,000-99,999","Not in a place","ME","Somerset ME","The Forks plantation"," ","99999","West Forks, ME","The Forks Plantation",31,1 
+"23","23025","82840","99999","04985","99999","00058","25,000-99,999","Not in a place","ME","Somerset ME","West Forks plantation"," ","99999","West Forks, ME","West Forks Plantation",60,1 
+"23","23027","03950","03950","04915","99999","14791","25,000-99,999","2500-9999","ME","Waldo ME","Belfast city","Belfast city, ME","99999","Belfast, ME","Regional School Unit 20",6668,1 
+"23","23027","04125","99999","04952","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Belmont town"," ","99999","Morrill, ME","Regional School Unit 20",942,1 
+"23","23027","07870","99999","04921","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Brooks town"," ","99999","Brooks, ME","School Administrative District 03",1061,1 
+"23","23027","07870","99999","04986","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Brooks town"," ","99999","Thorndike, ME","School Administrative District 03",17,1 
+"23","23027","09270","99999","04922","99999","14610","25,000-99,999","Not in a place","ME","Waldo ME","Burnham town"," ","99999","Burnham, ME","School Administrative District 53",1164,1 
+"23","23027","26280","99999","04438","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Frankfort town"," ","99999","Frankfort, ME","Regional School Unit 20",1124,1 
+"23","23027","26420","99999","04941","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Freedom town"," ","99999","Freedom, ME","School Administrative District 03",719,1 
+"23","23027","35240","99999","04848","99999","06810","25,000-99,999","Not in a place","ME","Waldo ME","Islesboro town"," ","99999","Islesboro, ME","Islesboro",566,1 
+"23","23027","35450","99999","04921","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Jackson town"," ","99999","Brooks, ME","School Administrative District 03",532,1 
+"23","23027","35450","99999","04951","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Jackson town"," ","99999","Monroe, ME","School Administrative District 03",16,1 
+"23","23027","37585","99999","04986","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Knox town"," ","99999","Thorndike, ME","School Administrative District 03",806,1 
+"23","23027","39055","99999","04949","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Liberty town"," ","99999","Liberty, ME","School Administrative District 03",913,1 
+"23","23027","39755","99999","04849","99999","07450","25,000-99,999","Not in a place","ME","Waldo ME","Lincolnville town"," ","99999","Lincolnville, ME","Lincolnville",2164,1 
+"23","23027","46475","99999","04951","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Monroe town"," ","99999","Monroe, ME","School Administrative District 03",890,1 
+"23","23027","46790","99999","04941","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Montville town"," ","99999","Freedom, ME","School Administrative District 03",1032,1 
+"23","23027","47245","99999","04952","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Morrill town"," ","99999","Morrill, ME","Regional School Unit 20",884,1 
+"23","23027","52845","99999","04849","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Northport town"," ","99999","Lincolnville, ME","Regional School Unit 20",1520,1 
+"23","23027","56450","99999","04354","99999","14780","25,000-99,999","Not in a place","ME","Waldo ME","Palermo town"," ","99999","Palermo, ME","Regional School Unit 12",1535,1 
+"23","23027","61210","99999","04981","99999","14796","25,000-99,999","Not in a place","ME","Waldo ME","Prospect town"," ","99999","Stockton Springs, ME","Regional School Unit 25",709,1 
+"23","23027","66565","99999","04952","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Searsmont town"," ","99999","Morrill, ME","Regional School Unit 20",3,1 
+"23","23027","66565","99999","04973","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Searsmont town"," ","99999","Searsmont, ME","Regional School Unit 20",1389,1 
+"23","23027","66635","66600","04974","99999","14791","25,000-99,999","200-999","ME","Waldo ME","Searsport town","Searsport CDP, ME","99999","Searsport, ME","Regional School Unit 20",992,1 
+"23","23027","66635","99999","04974","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Searsport town"," ","99999","Searsport, ME","Regional School Unit 20",1607,1 
+"23","23027","66635","99999","04981","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Searsport town"," ","99999","Stockton Springs, ME","Regional School Unit 20",16,1 
+"23","23027","74475","99999","04981","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Stockton Springs town"," ","99999","Stockton Springs, ME","Regional School Unit 20",1591,1 
+"23","23027","75525","99999","04915","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Swanville town"," ","99999","Belfast, ME","Regional School Unit 20",1376,1 
+"23","23027","75525","99999","04974","99999","14791","25,000-99,999","Not in a place","ME","Waldo ME","Swanville town"," ","99999","Searsport, ME","Regional School Unit 20",12,1 
+"23","23027","76610","99999","04986","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Thorndike town"," ","99999","Thorndike, ME","School Administrative District 03",890,1 
+"23","23027","77625","99999","04987","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Troy town"," ","99999","Troy, ME","School Administrative District 03",1030,1 
+"23","23027","78255","78220","04988","99999","11520","25,000-99,999","200-999","ME","Waldo ME","Unity town","Unity CDP, ME","99999","Unity, ME","School Administrative District 03",469,1 
+"23","23027","78255","99999","04986","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Unity town"," ","99999","Thorndike, ME","School Administrative District 03",8,1 
+"23","23027","78255","99999","04988","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Unity town"," ","99999","Unity, ME","School Administrative District 03",1622,1 
+"23","23027","79480","99999","04915","99999","11520","25,000-99,999","Not in a place","ME","Waldo ME","Waldo town"," ","99999","Belfast, ME","School Administrative District 03",762,1 
+"23","23027","86760","86725","04496","99999","10950","25,000-99,999","1000-2499","ME","Waldo ME","Winterport town","Winterport CDP, ME","99999","Winterport, ME","School Administrative District 22",1340,1 
+"23","23027","86760","99999","04496","99999","10950","25,000-99,999","Not in a place","ME","Waldo ME","Winterport town"," ","99999","Winterport, ME","School Administrative District 22",2417,1 
+"23","23029","00380","99999","04606","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Addison town"," ","99999","Addison, ME","School Administrative District 37",1266,1 
+"23","23029","00660","99999","04694","99999","02280","25,000-99,999","Not in a place","ME","Washington ME","Alexander town"," ","99999","Baileyville, ME","Alexander",499,1 
+"23","23029","02480","87250","04694","99999","02730","25,000-99,999","200-999","ME","Washington ME","Baileyville town","Woodland CDP, ME","99999","Baileyville, ME","Baileyville",952,1 
+"23","23029","02480","99999","04694","99999","02730","25,000-99,999","Not in a place","ME","Washington ME","Baileyville town"," ","99999","Baileyville, ME","Baileyville",569,1 
+"23","23029","02970","99999","04694","99999","02880","25,000-99,999","Not in a place","ME","Washington ME","Baring plantation"," ","99999","Baileyville, ME","Baring Plantation",251,1 
+"23","23029","03670","99999","04611","99999","02950","25,000-99,999","Not in a place","ME","Washington ME","Beals town"," ","99999","Beals, ME (PO Boxes)","Beals",508,1 
+"23","23029","03810","99999","04622","99999","02980","25,000-99,999","Not in a place","ME","Washington ME","Beddington town"," ","99999","Cherryfield, ME","Beddington",50,1 
+"23","23029","09585","09585","04619","99999","03870","25,000-99,999","2500-9999","ME","Washington ME","Calais city","Calais city, ME","99999","Calais, ME","Calais",3121,1 
+"23","23029","09585","09585","04671","99999","03870","25,000-99,999","2500-9999","ME","Washington ME","Calais city","Calais city, ME","99999","Robbinston, ME","Calais",2,1 
+"23","23029","12175","99999","04666","99999","04160","25,000-99,999","Not in a place","ME","Washington ME","Charlotte town"," ","99999","Pembroke, ME","Charlotte",332,1 
+"23","23029","12455","99999","04622","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Cherryfield town"," ","99999","Cherryfield, ME","School Administrative District 37",1232,1 
+"23","23029","13610","99999","04490","99999","05380","25,000-99,999","Not in a place","ME","Washington ME","Codyville plantation"," ","99999","Topsfield, ME","East Range Community School District",23,1 
+"23","23029","13610","99999","04492","99999","05380","25,000-99,999","Not in a place","ME","Washington ME","Codyville plantation"," ","99999","Waite, ME","East Range Community School District",1,1 
+"23","23029","13750","99999","04606","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Columbia town"," ","99999","Addison, ME","School Administrative District 37",6,1 
+"23","23029","13750","99999","04623","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Columbia town"," ","99999","Columbia Falls, ME","School Administrative District 37",466,1 
+"23","23029","13750","99999","04643","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Columbia town"," ","99999","Harrington, ME","School Administrative District 37",14,1 
+"23","23029","13820","99999","04623","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Columbia Falls town"," ","99999","Columbia Falls, ME","School Administrative District 37",560,1 
+"23","23029","14100","99999","04657","99999","04440","25,000-99,999","Not in a place","ME","Washington ME","Cooper town"," ","99999","Meddybemps, ME","Cooper",154,1 
+"23","23029","14940","99999","04694","99999","04650","25,000-99,999","Not in a place","ME","Washington ME","Crawford town"," ","99999","Baileyville, ME","Crawford",105,1 
+"23","23029","15920","99999","04626","99999","00065","25,000-99,999","Not in a place","ME","Washington ME","Cutler town"," ","99999","Cutler, ME","Cutler",507,1 
+"23","23029","16410","99999","04424","99999","10680","25,000-99,999","Not in a place","ME","Washington ME","Danforth town"," ","99999","Danforth, ME","School Administrative District 14",589,1 
+"23","23029","16865","99999","04622","99999","04880","25,000-99,999","Not in a place","ME","Washington ME","Deblois town"," ","99999","Cherryfield, ME","Deblois",57,1 
+"23","23029","17355","99999","04628","99999","04900","25,000-99,999","Not in a place","ME","Washington ME","Dennysville town"," ","99999","Dennysville, ME","Dennysville",342,1 
+"23","23029","19870","99999","04628","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","East Central Washington UT"," ","99999","Dennysville, ME","Washington Unorganized Territory",361,1 
+"23","23029","19870","99999","04630","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","East Central Washington UT"," ","99999","East Machias, ME","Washington Unorganized Territory",13,1 
+"23","23029","19870","99999","04652","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","East Central Washington UT"," ","99999","Lubec, ME","Washington Unorganized Territory",300,1 
+"23","23029","19870","99999","04657","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","East Central Washington UT"," ","99999","Meddybemps, ME","Washington Unorganized Territory",52,1 
+"23","23029","19870","99999","04691","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","East Central Washington UT"," ","99999","Whiting, ME","Washington Unorganized Territory",2,1 
+"23","23029","20960","99999","04630","99999","00062","25,000-99,999","Not in a place","ME","Washington ME","East Machias town"," ","99999","East Machias, ME","East Machias",1368,1 
+"23","23029","21730","21730","04631","99999","05360","25,000-99,999","1000-2499","ME","Washington ME","Eastport city","Eastport city, ME","99999","Eastport, ME","Eastport",1331,1 
+"23","23029","28660","99999","04490","99999","06150","25,000-99,999","Not in a place","ME","Washington ME","Grand Lake Stream plantation"," ","99999","Topsfield, ME","Great Lake Stream Plantation",4,1 
+"23","23029","28660","99999","04637","99999","06150","25,000-99,999","Not in a place","ME","Washington ME","Grand Lake Stream plantation"," ","99999","Grand Lake Stream, ME","Great Lake Stream Plantation",105,1 
+"23","23029","31530","99999","04643","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Harrington town"," ","99999","Harrington, ME","School Administrative District 37",1004,1 
+"23","23029","35905","99999","04648","99999","06900","25,000-99,999","Not in a place","ME","Washington ME","Jonesboro town"," ","99999","Jonesboro, ME","Jonesboro",580,1 
+"23","23029","35905","99999","04654","99999","06900","25,000-99,999","Not in a place","ME","Washington ME","Jonesboro town"," ","99999","Machias, ME","Jonesboro",3,1 
+"23","23029","36010","99999","04649","99999","07100","25,000-99,999","Not in a place","ME","Washington ME","Jonesport town"," ","99999","Jonesport, ME","Jonesport",1370,1 
+"23","23029","41610","41575","04652","99999","10830","25,000-99,999","200-999","ME","Washington ME","Lubec town","Lubec CDP, ME","99999","Lubec, ME","School Administrative District 19",349,1 
+"23","23029","41610","99999","04652","99999","10830","25,000-99,999","Not in a place","ME","Washington ME","Lubec town"," ","99999","Lubec, ME","School Administrative District 19",1010,1 
+"23","23029","41960","41925","04654","99999","07710","25,000-99,999","1000-2499","ME","Washington ME","Machias town","Machias CDP, ME","99999","Machias, ME","Machias",1274,1 
+"23","23029","41960","99999","04654","99999","07710","25,000-99,999","Not in a place","ME","Washington ME","Machias town"," ","99999","Machias, ME","Machias",947,1 
+"23","23029","42100","99999","04655","99999","00067","25,000-99,999","Not in a place","ME","Washington ME","Machiasport town"," ","99999","Machiasport, ME","Machiasport",1119,1 
+"23","23029","43640","99999","04654","99999","07980","25,000-99,999","Not in a place","ME","Washington ME","Marshfield town"," ","99999","Machias, ME","Marshfield",518,1 
+"23","23029","44760","99999","04657","99999","08135","25,000-99,999","Not in a place","ME","Washington ME","Meddybemps town"," ","99999","Meddybemps, ME","Meddybemps",157,1 
+"23","23029","45600","99999","04658","99999","11430","25,000-99,999","Not in a place","ME","Washington ME","Milbridge town"," ","99999","Milbridge, ME","School Administrative District 37",1353,1 
+"23","23029","51375","99999","04654","99999","09090","25,000-99,999","Not in a place","ME","Washington ME","Northfield town"," ","99999","Machias, ME","Northfield",148,1 
+"23","23029","53500","99999","04413","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Brookton, ME","Washington Unorganized Territory",196,1 
+"23","23029","53500","99999","04454","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Lambert Lake, ME (PO Boxes)","Washington Unorganized Territory",69,1 
+"23","23029","53500","99999","04490","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Topsfield, ME","Washington Unorganized Territory",9,1 
+"23","23029","53500","99999","04622","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Cherryfield, ME","Washington Unorganized Territory",9,1 
+"23","23029","53500","99999","04623","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Columbia Falls, ME","Washington Unorganized Territory",28,1 
+"23","23029","53500","99999","04637","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Grand Lake Stream, ME","Washington Unorganized Territory",31,1 
+"23","23029","53500","99999","04654","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Machias, ME","Washington Unorganized Territory",11,1 
+"23","23029","53500","99999","04668","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Princeton, ME","Washington Unorganized Territory",130,1 
+"23","23029","53500","99999","04686","99999","82012","25,000-99,999","Not in a place","ME","Washington ME","North Washington UT"," ","99999","Wesley, ME","Washington Unorganized Territory",16,1 
+"23","23029","57082","99999","04668","99999","00002","25,000-99,999","Not in a place","ME","Washington ME","Passamaquoddy Indian Township Reservation"," ","99999","Princeton, ME","Indian Township",718,1 
+"23","23029","57090","99999","04667","99999","00003","25,000-99,999","Not in a place","ME","Washington ME","Passamaquoddy Pleasant Point Reservation"," ","99999","Perry, ME","Pleasant Point",749,1 
+"23","23029","57780","99999","04666","99999","09560","25,000-99,999","Not in a place","ME","Washington ME","Pembroke town"," ","99999","Pembroke, ME","Pembroke",840,1 
+"23","23029","58165","99999","04667","99999","09650","25,000-99,999","Not in a place","ME","Washington ME","Perry town"," ","99999","Perry, ME","Perry",889,1 
+"23","23029","61035","99999","04668","99999","09990","25,000-99,999","Not in a place","ME","Washington ME","Princeton town"," ","99999","Princeton, ME","Princeton",832,1 
+"23","23029","63275","99999","04671","99999","10190","25,000-99,999","Not in a place","ME","Washington ME","Robbinston town"," ","99999","Robbinston, ME","Robbinston",574,1 
+"23","23029","63940","99999","04654","99999","10320","25,000-99,999","Not in a place","ME","Washington ME","Roque Bluffs town"," ","99999","Machias, ME","Roque Bluffs",303,1 
+"23","23029","74125","99999","04680","99999","14790","25,000-99,999","Not in a place","ME","Washington ME","Steuben town"," ","99999","Steuben, ME","Regional School Unit 24",1131,1 
+"23","23029","75770","99999","04492","99999","12810","25,000-99,999","Not in a place","ME","Washington ME","Talmadge town"," ","99999","Waite, ME","Talmadge",64,1 
+"23","23029","76895","99999","04490","99999","05380","25,000-99,999","Not in a place","ME","Washington ME","Topsfield town"," ","99999","Topsfield, ME","East Range Community School District",237,1 
+"23","23029","78675","99999","04491","99999","13080","25,000-99,999","Not in a place","ME","Washington ME","Vanceboro town"," ","99999","Vanceboro, ME (PO Boxes)","Vanceboro",140,1 
+"23","23029","79375","99999","04492","99999","13200","25,000-99,999","Not in a place","ME","Washington ME","Waite town"," ","99999","Waite, ME","Waite",101,1 
+"23","23029","81685","99999","04686","99999","13500","25,000-99,999","Not in a place","ME","Washington ME","Wesley town"," ","99999","Wesley, ME","Wesley",98,1 
+"23","23029","85185","99999","04630","99999","00068","25,000-99,999","Not in a place","ME","Washington ME","Whiting town"," ","99999","East Machias, ME","Whiting",17,1 
+"23","23029","85185","99999","04652","99999","00068","25,000-99,999","Not in a place","ME","Washington ME","Whiting town"," ","99999","Lubec, ME","Whiting",31,1 
+"23","23029","85185","99999","04691","99999","00068","25,000-99,999","Not in a place","ME","Washington ME","Whiting town"," ","99999","Whiting, ME","Whiting",439,1 
+"23","23029","85290","99999","04654","99999","13710","25,000-99,999","Not in a place","ME","Washington ME","Whitneyville town"," ","99999","Machias, ME","Whitneyville",220,1 
+"23","23031","00275","99999","04001","99999","02220","100,000-249,999","Not in a place","ME","York ME","Acton town"," ","99999","Acton, ME","Acton",2428,1 
+"23","23031","00275","99999","04076","99999","02220","100,000-249,999","Not in a place","ME","York ME","Acton town"," ","99999","Shapleigh, ME","Acton",16,1 
+"23","23031","00275","99999","04095","99999","02220","100,000-249,999","Not in a place","ME","York ME","Acton town"," ","99999","West Newfield, ME","Acton",3,1 
+"23","23031","00730","99999","04002","99999","14670","100,000-249,999","Not in a place","ME","York ME","Alfred town"," ","99999","Alfred, ME","School Administrative District 57",3019,1 
+"23","23031","01605","99999","04046","99999","14773","100,000-249,999","Not in a place","ME","York ME","Arundel town"," ","99999","Kennebunkport, ME","Regional School Unit 21",4022,1 
+"23","23031","04720","04685","03901","99999","14700","100,000-249,999","1000-2499","ME","York ME","Berwick town","Berwick CDP, ME","99999","Berwick, ME","School Administrative District 60",2187,1 
+"23","23031","04720","99999","03901","99999","14700","100,000-249,999","Not in a place","ME","York ME","Berwick town"," ","99999","Berwick, ME","School Administrative District 60",5046,1 
+"23","23031","04720","99999","03908","99999","14700","100,000-249,999","Not in a place","ME","York ME","Berwick town"," ","99999","South Berwick, ME","School Administrative District 60",13,1 
+"23","23031","04860","04860","04005","99999","03150","100,000-249,999","10,000-24,999","ME","York ME","Biddeford city","Biddeford city, ME","99999","Biddeford, ME","Biddeford",21181,1 
+"23","23031","04860","04860","04006","99999","03150","100,000-249,999","10,000-24,999","ME","York ME","Biddeford city","Biddeford city, ME","99999","Biddeford, ME","Biddeford",96,1 
+"23","23031","09410","99999","04093","99999","11790","100,000-249,999","Not in a place","ME","York ME","Buxton town"," ","99999","Buxton, ME","School Administrative District 06",8034,1 
+"23","23031","14485","99999","04020","99999","14190","100,000-249,999","Not in a place","ME","York ME","Cornish town"," ","99999","Cornish, ME","School Administrative District 55",1403,1 
+"23","23031","16725","99999","04005","99999","14784","100,000-249,999","Not in a place","ME","York ME","Dayton town"," ","99999","Biddeford, ME","Regional School Unit 23",1965,1 
+"23","23031","22955","70660","03903","99999","11370","100,000-249,999","2500-9999","ME","York ME","Eliot town","South Eliot CDP, ME","99999","South Eliot, ME","School Administrative District 35",3550,1 
+"23","23031","22955","99999","03903","99999","11370","100,000-249,999","Not in a place","ME","York ME","Eliot town"," ","99999","South Eliot, ME","School Administrative District 35",2654,1 
+"23","23031","33665","99999","04042","99999","11790","100,000-249,999","Not in a place","ME","York ME","Hollis town"," ","99999","Hollis Center, ME","School Administrative District 06",4281,1 
+"23","23031","36535","36500","04043","99999","14773","100,000-249,999","2500-9999","ME","York ME","Kennebunk town","Kennebunk CDP, ME","99999","Kennebunk, ME","Regional School Unit 21",5214,1 
+"23","23031","36535","83330","04043","99999","14773","100,000-249,999","1000-2499","ME","York ME","Kennebunk town","West Kennebunk CDP, ME","99999","Kennebunk, ME","Regional School Unit 21",1176,1 
+"23","23031","36535","99999","04043","99999","14773","100,000-249,999","Not in a place","ME","York ME","Kennebunk town"," ","99999","Kennebunk, ME","Regional School Unit 21",4408,1 
+"23","23031","36745","36710","04046","99999","14773","100,000-249,999","1000-2499","ME","York ME","Kennebunkport town","Kennebunkport CDP, ME","99999","Kennebunkport, ME","Regional School Unit 21",1238,1 
+"23","23031","36745","99999","04046","99999","14773","100,000-249,999","Not in a place","ME","York ME","Kennebunkport town"," ","99999","Kennebunkport, ME","Regional School Unit 21",2236,1 
+"23","23031","37270","37235","03904","99999","07140","100,000-249,999","2500-9999","ME","York ME","Kittery town","Kittery CDP, ME","99999","Kittery, ME","Kittery",4562,1 
+"23","23031","37270","37375","03905","99999","07140","100,000-249,999","1000-2499","ME","York ME","Kittery town","Kittery Point CDP, ME","99999","Kittery Point, ME","Kittery",1012,1 
+"23","23031","37270","99999","03903","99999","07140","100,000-249,999","Not in a place","ME","York ME","Kittery town"," ","99999","South Eliot, ME","Kittery",7,1 
+"23","23031","37270","99999","03904","99999","07140","100,000-249,999","Not in a place","ME","York ME","Kittery town"," ","99999","Kittery, ME","Kittery",3141,1 
+"23","23031","37270","99999","03905","99999","07140","100,000-249,999","Not in a place","ME","York ME","Kittery town"," ","99999","Kittery Point, ME","Kittery",768,1 
+"23","23031","38425","99999","04027","99999","14700","100,000-249,999","Not in a place","ME","York ME","Lebanon town"," ","99999","Lebanon, ME","School Administrative District 60",6031,1 
+"23","23031","39195","37795","04048","99999","14670","100,000-249,999","2500-9999","ME","York ME","Limerick town","Lake Arrowhead CDP, ME","99999","Limerick, ME","School Administrative District 57",680,1 
+"23","23031","39195","99999","04048","99999","14670","100,000-249,999","Not in a place","ME","York ME","Limerick town"," ","99999","Limerick, ME","School Administrative District 57",2205,1 
+"23","23031","39195","99999","04049","99999","14670","100,000-249,999","Not in a place","ME","York ME","Limerick town"," ","99999","Limington, ME","School Administrative District 57",7,1 
+"23","23031","39405","99999","04048","99999","11790","100,000-249,999","Not in a place","ME","York ME","Limington town"," ","99999","Limerick, ME","School Administrative District 06",61,1 
+"23","23031","39405","99999","04049","99999","11790","100,000-249,999","Not in a place","ME","York ME","Limington town"," ","99999","Limington, ME","School Administrative District 06",3652,1 
+"23","23031","41750","99999","04002","99999","14670","100,000-249,999","Not in a place","ME","York ME","Lyman town"," ","99999","Alfred, ME","School Administrative District 57",4332,1 
+"23","23031","41750","99999","04043","99999","14670","100,000-249,999","Not in a place","ME","York ME","Lyman town"," ","99999","Kennebunk, ME","School Administrative District 57",12,1 
+"23","23031","48750","99999","04056","99999","14670","100,000-249,999","Not in a place","ME","York ME","Newfield town"," ","99999","Newfield, ME (PO Boxes)","School Administrative District 57",257,1 
+"23","23031","48750","99999","04095","99999","14670","100,000-249,999","Not in a place","ME","York ME","Newfield town"," ","99999","West Newfield, ME","School Administrative District 57",1265,1 
+"23","23031","50325","50290","03906","99999","14700","100,000-249,999","1000-2499","ME","York ME","North Berwick town","North Berwick CDP, ME","99999","North Berwick, ME","School Administrative District 60",1615,1 
+"23","23031","50325","99999","03901","99999","14700","100,000-249,999","Not in a place","ME","York ME","North Berwick town"," ","99999","Berwick, ME","School Administrative District 60",13,1 
+"23","23031","50325","99999","03906","99999","14700","100,000-249,999","Not in a place","ME","York ME","North Berwick town"," ","99999","North Berwick, ME","School Administrative District 60",2948,1 
+"23","23031","54980","99999","03907","99999","13490","100,000-249,999","Not in a place","ME","York ME","Ogunquit town"," ","99999","Ogunquit, ME","Wells-Ogunquit Community School District",892,1 
+"23","23031","55085","55120","04063","99999","14784","100,000-249,999","2500-9999","ME","York ME","Old Orchard Beach town","Old Orchard Beach CDP, ME","99999","Old Orchard Beach, ME","Regional School Unit 23",412,1 
+"23","23031","55085","55120","04064","99999","14784","100,000-249,999","2500-9999","ME","York ME","Old Orchard Beach town","Old Orchard Beach CDP, ME","99999","Old Orchard Beach, ME","Regional School Unit 23",8212,1 
+"23","23031","56870","99999","04047","99999","14190","100,000-249,999","Not in a place","ME","York ME","Parsonsfield town"," ","99999","Parsonsfield, ME","School Administrative District 55",1892,1 
+"23","23031","56870","99999","04095","99999","14190","100,000-249,999","Not in a place","ME","York ME","Parsonsfield town"," ","99999","West Newfield, ME","School Administrative District 55",6,1 
+"23","23031","64675","64675","04072","99999","14784","100,000-249,999","10,000-24,999","ME","York ME","Saco city","Saco city, ME","99999","Saco, ME","Regional School Unit 23",18482,1 
+"23","23031","65760","65725","04073","99999","10500","100,000-249,999","2500-9999","ME","York ME","Sanford town","Sanford CDP, ME","99999","Sanford, ME","Sanford",9412,1 
+"23","23031","65760","65725","04083","99999","10500","100,000-249,999","2500-9999","ME","York ME","Sanford town","Sanford CDP, ME","99999","Springvale, ME","Sanford",349,1 
+"23","23031","65760","72200","03906","99999","10500","100,000-249,999","2500-9999","ME","York ME","Sanford town","South Sanford CDP, ME","99999","North Berwick, ME","Sanford",84,1 
+"23","23031","65760","72200","04073","99999","10500","100,000-249,999","2500-9999","ME","York ME","Sanford town","South Sanford CDP, ME","99999","Sanford, ME","Sanford",4452,1 
+"23","23031","65760","73285","04083","99999","10500","100,000-249,999","2500-9999","ME","York ME","Sanford town","Springvale CDP, ME","99999","Springvale, ME","Sanford",3292,1 
+"23","23031","65760","99999","04073","99999","10500","100,000-249,999","Not in a place","ME","York ME","Sanford town"," ","99999","Sanford, ME","Sanford",2325,1 
+"23","23031","65760","99999","04083","99999","10500","100,000-249,999","Not in a place","ME","York ME","Sanford town"," ","99999","Springvale, ME","Sanford",884,1 
+"23","23031","67475","99999","04001","99999","14670","100,000-249,999","Not in a place","ME","York ME","Shapleigh town"," ","99999","Acton, ME","School Administrative District 57",1,1 
+"23","23031","67475","99999","04076","99999","14670","100,000-249,999","Not in a place","ME","York ME","Shapleigh town"," ","99999","Shapleigh, ME","School Administrative District 57",2667,1 
+"23","23031","70030","99999","03908","99999","11370","100,000-249,999","Not in a place","ME","York ME","South Berwick town"," ","99999","South Berwick, ME","School Administrative District 35",7220,1 
+"23","23031","80530","37795","04061","99999","14670","100,000-249,999","2500-9999","ME","York ME","Waterboro town","Lake Arrowhead CDP, ME","99999","Lake Arrowhead, ME","School Administrative District 57",2391,1 
+"23","23031","80530","99999","04030","99999","14670","100,000-249,999","Not in a place","ME","York ME","Waterboro town"," ","99999","East Waterboro, ME","School Administrative District 57",2208,1 
+"23","23031","80530","99999","04061","99999","14670","100,000-249,999","Not in a place","ME","York ME","Waterboro town"," ","99999","Lake Arrowhead, ME","School Administrative District 57",978,1 
+"23","23031","80530","99999","04087","99999","14670","100,000-249,999","Not in a place","ME","York ME","Waterboro town"," ","99999","Waterboro, ME","School Administrative District 57",2116,1 
+"23","23031","81475","99999","04090","99999","13490","100,000-249,999","Not in a place","ME","York ME","Wells town"," ","99999","Wells, ME","Wells-Ogunquit Community School District",9589,1 
+"23","23031","87985","10320","03902","99999","14130","100,000-249,999","2500-9999","ME","York ME","York town","Cape Neddick CDP, ME","99999","Cape Neddick, ME","York",49,1 
+"23","23031","87985","10320","03909","99999","14130","100,000-249,999","2500-9999","ME","York ME","York town","Cape Neddick CDP, ME","99999","York, ME","York",2191,1 
+"23","23031","87985","10320","03910","99999","14130","100,000-249,999","2500-9999","ME","York ME","York town","Cape Neddick CDP, ME","99999","Cape Neddick, ME","York",328,1 
+"23","23031","87985","88160","03909","99999","14130","100,000-249,999","2500-9999","ME","York ME","York town","York Harbor CDP, ME","99999","York, ME","York",2783,1 
+"23","23031","87985","88160","03911","99999","14130","100,000-249,999","2500-9999","ME","York ME","York town","York Harbor CDP, ME","99999","York Harbor, ME","York",250,1 
+"23","23031","87985","99999","03902","99999","14130","100,000-249,999","Not in a place","ME","York ME","York town"," ","99999","Cape Neddick, ME","York",2162,1 
+"23","23031","87985","99999","03907","99999","14130","100,000-249,999","Not in a place","ME","York ME","York town"," ","99999","Ogunquit, ME","York",2,1 
+"23","23031","87985","99999","03909","99999","14130","100,000-249,999","Not in a place","ME","York ME","York town"," ","99999","York, ME","York",4764,1 

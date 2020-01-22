@@ -1,0 +1,334 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"10","10001","90444","10760","19904","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Central Kent CCD","Camden town, DE","99999","Dover, DE","Caesar Rodney School District",54,1 
+"10","10001","90444","44430","19962","99999","00180","100,000-249,999","200-999","DE","Kent DE","Central Kent CCD","Magnolia town, DE","99999","Magnolia, DE","Caesar Rodney School District",225,1 
+"10","10001","90444","61265","19901","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Central Kent CCD","Rising Sun-Lebanon CDP, DE","99999","Dover, DE","Caesar Rodney School District",1250,1 
+"10","10001","90444","61265","19934","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Central Kent CCD","Rising Sun-Lebanon CDP, DE","99999","Camden Wyoming, DE","Caesar Rodney School District",496,1 
+"10","10001","90444","61265","19962","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Central Kent CCD","Rising Sun-Lebanon CDP, DE","99999","Magnolia, DE","Caesar Rodney School District",1192,1 
+"10","10001","90444","61480","19943","99999","00180","100,000-249,999","1000-2499","DE","Kent DE","Central Kent CCD","Riverview CDP, DE","99999","Felton, DE","Caesar Rodney School District",67,1 
+"10","10001","90444","61480","19943","99999","00790","100,000-249,999","1000-2499","DE","Kent DE","Central Kent CCD","Riverview CDP, DE","99999","Felton, DE","Lake Forest School District",1463,1 
+"10","10001","90444","61480","19946","99999","00790","100,000-249,999","1000-2499","DE","Kent DE","Central Kent CCD","Riverview CDP, DE","99999","Frederica, DE","Lake Forest School District",926,1 
+"10","10001","90444","74330","19979","99999","00790","100,000-249,999","Less than 200","DE","Kent DE","Central Kent CCD","Viola town, DE","99999","Viola, DE","Lake Forest School District",157,1 
+"10","10001","90444","80830","19904","99999","00180","100,000-249,999","Less than 200","DE","Kent DE","Central Kent CCD","Woodside town, DE","99999","Dover, DE","Caesar Rodney School District",154,1 
+"10","10001","90444","80830","19943","99999","00180","100,000-249,999","Less than 200","DE","Kent DE","Central Kent CCD","Woodside town, DE","99999","Felton, DE","Caesar Rodney School District",27,1 
+"10","10001","90444","80895","19943","99999","00180","100,000-249,999","1000-2499","DE","Kent DE","Central Kent CCD","Woodside East CDP, DE","99999","Felton, DE","Caesar Rodney School District",129,1 
+"10","10001","90444","80895","19943","99999","00790","100,000-249,999","1000-2499","DE","Kent DE","Central Kent CCD","Woodside East CDP, DE","99999","Felton, DE","Lake Forest School District",333,1 
+"10","10001","90444","80895","19962","99999","00180","100,000-249,999","1000-2499","DE","Kent DE","Central Kent CCD","Woodside East CDP, DE","99999","Magnolia, DE","Caesar Rodney School District",1854,1 
+"10","10001","90444","99999","19901","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Dover, DE","Caesar Rodney School District",987,1 
+"10","10001","90444","99999","19904","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Dover, DE","Caesar Rodney School District",482,1 
+"10","10001","90444","99999","19934","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Camden Wyoming, DE","Caesar Rodney School District",4145,1 
+"10","10001","90444","99999","19934","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Camden Wyoming, DE","Lake Forest School District",53,1 
+"10","10001","90444","99999","19943","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Felton, DE","Caesar Rodney School District",595,1 
+"10","10001","90444","99999","19943","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Felton, DE","Lake Forest School District",1870,1 
+"10","10001","90444","99999","19946","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Frederica, DE","Caesar Rodney School District",130,1 
+"10","10001","90444","99999","19946","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Frederica, DE","Lake Forest School District",1228,1 
+"10","10001","90444","99999","19953","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Hartly, DE","Caesar Rodney School District",40,1 
+"10","10001","90444","99999","19962","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Magnolia, DE","Caesar Rodney School District",6935,1 
+"10","10001","90444","99999","19964","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Marydel, DE","Caesar Rodney School District",388,1 
+"10","10001","90444","99999","19979","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Viola, DE","Caesar Rodney School District",43,1 
+"10","10001","90444","99999","19979","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Central Kent CCD"," ","99999","Viola, DE","Lake Forest School District",432,1 
+"10","10001","90740","10760","19901","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Dover CCD","Camden town, DE","99999","Dover, DE","Caesar Rodney School District",2,1 
+"10","10001","90740","10760","19904","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Dover CCD","Camden town, DE","99999","Dover, DE","Caesar Rodney School District",271,1 
+"10","10001","90740","10760","19934","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Dover CCD","Camden town, DE","99999","Camden Wyoming, DE","Caesar Rodney School District",3137,1 
+"10","10001","90740","14660","19901","99999","00190","100,000-249,999","1000-2499","DE","Kent DE","Dover CCD","Cheswold town, DE","99999","Dover, DE","Capital School District",34,1 
+"10","10001","90740","14660","19904","99999","00190","100,000-249,999","1000-2499","DE","Kent DE","Dover CCD","Cheswold town, DE","99999","Dover, DE","Capital School District",1044,1 
+"10","10001","90740","14660","19936","99999","00190","100,000-249,999","1000-2499","DE","Kent DE","Dover CCD","Cheswold town, DE","99999","Cheswold, DE","Capital School District",302,1 
+"10","10001","90740","21200","19901","99999","00190","100,000-249,999","25,000-99,999","DE","Kent DE","Dover CCD","Dover city, DE","99999","Dover, DE","Capital School District",15425,1 
+"10","10001","90740","21200","19902","99999","00180","100,000-249,999","25,000-99,999","DE","Kent DE","Dover CCD","Dover city, DE","99999","Dover, DE","Caesar Rodney School District",283,1 
+"10","10001","90740","21200","19904","99999","00180","100,000-249,999","25,000-99,999","DE","Kent DE","Dover CCD","Dover city, DE","99999","Dover, DE","Caesar Rodney School District",1866,1 
+"10","10001","90740","21200","19904","99999","00190","100,000-249,999","25,000-99,999","DE","Kent DE","Dover CCD","Dover city, DE","99999","Dover, DE","Capital School District",18473,1 
+"10","10001","90740","21387","19901","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Dover CCD","Dover Base Housing CDP, DE","99999","Dover, DE","Caesar Rodney School District",3450,1 
+"10","10001","90740","33250","19953","99999","00190","100,000-249,999","Less than 200","DE","Kent DE","Dover CCD","Hartly town, DE","99999","Hartly, DE","Capital School District",74,1 
+"10","10001","90740","34810","19901","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Dover CCD","Highland Acres CDP, DE","99999","Dover, DE","Caesar Rodney School District",3459,1 
+"10","10001","90740","38710","19901","99999","00180","100,000-249,999","1000-2499","DE","Kent DE","Dover CCD","Kent Acres CDP, DE","99999","Dover, DE","Caesar Rodney School District",1890,1 
+"10","10001","90740","41700","19901","99999","00190","100,000-249,999","Less than 200","DE","Kent DE","Dover CCD","Leipsic town, DE","99999","Dover, DE","Capital School District",180,1 
+"10","10001","90740","42870","19901","99999","00190","100,000-249,999","200-999","DE","Kent DE","Dover CCD","Little Creek town, DE","99999","Dover, DE","Capital School District",224,1 
+"10","10001","90740","61265","19901","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Dover CCD","Rising Sun-Lebanon CDP, DE","99999","Dover, DE","Caesar Rodney School District",91,1 
+"10","10001","90740","61265","19934","99999","00180","100,000-249,999","2500-9999","DE","Kent DE","Dover CCD","Rising Sun-Lebanon CDP, DE","99999","Camden Wyoming, DE","Caesar Rodney School District",362,1 
+"10","10001","90740","61720","19904","99999","00180","100,000-249,999","1000-2499","DE","Kent DE","Dover CCD","Rodney Village CDP, DE","99999","Dover, DE","Caesar Rodney School District",1487,1 
+"10","10001","90740","81350","19934","99999","00180","100,000-249,999","1000-2499","DE","Kent DE","Dover CCD","Wyoming town, DE","99999","Camden Wyoming, DE","Caesar Rodney School District",1313,1 
+"10","10001","90740","99999","19901","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Dover, DE","Caesar Rodney School District",1893,1 
+"10","10001","90740","99999","19901","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Dover, DE","Capital School District",6170,1 
+"10","10001","90740","99999","19904","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Dover, DE","Caesar Rodney School District",952,1 
+"10","10001","90740","99999","19904","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Dover, DE","Capital School District",6312,1 
+"10","10001","90740","99999","19904","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Dover, DE","Smyrna School District",101,1 
+"10","10001","90740","99999","19934","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Camden Wyoming, DE","Caesar Rodney School District",3256,1 
+"10","10001","90740","99999","19934","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Camden Wyoming, DE","Capital School District",43,1 
+"10","10001","90740","99999","19953","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Hartly, DE","Caesar Rodney School District",412,1 
+"10","10001","90740","99999","19953","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Hartly, DE","Capital School District",3631,1 
+"10","10001","90740","99999","19953","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Hartly, DE","Smyrna School District",76,1 
+"10","10001","90740","99999","19964","99999","00180","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Marydel, DE","Caesar Rodney School District",332,1 
+"10","10001","90740","99999","19964","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Dover CCD"," ","99999","Marydel, DE","Capital School District",620,1 
+"10","10001","90888","26620","19943","99999","00790","100,000-249,999","1000-2499","DE","Kent DE","Felton CCD","Felton town, DE","99999","Felton, DE","Lake Forest School District",1298,1 
+"10","10001","90888","99999","19943","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Felton CCD"," ","99999","Felton, DE","Lake Forest School District",5201,1 
+"10","10001","90888","99999","19952","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Felton CCD"," ","99999","Harrington, DE","Lake Forest School District",586,1 
+"10","10001","91332","25840","19950","99999","01850","100,000-249,999","Less than 200","DE","Kent DE","Harrington CCD","Farmington town, DE","99999","Greenwood, DE","Woodbridge School District",110,1 
+"10","10001","91332","33120","19952","99999","00790","100,000-249,999","2500-9999","DE","Kent DE","Harrington CCD","Harrington city, DE","99999","Harrington, DE","Lake Forest School District",3562,1 
+"10","10001","91332","36760","19954","99999","01080","100,000-249,999","200-999","DE","Kent DE","Harrington CCD","Houston town, DE","99999","Houston, DE","Milford School District",374,1 
+"10","10001","91332","99999","19943","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Felton, DE","Lake Forest School District",158,1 
+"10","10001","91332","99999","19950","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Greenwood, DE","Lake Forest School District",7,1 
+"10","10001","91332","99999","19950","99999","01080","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Greenwood, DE","Milford School District",478,1 
+"10","10001","91332","99999","19950","99999","01850","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Greenwood, DE","Woodbridge School District",861,1 
+"10","10001","91332","99999","19952","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Harrington, DE","Lake Forest School District",4764,1 
+"10","10001","91332","99999","19952","99999","01080","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Harrington, DE","Milford School District",567,1 
+"10","10001","91332","99999","19952","99999","01850","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Harrington, DE","Woodbridge School District",646,1 
+"10","10001","91332","99999","19954","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Houston, DE","Lake Forest School District",140,1 
+"10","10001","91332","99999","19954","99999","01080","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Houston, DE","Milford School District",934,1 
+"10","10001","91332","99999","19954","99999","01850","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Houston, DE","Woodbridge School District",4,1 
+"10","10001","91332","99999","19963","99999","01080","100,000-249,999","Not in a place","DE","Kent DE","Harrington CCD"," ","99999","Milford, DE","Milford School District",45,1 
+"10","10001","91480","39100","19938","99999","01620","100,000-249,999","200-999","DE","Kent DE","Kenton CCD","Kenton town, DE","99999","Clayton, DE","Smyrna School District",197,1 
+"10","10001","91480","39100","19955","99999","01620","100,000-249,999","200-999","DE","Kent DE","Kenton CCD","Kenton town, DE","99999","Kenton, DE","Smyrna School District",64,1 
+"10","10001","91480","99999","19904","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Dover, DE","Capital School District",665,1 
+"10","10001","91480","99999","19904","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Dover, DE","Smyrna School District",676,1 
+"10","10001","91480","99999","19938","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Clayton, DE","Capital School District",3,1 
+"10","10001","91480","99999","19938","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Clayton, DE","Smyrna School District",4238,1 
+"10","10001","91480","99999","19953","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Hartly, DE","Capital School District",61,1 
+"10","10001","91480","99999","19953","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Hartly, DE","Smyrna School District",92,1 
+"10","10001","91480","99999","19955","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Kenton, DE","Smyrna School District",8,1 
+"10","10001","91480","99999","19977","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Kenton CCD"," ","99999","Smyrna, DE","Smyrna School District",537,1 
+"10","10001","92220","07250","19946","99999","00790","100,000-249,999","200-999","DE","Kent DE","Milford North CCD","Bowers town, DE","99999","Frederica, DE","Lake Forest School District",335,1 
+"10","10001","92220","28440","19946","99999","00790","100,000-249,999","200-999","DE","Kent DE","Milford North CCD","Frederica town, DE","99999","Frederica, DE","Lake Forest School District",767,1 
+"10","10001","92220","28440","19946","99999","01080","100,000-249,999","200-999","DE","Kent DE","Milford North CCD","Frederica town, DE","99999","Frederica, DE","Milford School District",7,1 
+"10","10001","92220","47420","19963","99999","01080","100,000-249,999","2500-9999","DE","Kent DE","Milford North CCD","Milford city, DE","99999","Milford, DE","Milford School District",3780,1 
+"10","10001","92220","99999","19943","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Milford North CCD"," ","99999","Felton, DE","Lake Forest School District",284,1 
+"10","10001","92220","99999","19946","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Milford North CCD"," ","99999","Frederica, DE","Lake Forest School District",932,1 
+"10","10001","92220","99999","19946","99999","01080","100,000-249,999","Not in a place","DE","Kent DE","Milford North CCD"," ","99999","Frederica, DE","Milford School District",95,1 
+"10","10001","92220","99999","19954","99999","01080","100,000-249,999","Not in a place","DE","Kent DE","Milford North CCD"," ","99999","Houston, DE","Milford School District",12,1 
+"10","10001","92220","99999","19963","99999","00790","100,000-249,999","Not in a place","DE","Kent DE","Milford North CCD"," ","99999","Milford, DE","Lake Forest School District",32,1 
+"10","10001","92220","99999","19963","99999","01080","100,000-249,999","Not in a place","DE","Kent DE","Milford North CCD"," ","99999","Milford, DE","Milford School District",3992,1 
+"10","10001","93700","15440","19938","99999","01620","100,000-249,999","2500-9999","DE","Kent DE","Smyrna CCD","Clayton town, DE","99999","Clayton, DE","Smyrna School District",2695,1 
+"10","10001","93700","15440","19977","99999","01620","100,000-249,999","2500-9999","DE","Kent DE","Smyrna CCD","Clayton town, DE","99999","Smyrna, DE","Smyrna School District",223,1 
+"10","10001","93700","41700","19977","99999","01620","100,000-249,999","Less than 200","DE","Kent DE","Smyrna CCD","Leipsic town, DE","99999","Smyrna, DE","Smyrna School District",3,1 
+"10","10001","93700","67310","19938","99999","01620","100,000-249,999","10,000-24,999","DE","Kent DE","Smyrna CCD","Smyrna town, DE","99999","Clayton, DE","Smyrna School District",5,1 
+"10","10001","93700","67310","19977","99999","01620","100,000-249,999","10,000-24,999","DE","Kent DE","Smyrna CCD","Smyrna town, DE","99999","Smyrna, DE","Smyrna School District",9984,1 
+"10","10001","93700","99999","19904","99999","00190","100,000-249,999","Not in a place","DE","Kent DE","Smyrna CCD"," ","99999","Dover, DE","Capital School District",1478,1 
+"10","10001","93700","99999","19904","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Smyrna CCD"," ","99999","Dover, DE","Smyrna School District",117,1 
+"10","10001","93700","99999","19938","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Smyrna CCD"," ","99999","Clayton, DE","Smyrna School District",590,1 
+"10","10001","93700","99999","19977","99999","01620","100,000-249,999","Not in a place","DE","Kent DE","Smyrna CCD"," ","99999","Smyrna, DE","Smyrna School District",7883,1 
+"10","10003","90148","01400","19810","48864","01240","250,000-999,999","200-999","DE","New Castle DE","Brandywine CCD","Arden village, DE","705670","Wilmington, DE","Brandywine School District",439,1 
+"10","10003","90148","01530","19810","48864","01240","250,000-999,999","200-999","DE","New Castle DE","Brandywine CCD","Ardencroft village, DE","705670","Wilmington, DE","Brandywine School District",231,1 
+"10","10003","90148","01660","19810","48864","01240","250,000-999,999","200-999","DE","New Castle DE","Brandywine CCD","Ardentown village, DE","705670","Wilmington, DE","Brandywine School District",264,1 
+"10","10003","90148","04650","19809","48864","01240","250,000-999,999","1000-2499","DE","New Castle DE","Brandywine CCD","Bellefonte town, DE","705670","Wilmington, DE","Brandywine School District",1193,1 
+"10","10003","90148","15310","19703","48864","01240","250,000-999,999","2500-9999","DE","New Castle DE","Brandywine CCD","Claymont CDP, DE","705670","Claymont, DE","Brandywine School District",8177,1 
+"10","10003","90148","15310","19809","48864","01240","250,000-999,999","2500-9999","DE","New Castle DE","Brandywine CCD","Claymont CDP, DE","705670","Wilmington, DE","Brandywine School District",76,1 
+"10","10003","90148","23240","19802","48864","01240","250,000-999,999","2500-9999","DE","New Castle DE","Brandywine CCD","Edgemoor CDP, DE","705670","Wilmington, DE","Brandywine School District",1864,1 
+"10","10003","90148","23240","19809","48864","01240","250,000-999,999","2500-9999","DE","New Castle DE","Brandywine CCD","Edgemoor CDP, DE","705670","Wilmington, DE","Brandywine School District",3813,1 
+"10","10003","90148","99999","19703","48864","01240","250,000-999,999","Not in a place","DE","New Castle DE","Brandywine CCD"," ","705670","Claymont, DE","Brandywine School District",6294,1 
+"10","10003","90148","99999","19732","48864","01240","250,000-999,999","Not in a place","DE","New Castle DE","Brandywine CCD"," ","705670","Rockland, DE (PO Boxes)","Brandywine School District",25,1 
+"10","10003","90148","99999","19802","48864","01240","250,000-999,999","Not in a place","DE","New Castle DE","Brandywine CCD"," ","705670","Wilmington, DE","Brandywine School District",225,1 
+"10","10003","90148","99999","19803","48864","01240","250,000-999,999","Not in a place","DE","New Castle DE","Brandywine CCD"," ","705670","Wilmington, DE","Brandywine School District",21364,1 
+"10","10003","90148","99999","19806","48864","01240","250,000-999,999","Not in a place","DE","New Castle DE","Brandywine CCD"," ","705670","Wilmington, DE","Brandywine School District",173,1 
+"10","10003","90148","99999","19809","48864","01240","250,000-999,999","Not in a place","DE","New Castle DE","Brandywine CCD"," ","705670","Wilmington, DE","Brandywine School District",8967,1 
+"10","10003","90148","99999","19810","48864","01240","250,000-999,999","Not in a place","DE","New Castle DE","Brandywine CCD"," ","705670","Wilmington, DE","Brandywine School District",24077,1 
+"10","10003","91110","04130","19701","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","Glasgow CCD","Bear CDP, DE","705670","Bear, DE","Christina School District",2580,1 
+"10","10003","91110","04130","19702","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","Glasgow CCD","Bear CDP, DE","705670","Newark, DE","Christina School District",2365,1 
+"10","10003","91110","29350","19701","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","Glasgow CCD","Glasgow CDP, DE","705670","Bear, DE","Christina School District",7421,1 
+"10","10003","91110","29350","19702","48864","00080","250,000-999,999","10,000-24,999","DE","New Castle DE","Glasgow CCD","Glasgow CDP, DE","705670","Newark, DE","Appoquinimink School District",1100,1 
+"10","10003","91110","29350","19702","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","Glasgow CCD","Glasgow CDP, DE","705670","Newark, DE","Christina School District",5782,1 
+"10","10003","91110","50670","19702","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Glasgow CCD","Newark city, DE","705670","Newark, DE","Christina School District",5,1 
+"10","10003","91110","99999","19701","48864","00080","250,000-999,999","Not in a place","DE","New Castle DE","Glasgow CCD"," ","705670","Bear, DE","Appoquinimink School District",7076,1 
+"10","10003","91110","99999","19701","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Glasgow CCD"," ","705670","Bear, DE","Christina School District",1656,1 
+"10","10003","91110","99999","19701","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Glasgow CCD"," ","705670","Bear, DE","Colonial School District",2060,1 
+"10","10003","91110","99999","19702","48864","00080","250,000-999,999","Not in a place","DE","New Castle DE","Glasgow CCD"," ","705670","Newark, DE","Appoquinimink School District",1052,1 
+"10","10003","91110","99999","19702","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Glasgow CCD"," ","705670","Newark, DE","Christina School District",8651,1 
+"10","10003","91924","24540","19804","48864","00200","250,000-999,999","2500-9999","DE","New Castle DE","Lower Christiana CCD","Elsmere town, DE","705670","Wilmington, DE","Christina School District",27,1 
+"10","10003","91924","24540","19804","48864","01300","250,000-999,999","2500-9999","DE","New Castle DE","Lower Christiana CCD","Elsmere town, DE","705670","Wilmington, DE","Red Clay Consolidated School District",337,1 
+"10","10003","91924","24540","19805","48864","00200","250,000-999,999","2500-9999","DE","New Castle DE","Lower Christiana CCD","Elsmere town, DE","705670","Wilmington, DE","Christina School District",48,1 
+"10","10003","91924","24540","19805","48864","01300","250,000-999,999","2500-9999","DE","New Castle DE","Lower Christiana CCD","Elsmere town, DE","705670","Wilmington, DE","Red Clay Consolidated School District",5719,1 
+"10","10003","91924","51190","19804","48864","01300","250,000-999,999","1000-2499","DE","New Castle DE","Lower Christiana CCD","Newport town, DE","705670","Wilmington, DE","Red Clay Consolidated School District",1055,1 
+"10","10003","91924","99999","19804","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Lower Christiana CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",13910,1 
+"10","10003","91924","99999","19805","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Lower Christiana CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",11367,1 
+"10","10003","91924","99999","19807","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Lower Christiana CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",254,1 
+"10","10003","91924","99999","19808","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Lower Christiana CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",3841,1 
+"10","10003","92072","47030","19709","48864","00080","250,000-999,999","10,000-24,999","DE","New Castle DE","Middletown-Odessa CCD","Middletown town, DE","705670","Middletown, DE","Appoquinimink School District",18869,1 
+"10","10003","92072","47030","19734","48864","00080","250,000-999,999","10,000-24,999","DE","New Castle DE","Middletown-Odessa CCD","Middletown town, DE","705670","Townsend, DE","Appoquinimink School District",2,1 
+"10","10003","92072","54050","19709","48864","00080","250,000-999,999","200-999","DE","New Castle DE","Middletown-Odessa CCD","Odessa town, DE","705670","Middletown, DE","Appoquinimink School District",47,1 
+"10","10003","92072","54050","19730","48864","00080","250,000-999,999","200-999","DE","New Castle DE","Middletown-Odessa CCD","Odessa town, DE","705670","Odessa, DE","Appoquinimink School District",317,1 
+"10","10003","92072","67310","19977","48864","01620","250,000-999,999","10,000-24,999","DE","New Castle DE","Middletown-Odessa CCD","Smyrna town, DE","705670","Smyrna, DE","Smyrna School District",34,1 
+"10","10003","92072","72510","19734","48864","00080","250,000-999,999","1000-2499","DE","New Castle DE","Middletown-Odessa CCD","Townsend town, DE","705670","Townsend, DE","Appoquinimink School District",2049,1 
+"10","10003","92072","99999","19709","48864","00080","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Middletown, DE","Appoquinimink School District",14350,1 
+"10","10003","92072","99999","19709","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Middletown, DE","Colonial School District",1841,1 
+"10","10003","92072","99999","19730","48864","00080","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Odessa, DE","Appoquinimink School District",134,1 
+"10","10003","92072","99999","19731","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Port Penn, DE (PO Boxes)","Colonial School District",252,1 
+"10","10003","92072","99999","19734","48864","00080","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Townsend, DE","Appoquinimink School District",8606,1 
+"10","10003","92072","99999","19734","48864","01620","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Townsend, DE","Smyrna School District",994,1 
+"10","10003","92072","99999","19938","48864","01620","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Clayton, DE","Smyrna School District",629,1 
+"10","10003","92072","99999","19977","48864","00080","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Smyrna, DE","Appoquinimink School District",244,1 
+"10","10003","92072","99999","19977","48864","01620","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Smyrna, DE","Smyrna School District",4076,1 
+"10","10003","92072","99999","21912","48864","00080","250,000-999,999","Not in a place","DE","New Castle DE","Middletown-Odessa CCD"," ","705670","Warwick, MD","Appoquinimink School District",9,1 
+"10","10003","92738","09850","19713","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","Newark CCD","Brookside CDP, DE","705670","Brookside, DE","Christina School District",14353,1 
+"10","10003","92738","50670","19711","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Newark CCD","Newark city, DE","705670","Newark, DE","Christina School District",23416,1 
+"10","10003","92738","50670","19713","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Newark CCD","Newark city, DE","705670","Brookside, DE","Christina School District",2695,1 
+"10","10003","92738","50670","19716","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Newark CCD","Newark city, DE","705670","Newark, DE","Christina School District",1568,1 
+"10","10003","92738","50670","19717","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Newark CCD","Newark city, DE","705670","Newark, DE","Christina School District",3770,1 
+"10","10003","92738","56490","19711","48864","00200","250,000-999,999","2500-9999","DE","New Castle DE","Newark CCD","Pike Creek CDP, DE","705670","Newark, DE","Christina School District",534,1 
+"10","10003","92738","56500","19711","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","Newark CCD","Pike Creek Valley CDP, DE","705670","Newark, DE","Christina School District",5137,1 
+"10","10003","92738","99999","19702","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Newark CCD"," ","705670","Newark, DE","Christina School District",2974,1 
+"10","10003","92738","99999","19711","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Newark CCD"," ","705670","Newark, DE","Christina School District",9938,1 
+"10","10003","92738","99999","19713","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Newark CCD"," ","705670","Brookside, DE","Christina School District",4338,1 
+"10","10003","92812","04130","19701","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","New Castle CCD","Bear CDP, DE","705670","Bear, DE","Christina School District",1898,1 
+"10","10003","92812","04130","19701","48864","00230","250,000-999,999","10,000-24,999","DE","New Castle DE","New Castle CCD","Bear CDP, DE","705670","Bear, DE","Colonial School District",2076,1 
+"10","10003","92812","04130","19702","48864","00200","250,000-999,999","10,000-24,999","DE","New Castle DE","New Castle CCD","Bear CDP, DE","705670","Newark, DE","Christina School District",8065,1 
+"10","10003","92812","04130","19702","48864","00230","250,000-999,999","10,000-24,999","DE","New Castle DE","New Castle CCD","Bear CDP, DE","705670","Newark, DE","Colonial School District",347,1 
+"10","10003","92812","04130","19720","48864","00230","250,000-999,999","10,000-24,999","DE","New Castle DE","New Castle CCD","Bear CDP, DE","705670","New Castle, DE","Colonial School District",2040,1 
+"10","10003","92812","50800","19720","48864","00230","250,000-999,999","2500-9999","DE","New Castle DE","New Castle CCD","New Castle city, DE","705670","New Castle, DE","Colonial School District",5285,1 
+"10","10003","92812","77840","19720","48864","00230","250,000-999,999","2500-9999","DE","New Castle DE","New Castle CCD","Wilmington Manor CDP, DE","705670","New Castle, DE","Colonial School District",7889,1 
+"10","10003","92812","99999","19701","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","New Castle CCD"," ","705670","Bear, DE","Christina School District",5482,1 
+"10","10003","92812","99999","19701","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","New Castle CCD"," ","705670","Bear, DE","Colonial School District",3191,1 
+"10","10003","92812","99999","19702","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","New Castle CCD"," ","705670","Newark, DE","Christina School District",6081,1 
+"10","10003","92812","99999","19720","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","New Castle CCD"," ","705670","New Castle, DE","Christina School District",676,1 
+"10","10003","92812","99999","19720","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","New Castle CCD"," ","705670","New Castle, DE","Colonial School District",42230,1 
+"10","10003","92812","99999","19801","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","New Castle CCD"," ","705670","Wilmington, DE","Colonial School District",967,1 
+"10","10003","92960","31430","19807","48864","01300","250,000-999,999","1000-2499","DE","New Castle DE","Piedmont CCD","Greenville CDP, DE","705670","Wilmington, DE","Red Clay Consolidated School District",2326,1 
+"10","10003","92960","35850","19707","48864","01300","250,000-999,999","10,000-24,999","DE","New Castle DE","Piedmont CCD","Hockessin CDP, DE","705670","Hockessin, DE","Red Clay Consolidated School District",11143,1 
+"10","10003","92960","35850","19736","48864","01300","250,000-999,999","10,000-24,999","DE","New Castle DE","Piedmont CCD","Hockessin CDP, DE","705670","Yorklyn, DE","Red Clay Consolidated School District",24,1 
+"10","10003","92960","35850","19807","48864","01300","250,000-999,999","10,000-24,999","DE","New Castle DE","Piedmont CCD","Hockessin CDP, DE","705670","Wilmington, DE","Red Clay Consolidated School District",225,1 
+"10","10003","92960","35850","19808","48864","01300","250,000-999,999","10,000-24,999","DE","New Castle DE","Piedmont CCD","Hockessin CDP, DE","705670","Wilmington, DE","Red Clay Consolidated School District",293,1 
+"10","10003","92960","52490","19707","48864","01300","250,000-999,999","2500-9999","DE","New Castle DE","Piedmont CCD","North Star CDP, DE","705670","Hockessin, DE","Red Clay Consolidated School District",927,1 
+"10","10003","92960","52490","19711","48864","00200","250,000-999,999","2500-9999","DE","New Castle DE","Piedmont CCD","North Star CDP, DE","705670","Newark, DE","Christina School District",2683,1 
+"10","10003","92960","52490","19711","48864","01300","250,000-999,999","2500-9999","DE","New Castle DE","Piedmont CCD","North Star CDP, DE","705670","Newark, DE","Red Clay Consolidated School District",4370,1 
+"10","10003","92960","99999","19707","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Piedmont CCD"," ","705670","Hockessin, DE","Red Clay Consolidated School District",386,1 
+"10","10003","92960","99999","19710","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Piedmont CCD"," ","705670","Montchanin, DE (PO Boxes)","Red Clay Consolidated School District",41,1 
+"10","10003","92960","99999","19735","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Piedmont CCD"," ","705670","Winterthur, DE","Red Clay Consolidated School District",12,1 
+"10","10003","92960","99999","19736","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Piedmont CCD"," ","705670","Yorklyn, DE","Red Clay Consolidated School District",8,1 
+"10","10003","92960","99999","19805","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Piedmont CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",229,1 
+"10","10003","92960","99999","19807","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Piedmont CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",4561,1 
+"10","10003","92960","99999","19808","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Piedmont CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",2341,1 
+"10","10003","93108","35850","19707","48864","01300","250,000-999,999","10,000-24,999","DE","New Castle DE","Pike Creek-Central Kirkwood CCD","Hockessin CDP, DE","705670","Hockessin, DE","Red Clay Consolidated School District",1842,1 
+"10","10003","93108","56490","19707","48864","01300","250,000-999,999","2500-9999","DE","New Castle DE","Pike Creek-Central Kirkwood CCD","Pike Creek CDP, DE","705670","Hockessin, DE","Red Clay Consolidated School District",1790,1 
+"10","10003","93108","56490","19711","48864","01300","250,000-999,999","2500-9999","DE","New Castle DE","Pike Creek-Central Kirkwood CCD","Pike Creek CDP, DE","705670","Newark, DE","Red Clay Consolidated School District",322,1 
+"10","10003","93108","56490","19808","48864","01300","250,000-999,999","2500-9999","DE","New Castle DE","Pike Creek-Central Kirkwood CCD","Pike Creek CDP, DE","705670","Wilmington, DE","Red Clay Consolidated School District",5252,1 
+"10","10003","93108","56500","19711","48864","01300","250,000-999,999","10,000-24,999","DE","New Castle DE","Pike Creek-Central Kirkwood CCD","Pike Creek Valley CDP, DE","705670","Newark, DE","Red Clay Consolidated School District",6,1 
+"10","10003","93108","56500","19808","48864","01300","250,000-999,999","10,000-24,999","DE","New Castle DE","Pike Creek-Central Kirkwood CCD","Pike Creek Valley CDP, DE","705670","Wilmington, DE","Red Clay Consolidated School District",6074,1 
+"10","10003","93108","99999","19707","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Pike Creek-Central Kirkwood CCD"," ","705670","Hockessin, DE","Red Clay Consolidated School District",395,1 
+"10","10003","93108","99999","19711","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Pike Creek-Central Kirkwood CCD"," ","705670","Newark, DE","Christina School District",1357,1 
+"10","10003","93108","99999","19711","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Pike Creek-Central Kirkwood CCD"," ","705670","Newark, DE","Red Clay Consolidated School District",1722,1 
+"10","10003","93108","99999","19804","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Pike Creek-Central Kirkwood CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",2615,1 
+"10","10003","93108","99999","19808","48864","01300","250,000-999,999","Not in a place","DE","New Castle DE","Pike Creek-Central Kirkwood CCD"," ","705670","Wilmington, DE","Red Clay Consolidated School District",20641,1 
+"10","10003","93256","19730","19706","48864","00230","250,000-999,999","1000-2499","DE","New Castle DE","Red Lion CCD","Delaware City city, DE","705670","Delaware City, DE","Colonial School District",1695,1 
+"10","10003","93256","99999","19701","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Red Lion CCD"," ","705670","Bear, DE","Colonial School District",5754,1 
+"10","10003","93256","99999","19706","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Red Lion CCD"," ","705670","Delaware City, DE","Colonial School District",127,1 
+"10","10003","93256","99999","19720","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Red Lion CCD"," ","705670","New Castle, DE","Colonial School District",1130,1 
+"10","10003","93256","99999","19733","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Red Lion CCD"," ","705670","Saint Georges, DE (PO Boxes)","Colonial School District",110,1 
+"10","10003","93848","99999","19702","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Upper Christiana CCD"," ","705670","Newark, DE","Christina School District",13169,1 
+"10","10003","93848","99999","19702","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Upper Christiana CCD"," ","705670","Newark, DE","Colonial School District",2308,1 
+"10","10003","93848","99999","19711","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Upper Christiana CCD"," ","705670","Newark, DE","Christina School District",1837,1 
+"10","10003","93848","99999","19713","48864","00200","250,000-999,999","Not in a place","DE","New Castle DE","Upper Christiana CCD"," ","705670","Brookside, DE","Christina School District",8612,1 
+"10","10003","93848","99999","19713","48864","00230","250,000-999,999","Not in a place","DE","New Castle DE","Upper Christiana CCD"," ","705670","Brookside, DE","Colonial School District",410,1 
+"10","10003","93996","77580","19801","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Christina School District",13365,1 
+"10","10003","93996","77580","19801","48864","00230","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Colonial School District",1523,1 
+"10","10003","93996","77580","19801","48864","01300","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Red Clay Consolidated School District",431,1 
+"10","10003","93996","77580","19802","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Christina School District",642,1 
+"10","10003","93996","77580","19802","48864","00230","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Colonial School District",1110,1 
+"10","10003","93996","77580","19802","48864","01240","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Brandywine School District",10997,1 
+"10","10003","93996","77580","19802","48864","01300","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Red Clay Consolidated School District",9783,1 
+"10","10003","93996","77580","19805","48864","00200","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Christina School District",9014,1 
+"10","10003","93996","77580","19805","48864","01300","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Red Clay Consolidated School District",14560,1 
+"10","10003","93996","77580","19806","48864","01300","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Red Clay Consolidated School District",9387,1 
+"10","10003","93996","77580","19807","48864","01300","250,000-999,999","25,000-99,999","DE","New Castle DE","Wilmington CCD","Wilmington city, DE","705670","Wilmington, DE","Red Clay Consolidated School District",39,1 
+"10","10005","90296","08680","19933","99999","01850","100,000-249,999","1000-2499","DE","Sussex DE","Bridgeville-Greenwood CCD","Bridgeville town, DE","99999","Bridgeville, DE","Woodbridge School District",2040,1 
+"10","10005","90296","08680","19973","99999","01530","100,000-249,999","1000-2499","DE","Sussex DE","Bridgeville-Greenwood CCD","Bridgeville town, DE","99999","Seaford, DE","Seaford School District",8,1 
+"10","10005","90296","31560","19950","99999","01850","100,000-249,999","200-999","DE","Sussex DE","Bridgeville-Greenwood CCD","Greenwood town, DE","99999","Greenwood, DE","Woodbridge School District",973,1 
+"10","10005","90296","99999","19933","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Bridgeville, DE","Woodbridge School District",4561,1 
+"10","10005","90296","99999","19941","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Ellendale, DE","Milford School District",61,1 
+"10","10005","90296","99999","19941","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Ellendale, DE","Woodbridge School District",108,1 
+"10","10005","90296","99999","19950","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Greenwood, DE","Milford School District",26,1 
+"10","10005","90296","99999","19950","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Greenwood, DE","Woodbridge School District",3918,1 
+"10","10005","90296","99999","19952","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Harrington, DE","Woodbridge School District",95,1 
+"10","10005","90296","99999","19960","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Lincoln, DE","Milford School District",111,1 
+"10","10005","90296","99999","19973","99999","01530","100,000-249,999","Not in a place","DE","Sussex DE","Bridgeville-Greenwood CCD"," ","99999","Seaford, DE","Seaford School District",11,1 
+"10","10005","91036","29090","19947","99999","00680","100,000-249,999","2500-9999","DE","Sussex DE","Georgetown CCD","Georgetown town, DE","99999","Georgetown, DE","Indian River School District",6422,1 
+"10","10005","91036","99999","19933","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Georgetown CCD"," ","99999","Bridgeville, DE","Woodbridge School District",491,1 
+"10","10005","91036","99999","19947","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Georgetown CCD"," ","99999","Georgetown, DE","Cape Henlopen School District",107,1 
+"10","10005","91036","99999","19947","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Georgetown CCD"," ","99999","Georgetown, DE","Indian River School District",7861,1 
+"10","10005","91036","99999","19947","99999","01530","100,000-249,999","Not in a place","DE","Sussex DE","Georgetown CCD"," ","99999","Georgetown, DE","Seaford School District",15,1 
+"10","10005","91036","99999","19966","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Georgetown CCD"," ","99999","Millsboro, DE","Indian River School District",71,1 
+"10","10005","91628","05820","19931","99999","00810","100,000-249,999","Less than 200","DE","Sussex DE","Laurel-Delmar CCD","Bethel town, DE","99999","Bethel, DE","Laurel School District",171,1 
+"10","10005","91628","20380","19940","99999","00270","100,000-249,999","1000-2499","DE","Sussex DE","Laurel-Delmar CCD","Delmar town, DE","99999","Delmar, DE","Delmar School District",1597,1 
+"10","10005","91628","41310","19956","99999","00810","100,000-249,999","2500-9999","DE","Sussex DE","Laurel-Delmar CCD","Laurel town, DE","99999","Laurel, DE","Laurel School District",3708,1 
+"10","10005","91628","99999","19931","99999","00810","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Bethel, DE","Laurel School District",40,1 
+"10","10005","91628","99999","19940","99999","00270","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Delmar, DE","Delmar School District",3743,1 
+"10","10005","91628","99999","19940","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Delmar, DE","Indian River School District",81,1 
+"10","10005","91628","99999","19940","99999","00810","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Delmar, DE","Laurel School District",153,1 
+"10","10005","91628","99999","19945","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Frankford, DE","Indian River School District",274,1 
+"10","10005","91628","99999","19947","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Georgetown, DE","Indian River School District",170,1 
+"10","10005","91628","99999","19956","99999","00270","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Laurel, DE","Delmar School District",968,1 
+"10","10005","91628","99999","19956","99999","00810","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Laurel, DE","Laurel School District",10485,1 
+"10","10005","91628","99999","19966","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Millsboro, DE","Indian River School District",919,1 
+"10","10005","91628","99999","19966","99999","00810","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Millsboro, DE","Laurel School District",238,1 
+"10","10005","91628","99999","19973","99999","00810","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Seaford, DE","Laurel School District",636,1 
+"10","10005","91628","99999","19973","99999","01530","100,000-249,999","Not in a place","DE","Sussex DE","Laurel-Delmar CCD"," ","99999","Seaford, DE","Seaford School District",51,1 
+"10","10005","91776","20900","19971","99999","00170","100,000-249,999","200-999","DE","Sussex DE","Lewes CCD","Dewey Beach town, DE","99999","Rehoboth Bch, DE","Cape Henlopen School District",341,1 
+"10","10005","91776","33900","19971","99999","00170","100,000-249,999","Less than 200","DE","Sussex DE","Lewes CCD","Henlopen Acres town, DE","99999","Rehoboth Bch, DE","Cape Henlopen School District",122,1 
+"10","10005","91776","41830","19958","99999","00170","100,000-249,999","2500-9999","DE","Sussex DE","Lewes CCD","Lewes city, DE","99999","Lewes, DE","Cape Henlopen School District",2747,1 
+"10","10005","91776","60290","19971","99999","00170","100,000-249,999","1000-2499","DE","Sussex DE","Lewes CCD","Rehoboth Beach city, DE","99999","Rehoboth Bch, DE","Cape Henlopen School District",1327,1 
+"10","10005","91776","99999","19951","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Lewes CCD"," ","99999","Harbeson, DE","Cape Henlopen School District",323,1 
+"10","10005","91776","99999","19958","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Lewes CCD"," ","99999","Lewes, DE","Cape Henlopen School District",12736,1 
+"10","10005","91776","99999","19966","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Lewes CCD"," ","99999","Millsboro, DE","Cape Henlopen School District",90,1 
+"10","10005","91776","99999","19966","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Lewes CCD"," ","99999","Millsboro, DE","Indian River School District",411,1 
+"10","10005","91776","99999","19968","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Lewes CCD"," ","99999","Milton, DE","Cape Henlopen School District",900,1 
+"10","10005","91776","99999","19971","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Lewes CCD"," ","99999","Rehoboth Bch, DE","Cape Henlopen School District",10595,1 
+"10","10005","92368","24020","19941","99999","01080","100,000-249,999","200-999","DE","Sussex DE","Milford South CCD","Ellendale town, DE","99999","Ellendale, DE","Milford School District",381,1 
+"10","10005","92368","47420","19960","99999","01080","100,000-249,999","2500-9999","DE","Sussex DE","Milford South CCD","Milford city, DE","99999","Lincoln, DE","Milford School District",2,1 
+"10","10005","92368","47420","19963","99999","01080","100,000-249,999","2500-9999","DE","Sussex DE","Milford South CCD","Milford city, DE","99999","Milford, DE","Milford School District",5777,1 
+"10","10005","92368","67050","19963","99999","01080","100,000-249,999","200-999","DE","Sussex DE","Milford South CCD","Slaughter Beach town, DE","99999","Milford, DE","Milford School District",207,1 
+"10","10005","92368","99999","19933","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Bridgeville, DE","Woodbridge School District",49,1 
+"10","10005","92368","99999","19941","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Ellendale, DE","Cape Henlopen School District",302,1 
+"10","10005","92368","99999","19941","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Ellendale, DE","Milford School District",1645,1 
+"10","10005","92368","99999","19941","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Ellendale, DE","Woodbridge School District",25,1 
+"10","10005","92368","99999","19947","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Georgetown, DE","Cape Henlopen School District",23,1 
+"10","10005","92368","99999","19947","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Georgetown, DE","Indian River School District",140,1 
+"10","10005","92368","99999","19947","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Georgetown, DE","Milford School District",109,1 
+"10","10005","92368","99999","19950","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Greenwood, DE","Milford School District",578,1 
+"10","10005","92368","99999","19960","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Lincoln, DE","Cape Henlopen School District",2640,1 
+"10","10005","92368","99999","19960","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Lincoln, DE","Milford School District",3542,1 
+"10","10005","92368","99999","19963","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Milford, DE","Cape Henlopen School District",163,1 
+"10","10005","92368","99999","19963","99999","01080","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Milford, DE","Milford School District",5210,1 
+"10","10005","92368","99999","19968","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milford South CCD"," ","99999","Milton, DE","Cape Henlopen School District",424,1 
+"10","10005","92516","43245","19966","99999","00680","100,000-249,999","1000-2499","DE","Sussex DE","Millsboro CCD","Long Neck CDP, DE","99999","Millsboro, DE","Indian River School District",1980,1 
+"10","10005","92516","47940","19966","99999","00680","100,000-249,999","2500-9999","DE","Sussex DE","Millsboro CCD","Millsboro town, DE","99999","Millsboro, DE","Indian River School District",3877,1 
+"10","10005","92516","99999","19939","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Dagsboro, DE","Indian River School District",222,1 
+"10","10005","92516","99999","19947","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Georgetown, DE","Cape Henlopen School District",29,1 
+"10","10005","92516","99999","19947","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Georgetown, DE","Indian River School District",2487,1 
+"10","10005","92516","99999","19947","99999","00810","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Georgetown, DE","Laurel School District",55,1 
+"10","10005","92516","99999","19951","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Harbeson, DE","Cape Henlopen School District",297,1 
+"10","10005","92516","99999","19966","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Millsboro, DE","Cape Henlopen School District",391,1 
+"10","10005","92516","99999","19966","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Millsboro, DE","Indian River School District",16624,1 
+"10","10005","92516","99999","19973","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Seaford, DE","Indian River School District",7,1 
+"10","10005","92516","99999","19973","99999","01530","100,000-249,999","Not in a place","DE","Sussex DE","Millsboro CCD"," ","99999","Seaford, DE","Seaford School District",55,1 
+"10","10005","92664","48330","19968","99999","00170","100,000-249,999","2500-9999","DE","Sussex DE","Milton CCD","Milton town, DE","99999","Milton, DE","Cape Henlopen School District",2576,1 
+"10","10005","92664","99999","19947","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milton CCD"," ","99999","Georgetown, DE","Cape Henlopen School District",5,1 
+"10","10005","92664","99999","19947","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Milton CCD"," ","99999","Georgetown, DE","Indian River School District",1063,1 
+"10","10005","92664","99999","19951","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milton CCD"," ","99999","Harbeson, DE","Cape Henlopen School District",277,1 
+"10","10005","92664","99999","19951","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Milton CCD"," ","99999","Harbeson, DE","Indian River School District",836,1 
+"10","10005","92664","99999","19958","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milton CCD"," ","99999","Lewes, DE","Cape Henlopen School District",4167,1 
+"10","10005","92664","99999","19968","99999","00170","100,000-249,999","Not in a place","DE","Sussex DE","Milton CCD"," ","99999","Milton, DE","Cape Henlopen School District",5564,1 
+"10","10005","92664","99999","19968","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Milton CCD"," ","99999","Milton, DE","Indian River School District",85,1 
+"10","10005","93404","06730","19973","99999","01530","100,000-249,999","1000-2499","DE","Sussex DE","Seaford CCD","Blades town, DE","99999","Seaford, DE","Seaford School District",1241,1 
+"10","10005","93404","64320","19973","99999","01530","100,000-249,999","2500-9999","DE","Sussex DE","Seaford CCD","Seaford city, DE","99999","Seaford, DE","Seaford School District",6928,1 
+"10","10005","93404","99999","19933","99999","01530","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Bridgeville, DE","Seaford School District",427,1 
+"10","10005","93404","99999","19933","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Bridgeville, DE","Woodbridge School District",967,1 
+"10","10005","93404","99999","19947","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Georgetown, DE","Indian River School District",313,1 
+"10","10005","93404","99999","19956","99999","00810","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Laurel, DE","Laurel School District",192,1 
+"10","10005","93404","99999","19956","99999","01530","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Laurel, DE","Seaford School District",147,1 
+"10","10005","93404","99999","19973","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Seaford, DE","Indian River School District",42,1 
+"10","10005","93404","99999","19973","99999","01530","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Seaford, DE","Seaford School District",14691,1 
+"10","10005","93404","99999","19973","99999","01850","100,000-249,999","Not in a place","DE","Sussex DE","Seaford CCD"," ","99999","Seaford, DE","Woodbridge School District",168,1 
+"10","10005","93552","05690","19930","99999","00680","100,000-249,999","1000-2499","DE","Sussex DE","Selbyville-Frankford CCD","Bethany Beach town, DE","99999","Bethany Beach, DE","Indian River School District",1060,1 
+"10","10005","93552","18950","19939","99999","00680","100,000-249,999","200-999","DE","Sussex DE","Selbyville-Frankford CCD","Dagsboro town, DE","99999","Dagsboro, DE","Indian River School District",805,1 
+"10","10005","93552","26880","19944","99999","00680","100,000-249,999","200-999","DE","Sussex DE","Selbyville-Frankford CCD","Fenwick Island town, DE","99999","Fenwick Island, DE","Indian River School District",379,1 
+"10","10005","93552","28310","19945","99999","00680","100,000-249,999","200-999","DE","Sussex DE","Selbyville-Frankford CCD","Frankford town, DE","99999","Frankford, DE","Indian River School District",847,1 
+"10","10005","93552","48200","19945","99999","00680","100,000-249,999","200-999","DE","Sussex DE","Selbyville-Frankford CCD","Millville town, DE","99999","Frankford, DE","Indian River School District",48,1 
+"10","10005","93552","48200","19967","99999","00680","100,000-249,999","200-999","DE","Sussex DE","Selbyville-Frankford CCD","Millville town, DE","99999","Millville, DE","Indian River School District",295,1 
+"10","10005","93552","48200","19970","99999","00680","100,000-249,999","200-999","DE","Sussex DE","Selbyville-Frankford CCD","Millville town, DE","99999","Ocean View, DE","Indian River School District",201,1 
+"10","10005","93552","53920","19945","99999","00680","100,000-249,999","1000-2499","DE","Sussex DE","Selbyville-Frankford CCD","Ocean View town, DE","99999","Frankford, DE","Indian River School District",46,1 
+"10","10005","93552","53920","19970","99999","00680","100,000-249,999","1000-2499","DE","Sussex DE","Selbyville-Frankford CCD","Ocean View town, DE","99999","Ocean View, DE","Indian River School District",1836,1 
+"10","10005","93552","64840","19975","99999","00680","100,000-249,999","1000-2499","DE","Sussex DE","Selbyville-Frankford CCD","Selbyville town, DE","99999","Selbyville, DE","Indian River School District",2167,1 
+"10","10005","93552","67700","19930","99999","00680","100,000-249,999","200-999","DE","Sussex DE","Selbyville-Frankford CCD","South Bethany town, DE","99999","Bethany Beach, DE","Indian River School District",449,1 
+"10","10005","93552","99999","19930","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Selbyville-Frankford CCD"," ","99999","Bethany Beach, DE","Indian River School District",1259,1 
+"10","10005","93552","99999","19939","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Selbyville-Frankford CCD"," ","99999","Dagsboro, DE","Indian River School District",4952,1 
+"10","10005","93552","99999","19944","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Selbyville-Frankford CCD"," ","99999","Fenwick Island, DE","Indian River School District",241,1 
+"10","10005","93552","99999","19945","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Selbyville-Frankford CCD"," ","99999","Frankford, DE","Indian River School District",5647,1 
+"10","10005","93552","99999","19967","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Selbyville-Frankford CCD"," ","99999","Millville, DE","Indian River School District",59,1 
+"10","10005","93552","99999","19970","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Selbyville-Frankford CCD"," ","99999","Ocean View, DE","Indian River School District",4133,1 
+"10","10005","93552","99999","19975","99999","00680","100,000-249,999","Not in a place","DE","Sussex DE","Selbyville-Frankford CCD"," ","99999","Selbyville, DE","Indian River School District",6086,1 

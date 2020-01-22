@@ -1,0 +1,156 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"44","44001","05140","99999","02806","99999","00030","25,000-99,999","Not in a place","RI","Bristol RI","Barrington town"," ","99999","Barrington, RI","Barrington School District",16310,1 
+"44","44001","09280","99999","02809","99999","00065","25,000-99,999","Not in a place","RI","Bristol RI","Bristol town"," ","99999","Bristol, RI","Bristol-Warren Regional School District",22938,1 
+"44","44001","09280","99999","02885","99999","00065","25,000-99,999","Not in a place","RI","Bristol RI","Bristol town"," ","99999","Warren, RI","Bristol-Warren Regional School District",16,1 
+"44","44001","73760","99999","02885","99999","00065","25,000-99,999","Not in a place","RI","Bristol RI","Warren town"," ","99999","Warren, RI","Bristol-Warren Regional School District",10611,1 
+"44","44003","18640","31240","02827","99999","00210","100,000-249,999","200-999","RI","Kent RI","Coventry town","Greene CDP, RI","99999","Greene, RI","Coventry School District",888,1 
+"44","44003","18640","99999","02816","99999","00210","100,000-249,999","Not in a place","RI","Kent RI","Coventry town"," ","99999","Coventry, RI","Coventry School District",32605,1 
+"44","44003","18640","99999","02827","99999","00210","100,000-249,999","Not in a place","RI","Kent RI","Coventry town"," ","99999","Greene, RI","Coventry School District",1284,1 
+"44","44003","18640","99999","02831","99999","00210","100,000-249,999","Not in a place","RI","Kent RI","Coventry town"," ","99999","Hope, RI","Coventry School District",136,1 
+"44","44003","18640","99999","02893","99999","00210","100,000-249,999","Not in a place","RI","Kent RI","Coventry town"," ","99999","West Warwick, RI","Coventry School District",101,1 
+"44","44003","22240","99999","02818","99999","00300","100,000-249,999","Not in a place","RI","Kent RI","East Greenwich town"," ","99999","East Greenwich, RI","East Greenwich School District",13146,1 
+"44","44003","74300","74300","02818","99999","01110","100,000-249,999","25,000-99,999","RI","Kent RI","Warwick city","Warwick city, RI","99999","East Greenwich, RI","Warwick School District",4936,1 
+"44","44003","74300","74300","02886","99999","01110","100,000-249,999","25,000-99,999","RI","Kent RI","Warwick city","Warwick city, RI","99999","Warwick, RI","Warwick School District",29269,1 
+"44","44003","74300","74300","02888","99999","01110","100,000-249,999","25,000-99,999","RI","Kent RI","Warwick city","Warwick city, RI","99999","Warwick, RI","Warwick School District",19912,1 
+"44","44003","74300","74300","02889","99999","01110","100,000-249,999","25,000-99,999","RI","Kent RI","Warwick city","Warwick city, RI","99999","Warwick, RI","Warwick School District",28217,1 
+"44","44003","74300","74300","02893","99999","01110","100,000-249,999","25,000-99,999","RI","Kent RI","Warwick city","Warwick city, RI","99999","West Warwick, RI","Warwick School District",338,1 
+"44","44003","77720","99999","02817","99999"," ","100,000-249,999","Not in a place","RI","Kent RI","West Greenwich town"," ","99999","West Greenwich, RI","44",6135,1 
+"44","44003","78440","99999","02893","99999","01140","100,000-249,999","Not in a place","RI","Kent RI","West Warwick town"," ","99999","West Warwick, RI","West Warwick School District",29191,1 
+"44","44005","36820","99999","02835","99999"," ","25,000-99,999","Not in a place","RI","Newport RI","Jamestown town"," ","99999","Jamestown, RI","44",5405,1 
+"44","44005","42400","99999","02837","99999"," ","25,000-99,999","Not in a place","RI","Newport RI","Little Compton town"," ","99999","Little Compton, RI","44",3492,1 
+"44","44005","45460","45010","02842","99999","00630","25,000-99,999","1000-2499","RI","Newport RI","Middletown town","Melville CDP, RI","99999","Newport East, RI","Middletown School District",990,1 
+"44","44005","45460","50140","02840","99999","00630","25,000-99,999","10,000-24,999","RI","Newport RI","Middletown town","Newport East CDP, RI","99999","Newport, RI","Middletown School District",55,1 
+"44","44005","45460","50140","02842","99999","00630","25,000-99,999","10,000-24,999","RI","Newport RI","Middletown town","Newport East CDP, RI","99999","Newport East, RI","Middletown School District",11714,1 
+"44","44005","45460","99999","02842","99999","00630","25,000-99,999","Not in a place","RI","Newport RI","Middletown town"," ","99999","Newport East, RI","Middletown School District",3391,1 
+"44","44005","49960","49960","02840","99999","00720","25,000-99,999","10,000-24,999","RI","Newport RI","Newport city","Newport city, RI","99999","Newport, RI","Newport School District",23280,1 
+"44","44005","49960","49960","02841","99999","00720","25,000-99,999","10,000-24,999","RI","Newport RI","Newport city","Newport city, RI","99999","Newport, RI","Newport School District",1392,1 
+"44","44005","57880","45010","02871","99999","00870","25,000-99,999","1000-2499","RI","Newport RI","Portsmouth town","Melville CDP, RI","99999","Portsmouth, RI","Portsmouth School District",330,1 
+"44","44005","57880","99999","02871","99999","00870","25,000-99,999","Not in a place","RI","Newport RI","Portsmouth town"," ","99999","Portsmouth, RI","Portsmouth School District",16841,1 
+"44","44005","57880","99999","02872","99999","00870","25,000-99,999","Not in a place","RI","Newport RI","Portsmouth town"," ","99999","Prudence Island, RI","Portsmouth School District",218,1 
+"44","44005","70880","70700","02878","99999","01050","25,000-99,999","2500-9999","RI","Newport RI","Tiverton town","Tiverton CDP, RI","99999","Tiverton, RI","Tiverton School District",7557,1 
+"44","44005","70880","99999","02878","99999","01050","25,000-99,999","Not in a place","RI","Newport RI","Tiverton town"," ","99999","Tiverton, RI","Tiverton School District",8223,1 
+"44","44007","11800","33400","02830","99999","00090","250,000-999,999","1000-2499","RI","Providence RI","Burrillville town","Harrisville CDP, RI","99999","Harrisville, RI","Burrillville School District",1605,1 
+"44","44007","11800","54460","02830","99999","00090","250,000-999,999","2500-9999","RI","Providence RI","Burrillville town","Pascoag CDP, RI","99999","Harrisville, RI","Burrillville School District",179,1 
+"44","44007","11800","54460","02859","99999","00090","250,000-999,999","2500-9999","RI","Providence RI","Burrillville town","Pascoag CDP, RI","99999","Pascoag, RI","Burrillville School District",4398,1 
+"44","44007","11800","99999","02826","99999","00090","250,000-999,999","Not in a place","RI","Providence RI","Burrillville town"," ","99999","Glendale, RI (PO Boxes)","Burrillville School District",791,1 
+"44","44007","11800","99999","02830","99999","00090","250,000-999,999","Not in a place","RI","Providence RI","Burrillville town"," ","99999","Harrisville, RI","Burrillville School District",4192,1 
+"44","44007","11800","99999","02839","99999","00090","250,000-999,999","Not in a place","RI","Providence RI","Burrillville town"," ","99999","Mapleville, RI","Burrillville School District",1902,1 
+"44","44007","11800","99999","02858","99999","00090","250,000-999,999","Not in a place","RI","Providence RI","Burrillville town"," ","99999","Oakland, RI","Burrillville School District",570,1 
+"44","44007","11800","99999","02859","99999","00090","250,000-999,999","Not in a place","RI","Providence RI","Burrillville town"," ","99999","Pascoag, RI","Burrillville School District",2318,1 
+"44","44007","14140","14140","02863","99999","00120","250,000-999,999","10,000-24,999","RI","Providence RI","Central Falls city","Central Falls city, RI","99999","Central Falls, RI","Central Falls School District",19376,1 
+"44","44007","19180","19180","02831","99999","00240","250,000-999,999","25,000-99,999","RI","Providence RI","Cranston city","Cranston city, RI","99999","Hope, RI","Cranston School District",334,1 
+"44","44007","19180","19180","02905","99999","00240","250,000-999,999","25,000-99,999","RI","Providence RI","Cranston city","Cranston city, RI","99999","Providence, RI","Cranston School District",9479,1 
+"44","44007","19180","19180","02907","99999","00240","250,000-999,999","25,000-99,999","RI","Providence RI","Cranston city","Cranston city, RI","99999","Providence, RI","Cranston School District",12,1 
+"44","44007","19180","19180","02909","99999","00240","250,000-999,999","25,000-99,999","RI","Providence RI","Cranston city","Cranston city, RI","99999","Providence, RI","Cranston School District",15,1 
+"44","44007","19180","19180","02910","99999","00240","250,000-999,999","25,000-99,999","RI","Providence RI","Cranston city","Cranston city, RI","99999","Cranston, RI","Cranston School District",20676,1 
+"44","44007","19180","19180","02920","99999","00240","250,000-999,999","25,000-99,999","RI","Providence RI","Cranston city","Cranston city, RI","99999","Cranston, RI","Cranston School District",37510,1 
+"44","44007","19180","19180","02921","99999","00240","250,000-999,999","25,000-99,999","RI","Providence RI","Cranston city","Cranston city, RI","99999","Cranston, RI","Cranston School District",12361,1 
+"44","44007","20080","20260","02864","99999","00270","250,000-999,999","2500-9999","RI","Providence RI","Cumberland town","Cumberland Hill CDP, RI","99999","Cumberland, RI","Cumberland School District",7934,1 
+"44","44007","20080","72500","02864","99999","00270","250,000-999,999","10,000-24,999","RI","Providence RI","Cumberland town","Valley Falls CDP, RI","99999","Cumberland, RI","Cumberland School District",11547,1 
+"44","44007","20080","99999","02864","99999","00270","250,000-999,999","Not in a place","RI","Providence RI","Cumberland town"," ","99999","Cumberland, RI","Cumberland School District",13915,1 
+"44","44007","20080","99999","02865","99999","00270","250,000-999,999","Not in a place","RI","Providence RI","Cumberland town"," ","99999","Lincoln, RI","Cumberland School District",110,1 
+"44","44007","22960","22960","02860","99999","00330","250,000-999,999","25,000-99,999","RI","Providence RI","East Providence city","East Providence city, RI","99999","Pawtucket, RI","East Providence School District",38,1 
+"44","44007","22960","22960","02914","99999","00330","250,000-999,999","25,000-99,999","RI","Providence RI","East Providence city","East Providence city, RI","99999","East Providence, RI","East Providence School District",21963,1 
+"44","44007","22960","22960","02915","99999","00330","250,000-999,999","25,000-99,999","RI","Providence RI","East Providence city","East Providence city, RI","99999","East Providence, RI","East Providence School District",16897,1 
+"44","44007","22960","22960","02916","99999","00330","250,000-999,999","25,000-99,999","RI","Providence RI","East Providence city","East Providence city, RI","99999","East Providence, RI","East Providence School District",8139,1 
+"44","44007","27460","15940","02825","99999"," ","250,000-999,999","200-999","RI","Providence RI","Foster town","Clayville CDP, RI","99999","Foster, RI","44",179,1 
+"44","44007","27460","27640","02825","99999"," ","250,000-999,999","200-999","RI","Providence RI","Foster town","Foster Center CDP, RI","99999","Foster, RI","44",355,1 
+"44","44007","27460","99999","02825","99999"," ","250,000-999,999","Not in a place","RI","Providence RI","Foster town"," ","99999","Foster, RI","44",3801,1 
+"44","44007","27460","99999","02857","99999"," ","250,000-999,999","Not in a place","RI","Providence RI","Foster town"," ","99999","North Scituate, RI","44",271,1 
+"44","44007","30340","14860","02814","99999"," ","250,000-999,999","1000-2499","RI","Providence RI","Glocester town","Chepachet CDP, RI","99999","Chepachet, RI","44",1653,1 
+"44","44007","30340","14860","02859","99999"," ","250,000-999,999","1000-2499","RI","Providence RI","Glocester town","Chepachet CDP, RI","99999","Pascoag, RI","44",22,1 
+"44","44007","30340","33040","02814","99999"," ","250,000-999,999","200-999","RI","Providence RI","Glocester town","Harmony CDP, RI","99999","Chepachet, RI","44",979,1 
+"44","44007","30340","33040","02857","99999"," ","250,000-999,999","200-999","RI","Providence RI","Glocester town","Harmony CDP, RI","99999","North Scituate, RI","44",6,1 
+"44","44007","30340","99999","02814","99999"," ","250,000-999,999","Not in a place","RI","Providence RI","Glocester town"," ","99999","Chepachet, RI","44",4856,1 
+"44","44007","30340","99999","02828","99999"," ","250,000-999,999","Not in a place","RI","Providence RI","Glocester town"," ","99999","Greenville, RI","44",53,1 
+"44","44007","30340","99999","02857","99999"," ","250,000-999,999","Not in a place","RI","Providence RI","Glocester town"," ","99999","North Scituate, RI","44",2177,1 
+"44","44007","37720","99999","02919","99999","00540","250,000-999,999","Not in a place","RI","Providence RI","Johnston town"," ","99999","Johnston, RI","Johnston School District",28769,1 
+"44","44007","41500","99999","02802","99999","00570","250,000-999,999","Not in a place","RI","Providence RI","Lincoln town"," ","99999","Albion, RI (PO Boxes)","Lincoln School District",786,1 
+"44","44007","41500","99999","02838","99999","00570","250,000-999,999","Not in a place","RI","Providence RI","Lincoln town"," ","99999","Manville, RI","Lincoln School District",3400,1 
+"44","44007","41500","99999","02860","99999","00570","250,000-999,999","Not in a place","RI","Providence RI","Lincoln town"," ","99999","Pawtucket, RI","Lincoln School District",87,1 
+"44","44007","41500","99999","02865","99999","00570","250,000-999,999","Not in a place","RI","Providence RI","Lincoln town"," ","99999","Lincoln, RI","Lincoln School District",16832,1 
+"44","44007","51760","99999","02860","99999","00780","250,000-999,999","Not in a place","RI","Providence RI","North Providence town"," ","99999","Pawtucket, RI","North Providence School District",23,1 
+"44","44007","51760","99999","02904","99999","00780","250,000-999,999","Not in a place","RI","Providence RI","North Providence town"," ","99999","Providence, RI","North Providence School District",17221,1 
+"44","44007","51760","99999","02908","99999","00780","250,000-999,999","Not in a place","RI","Providence RI","North Providence town"," ","99999","Providence, RI","North Providence School District",252,1 
+"44","44007","51760","99999","02911","99999","00780","250,000-999,999","Not in a place","RI","Providence RI","North Providence town"," ","99999","North Providence, RI","North Providence School District",14582,1 
+"44","44007","52480","99999","02876","99999","00810","250,000-999,999","Not in a place","RI","Providence RI","North Smithfield town"," ","99999","Slatersville, RI","North Smithfield School District",430,1 
+"44","44007","52480","99999","02896","99999","00810","250,000-999,999","Not in a place","RI","Providence RI","North Smithfield town"," ","99999","North Smithfield, RI","North Smithfield School District",11537,1 
+"44","44007","54640","54640","02860","99999","00840","250,000-999,999","25,000-99,999","RI","Providence RI","Pawtucket city","Pawtucket city, RI","99999","Pawtucket, RI","Pawtucket School District",44975,1 
+"44","44007","54640","54640","02861","99999","00840","250,000-999,999","25,000-99,999","RI","Providence RI","Pawtucket city","Pawtucket city, RI","99999","Pawtucket, RI","Pawtucket School District",26164,1 
+"44","44007","54640","54640","02863","99999","00840","250,000-999,999","25,000-99,999","RI","Providence RI","Pawtucket city","Pawtucket city, RI","99999","Central Falls, RI","Pawtucket School District",9,1 
+"44","44007","59000","59000","02860","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Pawtucket, RI","Providence School District",76,1 
+"44","44007","59000","59000","02903","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",10780,1 
+"44","44007","59000","59000","02904","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",12138,1 
+"44","44007","59000","59000","02905","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",15744,1 
+"44","44007","59000","59000","02906","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",28387,1 
+"44","44007","59000","59000","02907","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",27433,1 
+"44","44007","59000","59000","02908","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",37215,1 
+"44","44007","59000","59000","02909","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",43525,1 
+"44","44007","59000","59000","02910","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Cranston, RI","Providence School District",324,1 
+"44","44007","59000","59000","02911","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","North Providence, RI","Providence School District",992,1 
+"44","44007","59000","59000","02912","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Providence, RI","Providence School District",1370,1 
+"44","44007","59000","59000","02919","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Johnston, RI","Providence School District",21,1 
+"44","44007","59000","59000","02920","99999","00900","250,000-999,999","100,000-249,999","RI","Providence RI","Providence city","Providence city, RI","99999","Cranston, RI","Providence School District",37,1 
+"44","44007","64220","15940","02815","99999","00960","250,000-999,999","200-999","RI","Providence RI","Scituate town","Clayville CDP, RI","99999","Clayville, RI","Scituate School District",121,1 
+"44","44007","64220","99999","02815","99999","00960","250,000-999,999","Not in a place","RI","Providence RI","Scituate town"," ","99999","Clayville, RI","Scituate School District",157,1 
+"44","44007","64220","99999","02816","99999","00960","250,000-999,999","Not in a place","RI","Providence RI","Scituate town"," ","99999","Coventry, RI","Scituate School District",6,1 
+"44","44007","64220","99999","02825","99999","00960","250,000-999,999","Not in a place","RI","Providence RI","Scituate town"," ","99999","Foster, RI","Scituate School District",1042,1 
+"44","44007","64220","99999","02831","99999","00960","250,000-999,999","Not in a place","RI","Providence RI","Scituate town"," ","99999","Hope, RI","Scituate School District",3045,1 
+"44","44007","64220","99999","02857","99999","00960","250,000-999,999","Not in a place","RI","Providence RI","Scituate town"," ","99999","North Scituate, RI","Scituate School District",5958,1 
+"44","44007","66200","31600","02828","99999","00990","250,000-999,999","2500-9999","RI","Providence RI","Smithfield town","Greenville CDP, RI","99999","Greenville, RI","Smithfield School District",7323,1 
+"44","44007","66200","31600","02917","99999","00990","250,000-999,999","2500-9999","RI","Providence RI","Smithfield town","Greenville CDP, RI","99999","Smithfield, RI","Smithfield School District",1335,1 
+"44","44007","66200","99999","02814","99999","00990","250,000-999,999","Not in a place","RI","Providence RI","Smithfield town"," ","99999","Chepachet, RI","Smithfield School District",8,1 
+"44","44007","66200","99999","02828","99999","00990","250,000-999,999","Not in a place","RI","Providence RI","Smithfield town"," ","99999","Greenville, RI","Smithfield School District",328,1 
+"44","44007","66200","99999","02865","99999","00990","250,000-999,999","Not in a place","RI","Providence RI","Smithfield town"," ","99999","Lincoln, RI","Smithfield School District",9,1 
+"44","44007","66200","99999","02917","99999","00990","250,000-999,999","Not in a place","RI","Providence RI","Smithfield town"," ","99999","Smithfield, RI","Smithfield School District",12427,1 
+"44","44007","80780","80780","02895","99999","01200","250,000-999,999","25,000-99,999","RI","Providence RI","Woonsocket city","Woonsocket city, RI","99999","Woonsocket, RI","Woonsocket School District",41186,1 
+"44","44009","14500","12340","02813","99999","00150","100,000-249,999","200-999","RI","Washington RI","Charlestown town","Carolina CDP, RI","99999","Charlestown, RI","Chariho Regional School District",399,1 
+"44","44009","14500","60260","02813","99999","00150","100,000-249,999","200-999","RI","Washington RI","Charlestown town","Quonochontaug CDP, RI","99999","Charlestown, RI","Chariho Regional School District",333,1 
+"44","44009","14500","99999","02813","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Charlestown town"," ","99999","Charlestown, RI","Chariho Regional School District",7095,1 
+"44","44009","25300","99999","02822","99999"," ","100,000-249,999","Not in a place","RI","Washington RI","Exeter town"," ","99999","Exeter, RI","44",6021,1 
+"44","44009","25300","99999","02832","99999"," ","100,000-249,999","Not in a place","RI","Washington RI","Exeter town"," ","99999","Hope Valley, RI","44",11,1 
+"44","44009","25300","99999","02874","99999"," ","100,000-249,999","Not in a place","RI","Washington RI","Exeter town"," ","99999","Saunderstown, RI","44",129,1 
+"44","44009","25300","99999","02892","99999"," ","100,000-249,999","Not in a place","RI","Washington RI","Exeter town"," ","99999","West Kingston, RI","44",264,1 
+"44","44009","35380","03520","02804","99999","00150","100,000-249,999","1000-2499","RI","Washington RI","Hopkinton town","Ashaway CDP, RI","99999","Ashaway, RI","Chariho Regional School District",1485,1 
+"44","44009","35380","34660","02832","99999","00150","100,000-249,999","1000-2499","RI","Washington RI","Hopkinton town","Hope Valley CDP, RI","99999","Hope Valley, RI","Chariho Regional School District",1564,1 
+"44","44009","35380","34660","02898","99999","00150","100,000-249,999","1000-2499","RI","Washington RI","Hopkinton town","Hope Valley CDP, RI","99999","Wyoming, RI","Chariho Regional School District",48,1 
+"44","44009","35380","99999","02804","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Hopkinton town"," ","99999","Ashaway, RI","Chariho Regional School District",1122,1 
+"44","44009","35380","99999","02808","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Hopkinton town"," ","99999","Bradford, RI","Chariho Regional School District",812,1 
+"44","44009","35380","99999","02832","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Hopkinton town"," ","99999","Hope Valley, RI","Chariho Regional School District",2065,1 
+"44","44009","35380","99999","02833","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Hopkinton town"," ","99999","Hopkinton, RI","Chariho Regional School District",784,1 
+"44","44009","35380","99999","02873","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Hopkinton town"," ","99999","Rockville, RI (PO Boxes)","Chariho Regional School District",235,1 
+"44","44009","35380","99999","02894","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Hopkinton town"," ","99999","Wood River Junction, RI","Chariho Regional School District",73,1 
+"44","44009","48340","48700","02879","99999","00660","100,000-249,999","2500-9999","RI","Washington RI","Narragansett town","Narragansett Pier CDP, RI","99999","Wakefield, RI","Narragansett School District",21,1 
+"44","44009","48340","48700","02882","99999","00660","100,000-249,999","2500-9999","RI","Washington RI","Narragansett town","Narragansett Pier CDP, RI","99999","Narragansett, RI","Narragansett School District",3388,1 
+"44","44009","48340","99999","02874","99999","00660","100,000-249,999","Not in a place","RI","Washington RI","Narragansett town"," ","99999","Saunderstown, RI","Narragansett School District",1583,1 
+"44","44009","48340","99999","02879","99999","00660","100,000-249,999","Not in a place","RI","Washington RI","Narragansett town"," ","99999","Wakefield, RI","Narragansett School District",80,1 
+"44","44009","48340","99999","02882","99999","00660","100,000-249,999","Not in a place","RI","Washington RI","Narragansett town"," ","99999","Narragansett, RI","Narragansett School District",10796,1 
+"44","44009","50500","99999","02807","99999","00690","100,000-249,999","Not in a place","RI","Washington RI","New Shoreham town"," ","99999","Block Island, RI (PO Boxes)","New Shoreham School District",1051,1 
+"44","44009","51580","99999","02822","99999","00750","100,000-249,999","Not in a place","RI","Washington RI","North Kingstown town"," ","99999","Exeter, RI","North Kingstown School District",90,1 
+"44","44009","51580","99999","02852","99999","00750","100,000-249,999","Not in a place","RI","Washington RI","North Kingstown town"," ","99999","North Kingstown, RI","North Kingstown School District",22551,1 
+"44","44009","51580","99999","02874","99999","00750","100,000-249,999","Not in a place","RI","Washington RI","North Kingstown town"," ","99999","Saunderstown, RI","North Kingstown School District",3845,1 
+"44","44009","61160","12340","02812","99999","00150","100,000-249,999","200-999","RI","Washington RI","Richmond town","Carolina CDP, RI","99999","Carolina, RI","Chariho Regional School District",571,1 
+"44","44009","61160","80960","02898","99999","00150","100,000-249,999","200-999","RI","Washington RI","Richmond town","Wyoming CDP, RI","99999","Wyoming, RI","Chariho Regional School District",270,1 
+"44","44009","61160","99999","02812","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Richmond town"," ","99999","Carolina, RI","Chariho Regional School District",926,1 
+"44","44009","61160","99999","02832","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Richmond town"," ","99999","Hope Valley, RI","Chariho Regional School District",968,1 
+"44","44009","61160","99999","02836","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Richmond town"," ","99999","Kenyon, RI","Chariho Regional School District",136,1 
+"44","44009","61160","99999","02875","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Richmond town"," ","99999","Shannock, RI","Chariho Regional School District",307,1 
+"44","44009","61160","99999","02892","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Richmond town"," ","99999","West Kingston, RI","Chariho Regional School District",2503,1 
+"44","44009","61160","99999","02894","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Richmond town"," ","99999","Wood River Junction, RI","Chariho Regional School District",649,1 
+"44","44009","61160","99999","02898","99999","00150","100,000-249,999","Not in a place","RI","Washington RI","Richmond town"," ","99999","Wyoming, RI","Chariho Regional School District",1378,1 
+"44","44009","67460","38980","02879","99999","01020","100,000-249,999","2500-9999","RI","Washington RI","South Kingstown town","Kingston CDP, RI","99999","Wakefield, RI","South Kingstown School District",534,1 
+"44","44009","67460","38980","02881","99999","01020","100,000-249,999","2500-9999","RI","Washington RI","South Kingstown town","Kingston CDP, RI","99999","Kingston, RI","South Kingstown School District",6440,1 
+"44","44009","67460","73130","02879","99999","01020","100,000-249,999","2500-9999","RI","Washington RI","South Kingstown town","Wakefield-Peacedale CDP, RI","99999","Wakefield, RI","South Kingstown School District",8487,1 
+"44","44009","67460","99999","02813","99999","01020","100,000-249,999","Not in a place","RI","Washington RI","South Kingstown town"," ","99999","Charlestown, RI","South Kingstown School District",4,1 
+"44","44009","67460","99999","02874","99999","01020","100,000-249,999","Not in a place","RI","Washington RI","South Kingstown town"," ","99999","Saunderstown, RI","South Kingstown School District",303,1 
+"44","44009","67460","99999","02879","99999","01020","100,000-249,999","Not in a place","RI","Washington RI","South Kingstown town"," ","99999","Wakefield, RI","South Kingstown School District",11249,1 
+"44","44009","67460","99999","02881","99999","01020","100,000-249,999","Not in a place","RI","Washington RI","South Kingstown town"," ","99999","Kingston, RI","South Kingstown School District",1401,1 
+"44","44009","67460","99999","02892","99999","01020","100,000-249,999","Not in a place","RI","Washington RI","South Kingstown town"," ","99999","West Kingston, RI","South Kingstown School District",2221,1 
+"44","44009","77000","08020","02808","99999","01170","100,000-249,999","1000-2499","RI","Washington RI","Westerly town","Bradford CDP, RI","99999","Bradford, RI","Westerly School District",1406,1 
+"44","44009","77000","46000","02891","99999","01170","100,000-249,999","200-999","RI","Washington RI","Westerly town","Misquamicut CDP, RI","99999","Westerly, RI","Westerly School District",390,1 
+"44","44009","77000","75200","02891","99999","01170","100,000-249,999","Less than 200","RI","Washington RI","Westerly town","Watch Hill CDP, RI","99999","Westerly, RI","Westerly School District",154,1 
+"44","44009","77000","75920","02891","99999","01170","100,000-249,999","200-999","RI","Washington RI","Westerly town","Weekapaug CDP, RI","99999","Westerly, RI","Westerly School District",425,1 
+"44","44009","77000","76820","02891","99999","01170","100,000-249,999","10,000-24,999","RI","Washington RI","Westerly town","Westerly CDP, RI","99999","Westerly, RI","Westerly School District",17936,1 
+"44","44009","77000","99999","02808","99999","01170","100,000-249,999","Not in a place","RI","Washington RI","Westerly town"," ","99999","Bradford, RI","Westerly School District",183,1 
+"44","44009","77000","99999","02891","99999","01170","100,000-249,999","Not in a place","RI","Washington RI","Westerly town"," ","99999","Westerly, RI","Westerly School District",2293,1 

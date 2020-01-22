@@ -1,0 +1,315 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"15","15001","90630","14650","96720","99999","00030","100,000-249,999","25,000-99,999","HI","Hawaii HI","Hilo CCD","Hilo CDP, HI","99999","Hilo, HI","Hawaii Department of Education",43263,1 
+"15","15001","90630","78950","96720","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Hilo CCD","Wainaku CDP, HI","99999","Hilo, HI","Hawaii Department of Education",1224,1 
+"15","15001","90630","99999","96720","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Hilo CCD"," ","99999","Hilo, HI","Hawaii Department of Education",1227,1 
+"15","15001","90720","16450","96727","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Honokaa-Kukuihaele CCD","Honokaa CDP, HI","99999","Honokaa, HI","Hawaii Department of Education",2221,1 
+"15","15001","90720","41000","96727","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Honokaa-Kukuihaele CCD","Kukuihaele CDP, HI","99999","Honokaa, HI","Hawaii Department of Education",336,1 
+"15","15001","90720","99999","96727","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Honokaa-Kukuihaele CCD"," ","99999","Honokaa, HI","Hawaii Department of Education",1287,1 
+"15","15001","90720","99999","96743","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Honokaa-Kukuihaele CCD"," ","99999","Waimea, HI","Hawaii Department of Education",81,1 
+"15","15001","91170","05900","96772","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Kau CCD","Discovery Harbour CDP, HI","99999","Discovery Harbour, HI","Hawaii Department of Education",949,1 
+"15","15001","91170","12530","96737","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Kau CCD","Hawaiian Ocean View CDP, HI","99999","Hawaiian Ocean View, HI","Hawaii Department of Education",4437,1 
+"15","15001","91170","53600","96772","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Kau CCD","Naalehu CDP, HI","99999","Discovery Harbour, HI","Hawaii Department of Education",866,1 
+"15","15001","91170","59750","96777","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Kau CCD","Pahala CDP, HI","99999","Pahala, HI","Hawaii Department of Education",1356,1 
+"15","15001","91170","72350","96785","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Kau CCD","Volcano CDP, HI","99999","Volcano, HI","Hawaii Department of Education",95,1 
+"15","15001","91170","79550","96772","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Kau CCD","Waiohinu CDP, HI","99999","Discovery Harbour, HI","Hawaii Department of Education",213,1 
+"15","15001","91170","99999","96737","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Kau CCD"," ","99999","Hawaiian Ocean View, HI","Hawaii Department of Education",115,1 
+"15","15001","91170","99999","96772","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Kau CCD"," ","99999","Discovery Harbour, HI","Hawaii Department of Education",276,1 
+"15","15001","91170","99999","96777","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Kau CCD"," ","99999","Pahala, HI","Hawaii Department of Education",123,1 
+"15","15001","91170","99999","96785","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Kau CCD"," ","99999","Volcano, HI","Hawaii Department of Education",21,1 
+"15","15001","91350","01085","96778","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Ainaloa CDP, HI","99999","Hawaiian Beaches, HI","Hawaii Department of Education",2965,1 
+"15","15001","91350","06325","96771","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Keaau-Mountain View CCD","Eden Roc CDP, HI","99999","Mountain View, HI","Hawaii Department of Education",942,1 
+"15","15001","91350","07542","96771","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Keaau-Mountain View CCD","Fern Acres CDP, HI","99999","Mountain View, HI","Hawaii Department of Education",1504,1 
+"15","15001","91350","07675","96771","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Keaau-Mountain View CCD","Fern Forest CDP, HI","99999","Mountain View, HI","Hawaii Department of Education",888,1 
+"15","15001","91350","07675","96785","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Keaau-Mountain View CCD","Fern Forest CDP, HI","99999","Volcano, HI","Hawaii Department of Education",43,1 
+"15","15001","91350","12450","96760","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Hawaiian Acres CDP, HI","99999","Hawaiian Acres, HI","Hawaii Department of Education",1755,1 
+"15","15001","91350","12450","96771","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Hawaiian Acres CDP, HI","99999","Mountain View, HI","Hawaii Department of Education",920,1 
+"15","15001","91350","12450","96778","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Hawaiian Acres CDP, HI","99999","Hawaiian Beaches, HI","Hawaii Department of Education",25,1 
+"15","15001","91350","12600","96749","99999","00030","100,000-249,999","10,000-24,999","HI","Hawaii HI","Keaau-Mountain View CCD","Hawaiian Paradise Park CDP, HI","99999","Hawaiian Paradise Park, HI","Hawaii Department of Education",11404,1 
+"15","15001","91350","32900","96749","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Keaau-Mountain View CCD","Keaau CDP, HI","99999","Hawaiian Paradise Park, HI","Hawaii Department of Education",2253,1 
+"15","15001","91350","42800","96749","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Keaau-Mountain View CCD","Kurtistown CDP, HI","99999","Hawaiian Paradise Park, HI","Hawaii Department of Education",122,1 
+"15","15001","91350","42800","96760","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Keaau-Mountain View CCD","Kurtistown CDP, HI","99999","Hawaiian Acres, HI","Hawaii Department of Education",1076,1 
+"15","15001","91350","42800","96771","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Keaau-Mountain View CCD","Kurtistown CDP, HI","99999","Mountain View, HI","Hawaii Department of Education",100,1 
+"15","15001","91350","53300","96771","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Mountain View CDP, HI","99999","Mountain View, HI","Hawaii Department of Education",3917,1 
+"15","15001","91350","53300","96785","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Mountain View CDP, HI","99999","Volcano, HI","Hawaii Department of Education",7,1 
+"15","15001","91350","58775","96749","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Orchidlands Estates CDP, HI","99999","Hawaiian Paradise Park, HI","Hawaii Department of Education",2717,1 
+"15","15001","91350","58775","96760","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Orchidlands Estates CDP, HI","99999","Hawaiian Acres, HI","Hawaii Department of Education",98,1 
+"15","15001","91350","72350","96785","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Keaau-Mountain View CCD","Volcano CDP, HI","99999","Volcano, HI","Hawaii Department of Education",2480,1 
+"15","15001","91350","99999","96749","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Keaau-Mountain View CCD"," ","99999","Hawaiian Paradise Park, HI","Hawaii Department of Education",544,1 
+"15","15001","91350","99999","96760","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Keaau-Mountain View CCD"," ","99999","Hawaiian Acres, HI","Hawaii Department of Education",72,1 
+"15","15001","91350","99999","96771","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Keaau-Mountain View CCD"," ","99999","Mountain View, HI","Hawaii Department of Education",68,1 
+"15","15001","91350","99999","96778","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Keaau-Mountain View CCD"," ","99999","Hawaiian Beaches, HI","Hawaii Department of Education",366,1 
+"15","15001","92430","44150","96764","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","North Hilo CCD","Laupahoehoe CDP, HI","99999","Laupahoehoe, HI","Hawaii Department of Education",581,1 
+"15","15001","92430","99999","96710","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Hilo CCD"," ","99999","Hakalau, HI (PO Boxes)","Hawaii Department of Education",191,1 
+"15","15001","92430","99999","96764","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Hilo CCD"," ","99999","Laupahoehoe, HI","Hawaii Department of Education",218,1 
+"15","15001","92430","99999","96773","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Hilo CCD"," ","99999","Ninole, HI (PO Boxes)","Hawaii Department of Education",210,1 
+"15","15001","92430","99999","96774","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Hilo CCD"," ","99999","Ookala, HI (PO Boxes)","Hawaii Department of Education",284,1 
+"15","15001","92430","99999","96780","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Hilo CCD"," ","99999","Papaaloa, HI (PO Boxes)","Hawaii Department of Education",557,1 
+"15","15001","92520","09700","96755","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","North Kohala CCD","Halaula CDP, HI","99999","Kapaau, HI","Hawaii Department of Education",469,1 
+"15","15001","92520","13600","96719","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","North Kohala CCD","Hawi CDP, HI","99999","Hawi, HI","Hawaii Department of Education",921,1 
+"15","15001","92520","13600","96755","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","North Kohala CCD","Hawi CDP, HI","99999","Kapaau, HI","Hawaii Department of Education",160,1 
+"15","15001","92520","29000","96755","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","North Kohala CCD","Kapaau CDP, HI","99999","Kapaau, HI","Hawaii Department of Education",1734,1 
+"15","15001","92520","99999","96719","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Kohala CCD"," ","99999","Hawi, HI","Hawaii Department of Education",771,1 
+"15","15001","92520","99999","96743","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Kohala CCD"," ","99999","Waimea, HI","Hawaii Department of Education",1055,1 
+"15","15001","92520","99999","96755","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Kohala CCD"," ","99999","Kapaau, HI","Hawaii Department of Education",1212,1 
+"15","15001","92610","15700","96725","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","North Kona CCD","Holualoa CDP, HI","99999","Honalo, HI","Hawaii Department of Education",740,1 
+"15","15001","92610","15700","96740","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","North Kona CCD","Holualoa CDP, HI","99999","Kailua, HI","Hawaii Department of Education",7798,1 
+"15","15001","92610","16000","96725","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","North Kona CCD","Honalo CDP, HI","99999","Honalo, HI","Hawaii Department of Education",1580,1 
+"15","15001","92610","16000","96740","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","North Kona CCD","Honalo CDP, HI","99999","Kailua, HI","Hawaii Department of Education",153,1 
+"15","15001","92610","16000","96750","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","North Kona CCD","Honalo CDP, HI","99999","Kealakekua, HI","Hawaii Department of Education",690,1 
+"15","15001","92610","21230","96725","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","North Kona CCD","Kahaluu-Keauhou CDP, HI","99999","Honalo, HI","Hawaii Department of Education",199,1 
+"15","15001","92610","21230","96740","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","North Kona CCD","Kahaluu-Keauhou CDP, HI","99999","Kailua, HI","Hawaii Department of Education",3350,1 
+"15","15001","92610","23000","96725","99999","00030","100,000-249,999","10,000-24,999","HI","Hawaii HI","North Kona CCD","Kailua CDP, HI","99999","Honalo, HI","Hawaii Department of Education",978,1 
+"15","15001","92610","23000","96740","99999","00030","100,000-249,999","10,000-24,999","HI","Hawaii HI","North Kona CCD","Kailua CDP, HI","99999","Kailua, HI","Hawaii Department of Education",10997,1 
+"15","15001","92610","25400","96725","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","North Kona CCD","Kalaoa CDP, HI","99999","Honalo, HI","Hawaii Department of Education",95,1 
+"15","15001","92610","25400","96740","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","North Kona CCD","Kalaoa CDP, HI","99999","Kailua, HI","Hawaii Department of Education",9549,1 
+"15","15001","92610","33950","96750","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","North Kona CCD","Kealakekua CDP, HI","99999","Kealakekua, HI","Hawaii Department of Education",147,1 
+"15","15001","92610","99999","96740","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Kona CCD"," ","99999","Kailua, HI","Hawaii Department of Education",1474,1 
+"15","15001","92610","99999","96750","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","North Kona CCD"," ","99999","Kealakekua, HI","Hawaii Department of Education",125,1 
+"15","15001","92700","16450","96727","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Paauhau-Paauilo CCD","Honokaa CDP, HI","99999","Honokaa, HI","Hawaii Department of Education",37,1 
+"15","15001","92700","59300","96776","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Paauhau-Paauilo CCD","Paauilo CDP, HI","99999","Paauilo, HI (PO Boxes)","Hawaii Department of Education",595,1 
+"15","15001","92700","99999","96727","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Paauhau-Paauilo CCD"," ","99999","Honokaa, HI","Hawaii Department of Education",997,1 
+"15","15001","92700","99999","96743","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Paauhau-Paauilo CCD"," ","99999","Waimea, HI","Hawaii Department of Education",6,1 
+"15","15001","92700","99999","96774","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Paauhau-Paauilo CCD"," ","99999","Ookala, HI (PO Boxes)","Hawaii Department of Education",58,1 
+"15","15001","92700","99999","96776","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Paauhau-Paauilo CCD"," ","99999","Paauilo, HI (PO Boxes)","Hawaii Department of Education",895,1 
+"15","15001","92790","12500","96749","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Pahoa-Kalapana CCD","Hawaiian Beaches CDP, HI","99999","Hawaiian Paradise Park, HI","Hawaii Department of Education",7,1 
+"15","15001","92790","12500","96778","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","Pahoa-Kalapana CCD","Hawaiian Beaches CDP, HI","99999","Hawaiian Beaches, HI","Hawaii Department of Education",4273,1 
+"15","15001","92790","44562","96778","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Pahoa-Kalapana CCD","Leilani Estates CDP, HI","99999","Hawaiian Beaches, HI","Hawaii Department of Education",1560,1 
+"15","15001","92790","53975","96778","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Pahoa-Kalapana CCD","Nanawale Estates CDP, HI","99999","Hawaiian Beaches, HI","Hawaii Department of Education",1426,1 
+"15","15001","92790","59900","96778","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Pahoa-Kalapana CCD","Pahoa CDP, HI","99999","Hawaiian Beaches, HI","Hawaii Department of Education",945,1 
+"15","15001","92790","99999","96778","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Pahoa-Kalapana CCD"," ","99999","Hawaiian Beaches, HI","Hawaii Department of Education",2849,1 
+"15","15001","92880","17450","96728","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Papaikou-Wailea CCD","Honomu CDP, HI","99999","Honomu, HI","Hawaii Department of Education",509,1 
+"15","15001","92880","61550","96781","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Papaikou-Wailea CCD","Papaikou CDP, HI","99999","Papaikou, HI","Hawaii Department of Education",1314,1 
+"15","15001","92880","61700","96720","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","Papaikou-Wailea CCD","Paukaa CDP, HI","99999","Hilo, HI","Hawaii Department of Education",425,1 
+"15","15001","92880","63650","96783","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","Papaikou-Wailea CCD","Pepeekeo CDP, HI","99999","Pepeekeo, HI","Hawaii Department of Education",1789,1 
+"15","15001","92880","99999","96710","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Papaikou-Wailea CCD"," ","99999","Hakalau, HI (PO Boxes)","Hawaii Department of Education",422,1 
+"15","15001","92880","99999","96720","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Papaikou-Wailea CCD"," ","99999","Hilo, HI","Hawaii Department of Education",26,1 
+"15","15001","92880","99999","96728","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Papaikou-Wailea CCD"," ","99999","Honomu, HI","Hawaii Department of Education",101,1 
+"15","15001","92880","99999","96781","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Papaikou-Wailea CCD"," ","99999","Papaikou, HI","Hawaii Department of Education",356,1 
+"15","15001","92880","99999","96783","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","Papaikou-Wailea CCD"," ","99999","Pepeekeo, HI","Hawaii Department of Education",271,1 
+"15","15001","93150","65150","96738","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","South Kohala CCD","Puako CDP, HI","99999","Waikoloa Village, HI","Hawaii Department of Education",229,1 
+"15","15001","93150","65150","96743","99999","00030","100,000-249,999","200-999","HI","Hawaii HI","South Kohala CCD","Puako CDP, HI","99999","Waimea, HI","Hawaii Department of Education",543,1 
+"15","15001","93150","76600","96738","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","South Kohala CCD","Waikoloa Village CDP, HI","99999","Waikoloa Village, HI","Hawaii Department of Education",6362,1 
+"15","15001","93150","78500","96743","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","South Kohala CCD","Waimea CDP, HI","99999","Waimea, HI","Hawaii Department of Education",9212,1 
+"15","15001","93150","99999","96738","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","South Kohala CCD"," ","99999","Waikoloa Village, HI","Hawaii Department of Education",18,1 
+"15","15001","93150","99999","96743","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","South Kohala CCD"," ","99999","Waimea, HI","Hawaii Department of Education",1263,1 
+"15","15001","93240","03850","96704","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","South Kona CCD","Captain Cook CDP, HI","99999","Captain Cook, HI","Hawaii Department of Education",2698,1 
+"15","15001","93240","03850","96750","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","South Kona CCD","Captain Cook CDP, HI","99999","Kealakekua, HI","Hawaii Department of Education",731,1 
+"15","15001","93240","16160","96704","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","South Kona CCD","Honaunau-Napoopoo CDP, HI","99999","Captain Cook, HI","Hawaii Department of Education",1921,1 
+"15","15001","93240","16160","96726","99999","00030","100,000-249,999","2500-9999","HI","Hawaii HI","South Kona CCD","Honaunau-Napoopoo CDP, HI","99999","Honaunau-Napoopoo, HI","Hawaii Department of Education",646,1 
+"15","15001","93240","33950","96750","99999","00030","100,000-249,999","1000-2499","HI","Hawaii HI","South Kona CCD","Kealakekua CDP, HI","99999","Kealakekua, HI","Hawaii Department of Education",1872,1 
+"15","15001","93240","99999","96704","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","South Kona CCD"," ","99999","Captain Cook, HI","Hawaii Department of Education",1886,1 
+"15","15001","93240","99999","96726","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","South Kona CCD"," ","99999","Honaunau-Napoopoo, HI","Hawaii Department of Education",15,1 
+"15","15001","93240","99999","96750","99999","00030","100,000-249,999","Not in a place","HI","Hawaii HI","South Kona CCD"," ","99999","Kealakekua, HI","Hawaii Department of Education",228,1 
+"15","15003","90270","00550","96701","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","Aiea CDP, HI","99999","Waimalu, HI","Hawaii Department of Education",9338,1 
+"15","15003","90270","07450","96706","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Ewa Beach CDP, HI","99999","Ewa Gentry, HI","Hawaii Department of Education",14955,1 
+"15","15003","90270","07470","96706","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Ewa Gentry CDP, HI","99999","Ewa Gentry, HI","Hawaii Department of Education",22690,1 
+"15","15003","90270","07485","96706","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","Ewa Villages CDP, HI","99999","Ewa Gentry, HI","Hawaii Department of Education",6108,1 
+"15","15003","90270","10000","96701","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Halawa CDP, HI","99999","Waimalu, HI","Hawaii Department of Education",8470,1 
+"15","15003","90270","10000","96818","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Halawa CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",5338,1 
+"15","15003","90270","14200","96818","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","Hickam Housing CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",3866,1 
+"15","15003","90270","19100","96706","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","Iroquois Point CDP, HI","99999","Ewa Gentry, HI","Hawaii Department of Education",3374,1 
+"15","15003","90270","24850","96707","99999","00030","250,000-999,999","Less than 200","HI","Honolulu HI","Ewa CCD","Kalaeloa CDP, HI","99999","Makakilo, HI","Hawaii Department of Education",48,1 
+"15","15003","90270","30300","96707","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Kapolei CDP, HI","99999","Makakilo, HI","Hawaii Department of Education",15186,1 
+"15","15003","90270","39400","96707","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Ewa CCD","Ko Olina CDP, HI","99999","Makakilo, HI","Hawaii Department of Education",1799,1 
+"15","15003","90270","47600","96707","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Makakilo CDP, HI","99999","Makakilo, HI","Hawaii Department of Education",18248,1 
+"15","15003","90270","51000","96789","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Mililani Mauka CDP, HI","99999","Mililani Town, HI","Hawaii Department of Education",21039,1 
+"15","15003","90270","51050","96789","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Ewa CCD","Mililani Town CDP, HI","99999","Mililani Town, HI","Hawaii Department of Education",27629,1 
+"15","15003","90270","56685","96706","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","Ocean Pointe CDP, HI","99999","Ewa Gentry, HI","Hawaii Department of Education",8361,1 
+"15","15003","90270","62600","96701","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Ewa CCD","Pearl City CDP, HI","99999","Waimalu, HI","Hawaii Department of Education",7803,1 
+"15","15003","90270","62600","96782","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Ewa CCD","Pearl City CDP, HI","99999","Pearl City, HI","Hawaii Department of Education",39895,1 
+"15","15003","90270","68815","96797","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Royal Kunia CDP, HI","99999","Waipahu, HI","Hawaii Department of Education",14525,1 
+"15","15003","90270","76250","96797","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","Waikele CDP, HI","99999","Waipahu, HI","Hawaii Department of Education",7479,1 
+"15","15003","90270","77750","96701","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Waimalu CDP, HI","99999","Waimalu, HI","Hawaii Department of Education",13730,1 
+"15","15003","90270","79700","96797","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Ewa CCD","Waipahu CDP, HI","99999","Waipahu, HI","Hawaii Department of Education",38216,1 
+"15","15003","90270","79860","96797","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Ewa CCD","Waipio CDP, HI","99999","Waipahu, HI","Hawaii Department of Education",11674,1 
+"15","15003","90270","80000","96789","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","Waipio Acres CDP, HI","99999","Mililani Town, HI","Hawaii Department of Education",5236,1 
+"15","15003","90270","80470","96706","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Ewa CCD","West Loch Estate CDP, HI","99999","Ewa Gentry, HI","Hawaii Department of Education",5485,1 
+"15","15003","90270","99999","96701","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Waimalu, HI","Hawaii Department of Education",940,1 
+"15","15003","90270","99999","96706","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Ewa Gentry, HI","Hawaii Department of Education",1757,1 
+"15","15003","90270","99999","96707","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Makakilo, HI","Hawaii Department of Education",3536,1 
+"15","15003","90270","99999","96759","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Kunia, HI (PO Boxes)","Hawaii Department of Education",457,1 
+"15","15003","90270","99999","96782","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Pearl City, HI","Hawaii Department of Education",601,1 
+"15","15003","90270","99999","96789","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Mililani Town, HI","Hawaii Department of Education",26,1 
+"15","15003","90270","99999","96797","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Waipahu, HI","Hawaii Department of Education",395,1 
+"15","15003","90270","99999","96818","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Urban Honolulu, HI","Hawaii Department of Education",3790,1 
+"15","15003","90270","99999","96860","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Ewa CCD"," ","99999","Pearl Harbor, HI","Hawaii Department of Education",1124,1 
+"15","15003","90810","06290","96816","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Honolulu CCD","East Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",300,1 
+"15","15003","90810","06290","96821","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Honolulu CCD","East Honolulu CDP, HI","99999","East Honolulu, HI","Hawaii Department of Education",19351,1 
+"15","15003","90810","06290","96825","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Honolulu CCD","East Honolulu CDP, HI","99999","East Honolulu, HI","Hawaii Department of Education",30263,1 
+"15","15003","90810","10000","96818","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Honolulu CCD","Halawa CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",206,1 
+"15","15003","90810","14200","96818","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Honolulu CCD","Hickam Housing CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",2717,1 
+"15","15003","90810","14200","96853","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Honolulu CCD","Hickam Housing CDP, HI","99999","Hickam Housing, HI","Hawaii Department of Education",337,1 
+"15","15003","90810","71550","96813","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",22881,1 
+"15","15003","90810","71550","96814","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",18721,1 
+"15","15003","90810","71550","96815","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",31470,1 
+"15","15003","90810","71550","96816","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",49068,1 
+"15","15003","90810","71550","96817","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",54628,1 
+"15","15003","90810","71550","96818","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",34669,1 
+"15","15003","90810","71550","96819","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",49184,1 
+"15","15003","90810","71550","96821","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","East Honolulu, HI","Hawaii Department of Education",505,1 
+"15","15003","90810","71550","96822","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",45007,1 
+"15","15003","90810","71550","96826","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Urban Honolulu, HI","Hawaii Department of Education",30842,1 
+"15","15003","90810","71550","96853","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Hickam Housing, HI","Hawaii Department of Education",125,1 
+"15","15003","90810","71550","96859","99999","00030","250,000-999,999","250,000-999,999","HI","Honolulu HI","Honolulu CCD","Urban Honolulu CDP, HI","99999","Tripler Army Medical Center, HI","Hawaii Department of Education",156,1 
+"15","15003","90810","99999","96819","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Honolulu CCD"," ","99999","Urban Honolulu, HI","Hawaii Department of Education",308,1 
+"15","15003","91710","12400","96717","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolauloa CCD","Hauula CDP, HI","99999","Hauula, HI","Hawaii Department of Education",4058,1 
+"15","15003","91710","12400","96762","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolauloa CCD","Hauula CDP, HI","99999","Laie, HI","Hawaii Department of Education",90,1 
+"15","15003","91710","19550","96730","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Koolauloa CCD","Kaaawa CDP, HI","99999","Kaaawa, HI","Hawaii Department of Education",1379,1 
+"15","15003","91710","22250","96731","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolauloa CCD","Kahuku CDP, HI","99999","Kahuku, HI","Hawaii Department of Education",2614,1 
+"15","15003","91710","32700","96731","99999","00030","250,000-999,999","200-999","HI","Honolulu HI","Koolauloa CCD","Kawela Bay CDP, HI","99999","Kahuku, HI","Hawaii Department of Education",330,1 
+"15","15003","91710","43250","96762","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolauloa CCD","Laie CDP, HI","99999","Laie, HI","Hawaii Department of Education",6138,1 
+"15","15003","91710","66500","96717","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Koolauloa CCD","Punaluu CDP, HI","99999","Hauula, HI","Hawaii Department of Education",1164,1 
+"15","15003","91710","66800","96712","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolauloa CCD","Pupukea CDP, HI","99999","Pupukea, HI","Hawaii Department of Education",4551,1 
+"15","15003","91710","99999","96712","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolauloa CCD"," ","99999","Pupukea, HI","Hawaii Department of Education",133,1 
+"15","15003","91710","99999","96717","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolauloa CCD"," ","99999","Hauula, HI","Hawaii Department of Education",333,1 
+"15","15003","91710","99999","96730","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolauloa CCD"," ","99999","Kaaawa, HI","Hawaii Department of Education",77,1 
+"15","15003","91710","99999","96731","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolauloa CCD"," ","99999","Kahuku, HI","Hawaii Department of Education",348,1 
+"15","15003","91710","99999","96762","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolauloa CCD"," ","99999","Laie, HI","Hawaii Department of Education",191,1 
+"15","15003","91800","00400","96744","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolaupoko CCD","Ahuimanu CDP, HI","99999","Kaneohe, HI","Hawaii Department of Education",8810,1 
+"15","15003","91800","13900","96744","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolaupoko CCD","Heeia CDP, HI","99999","Kaneohe, HI","Hawaii Department of Education",4963,1 
+"15","15003","91800","21200","96744","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolaupoko CCD","Kahaluu CDP, HI","99999","Kaneohe, HI","Hawaii Department of Education",4738,1 
+"15","15003","91800","23150","96734","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Koolaupoko CCD","Kailua CDP, HI","99999","Kailua, HI","Hawaii Department of Education",38622,1 
+"15","15003","91800","23150","96795","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Koolaupoko CCD","Kailua CDP, HI","99999","Waimanalo, HI","Hawaii Department of Education",13,1 
+"15","15003","91800","28250","96744","99999","00030","250,000-999,999","25,000-99,999","HI","Honolulu HI","Koolaupoko CCD","Kaneohe CDP, HI","99999","Kaneohe, HI","Hawaii Department of Education",34597,1 
+"15","15003","91800","28400","96734","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolaupoko CCD","Kaneohe Station CDP, HI","99999","Kailua, HI","Hawaii Department of Education",9465,1 
+"15","15003","91800","28400","96863","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolaupoko CCD","Kaneohe Station CDP, HI","99999","M C B H Kaneohe Bay, HI","Hawaii Department of Education",52,1 
+"15","15003","91800","50750","96734","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Koolaupoko CCD","Maunawili CDP, HI","99999","Kailua, HI","Hawaii Department of Education",2040,1 
+"15","15003","91800","75800","96744","99999","00030","250,000-999,999","200-999","HI","Honolulu HI","Koolaupoko CCD","Waikane CDP, HI","99999","Kaneohe, HI","Hawaii Department of Education",778,1 
+"15","15003","91800","78050","96795","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolaupoko CCD","Waimanalo CDP, HI","99999","Waimanalo, HI","Hawaii Department of Education",5451,1 
+"15","15003","91800","78200","96795","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Koolaupoko CCD","Waimanalo Beach CDP, HI","99999","Waimanalo, HI","Hawaii Department of Education",4481,1 
+"15","15003","91800","99999","96730","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolaupoko CCD"," ","99999","Kaaawa, HI","Hawaii Department of Education",85,1 
+"15","15003","91800","99999","96734","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolaupoko CCD"," ","99999","Kailua, HI","Hawaii Department of Education",619,1 
+"15","15003","91800","99999","96744","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolaupoko CCD"," ","99999","Kaneohe, HI","Hawaii Department of Education",361,1 
+"15","15003","91800","99999","96795","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Koolaupoko CCD"," ","99999","Waimanalo, HI","Hawaii Department of Education",89,1 
+"15","15003","93420","69050","96786","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Wahiawa CCD","Schofield Barracks CDP, HI","99999","Wahiawa, HI","Hawaii Department of Education",13848,1 
+"15","15003","93420","69050","96857","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Wahiawa CCD","Schofield Barracks CDP, HI","99999","Schofield Barracks, HI","Hawaii Department of Education",2522,1 
+"15","15003","93420","72650","96786","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Wahiawa CCD","Wahiawa CDP, HI","99999","Wahiawa, HI","Hawaii Department of Education",17821,1 
+"15","15003","93420","80600","96786","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Wahiawa CCD","Wheeler AFB CDP, HI","99999","Wahiawa, HI","Hawaii Department of Education",1435,1 
+"15","15003","93420","80600","96789","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Wahiawa CCD","Wheeler AFB CDP, HI","99999","Mililani Town, HI","Hawaii Department of Education",199,1 
+"15","15003","93420","80900","96786","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Wahiawa CCD","Whitmore Village CDP, HI","99999","Wahiawa, HI","Hawaii Department of Education",4499,1 
+"15","15003","93420","99999","96786","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Wahiawa CCD"," ","99999","Wahiawa, HI","Hawaii Department of Education",892,1 
+"15","15003","93510","10750","96712","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Waialua CCD","Haleiwa CDP, HI","99999","Pupukea, HI","Hawaii Department of Education",2075,1 
+"15","15003","93510","10750","96791","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Waialua CCD","Haleiwa CDP, HI","99999","Waialua, HI","Hawaii Department of Education",1895,1 
+"15","15003","93510","52550","96791","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Waialua CCD","Mokuleia CDP, HI","99999","Waialua, HI","Hawaii Department of Education",1811,1 
+"15","15003","93510","74000","96791","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Waialua CCD","Waialua CDP, HI","99999","Waialua, HI","Hawaii Department of Education",3860,1 
+"15","15003","93510","99999","96712","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Waialua CCD"," ","99999","Pupukea, HI","Hawaii Department of Education",593,1 
+"15","15003","93510","99999","96786","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Waialua CCD"," ","99999","Wahiawa, HI","Hawaii Department of Education",2364,1 
+"15","15003","93510","99999","96791","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Waialua CCD"," ","99999","Waialua, HI","Hawaii Department of Education",448,1 
+"15","15003","93600","47300","96792","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Waianae CCD","Maili CDP, HI","99999","Waianae, HI","Hawaii Department of Education",9488,1 
+"15","15003","93600","47450","96792","99999","00030","250,000-999,999","2500-9999","HI","Honolulu HI","Waianae CCD","Makaha CDP, HI","99999","Waianae, HI","Hawaii Department of Education",8278,1 
+"15","15003","93600","47560","96792","99999","00030","250,000-999,999","1000-2499","HI","Honolulu HI","Waianae CCD","Makaha Valley CDP, HI","99999","Waianae, HI","Hawaii Department of Education",1341,1 
+"15","15003","93600","53900","96792","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Waianae CCD","Nanakuli CDP, HI","99999","Waianae, HI","Hawaii Department of Education",12666,1 
+"15","15003","93600","74450","96792","99999","00030","250,000-999,999","10,000-24,999","HI","Honolulu HI","Waianae CCD","Waianae CDP, HI","99999","Waianae, HI","Hawaii Department of Education",13177,1 
+"15","15003","93600","99999","96792","99999","00030","250,000-999,999","Not in a place","HI","Honolulu HI","Waianae CCD"," ","99999","Waianae, HI","Hawaii Department of Education",3569,1 
+"15","15005","90990","99999","96742","99999","00030","Less than 200","Not in a place","HI","Kalawao HI","Kalawao CCD"," ","99999","Kalaupapa, HI (PO Boxes)","Hawaii Department of Education",90,1 
+"15","15007","90180","07000","96705","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Eleele-Kalaheo CCD","Eleele CDP, HI","99999","Eleele, HI","Hawaii Department of Education",2295,1 
+"15","15007","90180","07000","96716","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Eleele-Kalaheo CCD","Eleele CDP, HI","99999","Hanapepe, HI","Hawaii Department of Education",95,1 
+"15","15007","90180","24950","96741","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Eleele-Kalaheo CCD","Kalaheo CDP, HI","99999","Kalaheo, HI","Hawaii Department of Education",4595,1 
+"15","15007","90180","44450","96741","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Eleele-Kalaheo CCD","Lawai CDP, HI","99999","Kalaheo, HI","Hawaii Department of Education",878,1 
+"15","15007","90180","44450","96765","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Eleele-Kalaheo CCD","Lawai CDP, HI","99999","Lawai, HI","Hawaii Department of Education",256,1 
+"15","15007","90180","57800","96756","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Eleele-Kalaheo CCD","Omao CDP, HI","99999","Koloa, HI","Hawaii Department of Education",6,1 
+"15","15007","90180","99999","96705","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Eleele-Kalaheo CCD"," ","99999","Eleele, HI","Hawaii Department of Education",24,1 
+"15","15007","90180","99999","96741","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Eleele-Kalaheo CCD"," ","99999","Kalaheo, HI","Hawaii Department of Education",230,1 
+"15","15007","90180","99999","96756","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Eleele-Kalaheo CCD"," ","99999","Koloa, HI","Hawaii Department of Education",24,1 
+"15","15007","90540","08950","96714","99999","00030","25,000-99,999","200-999","HI","Kauai HI","Hanalei CCD","Haena CDP, HI","99999","Hanalei, HI","Hawaii Department of Education",431,1 
+"15","15007","90540","11500","96714","99999","00030","25,000-99,999","200-999","HI","Kauai HI","Hanalei CCD","Hanalei CDP, HI","99999","Hanalei, HI","Hawaii Department of Education",450,1 
+"15","15007","90540","26750","96754","99999","00030","25,000-99,999","200-999","HI","Kauai HI","Hanalei CCD","Kalihiwai CDP, HI","99999","Kilauea, HI","Hawaii Department of Education",428,1 
+"15","15007","90540","36650","96754","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Hanalei CCD","Kilauea CDP, HI","99999","Kilauea, HI","Hawaii Department of Education",2803,1 
+"15","15007","90540","65075","96714","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Hanalei CCD","Princeville CDP, HI","99999","Hanalei, HI","Hawaii Department of Education",46,1 
+"15","15007","90540","65075","96722","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Hanalei CCD","Princeville CDP, HI","99999","Princeville, HI","Hawaii Department of Education",2112,1 
+"15","15007","90540","79250","96714","99999","00030","25,000-99,999","200-999","HI","Kauai HI","Hanalei CCD","Wainiha CDP, HI","99999","Hanalei, HI","Hawaii Department of Education",318,1 
+"15","15007","90540","99999","96714","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Hanalei CCD"," ","99999","Hanalei, HI","Hawaii Department of Education",145,1 
+"15","15007","90540","99999","96722","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Hanalei CCD"," ","99999","Princeville, HI","Hawaii Department of Education",372,1 
+"15","15007","90540","99999","96754","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Hanalei CCD"," ","99999","Kilauea, HI","Hawaii Department of Education",723,1 
+"15","15007","91080","28850","96746","99999","00030","25,000-99,999","10,000-24,999","HI","Kauai HI","Kapaa CCD","Kapaa CDP, HI","99999","Kapaa, HI","Hawaii Department of Education",8385,1 
+"15","15007","91260","11800","96716","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Kaumakani-Hanapepe CCD","Hanapepe CDP, HI","99999","Hanapepe, HI","Hawaii Department of Education",2638,1 
+"15","15007","91260","30650","96747","99999","00030","25,000-99,999","200-999","HI","Kauai HI","Kaumakani-Hanapepe CCD","Kaumakani CDP, HI","99999","Kaumakani, HI","Hawaii Department of Education",749,1 
+"15","15007","91260","60350","96769","99999","00030","25,000-99,999","200-999","HI","Kauai HI","Kaumakani-Hanapepe CCD","Pakala Village CDP, HI","99999","Pakala Village, HI","Hawaii Department of Education",294,1 
+"15","15007","91260","99999","96716","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Kaumakani-Hanapepe CCD"," ","99999","Hanapepe, HI","Hawaii Department of Education",90,1 
+"15","15007","91440","35600","96752","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Kekaha-Waimea CCD","Kekaha CDP, HI","99999","Kekaha, HI","Hawaii Department of Education",3537,1 
+"15","15007","91440","78800","96796","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Kekaha-Waimea CCD","Waimea CDP, HI","99999","Waimea, HI","Hawaii Department of Education",1855,1 
+"15","15007","91440","99999","96752","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Kekaha-Waimea CCD"," ","99999","Kekaha, HI","Hawaii Department of Education",143,1 
+"15","15007","91440","99999","96796","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Kekaha-Waimea CCD"," ","99999","Waimea, HI","Hawaii Department of Education",26,1 
+"15","15007","91620","39200","96756","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Koloa-Poipu CCD","Koloa CDP, HI","99999","Koloa, HI","Hawaii Department of Education",2144,1 
+"15","15007","91620","44450","96741","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Koloa-Poipu CCD","Lawai CDP, HI","99999","Kalaheo, HI","Hawaii Department of Education",226,1 
+"15","15007","91620","44450","96756","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Koloa-Poipu CCD","Lawai CDP, HI","99999","Koloa, HI","Hawaii Department of Education",706,1 
+"15","15007","91620","44450","96765","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Koloa-Poipu CCD","Lawai CDP, HI","99999","Lawai, HI","Hawaii Department of Education",297,1 
+"15","15007","91620","57800","96756","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Koloa-Poipu CCD","Omao CDP, HI","99999","Koloa, HI","Hawaii Department of Education",1295,1 
+"15","15007","91620","64550","96756","99999","00030","25,000-99,999","200-999","HI","Kauai HI","Koloa-Poipu CCD","Poipu CDP, HI","99999","Koloa, HI","Hawaii Department of Education",979,1 
+"15","15007","91620","99999","96756","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Koloa-Poipu CCD"," ","99999","Koloa, HI","Hawaii Department of Education",36,1 
+"15","15007","92160","45200","96766","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Lihue CCD","Lihue CDP, HI","99999","Lihue, HI","Hawaii Department of Education",5943,1 
+"15","15007","92340","99999","96769","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Niihau CCD"," ","99999","Pakala Village, HI","Hawaii Department of Education",170,1 
+"15","15007","92970","11650","96766","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Puhi-Hanamaulu CCD","Hanamaulu CDP, HI","99999","Lihue, HI","Hawaii Department of Education",3835,1 
+"15","15007","92970","45200","96766","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Puhi-Hanamaulu CCD","Lihue CDP, HI","99999","Lihue, HI","Hawaii Department of Education",512,1 
+"15","15007","92970","65750","96766","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Puhi-Hanamaulu CCD","Puhi CDP, HI","99999","Lihue, HI","Hawaii Department of Education",2906,1 
+"15","15007","92970","99999","96766","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Puhi-Hanamaulu CCD"," ","99999","Lihue, HI","Hawaii Department of Education",1487,1 
+"15","15007","93780","02200","96703","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Wailua-Anahola CCD","Anahola CDP, HI","99999","Anahola, HI","Hawaii Department of Education",2144,1 
+"15","15007","93780","02200","96746","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Wailua-Anahola CCD","Anahola CDP, HI","99999","Kapaa, HI","Hawaii Department of Education",79,1 
+"15","15007","93780","28850","96746","99999","00030","25,000-99,999","10,000-24,999","HI","Kauai HI","Wailua-Anahola CCD","Kapaa CDP, HI","99999","Kapaa, HI","Hawaii Department of Education",2314,1 
+"15","15007","93780","77000","96746","99999","00030","25,000-99,999","1000-2499","HI","Kauai HI","Wailua-Anahola CCD","Wailua CDP, HI","99999","Kapaa, HI","Hawaii Department of Education",2254,1 
+"15","15007","93780","77225","96746","99999","00030","25,000-99,999","2500-9999","HI","Kauai HI","Wailua-Anahola CCD","Wailua Homesteads CDP, HI","99999","Kapaa, HI","Hawaii Department of Education",5188,1 
+"15","15007","93780","99999","96703","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Wailua-Anahola CCD"," ","99999","Anahola, HI","Hawaii Department of Education",224,1 
+"15","15007","93780","99999","96746","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Wailua-Anahola CCD"," ","99999","Kapaa, HI","Hawaii Department of Education",99,1 
+"15","15007","93780","99999","96751","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Wailua-Anahola CCD"," ","99999","Kealia, HI (PO Boxes)","Hawaii Department of Education",175,1 
+"15","15007","93780","99999","96754","99999","00030","25,000-99,999","Not in a place","HI","Kauai HI","Wailua-Anahola CCD"," ","99999","Kilauea, HI","Hawaii Department of Education",130,1 
+"15","15009","90090","31100","96748","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","East Molokai CCD","Kaunakakai CDP, HI","99999","Kaunakakai, HI","Hawaii Department of Education",3425,1 
+"15","15009","90090","70700","96748","99999","00030","100,000-249,999","200-999","HI","Maui HI","East Molokai CCD","Ualapue CDP, HI","99999","Kaunakakai, HI","Hawaii Department of Education",425,1 
+"15","15009","90090","99999","96748","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","East Molokai CCD"," ","99999","Kaunakakai, HI","Hawaii Department of Education",653,1 
+"15","15009","90360","09260","96708","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Haiku-Pauwela CCD","Haiku-Pauwela CDP, HI","99999","Haiku-Pauwela, HI","Hawaii Department of Education",8029,1 
+"15","15009","90360","09260","96768","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Haiku-Pauwela CCD","Haiku-Pauwela CDP, HI","99999","Pukalani, HI","Hawaii Department of Education",89,1 
+"15","15009","90360","99999","96708","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Haiku-Pauwela CCD"," ","99999","Haiku-Pauwela, HI","Hawaii Department of Education",1921,1 
+"15","15009","90360","99999","96768","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Haiku-Pauwela CCD"," ","99999","Pukalani, HI","Hawaii Department of Education",49,1 
+"15","15009","90450","11350","96713","99999","00030","100,000-249,999","1000-2499","HI","Maui HI","Hana CCD","Hana CDP, HI","99999","Hana, HI","Hawaii Department of Education",1235,1 
+"15","15009","90450","99999","96708","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Hana CCD"," ","99999","Haiku-Pauwela, HI","Hawaii Department of Education",249,1 
+"15","15009","90450","99999","96713","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Hana CCD"," ","99999","Hana, HI","Hawaii Department of Education",755,1 
+"15","15009","90450","99999","96790","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Hana CCD"," ","99999","Kula, HI","Hawaii Department of Education",52,1 
+"15","15009","90900","22700","96732","99999","00030","100,000-249,999","25,000-99,999","HI","Maui HI","Kahului CCD","Kahului CDP, HI","99999","Kahului, HI","Hawaii Department of Education",24328,1 
+"15","15009","90900","22700","96793","99999","00030","100,000-249,999","25,000-99,999","HI","Maui HI","Kahului CCD","Kahului CDP, HI","99999","Wailuku, HI","Hawaii Department of Education",2000,1 
+"15","15009","91530","36500","96753","99999","00030","100,000-249,999","10,000-24,999","HI","Maui HI","Kihei CCD","Kihei CDP, HI","99999","Kihei, HI","Hawaii Department of Education",20881,1 
+"15","15009","91530","46400","96793","99999","00030","100,000-249,999","200-999","HI","Maui HI","Kihei CCD","Maalaea CDP, HI","99999","Wailuku, HI","Hawaii Department of Education",352,1 
+"15","15009","91530","76925","96753","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Kihei CCD","Wailea CDP, HI","99999","Kihei, HI","Hawaii Department of Education",2441,1 
+"15","15009","91530","99999","96753","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Kihei CCD"," ","99999","Kihei, HI","Hawaii Department of Education",3,1 
+"15","15009","91890","36050","96790","99999","00030","100,000-249,999","1000-2499","HI","Maui HI","Kula CCD","Keokea CDP, HI","99999","Kula, HI","Hawaii Department of Education",1612,1 
+"15","15009","91890","41600","96790","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Kula CCD","Kula CDP, HI","99999","Kula, HI","Hawaii Department of Education",6092,1 
+"15","15009","91890","48350","96753","99999","00030","100,000-249,999","Less than 200","HI","Maui HI","Kula CCD","Makena CDP, HI","99999","Kihei, HI","Hawaii Department of Education",70,1 
+"15","15009","91890","48350","96790","99999","00030","100,000-249,999","Less than 200","HI","Maui HI","Kula CCD","Makena CDP, HI","99999","Kula, HI","Hawaii Department of Education",29,1 
+"15","15009","91890","76925","96753","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Kula CCD","Wailea CDP, HI","99999","Kihei, HI","Hawaii Department of Education",3497,1 
+"15","15009","91890","99999","96790","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Kula CCD"," ","99999","Kula, HI","Hawaii Department of Education",280,1 
+"15","15009","91980","20000","96761","99999","00030","100,000-249,999","1000-2499","HI","Maui HI","Lahaina CCD","Kaanapali CDP, HI","99999","Lahaina, HI","Hawaii Department of Education",1045,1 
+"15","15009","91980","29725","96761","99999","00030","100,000-249,999","200-999","HI","Maui HI","Lahaina CCD","Kapalua CDP, HI","99999","Lahaina, HI","Hawaii Department of Education",353,1 
+"15","15009","91980","42950","96761","99999","00030","100,000-249,999","10,000-24,999","HI","Maui HI","Lahaina CCD","Lahaina CDP, HI","99999","Lahaina, HI","Hawaii Department of Education",11704,1 
+"15","15009","91980","44075","96761","99999","00030","100,000-249,999","200-999","HI","Maui HI","Lahaina CCD","Launiupoko CDP, HI","99999","Lahaina, HI","Hawaii Department of Education",588,1 
+"15","15009","91980","47050","96761","99999","00030","100,000-249,999","200-999","HI","Maui HI","Lahaina CCD","Mahinahina CDP, HI","99999","Lahaina, HI","Hawaii Department of Education",880,1 
+"15","15009","91980","54100","96761","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Lahaina CCD","Napili-Honokowai CDP, HI","99999","Lahaina, HI","Hawaii Department of Education",7261,1 
+"15","15009","91980","57650","96761","99999","00030","100,000-249,999","Less than 200","HI","Maui HI","Lahaina CCD","Olowalu CDP, HI","99999","Lahaina, HI","Hawaii Department of Education",80,1 
+"15","15009","91980","99999","96761","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Lahaina CCD"," ","99999","Lahaina, HI","Hawaii Department of Education",245,1 
+"15","15009","92070","43700","96763","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Lanai CCD","Lanai City CDP, HI","99999","Lanai City, HI","Hawaii Department of Education",3102,1 
+"15","15009","92070","49425","96763","99999","00030","100,000-249,999","Less than 200","HI","Maui HI","Lanai CCD","Manele CDP, HI","99999","Lanai City, HI","Hawaii Department of Education",29,1 
+"15","15009","92070","99999","96763","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Lanai CCD"," ","99999","Lanai City, HI","Hawaii Department of Education",4,1 
+"15","15009","92250","10900","96768","99999","00030","100,000-249,999","200-999","HI","Maui HI","Makawao-Paia CCD","Haliimaile CDP, HI","99999","Pukalani, HI","Hawaii Department of Education",964,1 
+"15","15009","92250","41600","96768","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Makawao-Paia CCD","Kula CDP, HI","99999","Pukalani, HI","Hawaii Department of Education",360,1 
+"15","15009","92250","48050","96768","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Makawao-Paia CCD","Makawao CDP, HI","99999","Pukalani, HI","Hawaii Department of Education",7184,1 
+"15","15009","92250","57350","96768","99999","00030","100,000-249,999","1000-2499","HI","Maui HI","Makawao-Paia CCD","Olinda CDP, HI","99999","Pukalani, HI","Hawaii Department of Education",1084,1 
+"15","15009","92250","60200","96779","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Makawao-Paia CCD","Paia CDP, HI","99999","Paia, HI","Hawaii Department of Education",2668,1 
+"15","15009","92250","65900","96768","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Makawao-Paia CCD","Pukalani CDP, HI","99999","Pukalani, HI","Hawaii Department of Education",7574,1 
+"15","15009","92250","99999","96708","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Makawao-Paia CCD"," ","99999","Haiku-Pauwela, HI","Hawaii Department of Education",21,1 
+"15","15009","92250","99999","96768","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Makawao-Paia CCD"," ","99999","Pukalani, HI","Hawaii Department of Education",364,1 
+"15","15009","93060","22700","96732","99999","00030","100,000-249,999","25,000-99,999","HI","Maui HI","Puunene CCD","Kahului CDP, HI","99999","Kahului, HI","Hawaii Department of Education",8,1 
+"15","15009","93330","22700","96732","99999","00030","100,000-249,999","25,000-99,999","HI","Maui HI","Spreckelsville CCD","Kahului CDP, HI","99999","Kahului, HI","Hawaii Department of Education",1,1 
+"15","15009","93330","99999","96732","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Spreckelsville CCD"," ","99999","Kahului, HI","Hawaii Department of Education",40,1 
+"15","15009","93330","99999","96779","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Spreckelsville CCD"," ","99999","Paia, HI","Hawaii Department of Education",420,1 
+"15","15009","93690","75510","96793","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Waihee-Waikapu CCD","Waihee-Waiehu CDP, HI","99999","Wailuku, HI","Hawaii Department of Education",2851,1 
+"15","15009","93690","75950","96793","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Waihee-Waikapu CCD","Waikapu CDP, HI","99999","Wailuku, HI","Hawaii Department of Education",2965,1 
+"15","15009","93690","77450","96793","99999","00030","100,000-249,999","10,000-24,999","HI","Maui HI","Waihee-Waikapu CCD","Wailuku CDP, HI","99999","Wailuku, HI","Hawaii Department of Education",594,1 
+"15","15009","93690","99999","96793","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Waihee-Waikapu CCD"," ","99999","Wailuku, HI","Hawaii Department of Education",497,1 
+"15","15009","93870","75510","96793","99999","00030","100,000-249,999","2500-9999","HI","Maui HI","Wailuku CCD","Waihee-Waiehu CDP, HI","99999","Wailuku, HI","Hawaii Department of Education",5990,1 
+"15","15009","93870","77450","96732","99999","00030","100,000-249,999","10,000-24,999","HI","Maui HI","Wailuku CCD","Wailuku CDP, HI","99999","Kahului, HI","Hawaii Department of Education",439,1 
+"15","15009","93870","77450","96793","99999","00030","100,000-249,999","10,000-24,999","HI","Maui HI","Wailuku CCD","Wailuku CDP, HI","99999","Wailuku, HI","Hawaii Department of Education",14280,1 
+"15","15009","93870","99999","96793","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","Wailuku CCD"," ","99999","Wailuku, HI","Hawaii Department of Education",20,1 
+"15","15009","93960","39500","96729","99999","00030","100,000-249,999","1000-2499","HI","Maui HI","West Molokai CCD","Kualapuu CDP, HI","99999","Kualapuu, HI","Hawaii Department of Education",1272,1 
+"15","15009","93960","39500","96757","99999","00030","100,000-249,999","1000-2499","HI","Maui HI","West Molokai CCD","Kualapuu CDP, HI","99999","Kualapuu, HI","Hawaii Department of Education",755,1 
+"15","15009","93960","50150","96770","99999","00030","100,000-249,999","200-999","HI","Maui HI","West Molokai CCD","Maunaloa CDP, HI","99999","Maunaloa, HI","Hawaii Department of Education",376,1 
+"15","15009","93960","99999","96729","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","West Molokai CCD"," ","99999","Kualapuu, HI","Hawaii Department of Education",31,1 
+"15","15009","93960","99999","96757","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","West Molokai CCD"," ","99999","Kualapuu, HI","Hawaii Department of Education",3,1 
+"15","15009","93960","99999","96770","99999","00030","100,000-249,999","Not in a place","HI","Maui HI","West Molokai CCD"," ","99999","Maunaloa, HI","Hawaii Department of Education",315,1 

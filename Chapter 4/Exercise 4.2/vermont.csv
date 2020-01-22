@@ -1,0 +1,693 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"50","50001","00325","99999","05491","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Addison town"," ","99999","Vergennes, VT","50",1364,1 
+"50","50001","00325","99999","05734","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Addison town"," ","99999","Bridport, VT","50",7,1 
+"50","50001","08575","99999","05491","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Bridport town"," ","99999","Vergennes, VT","50",5,1 
+"50","50001","08575","99999","05734","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Bridport town"," ","99999","Bridport, VT","50",1213,1 
+"50","50001","09025","08950","05443","99999"," ","25,000-99,999","1000-2499","VT","Addison VT","Bristol town","Bristol CDP, VT","99999","Bristol, VT","50",2030,1 
+"50","50001","09025","99999","05443","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Bristol town"," ","99999","Bristol, VT","50",1860,1 
+"50","50001","09025","99999","05487","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Bristol town"," ","99999","Starksboro, VT","50",4,1 
+"50","50001","16000","99999","05734","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Cornwall town"," ","99999","Bridport, VT","50",5,1 
+"50","50001","16000","99999","05753","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Cornwall town"," ","99999","Middlebury, VT","50",1155,1 
+"50","50001","16000","99999","05778","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Cornwall town"," ","99999","Whiting, VT","50",25,1 
+"50","50001","26300","99999","05456","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Ferrisburgh town"," ","99999","Ferrisburgh, VT","50",1277,1 
+"50","50001","26300","99999","05472","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Ferrisburgh town"," ","99999","New Haven, VT","50",8,1 
+"50","50001","26300","99999","05473","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Ferrisburgh town"," ","99999","North Ferrisburgh, VT","50",785,1 
+"50","50001","26300","99999","05491","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Ferrisburgh town"," ","99999","Vergennes, VT","50",705,1 
+"50","50001","28600","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Goshen town"," ","99999","Brandon, VT","50",164,1 
+"50","50001","29575","99999","05669","99999","04320","25,000-99,999","Not in a place","VT","Addison VT","Granville town"," ","99999","Roxbury, VT","Granville School District",18,1 
+"50","50001","29575","99999","05747","99999","04320","25,000-99,999","Not in a place","VT","Addison VT","Granville town"," ","99999","Granville, VT","Granville School District",280,1 
+"50","50001","31525","99999","05748","99999","04530","25,000-99,999","Not in a place","VT","Addison VT","Hancock town"," ","99999","Hancock, VT","Hancock School District",323,1 
+"50","50001","39325","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Leicester town"," ","99999","Brandon, VT","50",908,1 
+"50","50001","39325","99999","05769","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Leicester town"," ","99999","Salisbury, VT","50",82,1 
+"50","50001","39325","99999","05778","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Leicester town"," ","99999","Whiting, VT","50",110,1 
+"50","50001","40075","99999","05443","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Lincoln town"," ","99999","Bristol, VT","50",1271,1 
+"50","50001","44350","21700","05740","99999"," ","25,000-99,999","200-999","VT","Addison VT","Middlebury town","East Middlebury CDP, VT","99999","East Middlebury, VT","50",25,1 
+"50","50001","44350","21700","05753","99999"," ","25,000-99,999","200-999","VT","Addison VT","Middlebury town","East Middlebury CDP, VT","99999","Middlebury, VT","50",400,1 
+"50","50001","44350","44275","05753","99999"," ","25,000-99,999","2500-9999","VT","Addison VT","Middlebury town","Middlebury CDP, VT","99999","Middlebury, VT","50",6588,1 
+"50","50001","44350","99999","05753","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Middlebury town"," ","99999","Middlebury, VT","50",1483,1 
+"50","50001","45550","99999","05443","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Monkton town"," ","99999","Bristol, VT","50",1143,1 
+"50","50001","45550","99999","05461","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Monkton town"," ","99999","Hinesburg, VT","50",146,1 
+"50","50001","45550","99999","05472","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Monkton town"," ","99999","New Haven, VT","50",63,1 
+"50","50001","45550","99999","05473","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Monkton town"," ","99999","North Ferrisburgh, VT","50",628,1 
+"50","50001","48700","99999","05443","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","New Haven town"," ","99999","Bristol, VT","50",39,1 
+"50","50001","48700","99999","05472","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","New Haven town"," ","99999","New Haven, VT","50",1572,1 
+"50","50001","48700","99999","05491","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","New Haven town"," ","99999","Vergennes, VT","50",81,1 
+"50","50001","48700","99999","05753","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","New Haven town"," ","99999","Middlebury, VT","50",35,1 
+"50","50001","53725","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Orwell town"," ","99999","Brandon, VT","50",93,1 
+"50","50001","53725","99999","05760","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Orwell town"," ","99999","Orwell, VT","50",1079,1 
+"50","50001","53725","99999","05770","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Orwell town"," ","99999","Shoreham, VT","50",78,1 
+"50","50001","53950","99999","05491","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Panton town"," ","99999","Vergennes, VT","50",677,1 
+"50","50001","59650","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Ripton town"," ","99999","Brandon, VT","50",16,1 
+"50","50001","59650","99999","05766","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Ripton town"," ","99999","Ripton, VT (PO Boxes)","50",572,1 
+"50","50001","62575","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Salisbury town"," ","99999","Brandon, VT","50",2,1 
+"50","50001","62575","99999","05769","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Salisbury town"," ","99999","Salisbury, VT","50",1134,1 
+"50","50001","65050","99999","05734","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Shoreham town"," ","99999","Bridport, VT","50",81,1 
+"50","50001","65050","99999","05770","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Shoreham town"," ","99999","Shoreham, VT","50",1058,1 
+"50","50001","65050","99999","05778","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Shoreham town"," ","99999","Whiting, VT","50",126,1 
+"50","50001","70075","99999","05443","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Starksboro town"," ","99999","Bristol, VT","50",313,1 
+"50","50001","70075","99999","05487","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Starksboro town"," ","99999","Starksboro, VT","50",1464,1 
+"50","50001","74650","74650","05491","99999"," ","25,000-99,999","2500-9999","VT","Addison VT","Vergennes city","Vergennes city, VT","99999","Vergennes, VT","50",2588,1 
+"50","50001","76075","99999","05491","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Waltham town"," ","99999","Vergennes, VT","50",486,1 
+"50","50001","83275","99999","05491","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Weybridge town"," ","99999","Vergennes, VT","50",3,1 
+"50","50001","83275","99999","05753","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Weybridge town"," ","99999","Middlebury, VT","50",830,1 
+"50","50001","83800","99999","05778","99999"," ","25,000-99,999","Not in a place","VT","Addison VT","Whiting town"," ","99999","Whiting, VT","50",419,1 
+"50","50003","01450","01375","05250","99999","01830","25,000-99,999","1000-2499","VT","Bennington VT","Arlington town","Arlington CDP, VT","99999","Arlington, VT","Arlington School District",1072,1 
+"50","50003","01450","99999","05250","99999","01830","25,000-99,999","Not in a place","VT","Bennington VT","Arlington town"," ","99999","Arlington, VT","Arlington School District",1245,1 
+"50","50003","04825","04750","05201","99999"," ","25,000-99,999","2500-9999","VT","Bennington VT","Bennington town","Bennington CDP, VT","99999","Bennington, VT","50",9074,1 
+"50","50003","04825","49075","05257","99999"," ","25,000-99,999","1000-2499","VT","Bennington VT","Bennington town","North Bennington village, VT","99999","North Bennington, VT","50",1643,1 
+"50","50003","04825","53125","05201","99999"," ","25,000-99,999","Less than 200","VT","Bennington VT","Bennington town","Old Bennington village, VT","99999","Bennington, VT","50",139,1 
+"50","50003","04825","99999","05201","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Bennington town"," ","99999","Bennington, VT","50",4711,1 
+"50","50003","04825","99999","05257","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Bennington town"," ","99999","North Bennington, VT","50",197,1 
+"50","50003","17725","17650","05251","99999"," ","25,000-99,999","200-999","VT","Bennington VT","Dorset town","Dorset CDP, VT","99999","Dorset, VT","50",249,1 
+"50","50003","17725","99999","05251","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Dorset town"," ","99999","Dorset, VT","50",1101,1 
+"50","50003","17725","99999","05253","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Dorset town"," ","99999","East Dorset, VT","50",674,1 
+"50","50003","17725","99999","05255","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Dorset town"," ","99999","Manchester Center, VT","50",7,1 
+"50","50003","27962","99999","05262","99999","00013","25,000-99,999","Not in a place","VT","Bennington VT","Glastenbury town"," ","99999","Shaftsbury, VT","Glastenbury School District",8,1 
+"50","50003","39025","99999","05148","99999","08230","25,000-99,999","Not in a place","VT","Bennington VT","Landgrove town"," ","99999","Londonderry, VT","Flood Brook Union School District 20",85,1 
+"50","50003","39025","99999","05152","99999","08230","25,000-99,999","Not in a place","VT","Bennington VT","Landgrove town"," ","99999","Peru, VT","Flood Brook Union School District 20",73,1 
+"50","50003","42850","42700","05254","99999"," ","25,000-99,999","200-999","VT","Bennington VT","Manchester town","Manchester village, VT","99999","Manchester, VT","50",273,1 
+"50","50003","42850","42700","05255","99999"," ","25,000-99,999","200-999","VT","Bennington VT","Manchester town","Manchester village, VT","99999","Manchester Center, VT","50",476,1 
+"50","50003","42850","42925","05255","99999"," ","25,000-99,999","1000-2499","VT","Bennington VT","Manchester town","Manchester Center CDP, VT","99999","Manchester Center, VT","50",2120,1 
+"50","50003","42850","99999","05250","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Manchester town"," ","99999","Arlington, VT","50",4,1 
+"50","50003","42850","99999","05255","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Manchester town"," ","99999","Manchester Center, VT","50",1518,1 
+"50","50003","55000","99999","05152","99999","08230","25,000-99,999","Not in a place","VT","Bennington VT","Peru town"," ","99999","Peru, VT","Flood Brook Union School District 20",375,1 
+"50","50003","57025","99999","05201","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Pownal town"," ","99999","Bennington, VT","50",330,1 
+"50","50003","57025","99999","05260","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Pownal town"," ","99999","North Pownal, VT","50",459,1 
+"50","50003","57025","99999","05261","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Pownal town"," ","99999","Pownal, VT","50",2738,1 
+"50","50003","58600","58525","05350","99999","06780","25,000-99,999","200-999","VT","Bennington VT","Readsboro town","Readsboro CDP, VT","99999","Readsboro, VT","Readsboro School District",321,1 
+"50","50003","58600","99999","05350","99999","06780","25,000-99,999","Not in a place","VT","Bennington VT","Readsboro town"," ","99999","Readsboro, VT","Readsboro School District",442,1 
+"50","50003","61000","99999","05776","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Rupert town"," ","99999","West Rupert, VT","50",714,1 
+"50","50003","62875","99999","05250","99999","07170","25,000-99,999","Not in a place","VT","Bennington VT","Sandgate town"," ","99999","Arlington, VT","Sandgate School District",405,1 
+"50","50003","63175","99999","05363","99999","07200","25,000-99,999","Not in a place","VT","Bennington VT","Searsburg town"," ","99999","Wilmington, VT","Searsburg School District",109,1 
+"50","50003","63550","68200","05201","99999"," ","25,000-99,999","200-999","VT","Bennington VT","Shaftsbury town","South Shaftsbury CDP, VT","99999","Bennington, VT","50",10,1 
+"50","50003","63550","68200","05262","99999"," ","25,000-99,999","200-999","VT","Bennington VT","Shaftsbury town","South Shaftsbury CDP, VT","99999","Shaftsbury, VT","50",673,1 
+"50","50003","63550","99999","05201","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Shaftsbury town"," ","99999","Bennington, VT","50",163,1 
+"50","50003","63550","99999","05257","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Shaftsbury town"," ","99999","North Bennington, VT","50",878,1 
+"50","50003","63550","99999","05262","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Shaftsbury town"," ","99999","Shaftsbury, VT","50",1866,1 
+"50","50003","69775","99999","05352","99999","07680","25,000-99,999","Not in a place","VT","Bennington VT","Stamford town"," ","99999","Stamford, VT","Stamford School District",824,1 
+"50","50003","71425","01375","05250","99999"," ","25,000-99,999","1000-2499","VT","Bennington VT","Sunderland town","Arlington CDP, VT","99999","Arlington, VT","50",51,1 
+"50","50003","71425","01375","05252","99999"," ","25,000-99,999","1000-2499","VT","Bennington VT","Sunderland town","Arlington CDP, VT","99999","East Arlington, VT","50",90,1 
+"50","50003","71425","99999","05250","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Sunderland town"," ","99999","Arlington, VT","50",631,1 
+"50","50003","71425","99999","05252","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Sunderland town"," ","99999","East Arlington, VT","50",184,1 
+"50","50003","85075","99999","05155","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Winhall town"," ","99999","South Londonderry, VT","50",6,1 
+"50","50003","85075","99999","05340","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Winhall town"," ","99999","Bondville, VT","50",763,1 
+"50","50003","85675","99999","05201","99999"," ","25,000-99,999","Not in a place","VT","Bennington VT","Woodford town"," ","99999","Bennington, VT","50",424,1 
+"50","50005","02875","02800","05821","99999"," ","25,000-99,999","Less than 200","VT","Caledonia VT","Barnet town","Barnet CDP, VT","99999","Barnet, VT","50",129,1 
+"50","50005","02875","99999","05042","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Barnet town"," ","99999","East Ryegate, VT","50",7,1 
+"50","50005","02875","99999","05046","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Barnet town"," ","99999","Groton, VT","50",50,1 
+"50","50005","02875","99999","05050","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Barnet town"," ","99999","Mc Indoe Falls, VT (PO Boxes)","50",146,1 
+"50","50005","02875","99999","05819","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Barnet town"," ","99999","St. Johnsbury, VT","50",527,1 
+"50","50005","02875","99999","05821","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Barnet town"," ","99999","Barnet, VT","50",849,1 
+"50","50005","10450","19600","05832","99999"," ","25,000-99,999","Less than 200","VT","Caledonia VT","Burke town","East Burke CDP, VT","99999","East Burke, VT","50",132,1 
+"50","50005","10450","79150","05871","99999"," ","25,000-99,999","200-999","VT","Caledonia VT","Burke town","West Burke village, VT","99999","West Burke, VT","50",343,1 
+"50","50005","10450","99999","05832","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Burke town"," ","99999","East Burke, VT","50",605,1 
+"50","50005","10450","99999","05851","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Burke town"," ","99999","Lyndonville, VT","50",26,1 
+"50","50005","10450","99999","05871","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Burke town"," ","99999","West Burke, VT","50",647,1 
+"50","50005","17125","17050","05828","99999","03450","25,000-99,999","200-999","VT","Caledonia VT","Danville town","Danville CDP, VT","99999","Danville, VT","Danville School District",383,1 
+"50","50005","17125","99999","05819","99999","03450","25,000-99,999","Not in a place","VT","Caledonia VT","Danville town"," ","99999","St. Johnsbury, VT","Danville School District",34,1 
+"50","50005","17125","99999","05821","99999","03450","25,000-99,999","Not in a place","VT","Caledonia VT","Danville town"," ","99999","Barnet, VT","Danville School District",24,1 
+"50","50005","17125","99999","05828","99999","03450","25,000-99,999","Not in a place","VT","Caledonia VT","Danville town"," ","99999","Danville, VT","Danville School District",1535,1 
+"50","50005","17125","99999","05873","99999","03450","25,000-99,999","Not in a place","VT","Caledonia VT","Danville town"," ","99999","West Danville, VT","Danville School District",220,1 
+"50","50005","30550","30475","05046","99999","08224","25,000-99,999","200-999","VT","Caledonia VT","Groton town","Groton CDP, VT","99999","Groton, VT","Blue Mountain Union School District 21",437,1 
+"50","50005","30550","99999","05046","99999","08224","25,000-99,999","Not in a place","VT","Caledonia VT","Groton town"," ","99999","Groton, VT","Blue Mountain Union School District 21",585,1 
+"50","50005","31825","31750","05843","99999"," ","25,000-99,999","1000-2499","VT","Caledonia VT","Hardwick town","Hardwick CDP, VT","99999","Hardwick, VT","50",1345,1 
+"50","50005","31825","99999","05836","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Hardwick town"," ","99999","East Hardwick, VT","50",674,1 
+"50","50005","31825","99999","05842","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Hardwick town"," ","99999","Greensboro Bend, VT","50",16,1 
+"50","50005","31825","99999","05843","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Hardwick town"," ","99999","Hardwick, VT","50",975,1 
+"50","50005","37900","99999","05824","99999","05040","25,000-99,999","Not in a place","VT","Caledonia VT","Kirby town"," ","99999","Concord, VT","Kirby School District",268,1 
+"50","50005","37900","99999","05832","99999","05040","25,000-99,999","Not in a place","VT","Caledonia VT","Kirby town"," ","99999","East Burke, VT","Kirby School District",122,1 
+"50","50005","37900","99999","05851","99999","05040","25,000-99,999","Not in a place","VT","Caledonia VT","Kirby town"," ","99999","Lyndonville, VT","Kirby School District",103,1 
+"50","50005","41725","41950","05851","99999"," ","25,000-99,999","1000-2499","VT","Caledonia VT","Lyndon town","Lyndonville village, VT","99999","Lyndonville, VT","50",1207,1 
+"50","50005","41725","99999","05832","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Lyndon town"," ","99999","East Burke, VT","50",123,1 
+"50","50005","41725","99999","05850","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Lyndon town"," ","99999","Lyndon Center, VT","50",231,1 
+"50","50005","41725","99999","05851","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Lyndon town"," ","99999","Lyndonville, VT","50",4420,1 
+"50","50005","47725","99999","05837","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Newark town"," ","99999","East Haven, VT","50",63,1 
+"50","50005","47725","99999","05871","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Newark town"," ","99999","West Burke, VT","50",518,1 
+"50","50005","54400","99999","05046","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Peacham town"," ","99999","Groton, VT","50",5,1 
+"50","50005","54400","99999","05821","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Peacham town"," ","99999","Barnet, VT","50",267,1 
+"50","50005","54400","99999","05862","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Peacham town"," ","99999","Peacham, VT","50",356,1 
+"50","50005","54400","99999","05873","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Peacham town"," ","99999","West Danville, VT","50",104,1 
+"50","50005","61525","99999","05042","99999","08224","25,000-99,999","Not in a place","VT","Caledonia VT","Ryegate town"," ","99999","East Ryegate, VT","Blue Mountain Union School District 21",598,1 
+"50","50005","61525","99999","05046","99999","08224","25,000-99,999","Not in a place","VT","Caledonia VT","Ryegate town"," ","99999","Groton, VT","Blue Mountain Union School District 21",62,1 
+"50","50005","61525","99999","05069","99999","08224","25,000-99,999","Not in a place","VT","Caledonia VT","Ryegate town"," ","99999","South Ryegate, VT","Blue Mountain Union School District 21",514,1 
+"50","50005","62200","62125","05819","99999"," ","25,000-99,999","2500-9999","VT","Caledonia VT","St. Johnsbury town","St. Johnsbury CDP, VT","99999","St. Johnsbury, VT","50",6193,1 
+"50","50005","62200","99999","05819","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","St. Johnsbury town"," ","99999","St. Johnsbury, VT","50",1410,1 
+"50","50005","64075","99999","05866","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Sheffield town"," ","99999","Sheffield, VT","50",703,1 
+"50","50005","69925","99999","05836","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Stannard town"," ","99999","East Hardwick, VT","50",35,1 
+"50","50005","69925","99999","05842","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Stannard town"," ","99999","Greensboro Bend, VT","50",181,1 
+"50","50005","71575","99999","05867","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Sutton town"," ","99999","Sutton, VT","50",899,1 
+"50","50005","71575","99999","05871","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Sutton town"," ","99999","West Burke, VT","50",130,1 
+"50","50005","75700","99999","05836","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Walden town"," ","99999","East Hardwick, VT","50",359,1 
+"50","50005","75700","99999","05842","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Walden town"," ","99999","Greensboro Bend, VT","50",5,1 
+"50","50005","75700","99999","05843","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Walden town"," ","99999","Hardwick, VT","50",220,1 
+"50","50005","75700","99999","05873","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Walden town"," ","99999","West Danville, VT","50",351,1 
+"50","50005","77125","99999","05819","99999","08640","25,000-99,999","Not in a place","VT","Caledonia VT","Waterford town"," ","99999","St. Johnsbury, VT","Waterford School District",1280,1 
+"50","50005","83500","99999","05828","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Wheelock town"," ","99999","Danville, VT","50",10,1 
+"50","50005","83500","99999","05851","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Wheelock town"," ","99999","Lyndonville, VT","50",772,1 
+"50","50005","83500","99999","05866","99999"," ","25,000-99,999","Not in a place","VT","Caledonia VT","Wheelock town"," ","99999","Sheffield, VT","50",29,1 
+"50","50007","06550","99999","05465","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Bolton town"," ","99999","Jericho, VT","50",378,1 
+"50","50007","06550","99999","05477","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Bolton town"," ","99999","Richmond, VT","50",316,1 
+"50","50007","06550","99999","05676","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Bolton town"," ","99999","Waterbury, VT","50",488,1 
+"50","50007","10300","99999","05487","99999","00011","100,000-249,999","Not in a place","VT","Chittenden VT","Buels gore"," ","99999","Starksboro, VT","Buels Gore School District",30,1 
+"50","50007","10675","10675","05401","99999","02820","100,000-249,999","25,000-99,999","VT","Chittenden VT","Burlington city","Burlington city, VT","99999","Burlington, VT","Burlington School District",27897,1 
+"50","50007","10675","10675","05405","99999","02820","100,000-249,999","25,000-99,999","VT","Chittenden VT","Burlington city","Burlington city, VT","99999","Burlington, VT","Burlington School District",4406,1 
+"50","50007","10675","10675","05408","99999","02820","100,000-249,999","25,000-99,999","VT","Chittenden VT","Burlington city","Burlington city, VT","99999","Burlington, VT","Burlington School District",10114,1 
+"50","50007","13300","99999","05445","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Charlotte town"," ","99999","Charlotte, VT","50",3754,1 
+"50","50007","14875","99999","05439","99999","03240","100,000-249,999","Not in a place","VT","Chittenden VT","Colchester town"," ","99999","St Michaels College, Colchester, VT","Colchester School District",1734,1 
+"50","50007","14875","99999","05446","99999","03240","100,000-249,999","Not in a place","VT","Chittenden VT","Colchester town"," ","99999","Colchester, VT","Colchester School District",15333,1 
+"50","50007","24175","24400","05452","99999"," ","100,000-249,999","2500-9999","VT","Chittenden VT","Essex town","Essex Junction village, VT","99999","Essex Junction, VT","50",9271,1 
+"50","50007","24175","99999","05446","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Essex town"," ","99999","Colchester, VT","50",13,1 
+"50","50007","24175","99999","05452","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Essex town"," ","99999","Essex Junction, VT","50",10303,1 
+"50","50007","33475","33550","05461","99999"," ","100,000-249,999","200-999","VT","Chittenden VT","Hinesburg town","Hinesburg CDP, VT","99999","Hinesburg, VT","50",658,1 
+"50","50007","33475","99999","05461","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Hinesburg town"," ","99999","Hinesburg, VT","50",3738,1 
+"50","50007","34600","99999","05462","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Huntington town"," ","99999","Huntington, VT","50",1938,1 
+"50","50007","36700","36625","05465","99999"," ","100,000-249,999","1000-2499","VT","Chittenden VT","Jericho town","Jericho village, VT","99999","Jericho, VT","50",1329,1 
+"50","50007","36700","99999","05465","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Jericho town"," ","99999","Jericho, VT","50",3648,1 
+"50","50007","36700","99999","05489","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Jericho town"," ","99999","Underhill, VT","50",32,1 
+"50","50007","45250","45175","05468","99999","05610","100,000-249,999","1000-2499","VT","Chittenden VT","Milton town","Milton CDP, VT","99999","Milton, VT","Milton School District",1861,1 
+"50","50007","45250","99999","05468","99999","05610","100,000-249,999","Not in a place","VT","Chittenden VT","Milton town"," ","99999","Milton, VT","Milton School District",8491,1 
+"50","50007","59275","59200","05477","99999"," ","100,000-249,999","200-999","VT","Chittenden VT","Richmond town","Richmond CDP, VT","99999","Richmond, VT","50",723,1 
+"50","50007","59275","99999","05477","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Richmond town"," ","99999","Richmond, VT","50",3358,1 
+"50","50007","62050","99999","05482","99999","07620","100,000-249,999","Not in a place","VT","Chittenden VT","St. George town"," ","99999","Shelburne, VT","St. George School District",31,1 
+"50","50007","62050","99999","05495","99999","07620","100,000-249,999","Not in a place","VT","Chittenden VT","St. George town"," ","99999","Williston, VT","St. George School District",643,1 
+"50","50007","64300","64225","05482","99999"," ","100,000-249,999","200-999","VT","Chittenden VT","Shelburne town","Shelburne CDP, VT","99999","Shelburne, VT","50",592,1 
+"50","50007","64300","99999","05482","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Shelburne town"," ","99999","Shelburne, VT","50",6552,1 
+"50","50007","66175","66175","05401","99999","07470","100,000-249,999","10,000-24,999","VT","Chittenden VT","South Burlington city","South Burlington city, VT","99999","Burlington, VT","South Burlington School District",288,1 
+"50","50007","66175","66175","05403","99999","07470","100,000-249,999","10,000-24,999","VT","Chittenden VT","South Burlington city","South Burlington city, VT","99999","South Burlington, VT","South Burlington School District",17593,1 
+"50","50007","66175","66175","05482","99999","07470","100,000-249,999","10,000-24,999","VT","Chittenden VT","South Burlington city","South Burlington city, VT","99999","Shelburne, VT","South Burlington School District",23,1 
+"50","50007","73975","99999","05489","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Underhill town"," ","99999","Underhill, VT","50",3016,1 
+"50","50007","80350","99999","05452","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Westford town"," ","99999","Essex Junction, VT","50",136,1 
+"50","50007","80350","99999","05489","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Westford town"," ","99999","Underhill, VT","50",126,1 
+"50","50007","80350","99999","05494","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Westford town"," ","99999","Westford, VT","50",1767,1 
+"50","50007","84475","99999","05495","99999"," ","100,000-249,999","Not in a place","VT","Chittenden VT","Williston town"," ","99999","Williston, VT","50",8698,1 
+"50","50007","85150","85150","05404","99999","09360","100,000-249,999","2500-9999","VT","Chittenden VT","Winooski city","Winooski city, VT","99999","Winooski, VT","Winooski Incorporated School District",7240,1 
+"50","50007","85150","85150","05446","99999","09360","100,000-249,999","2500-9999","VT","Chittenden VT","Winooski city","Winooski city, VT","99999","Colchester, VT","Winooski Incorporated School District",27,1 
+"50","50009","02125","99999","05901","99999","00015","2500-9999","Not in a place","VT","Essex VT","Averill town"," ","99999","Averill, VT","Averill School District",20,1 
+"50","50009","02125","99999","05907","99999","00015","2500-9999","Not in a place","VT","Essex VT","Averill town"," ","99999","Norton, VT","Averill School District",4,1 
+"50","50009","06325","99999","05905","99999","02280","2500-9999","Not in a place","VT","Essex VT","Bloomfield town"," ","99999","Guildhall, VT","Bloomfield School District",221,1 
+"50","50009","08725","35725","05846","99999"," ","2500-9999","200-999","VT","Essex VT","Brighton town","Island Pond CDP, VT","99999","Island Pond, VT","50",821,1 
+"50","50009","08725","99999","05846","99999"," ","2500-9999","Not in a place","VT","Essex VT","Brighton town"," ","99999","Island Pond, VT","50",401,1 
+"50","50009","10075","99999","05905","99999","02760","2500-9999","Not in a place","VT","Essex VT","Brunswick town"," ","99999","Guildhall, VT","Brunswick School District",112,1 
+"50","50009","11800","04150","05902","99999","02940","2500-9999","Less than 200","VT","Essex VT","Canaan town","Beecher Falls CDP, VT","99999","Beecher Falls, VT","Canaan School District",177,1 
+"50","50009","11800","11725","05902","99999","02940","2500-9999","200-999","VT","Essex VT","Canaan town","Canaan CDP, VT","99999","Beecher Falls, VT","Canaan School District",11,1 
+"50","50009","11800","11725","05903","99999","02940","2500-9999","200-999","VT","Essex VT","Canaan town","Canaan CDP, VT","99999","Canaan, VT","Canaan School District",381,1 
+"50","50009","11800","99999","05903","99999","02940","2500-9999","Not in a place","VT","Essex VT","Canaan town"," ","99999","Canaan, VT","Canaan School District",403,1 
+"50","50009","15250","15175","05824","99999","03270","2500-9999","200-999","VT","Essex VT","Concord town","Concord CDP, VT","99999","Concord, VT","Concord School District",271,1 
+"50","50009","15250","99999","05824","99999","03270","2500-9999","Not in a place","VT","Essex VT","Concord town"," ","99999","Concord, VT","Concord School District",600,1 
+"50","50009","15250","99999","05858","99999","03270","2500-9999","Not in a place","VT","Essex VT","Concord town"," ","99999","North Concord, VT","Concord School District",221,1 
+"50","50009","15250","99999","05906","99999","03270","2500-9999","Not in a place","VT","Essex VT","Concord town"," ","99999","Lunenburg, VT","Concord School District",143,1 
+"50","50009","21250","99999","05837","99999","03660","2500-9999","Not in a place","VT","Essex VT","East Haven town"," ","99999","East Haven, VT","East Haven School District",290,1 
+"50","50009","25975","99999","05846","99999","00012","2500-9999","Not in a place","VT","Essex VT","Ferdinand town"," ","99999","Island Pond, VT","Ferdinand School District",30,1 
+"50","50009","25975","99999","05905","99999","00012","2500-9999","Not in a place","VT","Essex VT","Ferdinand town"," ","99999","Guildhall, VT","Ferdinand School District",2,1 
+"50","50009","29125","99999","05858","99999"," ","2500-9999","Not in a place","VT","Essex VT","Granby town"," ","99999","North Concord, VT","50",85,1 
+"50","50009","29125","99999","05905","99999"," ","2500-9999","Not in a place","VT","Essex VT","Granby town"," ","99999","Guildhall, VT","50",3,1 
+"50","50009","30775","99999","05905","99999"," ","2500-9999","Not in a place","VT","Essex VT","Guildhall town"," ","99999","Guildhall, VT","50",261,1 
+"50","50009","39700","99999","05903","99999","05130","2500-9999","Not in a place","VT","Essex VT","Lemington town"," ","99999","Canaan, VT","Lemington School District",84,1 
+"50","50009","39700","99999","05905","99999","05130","2500-9999","Not in a place","VT","Essex VT","Lemington town"," ","99999","Guildhall, VT","Lemington School District",20,1 
+"50","50009","41425","99999","05904","99999"," ","2500-9999","Not in a place","VT","Essex VT","Lunenburg town"," ","99999","Gilman, VT","50",267,1 
+"50","50009","41425","99999","05906","99999"," ","2500-9999","Not in a place","VT","Essex VT","Lunenburg town"," ","99999","Lunenburg, VT","50",1035,1 
+"50","50009","42475","99999","05905","99999","05340","2500-9999","Not in a place","VT","Essex VT","Maidstone town"," ","99999","Guildhall, VT","Maidstone School District",208,1 
+"50","50009","52750","99999","05907","99999"," ","2500-9999","Not in a place","VT","Essex VT","Norton town"," ","99999","Norton, VT","50",169,1 
+"50","50009","75175","99999","05858","99999","08370","2500-9999","Not in a place","VT","Essex VT","Victory town"," ","99999","North Concord, VT","Victory School District",62,1 
+"50","50009","76562","99999","05907","99999","00019","2500-9999","Not in a place","VT","Essex VT","Warrens gore"," ","99999","Norton, VT","WarrenS Gore School Disrrict",4,1 
+"50","50011","02500","99999","05441","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Bakersfield town"," ","99999","Bakersfield, VT","50",958,1 
+"50","50011","02500","99999","05448","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Bakersfield town"," ","99999","East Fairfield, VT","50",148,1 
+"50","50011","02500","99999","05450","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Bakersfield town"," ","99999","Enosburg Falls, VT","50",216,1 
+"50","50011","05425","99999","05447","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Berkshire town"," ","99999","East Berkshire, VT","50",79,1 
+"50","50011","05425","99999","05450","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Berkshire town"," ","99999","Enosburg Falls, VT","50",1076,1 
+"50","50011","05425","99999","05457","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Berkshire town"," ","99999","Franklin, VT","50",5,1 
+"50","50011","05425","99999","05476","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Berkshire town"," ","99999","Richford, VT","50",532,1 
+"50","50011","23875","24025","05450","99999","03780","25,000-99,999","1000-2499","VT","Franklin VT","Enosburg town","Enosburg Falls village, VT","99999","Enosburg Falls, VT","Enosburgh School District",1329,1 
+"50","50011","23875","99999","05450","99999","03780","25,000-99,999","Not in a place","VT","Franklin VT","Enosburg town"," ","99999","Enosburg Falls, VT","Enosburgh School District",1341,1 
+"50","50011","23875","99999","05476","99999","03780","25,000-99,999","Not in a place","VT","Franklin VT","Enosburg town"," ","99999","Richford, VT","Enosburgh School District",111,1 
+"50","50011","24925","99999","05444","99999","03930","25,000-99,999","Not in a place","VT","Franklin VT","Fairfax town"," ","99999","Cambridge, VT","Fairfax School District",419,1 
+"50","50011","24925","99999","05454","99999","03930","25,000-99,999","Not in a place","VT","Franklin VT","Fairfax town"," ","99999","Fairfax, VT","Fairfax School District",3829,1 
+"50","50011","24925","99999","05478","99999","03930","25,000-99,999","Not in a place","VT","Franklin VT","Fairfax town"," ","99999","Saint Albans, VT","Fairfax School District",37,1 
+"50","50011","25225","99999","05448","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fairfield town"," ","99999","East Fairfield, VT","50",466,1 
+"50","50011","25225","99999","05450","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fairfield town"," ","99999","Enosburg Falls, VT","50",202,1 
+"50","50011","25225","99999","05454","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fairfield town"," ","99999","Fairfax, VT","50",11,1 
+"50","50011","25225","99999","05455","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fairfield town"," ","99999","Fairfield, VT","50",1080,1 
+"50","50011","25225","99999","05483","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fairfield town"," ","99999","Sheldon, VT","50",132,1 
+"50","50011","26500","99999","05444","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fletcher town"," ","99999","Cambridge, VT","50",496,1 
+"50","50011","26500","99999","05448","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fletcher town"," ","99999","East Fairfield, VT","50",520,1 
+"50","50011","26500","99999","05454","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fletcher town"," ","99999","Fairfax, VT","50",51,1 
+"50","50011","26500","99999","05464","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Fletcher town"," ","99999","Jeffersonville, VT","50",210,1 
+"50","50011","27100","99999","05450","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Franklin town"," ","99999","Enosburg Falls, VT","50",204,1 
+"50","50011","27100","99999","05457","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Franklin town"," ","99999","Franklin, VT","50",1195,1 
+"50","50011","27100","99999","05459","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Franklin town"," ","99999","Highgate Center, VT","50",6,1 
+"50","50011","27700","99999","05454","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Georgia town"," ","99999","Fairfax, VT","50",556,1 
+"50","50011","27700","99999","05468","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Georgia town"," ","99999","Milton, VT","50",2590,1 
+"50","50011","27700","99999","05478","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Georgia town"," ","99999","Saint Albans, VT","50",1369,1 
+"50","50011","33025","99999","05459","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Highgate town"," ","99999","Highgate Center, VT","50",2150,1 
+"50","50011","33025","99999","05478","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Highgate town"," ","99999","Saint Albans, VT","50",69,1 
+"50","50011","33025","99999","05488","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Highgate town"," ","99999","Swanton, VT","50",1316,1 
+"50","50011","45850","99999","05450","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Montgomery town"," ","99999","Enosburg Falls, VT","50",104,1 
+"50","50011","45850","99999","05471","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Montgomery town"," ","99999","Montgomery Center, VT","50",865,1 
+"50","50011","45850","99999","05476","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Montgomery town"," ","99999","Richford, VT","50",232,1 
+"50","50011","59125","59050","05476","99999","06810","25,000-99,999","1000-2499","VT","Franklin VT","Richford town","Richford CDP, VT","99999","Richford, VT","Richford School District",1361,1 
+"50","50011","59125","99999","05476","99999","06810","25,000-99,999","Not in a place","VT","Franklin VT","Richford town"," ","99999","Richford, VT","Richford School District",947,1 
+"50","50011","61675","61675","05478","99999"," ","25,000-99,999","2500-9999","VT","Franklin VT","St. Albans city","St. Albans city, VT","99999","Saint Albans, VT","50",6918,1 
+"50","50011","61750","99999","05478","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","St. Albans town"," ","99999","Saint Albans, VT","50",5033,1 
+"50","50011","61750","99999","05488","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","St. Albans town"," ","99999","Swanton, VT","50",966,1 
+"50","50011","64600","99999","05450","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Sheldon town"," ","99999","Enosburg Falls, VT","50",505,1 
+"50","50011","64600","99999","05457","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Sheldon town"," ","99999","Franklin, VT","50",417,1 
+"50","50011","64600","99999","05478","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Sheldon town"," ","99999","Saint Albans, VT","50",43,1 
+"50","50011","64600","99999","05483","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Sheldon town"," ","99999","Sheldon, VT","50",1132,1 
+"50","50011","64600","99999","05485","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Sheldon town"," ","99999","Sheldon Springs, VT (PO Boxes)","50",93,1 
+"50","50011","71725","71650","05488","99999"," ","25,000-99,999","1000-2499","VT","Franklin VT","Swanton town","Swanton village, VT","99999","Swanton, VT","50",2386,1 
+"50","50011","71725","99999","05478","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Swanton town"," ","99999","Saint Albans, VT","50",980,1 
+"50","50011","71725","99999","05483","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Swanton town"," ","99999","Sheldon, VT","50",39,1 
+"50","50011","71725","99999","05488","99999"," ","25,000-99,999","Not in a place","VT","Franklin VT","Swanton town"," ","99999","Swanton, VT","50",3022,1 
+"50","50013","00700","00625","05440","99999"," ","2500-9999","200-999","VT","Grand Isle VT","Alburg town","Alburg village, VT","99999","Alburgh, VT","50",497,1 
+"50","50013","00700","99999","05440","99999"," ","2500-9999","Not in a place","VT","Grand Isle VT","Alburg town"," ","99999","Alburgh, VT","50",1501,1 
+"50","50013","29275","99999","05458","99999"," ","2500-9999","Not in a place","VT","Grand Isle VT","Grand Isle town"," ","99999","Grand Isle, VT","50",2044,1 
+"50","50013","29275","99999","05486","99999"," ","2500-9999","Not in a place","VT","Grand Isle VT","Grand Isle town"," ","99999","South Hero, VT","50",23,1 
+"50","50013","35875","99999","05463","99999"," ","2500-9999","Not in a place","VT","Grand Isle VT","Isle La Motte town"," ","99999","Isle La Motte, VT","50",471,1 
+"50","50013","50650","99999","05474","99999"," ","2500-9999","Not in a place","VT","Grand Isle VT","North Hero town"," ","99999","North Hero, VT","50",803,1 
+"50","50013","67000","99999","05486","99999"," ","2500-9999","Not in a place","VT","Grand Isle VT","South Hero town"," ","99999","South Hero, VT","50",1631,1 
+"50","50015","04375","99999","05442","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Belvidere town"," ","99999","Belvidere Center, VT","50",339,1 
+"50","50015","04375","99999","05492","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Belvidere town"," ","99999","Waterville, VT","50",9,1 
+"50","50015","11500","11425","05444","99999"," ","10,000-24,999","200-999","VT","Lamoille VT","Cambridge town","Cambridge village, VT","99999","Cambridge, VT","50",193,1 
+"50","50015","11500","11425","05464","99999"," ","10,000-24,999","200-999","VT","Lamoille VT","Cambridge town","Cambridge village, VT","99999","Jeffersonville, VT","50",43,1 
+"50","50015","11500","36475","05464","99999"," ","10,000-24,999","200-999","VT","Lamoille VT","Cambridge town","Jeffersonville village, VT","99999","Jeffersonville, VT","50",729,1 
+"50","50015","11500","99999","05444","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Cambridge town"," ","99999","Cambridge, VT","50",606,1 
+"50","50015","11500","99999","05464","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Cambridge town"," ","99999","Jeffersonville, VT","50",2026,1 
+"50","50015","11500","99999","05656","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Cambridge town"," ","99999","Johnson, VT","50",62,1 
+"50","50015","23500","99999","05652","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Eden town"," ","99999","Eden, VT","50",776,1 
+"50","50015","23500","99999","05653","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Eden town"," ","99999","Eden Mills, VT","50",547,1 
+"50","50015","23725","99999","05657","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Elmore town"," ","99999","Lake Elmore, VT","50",56,1 
+"50","50015","23725","99999","05661","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Elmore town"," ","99999","Morrisville, VT","50",367,1 
+"50","50015","23725","99999","05680","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Elmore town"," ","99999","Wolcott, VT","50",432,1 
+"50","50015","35050","34975","05655","99999"," ","10,000-24,999","200-999","VT","Lamoille VT","Hyde Park town","Hyde Park village, VT","99999","Hyde Park, VT","50",462,1 
+"50","50015","35050","99999","05655","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Hyde Park town"," ","99999","Hyde Park, VT","50",2406,1 
+"50","50015","35050","99999","05661","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Hyde Park town"," ","99999","Morrisville, VT","50",26,1 
+"50","50015","35050","99999","05680","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Hyde Park town"," ","99999","Wolcott, VT","50",60,1 
+"50","50015","37075","37000","05656","99999"," ","10,000-24,999","1000-2499","VT","Lamoille VT","Johnson town","Johnson village, VT","99999","Johnson, VT","50",1443,1 
+"50","50015","37075","99999","05656","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Johnson town"," ","99999","Johnson, VT","50",2003,1 
+"50","50015","46675","46825","05661","99999","05790","10,000-24,999","1000-2499","VT","Lamoille VT","Morristown town","Morrisville village, VT","99999","Morrisville, VT","Morristown School District",1958,1 
+"50","50015","46675","99999","05661","99999","05790","10,000-24,999","Not in a place","VT","Lamoille VT","Morristown town"," ","99999","Morrisville, VT","Morristown School District",3269,1 
+"50","50015","70525","70450","05672","99999","07800","10,000-24,999","200-999","VT","Lamoille VT","Stowe town","Stowe CDP, VT","99999","Stowe, VT","Stowe School District",495,1 
+"50","50015","70525","99999","05672","99999","07800","10,000-24,999","Not in a place","VT","Lamoille VT","Stowe town"," ","99999","Stowe, VT","Stowe School District",3819,1 
+"50","50015","77425","99999","05492","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Waterville town"," ","99999","Waterville, VT","50",673,1 
+"50","50015","85375","99999","05680","99999"," ","10,000-24,999","Not in a place","VT","Lamoille VT","Wolcott town"," ","99999","Wolcott, VT","50",1676,1 
+"50","50017","07375","07225","05033","99999"," ","25,000-99,999","200-999","VT","Orange VT","Bradford town","Bradford CDP, VT","99999","Bradford, VT","50",788,1 
+"50","50017","07375","99999","05033","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Bradford town"," ","99999","Bradford, VT","50",1895,1 
+"50","50017","07375","99999","05040","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Bradford town"," ","99999","East Corinth, VT","50",114,1 
+"50","50017","07600","99999","05060","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Braintree town"," ","99999","Randolph, VT","50",1234,1 
+"50","50017","07600","99999","05669","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Braintree town"," ","99999","Roxbury, VT","50",12,1 
+"50","50017","09325","99999","05036","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Brookfield town"," ","99999","Brookfield, VT","50",1037,1 
+"50","50017","09325","99999","05060","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Brookfield town"," ","99999","Randolph, VT","50",199,1 
+"50","50017","09325","99999","05679","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Brookfield town"," ","99999","Williamstown, VT","50",56,1 
+"50","50017","13525","99999","05038","99999","00024","25,000-99,999","Not in a place","VT","Orange VT","Chelsea town"," ","99999","Chelsea, VT","Rivendell Interstate School District",4,1 
+"50","50017","13525","99999","05038","99999","03120","25,000-99,999","Not in a place","VT","Orange VT","Chelsea town"," ","99999","Chelsea, VT","Chelsea School District",1226,1 
+"50","50017","13525","99999","05077","99999","03120","25,000-99,999","Not in a place","VT","Orange VT","Chelsea town"," ","99999","Tunbridge, VT","Chelsea School District",8,1 
+"50","50017","15700","99999","05033","99999","08242","25,000-99,999","Not in a place","VT","Orange VT","Corinth town"," ","99999","Bradford, VT","Waits River Valley Union School District 36",50,1 
+"50","50017","15700","99999","05039","99999","08242","25,000-99,999","Not in a place","VT","Orange VT","Corinth town"," ","99999","Corinth, VT","Waits River Valley Union School District 36",1110,1 
+"50","50017","15700","99999","05040","99999","08242","25,000-99,999","Not in a place","VT","Orange VT","Corinth town"," ","99999","East Corinth, VT","Waits River Valley Union School District 36",202,1 
+"50","50017","15700","99999","05086","99999","08242","25,000-99,999","Not in a place","VT","Orange VT","Corinth town"," ","99999","West Topsham, VT","Waits River Valley Union School District 36",5,1 
+"50","50017","25675","25600","05045","99999","00024","25,000-99,999","Less than 200","VT","Orange VT","Fairlee town","Fairlee CDP, VT","99999","Fairlee, VT","Rivendell Interstate School District",189,1 
+"50","50017","25675","99999","05045","99999","00024","25,000-99,999","Not in a place","VT","Orange VT","Fairlee town"," ","99999","Fairlee, VT","Rivendell Interstate School District",788,1 
+"50","50017","48175","48100","05051","99999"," ","25,000-99,999","200-999","VT","Orange VT","Newbury town","Newbury village, VT","99999","Newbury, VT","50",365,1 
+"50","50017","48175","78025","05081","99999","08224","25,000-99,999","200-999","VT","Orange VT","Newbury town","Wells River village, VT","99999","Wells River, VT","Blue Mountain Union School District 21",399,1 
+"50","50017","48175","99999","05033","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Newbury town"," ","99999","Bradford, VT","50",11,1 
+"50","50017","48175","99999","05040","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Newbury town"," ","99999","East Corinth, VT","50",65,1 
+"50","50017","48175","99999","05051","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Newbury town"," ","99999","Newbury, VT","50",1184,1 
+"50","50017","48175","99999","05069","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Newbury town"," ","99999","South Ryegate, VT","50",41,1 
+"50","50017","48175","99999","05081","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Newbury town"," ","99999","Wells River, VT","50",151,1 
+"50","50017","53425","99999","05086","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Orange town"," ","99999","West Topsham, VT","50",117,1 
+"50","50017","53425","99999","05641","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Orange town"," ","99999","Barre, VT","50",535,1 
+"50","50017","53425","99999","05649","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Orange town"," ","99999","East Barre, VT","50",344,1 
+"50","50017","53425","99999","05675","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Orange town"," ","99999","Washington, VT","50",76,1 
+"50","50017","58075","58000","05060","99999"," ","25,000-99,999","1000-2499","VT","Orange VT","Randolph town","Randolph CDP, VT","99999","Randolph, VT","50",1974,1 
+"50","50017","58075","99999","05041","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Randolph town"," ","99999","East Randolph, VT","50",354,1 
+"50","50017","58075","99999","05060","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Randolph town"," ","99999","Randolph, VT","50",826,1 
+"50","50017","58075","99999","05061","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Randolph town"," ","99999","Randolph Center, VT","50",1624,1 
+"50","50017","70675","99999","05070","99999","07830","25,000-99,999","Not in a place","VT","Orange VT","Strafford town"," ","99999","South Strafford, VT","Strafford School District",484,1 
+"50","50017","70675","99999","05072","99999","07830","25,000-99,999","Not in a place","VT","Orange VT","Strafford town"," ","99999","Strafford, VT","Strafford School District",526,1 
+"50","50017","70675","99999","05075","99999","07830","25,000-99,999","Not in a place","VT","Orange VT","Strafford town"," ","99999","Thetford Center, VT","Strafford School District",88,1 
+"50","50017","72400","99999","05043","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Thetford town"," ","99999","East Thetford, VT","50",937,1 
+"50","50017","72400","99999","05045","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Thetford town"," ","99999","Fairlee, VT","50",381,1 
+"50","50017","72400","99999","05058","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Thetford town"," ","99999","Post Mills, VT","50",245,1 
+"50","50017","72400","99999","05075","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Thetford town"," ","99999","Thetford Center, VT","50",1025,1 
+"50","50017","73075","99999","05040","99999","08242","25,000-99,999","Not in a place","VT","Orange VT","Topsham town"," ","99999","East Corinth, VT","Waits River Valley Union School District 36",90,1 
+"50","50017","73075","99999","05076","99999","08242","25,000-99,999","Not in a place","VT","Orange VT","Topsham town"," ","99999","Topsham, VT","Waits River Valley Union School District 36",412,1 
+"50","50017","73075","99999","05086","99999","08242","25,000-99,999","Not in a place","VT","Orange VT","Topsham town"," ","99999","West Topsham, VT","Waits River Valley Union School District 36",671,1 
+"50","50017","73675","99999","05061","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Tunbridge town"," ","99999","Randolph Center, VT","50",55,1 
+"50","50017","73675","99999","05068","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Tunbridge town"," ","99999","South Royalton, VT","50",22,1 
+"50","50017","73675","99999","05077","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Tunbridge town"," ","99999","Tunbridge, VT","50",1207,1 
+"50","50017","74950","99999","05079","99999","00024","25,000-99,999","Not in a place","VT","Orange VT","Vershire town"," ","99999","Vershire, VT","Rivendell Interstate School District",730,1 
+"50","50017","76750","99999","05654","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Washington town"," ","99999","Graniteville, VT","50",32,1 
+"50","50017","76750","99999","05675","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Washington town"," ","99999","Washington, VT","50",988,1 
+"50","50017","76750","99999","05679","99999"," ","25,000-99,999","Not in a place","VT","Orange VT","Washington town"," ","99999","Williamstown, VT","50",19,1 
+"50","50017","79975","99999","05045","99999","00024","25,000-99,999","Not in a place","VT","Orange VT","West Fairlee town"," ","99999","Fairlee, VT","Rivendell Interstate School District",400,1 
+"50","50017","79975","99999","05058","99999","00024","25,000-99,999","Not in a place","VT","Orange VT","West Fairlee town"," ","99999","Post Mills, VT","Rivendell Interstate School District",101,1 
+"50","50017","79975","99999","05083","99999","00024","25,000-99,999","Not in a place","VT","Orange VT","West Fairlee town"," ","99999","West Fairlee, VT","Rivendell Interstate School District",151,1 
+"50","50017","84175","84100","05679","99999","09180","25,000-99,999","1000-2499","VT","Orange VT","Williamstown town","Williamstown CDP, VT","99999","Williamstown, VT","Williamstown School District",1162,1 
+"50","50017","84175","99999","05641","99999","09180","25,000-99,999","Not in a place","VT","Orange VT","Williamstown town"," ","99999","Barre, VT","Williamstown School District",21,1 
+"50","50017","84175","99999","05654","99999","09180","25,000-99,999","Not in a place","VT","Orange VT","Williamstown town"," ","99999","Graniteville, VT","Williamstown School District",133,1 
+"50","50017","84175","99999","05663","99999","09180","25,000-99,999","Not in a place","VT","Orange VT","Williamstown town"," ","99999","Northfield, VT","Williamstown School District",14,1 
+"50","50017","84175","99999","05679","99999","09180","25,000-99,999","Not in a place","VT","Orange VT","Williamstown town"," ","99999","Williamstown, VT","Williamstown School District",2059,1 
+"50","50019","00475","00400","05820","99999"," ","25,000-99,999","Less than 200","VT","Orleans VT","Albany town","Albany village, VT","99999","Albany, VT","50",193,1 
+"50","50019","00475","99999","05820","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Albany town"," ","99999","Albany, VT","50",469,1 
+"50","50019","00475","99999","05827","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Albany town"," ","99999","Craftsbury Common, VT","50",69,1 
+"50","50019","00475","99999","05845","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Albany town"," ","99999","Irasburg, VT","50",210,1 
+"50","50019","03550","03475","05822","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Barton town","Barton village, VT","99999","Barton, VT","50",737,1 
+"50","50019","03550","53575","05860","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Barton town","Orleans village, VT","99999","Orleans, VT","50",818,1 
+"50","50019","03550","99999","05822","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Barton town"," ","99999","Barton, VT","50",968,1 
+"50","50019","03550","99999","05860","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Barton town"," ","99999","Orleans, VT","50",180,1 
+"50","50019","03550","99999","05875","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Barton town"," ","99999","West Glover, VT","50",107,1 
+"50","50019","09850","99999","05855","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Brownington town"," ","99999","Newport, VT","50",13,1 
+"50","50019","09850","99999","05860","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Brownington town"," ","99999","Orleans, VT","50",975,1 
+"50","50019","13150","99999","05833","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Charleston town"," ","99999","East Charleston, VT","50",273,1 
+"50","50019","13150","99999","05872","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Charleston town"," ","99999","West Charleston, VT","50",750,1 
+"50","50019","16150","16075","05825","99999"," ","25,000-99,999","Less than 200","VT","Orleans VT","Coventry town","Coventry CDP, VT","99999","Coventry, VT","50",97,1 
+"50","50019","16150","99999","05825","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Coventry town"," ","99999","Coventry, VT","50",94,1 
+"50","50019","16150","99999","05855","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Coventry town"," ","99999","Newport, VT","50",763,1 
+"50","50019","16150","99999","05857","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Coventry town"," ","99999","Newport Center, VT","50",7,1 
+"50","50019","16150","99999","05860","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Coventry town"," ","99999","Orleans, VT","50",125,1 
+"50","50019","16300","99999","05826","99999","03390","25,000-99,999","Not in a place","VT","Orleans VT","Craftsbury town"," ","99999","Craftsbury, VT","Craftsbury School District",970,1 
+"50","50019","16300","99999","05827","99999","03390","25,000-99,999","Not in a place","VT","Orleans VT","Craftsbury town"," ","99999","Craftsbury Common, VT","Craftsbury School District",236,1 
+"50","50019","17350","17425","05829","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Derby town","Derby Center village, VT","99999","Derby, VT","50",588,1 
+"50","50019","17350","17425","05855","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Derby town","Derby Center village, VT","99999","Newport, VT","50",9,1 
+"50","50019","17350","17500","05830","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Derby town","Derby Line village, VT","99999","Derby Line, VT","50",673,1 
+"50","50019","17350","99999","05829","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Derby town"," ","99999","Derby, VT","50",1213,1 
+"50","50019","17350","99999","05830","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Derby town"," ","99999","Derby Line, VT","50",382,1 
+"50","50019","17350","99999","05855","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Derby town"," ","99999","Newport, VT","50",1735,1 
+"50","50019","17350","99999","05872","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Derby town"," ","99999","West Charleston, VT","50",21,1 
+"50","50019","28075","28000","05839","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Glover town","Glover CDP, VT","99999","Glover, VT","50",303,1 
+"50","50019","28075","99999","05839","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Glover town"," ","99999","Glover, VT","50",472,1 
+"50","50019","28075","99999","05875","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Glover town"," ","99999","West Glover, VT","50",347,1 
+"50","50019","30175","30100","05841","99999"," ","25,000-99,999","Less than 200","VT","Orleans VT","Greensboro town","Greensboro CDP, VT","99999","Greensboro, VT","50",109,1 
+"50","50019","30175","30325","05842","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Greensboro town","Greensboro Bend CDP, VT","99999","Greensboro Bend, VT","50",232,1 
+"50","50019","30175","99999","05826","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Greensboro town"," ","99999","Craftsbury, VT","50",13,1 
+"50","50019","30175","99999","05827","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Greensboro town"," ","99999","Craftsbury Common, VT","50",4,1 
+"50","50019","30175","99999","05841","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Greensboro town"," ","99999","Greensboro, VT","50",316,1 
+"50","50019","30175","99999","05842","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Greensboro town"," ","99999","Greensboro Bend, VT","50",88,1 
+"50","50019","33775","99999","05829","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Holland town"," ","99999","Derby, VT","50",182,1 
+"50","50019","33775","99999","05830","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Holland town"," ","99999","Derby Line, VT","50",447,1 
+"50","50019","35575","35500","05845","99999"," ","25,000-99,999","Less than 200","VT","Orleans VT","Irasburg town","Irasburg CDP, VT","99999","Irasburg, VT","50",163,1 
+"50","50019","35575","99999","05822","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Irasburg town"," ","99999","Barton, VT","50",24,1 
+"50","50019","35575","99999","05845","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Irasburg town"," ","99999","Irasburg, VT","50",723,1 
+"50","50019","35575","99999","05860","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Irasburg town"," ","99999","Orleans, VT","50",253,1 
+"50","50019","36325","99999","05859","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Jay town"," ","99999","North Troy, VT","50",521,1 
+"50","50019","40525","40450","05847","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Lowell town","Lowell CDP, VT","99999","Lowell, VT","50",228,1 
+"50","50019","40525","99999","05847","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Lowell town"," ","99999","Lowell, VT","50",651,1 
+"50","50019","46450","99999","05829","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Morgan town"," ","99999","Derby, VT","50",20,1 
+"50","50019","46450","99999","05853","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Morgan town"," ","99999","Morgan, VT","50",711,1 
+"50","50019","46450","99999","05872","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Morgan town"," ","99999","West Charleston, VT","50",18,1 
+"50","50019","48850","48850","05855","99999"," ","25,000-99,999","2500-9999","VT","Orleans VT","Newport city","Newport city, VT","99999","Newport, VT","50",4589,1 
+"50","50019","48925","49000","05857","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Newport town","Newport Center CDP, VT","99999","Newport Center, VT","50",274,1 
+"50","50019","48925","99999","05855","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Newport town"," ","99999","Newport, VT","50",61,1 
+"50","50019","48925","99999","05857","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Newport town"," ","99999","Newport Center, VT","50",1259,1 
+"50","50019","73525","52075","05859","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Troy town","North Troy village, VT","99999","North Troy, VT","50",620,1 
+"50","50019","73525","73450","05859","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Troy town","Troy CDP, VT","99999","North Troy, VT","50",163,1 
+"50","50019","73525","73450","05868","99999"," ","25,000-99,999","200-999","VT","Orleans VT","Troy town","Troy CDP, VT","99999","Troy, VT","50",80,1 
+"50","50019","73525","99999","05859","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Troy town"," ","99999","North Troy, VT","50",515,1 
+"50","50019","73525","99999","05868","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Troy town"," ","99999","Troy, VT","50",284,1 
+"50","50019","80200","99999","05471","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Westfield town"," ","99999","Montgomery Center, VT","50",31,1 
+"50","50019","80200","99999","05874","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Westfield town"," ","99999","Westfield, VT","50",505,1 
+"50","50019","81700","99999","05822","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Westmore town"," ","99999","Barton, VT","50",144,1 
+"50","50019","81700","99999","05860","99999"," ","25,000-99,999","Not in a place","VT","Orleans VT","Westmore town"," ","99999","Orleans, VT","50",206,1 
+"50","50021","05200","05125","05743","99999"," ","25,000-99,999","200-999","VT","Rutland VT","Benson town","Benson CDP, VT","99999","Fair Haven, VT","50",308,1 
+"50","50021","05200","99999","05743","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Benson town"," ","99999","Fair Haven, VT","50",704,1 
+"50","50021","05200","99999","05760","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Benson town"," ","99999","Orwell, VT","50",44,1 
+"50","50021","07750","07675","05733","99999"," ","25,000-99,999","1000-2499","VT","Rutland VT","Brandon town","Brandon CDP, VT","99999","Brandon, VT","50",1648,1 
+"50","50021","07750","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Brandon town"," ","99999","Brandon, VT","50",2318,1 
+"50","50021","11950","11875","05735","99999"," ","25,000-99,999","1000-2499","VT","Rutland VT","Castleton town","Castleton CDP, VT","99999","Castleton, VT","50",1485,1 
+"50","50021","11950","99999","05732","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Castleton town"," ","99999","Bomoseen, VT","50",603,1 
+"50","50021","11950","99999","05735","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Castleton town"," ","99999","Castleton, VT","50",2460,1 
+"50","50021","11950","99999","05743","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Castleton town"," ","99999","Fair Haven, VT","50",169,1 
+"50","50021","14350","99999","05737","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Chittenden town"," ","99999","Chittenden, VT","50",875,1 
+"50","50021","14350","99999","05763","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Chittenden town"," ","99999","Pittsford, VT","50",383,1 
+"50","50021","14500","99999","05759","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Clarendon town"," ","99999","North Clarendon, VT","50",1738,1 
+"50","50021","14500","99999","05773","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Clarendon town"," ","99999","Wallingford, VT","50",21,1 
+"50","50021","14500","99999","05777","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Clarendon town"," ","99999","West Rutland, VT","50",812,1 
+"50","50021","16825","99999","05739","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Danby town"," ","99999","Danby, VT","50",1137,1 
+"50","50021","16825","99999","05761","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Danby town"," ","99999","Pawlet, VT","50",174,1 
+"50","50021","25375","25450","05743","99999"," ","25,000-99,999","1000-2499","VT","Rutland VT","Fair Haven town","Fair Haven CDP, VT","99999","Fair Haven, VT","50",2269,1 
+"50","50021","25375","99999","05743","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Fair Haven town"," ","99999","Fair Haven, VT","50",465,1 
+"50","50021","34450","99999","05732","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Hubbardton town"," ","99999","Bomoseen, VT","50",105,1 
+"50","50021","34450","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Hubbardton town"," ","99999","Brandon, VT","50",91,1 
+"50","50021","34450","99999","05735","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Hubbardton town"," ","99999","Castleton, VT","50",359,1 
+"50","50021","34450","99999","05743","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Hubbardton town"," ","99999","Fair Haven, VT","50",151,1 
+"50","50021","35425","99999","05735","99999","04830","25,000-99,999","Not in a place","VT","Rutland VT","Ira town"," ","99999","Castleton, VT","Ira School District",63,1 
+"50","50021","35425","99999","05777","99999","04830","25,000-99,999","Not in a place","VT","Rutland VT","Ira town"," ","99999","West Rutland, VT","Ira School District",369,1 
+"50","50021","37685","99999","05751","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Killington town"," ","99999","Killington, VT","50",811,1 
+"50","50021","44125","99999","05701","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mendon town"," ","99999","Rutland, VT","50",1059,1 
+"50","50021","44800","99999","05757","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Middletown Springs town"," ","99999","Middletown Springs, VT","50",745,1 
+"50","50021","47200","99999","05730","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mount Holly town"," ","99999","Belmont, VT","50",302,1 
+"50","50021","47200","99999","05738","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mount Holly town"," ","99999","Cuttingsville, VT","50",16,1 
+"50","50021","47200","99999","05742","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mount Holly town"," ","99999","East Wallingford, VT","50",135,1 
+"50","50021","47200","99999","05758","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mount Holly town"," ","99999","Mount Holly, VT","50",784,1 
+"50","50021","47425","99999","05253","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mount Tabor town"," ","99999","East Dorset, VT","50",11,1 
+"50","50021","47425","99999","05739","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mount Tabor town"," ","99999","Danby, VT","50",232,1 
+"50","50021","47425","99999","05773","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Mount Tabor town"," ","99999","Wallingford, VT","50",12,1 
+"50","50021","54250","99999","05761","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Pawlet town"," ","99999","Pawlet, VT","50",824,1 
+"50","50021","54250","99999","05774","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Pawlet town"," ","99999","Wells, VT","50",30,1 
+"50","50021","54250","99999","05775","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Pawlet town"," ","99999","West Pawlet, VT","50",623,1 
+"50","50021","55450","99999","05762","99999","06450","25,000-99,999","Not in a place","VT","Rutland VT","Pittsfield town"," ","99999","Pittsfield, VT","Pittsfield School District",542,1 
+"50","50021","55450","99999","05767","99999","06450","25,000-99,999","Not in a place","VT","Rutland VT","Pittsfield town"," ","99999","Rochester, VT","Pittsfield School District",4,1 
+"50","50021","55600","55525","05763","99999"," ","25,000-99,999","200-999","VT","Rutland VT","Pittsford town","Pittsford CDP, VT","99999","Pittsford, VT","50",740,1 
+"50","50021","55600","99999","05701","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Pittsford town"," ","99999","Rutland, VT","50",27,1 
+"50","50021","55600","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Pittsford town"," ","99999","Brandon, VT","50",148,1 
+"50","50021","55600","99999","05744","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Pittsford town"," ","99999","Florence, VT","50",452,1 
+"50","50021","55600","99999","05763","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Pittsford town"," ","99999","Pittsford, VT","50",1624,1 
+"50","50021","56875","56800","05764","99999","06600","25,000-99,999","1000-2499","VT","Rutland VT","Poultney town","Poultney village, VT","99999","Poultney, VT","Poultney School District",1612,1 
+"50","50021","56875","99999","05735","99999","06600","25,000-99,999","Not in a place","VT","Rutland VT","Poultney town"," ","99999","Castleton, VT","Poultney School District",8,1 
+"50","50021","56875","99999","05764","99999","06600","25,000-99,999","Not in a place","VT","Rutland VT","Poultney town"," ","99999","Poultney, VT","Poultney School District",1812,1 
+"50","50021","57250","99999","05765","99999","06660","25,000-99,999","Not in a place","VT","Rutland VT","Proctor town"," ","99999","Proctor, VT","Proctor School District",1741,1 
+"50","50021","61225","61225","05701","99999"," ","25,000-99,999","10,000-24,999","VT","Rutland VT","Rutland city","Rutland city, VT","99999","Rutland, VT","50",2,1 
+"50","50021","61225","61225","05701","99999","07050","25,000-99,999","10,000-24,999","VT","Rutland VT","Rutland city","Rutland city, VT","99999","Rutland, VT","Rutland City School District",16479,1 
+"50","50021","61225","61225","05736","99999","07050","25,000-99,999","10,000-24,999","VT","Rutland VT","Rutland city","Rutland city, VT","99999","Center Rutland, VT","Rutland City School District",14,1 
+"50","50021","61300","99999","05701","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Rutland town"," ","99999","Rutland, VT","50",3235,1 
+"50","50021","61300","99999","05736","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Rutland town"," ","99999","Center Rutland, VT","50",668,1 
+"50","50021","61300","99999","05759","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Rutland town"," ","99999","North Clarendon, VT","50",89,1 
+"50","50021","61300","99999","05765","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Rutland town"," ","99999","Proctor, VT","50",62,1 
+"50","50021","65275","99999","05738","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Shrewsbury town"," ","99999","Cuttingsville, VT","50",1056,1 
+"50","50021","71050","99999","05733","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Sudbury town"," ","99999","Brandon, VT","50",507,1 
+"50","50021","71050","99999","05778","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Sudbury town"," ","99999","Whiting, VT","50",53,1 
+"50","50021","72925","99999","05739","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Tinmouth town"," ","99999","Danby, VT","50",30,1 
+"50","50021","72925","99999","05757","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Tinmouth town"," ","99999","Middletown Springs, VT","50",46,1 
+"50","50021","72925","99999","05761","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Tinmouth town"," ","99999","Pawlet, VT","50",2,1 
+"50","50021","72925","99999","05773","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Tinmouth town"," ","99999","Wallingford, VT","50",494,1 
+"50","50021","72925","99999","05774","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Tinmouth town"," ","99999","Wells, VT","50",18,1 
+"50","50021","72925","99999","05777","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Tinmouth town"," ","99999","West Rutland, VT","50",23,1 
+"50","50021","75925","75850","05773","99999"," ","25,000-99,999","200-999","VT","Rutland VT","Wallingford town","Wallingford CDP, VT","99999","Wallingford, VT","50",830,1 
+"50","50021","75925","99999","05739","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Wallingford town"," ","99999","Danby, VT","50",8,1 
+"50","50021","75925","99999","05742","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Wallingford town"," ","99999","East Wallingford, VT","50",462,1 
+"50","50021","75925","99999","05773","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Wallingford town"," ","99999","Wallingford, VT","50",779,1 
+"50","50021","77950","77875","05774","99999"," ","25,000-99,999","200-999","VT","Rutland VT","Wells town","Wells CDP, VT","99999","Wells, VT","50",397,1 
+"50","50021","77950","99999","05757","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Wells town"," ","99999","Middletown Springs, VT","50",41,1 
+"50","50021","77950","99999","05764","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Wells town"," ","99999","Poultney, VT","50",28,1 
+"50","50021","77950","99999","05774","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","Wells town"," ","99999","Wells, VT","50",684,1 
+"50","50021","80875","99999","05743","99999"," ","25,000-99,999","Not in a place","VT","Rutland VT","West Haven town"," ","99999","Fair Haven, VT","50",264,1 
+"50","50021","82300","82375","05736","99999","08850","25,000-99,999","1000-2499","VT","Rutland VT","West Rutland town","West Rutland CDP, VT","99999","Center Rutland, VT","West Rutland School District",2,1 
+"50","50021","82300","82375","05777","99999","08850","25,000-99,999","1000-2499","VT","Rutland VT","West Rutland town","West Rutland CDP, VT","99999","West Rutland, VT","West Rutland School District",2022,1 
+"50","50021","82300","99999","05735","99999","08850","25,000-99,999","Not in a place","VT","Rutland VT","West Rutland town"," ","99999","Castleton, VT","West Rutland School District",27,1 
+"50","50021","82300","99999","05744","99999","08850","25,000-99,999","Not in a place","VT","Rutland VT","West Rutland town"," ","99999","Florence, VT","West Rutland School District",81,1 
+"50","50021","82300","99999","05777","99999","08850","25,000-99,999","Not in a place","VT","Rutland VT","West Rutland town"," ","99999","West Rutland, VT","West Rutland School District",194,1 
+"50","50023","03175","03175","05641","99999"," ","25,000-99,999","2500-9999","VT","Washington VT","Barre city","Barre city, VT","99999","Barre, VT","50",9052,1 
+"50","50023","03250","19075","05641","99999"," ","25,000-99,999","200-999","VT","Washington VT","Barre town","East Barre CDP, VT","99999","Barre, VT","50",596,1 
+"50","50023","03250","19075","05649","99999"," ","25,000-99,999","200-999","VT","Washington VT","Barre town","East Barre CDP, VT","99999","East Barre, VT","50",230,1 
+"50","50023","03250","29425","05654","99999"," ","25,000-99,999","200-999","VT","Washington VT","Barre town","Graniteville CDP, VT","99999","Graniteville, VT","50",784,1 
+"50","50023","03250","66025","05641","99999"," ","25,000-99,999","1000-2499","VT","Washington VT","Barre town","South Barre CDP, VT","99999","Barre, VT","50",1198,1 
+"50","50023","03250","66025","05654","99999"," ","25,000-99,999","1000-2499","VT","Washington VT","Barre town","South Barre CDP, VT","99999","Graniteville, VT","50",21,1 
+"50","50023","03250","77800","05641","99999"," ","25,000-99,999","200-999","VT","Washington VT","Barre town","Websterville CDP, VT","99999","Barre, VT","50",387,1 
+"50","50023","03250","77800","05678","99999"," ","25,000-99,999","200-999","VT","Washington VT","Barre town","Websterville CDP, VT","99999","Websterville, VT","50",163,1 
+"50","50023","03250","99999","05641","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Barre town"," ","99999","Barre, VT","50",4545,1 
+"50","50023","05650","99999","05602","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Berlin town"," ","99999","Montpelier, VT","50",1534,1 
+"50","50023","05650","99999","05641","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Berlin town"," ","99999","Barre, VT","50",835,1 
+"50","50023","05650","99999","05663","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Berlin town"," ","99999","Northfield, VT","50",518,1 
+"50","50023","11125","11050","05647","99999","02850","25,000-99,999","200-999","VT","Washington VT","Cabot town","Cabot village, VT","99999","Cabot, VT","Cabot School District",233,1 
+"50","50023","11125","99999","05647","99999","02850","25,000-99,999","Not in a place","VT","Washington VT","Cabot town"," ","99999","Cabot, VT","Cabot School District",908,1 
+"50","50023","11125","99999","05658","99999","02850","25,000-99,999","Not in a place","VT","Washington VT","Cabot town"," ","99999","Marshfield, VT","Cabot School District",292,1 
+"50","50023","11350","99999","05640","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Calais town"," ","99999","Adamant, VT","50",161,1 
+"50","50023","11350","99999","05648","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Calais town"," ","99999","Calais, VT","50",423,1 
+"50","50023","11350","99999","05650","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Calais town"," ","99999","East Calais, VT","50",799,1 
+"50","50023","11350","99999","05658","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Calais town"," ","99999","Marshfield, VT","50",21,1 
+"50","50023","11350","99999","05667","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Calais town"," ","99999","Plainfield, VT","50",142,1 
+"50","50023","11350","99999","05682","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Calais town"," ","99999","Worcester, VT","50",61,1 
+"50","50023","18550","99999","05660","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Duxbury town"," ","99999","Moretown, VT","50",130,1 
+"50","50023","18550","99999","05676","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Duxbury town"," ","99999","Waterbury, VT","50",1207,1 
+"50","50023","21925","21850","05651","99999"," ","25,000-99,999","Less than 200","VT","Washington VT","East Montpelier town","East Montpelier CDP, VT","99999","East Montpelier, VT","50",80,1 
+"50","50023","21925","99999","05602","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","East Montpelier town"," ","99999","Montpelier, VT","50",856,1 
+"50","50023","21925","99999","05651","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","East Montpelier town"," ","99999","East Montpelier, VT","50",1466,1 
+"50","50023","21925","99999","05667","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","East Montpelier town"," ","99999","Plainfield, VT","50",174,1 
+"50","50023","25825","99999","05660","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Fayston town"," ","99999","Moretown, VT","50",464,1 
+"50","50023","25825","99999","05673","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Fayston town"," ","99999","Waitsfield, VT","50",889,1 
+"50","50023","43600","43525","05658","99999","08225","25,000-99,999","200-999","VT","Washington VT","Marshfield town","Marshfield village, VT","99999","Marshfield, VT","Twinfield Union School District 33",273,1 
+"50","50023","43600","99999","05658","99999","08225","25,000-99,999","Not in a place","VT","Washington VT","Marshfield town"," ","99999","Marshfield, VT","Twinfield Union School District 33",708,1 
+"50","50023","43600","99999","05667","99999","08225","25,000-99,999","Not in a place","VT","Washington VT","Marshfield town"," ","99999","Plainfield, VT","Twinfield Union School District 33",607,1 
+"50","50023","44500","99999","05602","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Middlesex town"," ","99999","Montpelier, VT","50",1539,1 
+"50","50023","44500","99999","05682","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Middlesex town"," ","99999","Worcester, VT","50",192,1 
+"50","50023","46000","46000","05602","99999","05700","25,000-99,999","2500-9999","VT","Washington VT","Montpelier city","Montpelier city, VT","99999","Montpelier, VT","Montpelier School District",7855,1 
+"50","50023","46225","99999","05602","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Moretown town"," ","99999","Montpelier, VT","50",132,1 
+"50","50023","46225","99999","05660","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Moretown town"," ","99999","Moretown, VT","50",1032,1 
+"50","50023","46225","99999","05663","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Moretown town"," ","99999","Northfield, VT","50",37,1 
+"50","50023","46225","99999","05676","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Moretown town"," ","99999","Waterbury, VT","50",457,1 
+"50","50023","50275","50200","05663","99999","06120","25,000-99,999","1000-2499","VT","Washington VT","Northfield town","Northfield village, VT","99999","Northfield, VT","Northfield School District",2101,1 
+"50","50023","50275","99999","05663","99999","06120","25,000-99,999","Not in a place","VT","Washington VT","Northfield town"," ","99999","Northfield, VT","Northfield School District",4026,1 
+"50","50023","50275","99999","05664","99999","06120","25,000-99,999","Not in a place","VT","Washington VT","Northfield town"," ","99999","Northfield Falls, VT (PO Boxes)","Northfield School District",80,1 
+"50","50023","55825","55750","05667","99999","08225","25,000-99,999","200-999","VT","Washington VT","Plainfield town","Plainfield CDP, VT","99999","Plainfield, VT","Twinfield Union School District 33",401,1 
+"50","50023","55825","99999","05667","99999","08225","25,000-99,999","Not in a place","VT","Washington VT","Plainfield town"," ","99999","Plainfield, VT","Twinfield Union School District 33",842,1 
+"50","50023","60625","99999","05060","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Roxbury town"," ","99999","Randolph, VT","50",10,1 
+"50","50023","60625","99999","05663","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Roxbury town"," ","99999","Northfield, VT","50",77,1 
+"50","50023","60625","99999","05669","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Roxbury town"," ","99999","Roxbury, VT","50",604,1 
+"50","50023","75325","75250","05673","99999"," ","25,000-99,999","Less than 200","VT","Washington VT","Waitsfield town","Waitsfield CDP, VT","99999","Waitsfield, VT","50",164,1 
+"50","50023","75325","99999","05660","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Waitsfield town"," ","99999","Moretown, VT","50",34,1 
+"50","50023","75325","99999","05673","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Waitsfield town"," ","99999","Waitsfield, VT","50",1521,1 
+"50","50023","76525","99999","05674","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Warren town"," ","99999","Warren, VT","50",1705,1 
+"50","50023","76975","76900","05676","99999"," ","25,000-99,999","1000-2499","VT","Washington VT","Waterbury town","Waterbury village, VT","99999","Waterbury, VT","50",1763,1 
+"50","50023","76975","99999","05676","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Waterbury town"," ","99999","Waterbury, VT","50",1069,1 
+"50","50023","76975","99999","05677","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Waterbury town"," ","99999","Waterbury Center, VT","50",2232,1 
+"50","50023","85525","99999","05650","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Woodbury town"," ","99999","East Calais, VT","50",324,1 
+"50","50023","85525","99999","05658","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Woodbury town"," ","99999","Marshfield, VT","50",108,1 
+"50","50023","85525","99999","05681","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Woodbury town"," ","99999","Woodbury, VT","50",458,1 
+"50","50023","85525","99999","05843","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Woodbury town"," ","99999","Hardwick, VT","50",16,1 
+"50","50023","86125","86050","05682","99999"," ","25,000-99,999","Less than 200","VT","Washington VT","Worcester town","Worcester CDP, VT","99999","Worcester, VT","50",112,1 
+"50","50023","86125","99999","05682","99999"," ","25,000-99,999","Not in a place","VT","Washington VT","Worcester town"," ","99999","Worcester, VT","50",886,1 
+"50","50025","01900","99999","05143","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Athens town"," ","99999","Chester, VT","50",293,1 
+"50","50025","01900","99999","05146","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Athens town"," ","99999","Grafton, VT","50",149,1 
+"50","50025","07900","07975","05301","99999"," ","25,000-99,999","2500-9999","VT","Windham VT","Brattleboro town","Brattleboro CDP, VT","99999","Brattleboro, VT","50",7414,1 
+"50","50025","07900","78850","05301","99999"," ","25,000-99,999","2500-9999","VT","Windham VT","Brattleboro town","West Brattleboro CDP, VT","99999","Brattleboro, VT","50",2740,1 
+"50","50025","07900","99999","05301","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Brattleboro town"," ","99999","Brattleboro, VT","50",1892,1 
+"50","50025","09475","99999","05345","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Brookline town"," ","99999","Newfane, VT","50",530,1 
+"50","50025","17875","99999","05341","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Dover town"," ","99999","East Dover, VT","50",407,1 
+"50","50025","17875","99999","05356","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Dover town"," ","99999","West Dover, VT","50",717,1 
+"50","50025","18325","99999","05301","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Dummerston town"," ","99999","Brattleboro, VT","50",1196,1 
+"50","50025","18325","99999","05346","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Dummerston town"," ","99999","Putney, VT","50",668,1 
+"50","50025","28900","99999","05141","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Grafton town"," ","99999","Cambridgeport, VT (PO Boxes)","50",78,1 
+"50","50025","28900","99999","05146","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Grafton town"," ","99999","Grafton, VT","50",601,1 
+"50","50025","30925","99999","05301","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Guilford town"," ","99999","Brattleboro, VT","50",2117,1 
+"50","50025","30925","99999","05354","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Guilford town"," ","99999","Vernon, VT","50",4,1 
+"50","50025","31150","99999","05301","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Halifax town"," ","99999","Brattleboro, VT","50",409,1 
+"50","50025","31150","99999","05342","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Halifax town"," ","99999","Jacksonville, VT","50",171,1 
+"50","50025","31150","99999","05358","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Halifax town"," ","99999","West Halifax, VT","50",148,1 
+"50","50025","36175","99999","05155","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Jamaica town"," ","99999","South Londonderry, VT","50",40,1 
+"50","50025","36175","99999","05343","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Jamaica town"," ","99999","Jamaica, VT","50",915,1 
+"50","50025","36175","99999","05359","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Jamaica town"," ","99999","West Townshend, VT","50",79,1 
+"50","50025","36175","99999","05360","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Jamaica town"," ","99999","West Wardsboro, VT","50",1,1 
+"50","50025","40225","99999","05148","99999","08230","25,000-99,999","Not in a place","VT","Windham VT","Londonderry town"," ","99999","Londonderry, VT","Flood Brook Union School District 20",1041,1 
+"50","50025","40225","99999","05155","99999","08230","25,000-99,999","Not in a place","VT","Windham VT","Londonderry town"," ","99999","South Londonderry, VT","Flood Brook Union School District 20",726,1 
+"50","50025","40225","99999","05343","99999","08230","25,000-99,999","Not in a place","VT","Windham VT","Londonderry town"," ","99999","Jamaica, VT","Flood Brook Union School District 20",2,1 
+"50","50025","43375","99999","05301","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Marlboro town"," ","99999","Brattleboro, VT","50",1042,1 
+"50","50025","43375","99999","05363","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Marlboro town"," ","99999","Wilmington, VT","50",36,1 
+"50","50025","48400","48325","05345","99999"," ","25,000-99,999","Less than 200","VT","Windham VT","Newfane town","Newfane village, VT","99999","Newfane, VT","50",118,1 
+"50","50025","48400","99999","05301","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Newfane town"," ","99999","Brattleboro, VT","50",10,1 
+"50","50025","48400","99999","05345","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Newfane town"," ","99999","Newfane, VT","50",1471,1 
+"50","50025","48400","99999","05362","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Newfane town"," ","99999","Williamsville, VT","50",127,1 
+"50","50025","57700","57625","05346","99999"," ","25,000-99,999","200-999","VT","Windham VT","Putney town","Putney CDP, VT","99999","Putney, VT","50",523,1 
+"50","50025","57700","99999","05346","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Putney town"," ","99999","Putney, VT","50",2179,1 
+"50","50025","60250","04225","05101","99999"," ","25,000-99,999","2500-9999","VT","Windham VT","Rockingham town","Bellows Falls village, VT","99999","Bellows Falls, VT","50",3148,1 
+"50","50025","60250","62950","05154","99999"," ","25,000-99,999","200-999","VT","Windham VT","Rockingham town","Saxtons River village, VT","99999","Saxtons River, VT","50",565,1 
+"50","50025","60250","99999","05101","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Rockingham town"," ","99999","Bellows Falls, VT","50",1180,1 
+"50","50025","60250","99999","05141","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Rockingham town"," ","99999","Cambridgeport, VT (PO Boxes)","50",34,1 
+"50","50025","60250","99999","05143","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Rockingham town"," ","99999","Chester, VT","50",259,1 
+"50","50025","60250","99999","05154","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Rockingham town"," ","99999","Saxtons River, VT","50",96,1 
+"50","50025","65762","99999","05360","99999","00014","25,000-99,999","Not in a place","VT","Windham VT","Somerset town"," ","99999","West Wardsboro, VT","Somerset School District",3,1 
+"50","50025","70750","99999","05155","99999","07860","25,000-99,999","Not in a place","VT","Windham VT","Stratton town"," ","99999","South Londonderry, VT","Stratton School District",56,1 
+"50","50025","70750","99999","05360","99999","07860","25,000-99,999","Not in a place","VT","Windham VT","Stratton town"," ","99999","West Wardsboro, VT","Stratton School District",160,1 
+"50","50025","73300","99999","05353","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Townshend town"," ","99999","Townshend, VT","50",1072,1 
+"50","50025","73300","99999","05359","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Townshend town"," ","99999","West Townshend, VT","50",160,1 
+"50","50025","74800","99999","05354","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Vernon town"," ","99999","Vernon, VT","50",2206,1 
+"50","50025","76225","99999","05355","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Wardsboro town"," ","99999","Wardsboro, VT","50",813,1 
+"50","50025","76225","99999","05360","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Wardsboro town"," ","99999","West Wardsboro, VT","50",87,1 
+"50","50025","81400","52375","05101","99999"," ","25,000-99,999","200-999","VT","Windham VT","Westminster town","North Westminster village, VT","99999","Bellows Falls, VT","50",247,1 
+"50","50025","81400","81325","05158","99999"," ","25,000-99,999","200-999","VT","Windham VT","Westminster town","Westminster village, VT","99999","Westminster, VT","50",282,1 
+"50","50025","81400","81325","05346","99999"," ","25,000-99,999","200-999","VT","Windham VT","Westminster town","Westminster village, VT","99999","Putney, VT","50",9,1 
+"50","50025","81400","99999","05101","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Westminster town"," ","99999","Bellows Falls, VT","50",68,1 
+"50","50025","81400","99999","05158","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Westminster town"," ","99999","Westminster, VT","50",767,1 
+"50","50025","81400","99999","05346","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Westminster town"," ","99999","Putney, VT","50",1805,1 
+"50","50025","83950","36025","05342","99999"," ","25,000-99,999","200-999","VT","Windham VT","Whitingham town","Jacksonville village, VT","99999","Jacksonville, VT","50",219,1 
+"50","50025","83950","36025","05361","99999"," ","25,000-99,999","200-999","VT","Windham VT","Whitingham town","Jacksonville village, VT","99999","Whitingham, VT","50",4,1 
+"50","50025","83950","99999","05342","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Whitingham town"," ","99999","Jacksonville, VT","50",191,1 
+"50","50025","83950","99999","05361","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Whitingham town"," ","99999","Whitingham, VT","50",943,1 
+"50","50025","84700","84625","05363","99999"," ","25,000-99,999","200-999","VT","Windham VT","Wilmington town","Wilmington CDP, VT","99999","Wilmington, VT","50",463,1 
+"50","50025","84700","99999","05363","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Wilmington town"," ","99999","Wilmington, VT","50",1413,1 
+"50","50025","84850","99999","05143","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Windham town"," ","99999","Chester, VT","50",64,1 
+"50","50025","84850","99999","05359","99999"," ","25,000-99,999","Not in a place","VT","Windham VT","Windham town"," ","99999","West Townshend, VT","50",355,1 
+"50","50027","01300","99999","05143","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Andover town"," ","99999","Chester, VT","50",340,1 
+"50","50027","01300","99999","05149","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Andover town"," ","99999","Ludlow, VT","50",127,1 
+"50","50027","02575","99999","05143","99999","01920","25,000-99,999","Not in a place","VT","Windsor VT","Baltimore town"," ","99999","Chester, VT","Baltimore School District",244,1 
+"50","50027","02725","99999","05031","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Barnard town"," ","99999","Barnard, VT (PO Boxes)","50",218,1 
+"50","50027","02725","99999","05032","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Barnard town"," ","99999","Bethel, VT","50",432,1 
+"50","50027","02725","99999","05068","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Barnard town"," ","99999","South Royalton, VT","50",145,1 
+"50","50027","02725","99999","05091","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Barnard town"," ","99999","Woodstock, VT","50",152,1 
+"50","50027","05800","05725","05032","99999"," ","25,000-99,999","200-999","VT","Windsor VT","Bethel town","Bethel CDP, VT","99999","Bethel, VT","50",569,1 
+"50","50027","05800","99999","05032","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Bethel town"," ","99999","Bethel, VT","50",1198,1 
+"50","50027","05800","99999","05060","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Bethel town"," ","99999","Randolph, VT","50",172,1 
+"50","50027","05800","99999","05068","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Bethel town"," ","99999","South Royalton, VT","50",91,1 
+"50","50027","08275","99999","05034","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Bridgewater town"," ","99999","Bridgewater, VT","50",259,1 
+"50","50027","08275","99999","05035","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Bridgewater town"," ","99999","Bridgewater Corners, VT","50",588,1 
+"50","50027","08275","99999","05091","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Bridgewater town"," ","99999","Woodstock, VT","50",89,1 
+"50","50027","12250","12175","05142","99999"," ","25,000-99,999","Less than 200","VT","Windsor VT","Cavendish town","Cavendish CDP, VT","99999","Cavendish, VT","50",164,1 
+"50","50027","12250","12175","05153","99999"," ","25,000-99,999","Less than 200","VT","Windsor VT","Cavendish town","Cavendish CDP, VT","99999","Proctorsville, VT","50",15,1 
+"50","50027","12250","57400","05153","99999"," ","25,000-99,999","200-999","VT","Windsor VT","Cavendish town","Proctorsville CDP, VT","99999","Proctorsville, VT","50",454,1 
+"50","50027","12250","99999","05142","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Cavendish town"," ","99999","Cavendish, VT","50",516,1 
+"50","50027","12250","99999","05153","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Cavendish town"," ","99999","Proctorsville, VT","50",218,1 
+"50","50027","13675","13600","05143","99999"," ","25,000-99,999","1000-2499","VT","Windsor VT","Chester town","Chester CDP, VT","99999","Chester, VT","50",1005,1 
+"50","50027","13675","99999","05143","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Chester town"," ","99999","Chester, VT","50",2138,1 
+"50","50027","13675","99999","05156","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Chester town"," ","99999","Springfield, VT","50",11,1 
+"50","50027","32275","57775","05001","99999","04590","25,000-99,999","200-999","VT","Windsor VT","Hartford town","Quechee CDP, VT","99999","White River Junction, VT","Hartford School District",129,1 
+"50","50027","32275","57775","05059","99999","04590","25,000-99,999","200-999","VT","Windsor VT","Hartford town","Quechee CDP, VT","99999","Quechee, VT","Hartford School District",527,1 
+"50","50027","32275","83575","05001","99999","04590","25,000-99,999","1000-2499","VT","Windsor VT","Hartford town","White River Junction CDP, VT","99999","White River Junction, VT","Hartford School District",2286,1 
+"50","50027","32275","84025","05001","99999","04590","25,000-99,999","1000-2499","VT","Windsor VT","Hartford town","Wilder CDP, VT","99999","White River Junction, VT","Hartford School District",1690,1 
+"50","50027","32275","99999","05001","99999","04590","25,000-99,999","Not in a place","VT","Windsor VT","Hartford town"," ","99999","White River Junction, VT","Hartford School District",4846,1 
+"50","50027","32275","99999","05059","99999","04590","25,000-99,999","Not in a place","VT","Windsor VT","Hartford town"," ","99999","Quechee, VT","Hartford School District",347,1 
+"50","50027","32275","99999","05084","99999","04590","25,000-99,999","Not in a place","VT","Windsor VT","Hartford town"," ","99999","West Hartford, VT","Hartford School District",96,1 
+"50","50027","32275","99999","05091","99999","04590","25,000-99,999","Not in a place","VT","Windsor VT","Hartford town"," ","99999","Woodstock, VT","Hartford School District",31,1 
+"50","50027","32425","32350","05048","99999"," ","25,000-99,999","200-999","VT","Windsor VT","Hartland town","Hartland CDP, VT","99999","Hartland, VT","50",380,1 
+"50","50027","32425","50500","05052","99999"," ","25,000-99,999","200-999","VT","Windsor VT","Hartland town","North Hartland CDP, VT","99999","North Hartland, VT","50",302,1 
+"50","50027","32425","99999","05001","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Hartland town"," ","99999","White River Junction, VT","50",110,1 
+"50","50027","32425","99999","05048","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Hartland town"," ","99999","Hartland, VT","50",2049,1 
+"50","50027","32425","99999","05052","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Hartland town"," ","99999","North Hartland, VT","50",46,1 
+"50","50027","32425","99999","05071","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Hartland town"," ","99999","South Woodstock, VT","50",67,1 
+"50","50027","32425","99999","05089","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Hartland town"," ","99999","Windsor, VT","50",324,1 
+"50","50027","32425","99999","05091","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Hartland town"," ","99999","Woodstock, VT","50",115,1 
+"50","50027","41275","41200","05149","99999"," ","25,000-99,999","200-999","VT","Windsor VT","Ludlow town","Ludlow village, VT","99999","Ludlow, VT","50",811,1 
+"50","50027","41275","99999","05149","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Ludlow town"," ","99999","Ludlow, VT","50",1152,1 
+"50","50027","52900","52825","05055","99999"," ","25,000-99,999","200-999","VT","Windsor VT","Norwich town","Norwich CDP, VT","99999","Norwich, VT","50",878,1 
+"50","50027","52900","99999","05001","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Norwich town"," ","99999","White River Junction, VT","50",51,1 
+"50","50027","52900","99999","05055","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Norwich town"," ","99999","Norwich, VT","50",2485,1 
+"50","50027","56050","99999","05035","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Plymouth town"," ","99999","Bridgewater Corners, VT","50",50,1 
+"50","50027","56050","99999","05056","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Plymouth town"," ","99999","Plymouth, VT","50",567,1 
+"50","50027","56050","99999","05149","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Plymouth town"," ","99999","Ludlow, VT","50",2,1 
+"50","50027","56350","99999","05001","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Pomfret town"," ","99999","White River Junction, VT","50",11,1 
+"50","50027","56350","99999","05053","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Pomfret town"," ","99999","North Pomfret, VT","50",332,1 
+"50","50027","56350","99999","05067","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Pomfret town"," ","99999","South Pomfret, VT","50",258,1 
+"50","50027","56350","99999","05068","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Pomfret town"," ","99999","South Royalton, VT","50",98,1 
+"50","50027","56350","99999","05084","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Pomfret town"," ","99999","West Hartford, VT","50",44,1 
+"50","50027","56350","99999","05091","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Pomfret town"," ","99999","Woodstock, VT","50",161,1 
+"50","50027","58375","99999","05062","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Reading town"," ","99999","Reading, VT","50",666,1 
+"50","50027","60100","60025","05767","99999","06900","25,000-99,999","200-999","VT","Windsor VT","Rochester town","Rochester CDP, VT","99999","Rochester, VT","Rochester School District",299,1 
+"50","50027","60100","99999","05767","99999","06900","25,000-99,999","Not in a place","VT","Windsor VT","Rochester town"," ","99999","Rochester, VT","Rochester School District",840,1 
+"50","50027","60850","68050","05068","99999","06990","25,000-99,999","200-999","VT","Windsor VT","Royalton town","South Royalton CDP, VT","99999","South Royalton, VT","Royalton School District",694,1 
+"50","50027","60850","99999","05032","99999","06990","25,000-99,999","Not in a place","VT","Windsor VT","Royalton town"," ","99999","Bethel, VT","Royalton School District",442,1 
+"50","50027","60850","99999","05068","99999","06990","25,000-99,999","Not in a place","VT","Windsor VT","Royalton town"," ","99999","South Royalton, VT","Royalton School District",1637,1 
+"50","50027","63775","99999","05065","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Sharon town"," ","99999","Sharon, VT","50",1064,1 
+"50","50027","63775","99999","05068","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Sharon town"," ","99999","South Royalton, VT","50",438,1 
+"50","50027","69550","51925","05150","99999","07530","25,000-99,999","200-999","VT","Windsor VT","Springfield town","North Springfield CDP, VT","99999","North Springfield, VT","Springfield School District",421,1 
+"50","50027","69550","51925","05156","99999","07530","25,000-99,999","200-999","VT","Windsor VT","Springfield town","North Springfield CDP, VT","99999","Springfield, VT","Springfield School District",152,1 
+"50","50027","69550","69475","05156","99999","07530","25,000-99,999","2500-9999","VT","Windsor VT","Springfield town","Springfield CDP, VT","99999","Springfield, VT","Springfield School District",3979,1 
+"50","50027","69550","99999","05150","99999","07530","25,000-99,999","Not in a place","VT","Windsor VT","Springfield town"," ","99999","North Springfield, VT","Springfield School District",410,1 
+"50","50027","69550","99999","05156","99999","07530","25,000-99,999","Not in a place","VT","Windsor VT","Springfield town"," ","99999","Springfield, VT","Springfield School District",4411,1 
+"50","50027","70375","99999","05032","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Stockbridge town"," ","99999","Bethel, VT","50",23,1 
+"50","50027","70375","99999","05772","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Stockbridge town"," ","99999","Stockbridge, VT","50",713,1 
+"50","50027","77500","01750","05089","99999","08700","25,000-99,999","200-999","VT","Windsor VT","Weathersfield town","Ascutney CDP, VT","99999","Windsor, VT","Weathersfield School District",445,1 
+"50","50027","77500","01750","05151","99999","08700","25,000-99,999","200-999","VT","Windsor VT","Weathersfield town","Ascutney CDP, VT","99999","Perkinsville, VT","Weathersfield School District",95,1 
+"50","50027","77500","54850","05151","99999","08700","25,000-99,999","Less than 200","VT","Windsor VT","Weathersfield town","Perkinsville village, VT","99999","Perkinsville, VT","Weathersfield School District",130,1 
+"50","50027","77500","99999","05089","99999","08700","25,000-99,999","Not in a place","VT","Windsor VT","Weathersfield town"," ","99999","Windsor, VT","Weathersfield School District",154,1 
+"50","50027","77500","99999","05151","99999","08700","25,000-99,999","Not in a place","VT","Windsor VT","Weathersfield town"," ","99999","Perkinsville, VT","Weathersfield School District",1328,1 
+"50","50027","77500","99999","05156","99999","08700","25,000-99,999","Not in a place","VT","Windsor VT","Weathersfield town"," ","99999","Springfield, VT","Weathersfield School District",673,1 
+"50","50027","82000","99999","05148","99999","08230","25,000-99,999","Not in a place","VT","Windsor VT","Weston town"," ","99999","Londonderry, VT","Flood Brook Union School District 20",14,1 
+"50","50027","82000","99999","05161","99999","08230","25,000-99,999","Not in a place","VT","Windsor VT","Weston town"," ","99999","Weston, VT","Flood Brook Union School District 20",552,1 
+"50","50027","83050","99999","05037","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","West Windsor town"," ","99999","Brownsville, VT","50",560,1 
+"50","50027","83050","99999","05062","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","West Windsor town"," ","99999","Reading, VT","50",36,1 
+"50","50027","83050","99999","05089","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","West Windsor town"," ","99999","Windsor, VT","50",503,1 
+"50","50027","84925","85000","05089","99999","09300","25,000-99,999","1000-2499","VT","Windsor VT","Windsor town","Windsor CDP, VT","99999","Windsor, VT","Windsor School District",2066,1 
+"50","50027","84925","99999","05089","99999","09300","25,000-99,999","Not in a place","VT","Windsor VT","Windsor town"," ","99999","Windsor, VT","Windsor School District",1487,1 
+"50","50027","85975","85900","05091","99999"," ","25,000-99,999","200-999","VT","Windsor VT","Woodstock town","Woodstock village, VT","99999","Woodstock, VT","50",900,1 
+"50","50027","85975","99999","05034","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Woodstock town"," ","99999","Bridgewater, VT","50",51,1 
+"50","50027","85975","99999","05071","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Woodstock town"," ","99999","South Woodstock, VT","50",257,1 
+"50","50027","85975","99999","05091","99999"," ","25,000-99,999","Not in a place","VT","Windsor VT","Woodstock town"," ","99999","Woodstock, VT","50",1840,1 

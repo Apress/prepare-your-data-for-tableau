@@ -1,0 +1,491 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"32","32001","94154","99999","89406","99999","00030","10,000-24,999","Not in a place","NV","Churchill NV","Carson Sink CCD"," ","99999","Fallon, NV","Churchill County School District",29,1 
+"32","32001","94238","99999","89406","99999","00030","10,000-24,999","Not in a place","NV","Churchill NV","Dixie Valley CCD"," ","99999","Fallon, NV","Churchill County School District",170,1 
+"32","32001","94308","24100","89406","99999","00030","10,000-24,999","2500-9999","NV","Churchill NV","Fallon CCD","Fallon city, NV","99999","Fallon, NV","Churchill County School District",8606,1 
+"32","32001","94308","24500","89406","99999","00030","10,000-24,999","200-999","NV","Churchill NV","Fallon CCD","Fallon Station CDP, NV","99999","Fallon, NV","Churchill County School District",705,1 
+"32","32001","94308","99999","89406","99999","00030","10,000-24,999","Not in a place","NV","Churchill NV","Fallon CCD"," ","99999","Fallon, NV","Churchill County School District",15260,1 
+"32","32001","94308","99999","89408","99999","00030","10,000-24,999","Not in a place","NV","Churchill NV","Fallon CCD"," ","99999","Fernley, NV","Churchill County School District",107,1 
+"32","32003","94182","05700","89004","99999","00060","1,000,000+","200-999","NV","Clark NV","Clark CCD","Blue Diamond CDP, NV","99999","Blue Diamond, NV","Clark County School District",290,1 
+"32","32003","94182","06500","89046","99999","00060","1,000,000+","10,000-24,999","NV","Clark NV","Clark CCD","Boulder City city, NV","99999","Searchlight, NV","Clark County School District",2,1 
+"32","32003","94182","08100","89007","99999","00060","1,000,000+","1000-2499","NV","Clark NV","Clark CCD","Bunkerville CDP, NV","99999","Bunkerville, NV","Clark County School District",1303,1 
+"32","32003","94182","08600","89039","99999","00060","1,000,000+","200-999","NV","Clark NV","Clark CCD","Cal-Nev-Ari CDP, NV","99999","Cal-Nev-Ari, NV","Clark County School District",244,1 
+"32","32003","94182","23770","89044","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Enterprise CDP, NV","99999","Henderson, NV","Clark County School District",19,1 
+"32","32003","94182","23770","89054","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Enterprise CDP, NV","99999","Enterprise, NV","Clark County School District",105,1 
+"32","32003","94182","23770","89139","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Enterprise CDP, NV","99999","Enterprise, NV","Clark County School District",1658,1 
+"32","32003","94182","23770","89141","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Enterprise CDP, NV","99999","Enterprise, NV","Clark County School District",24181,1 
+"32","32003","94182","23770","89148","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Enterprise CDP, NV","99999","Spring Valley, NV","Clark County School District",195,1 
+"32","32003","94182","23770","89161","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Enterprise CDP, NV","99999","Las Vegas, NV","Clark County School District",11,1 
+"32","32003","94182","23770","89178","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Enterprise CDP, NV","99999","Enterprise, NV","Clark County School District",17951,1 
+"32","32003","94182","29500","89019","99999","00060","1,000,000+","200-999","NV","Clark NV","Clark CCD","Goodsprings CDP, NV","99999","Sandy Valley, NV","Clark County School District",229,1 
+"32","32003","94182","31900","89044","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Clark CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",14041,1 
+"32","32003","94182","31900","89052","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Clark CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",18647,1 
+"32","32003","94182","35300","89018","99999","00060","1,000,000+","200-999","NV","Clark NV","Clark CCD","Indian Springs CDP, NV","99999","Indian Springs, NV","Clark County School District",991,1 
+"32","32003","94182","40000","89124","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Clark CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",51,1 
+"32","32003","94182","40000","89138","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Clark CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",12118,1 
+"32","32003","94182","40000","89166","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Clark CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",33,1 
+"32","32003","94182","41000","89029","99999","00060","1,000,000+","2500-9999","NV","Clark NV","Clark CCD","Laughlin CDP, NV","99999","Laughlin, NV","Clark County School District",7323,1 
+"32","32003","94182","46000","89007","99999","00060","1,000,000+","10,000-24,999","NV","Clark NV","Clark CCD","Mesquite city, NV","99999","Bunkerville, NV","Clark County School District",1,1 
+"32","32003","94182","46000","89027","99999","00060","1,000,000+","10,000-24,999","NV","Clark NV","Clark CCD","Mesquite city, NV","99999","Mesquite, NV","Clark County School District",15275,1 
+"32","32003","94182","47840","89025","99999","00060","1,000,000+","1000-2499","NV","Clark NV","Clark CCD","Moapa Town CDP, NV","99999","Moapa Town, NV","Clark County School District",1025,1 
+"32","32003","94182","47880","89021","99999","00060","1,000,000+","2500-9999","NV","Clark NV","Clark CCD","Moapa Valley CDP, NV","99999","Moapa Valley, NV","Clark County School District",3593,1 
+"32","32003","94182","47880","89040","99999","00060","1,000,000+","2500-9999","NV","Clark NV","Clark CCD","Moapa Valley CDP, NV","99999","Moapa Valley, NV","Clark County School District",3331,1 
+"32","32003","94182","49310","89124","99999","00060","1,000,000+","200-999","NV","Clark NV","Clark CCD","Mount Charleston CDP, NV","99999","Las Vegas, NV","Clark County School District",357,1 
+"32","32003","94182","50600","89046","99999","00060","1,000,000+","Less than 200","NV","Clark NV","Clark CCD","Nelson CDP, NV","99999","Searchlight, NV","Clark County School District",37,1 
+"32","32003","94182","51800","89191","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","North Las Vegas city, NV","99999","Nellis AFB, NV","Clark County School District",128,1 
+"32","32003","94182","64600","89019","99999","00060","1,000,000+","1000-2499","NV","Clark NV","Clark CCD","Sandy Valley CDP, NV","99999","Sandy Valley, NV","Clark County School District",2051,1 
+"32","32003","94182","65600","89046","99999","00060","1,000,000+","200-999","NV","Clark NV","Clark CCD","Searchlight CDP, NV","99999","Searchlight, NV","Clark County School District",539,1 
+"32","32003","94182","70900","89135","99999","00060","1,000,000+","10,000-24,999","NV","Clark NV","Clark CCD","Summerlin South CDP, NV","99999","Summerlin South, NV","Clark County School District",16722,1 
+"32","32003","94182","70900","89147","99999","00060","1,000,000+","10,000-24,999","NV","Clark NV","Clark CCD","Summerlin South CDP, NV","99999","Spring Valley, NV","Clark County School District",78,1 
+"32","32003","94182","71400","89110","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Sunrise Manor CDP, NV","99999","Las Vegas, NV","Clark County School District",1865,1 
+"32","32003","94182","71400","89142","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Sunrise Manor CDP, NV","99999","Sunrise Manor, NV","Clark County School District",1485,1 
+"32","32003","94182","71400","89156","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Clark CCD","Sunrise Manor CDP, NV","99999","Sunrise Manor, NV","Clark County School District",6118,1 
+"32","32003","94182","99999","89004","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Blue Diamond, NV","Clark County School District",23,1 
+"32","32003","94182","99999","89005","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Boulder City, NV","Clark County School District",44,1 
+"32","32003","94182","99999","89007","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Bunkerville, NV","Clark County School District",47,1 
+"32","32003","94182","99999","89018","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Indian Springs, NV","Clark County School District",16,1 
+"32","32003","94182","99999","89019","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Sandy Valley, NV","Clark County School District",324,1 
+"32","32003","94182","99999","89021","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Moapa Valley, NV","Clark County School District",12,1 
+"32","32003","94182","99999","89025","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Moapa Town, NV","Clark County School District",375,1 
+"32","32003","94182","99999","89026","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","So Nev Correctional Ctr, Jean, NV","Clark County School District",150,1 
+"32","32003","94182","99999","89029","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Laughlin, NV","Clark County School District",223,1 
+"32","32003","94182","99999","89039","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Cal-Nev-Ari, NV","Clark County School District",72,1 
+"32","32003","94182","99999","89040","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Moapa Valley, NV","Clark County School District",390,1 
+"32","32003","94182","99999","89044","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Henderson, NV","Clark County School District",200,1 
+"32","32003","94182","99999","89046","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Searchlight, NV","Clark County School District",82,1 
+"32","32003","94182","99999","89113","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Spring Valley, NV","Clark County School District",505,1 
+"32","32003","94182","99999","89122","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Whitney, NV","Clark County School District",1892,1 
+"32","32003","94182","99999","89124","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Las Vegas, NV","Clark County School District",517,1 
+"32","32003","94182","99999","89135","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Summerlin South, NV","Clark County School District",58,1 
+"32","32003","94182","99999","89148","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Spring Valley, NV","Clark County School District",3742,1 
+"32","32003","94182","99999","89156","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Sunrise Manor, NV","Clark County School District",1192,1 
+"32","32003","94182","99999","89161","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Las Vegas, NV","Clark County School District",173,1 
+"32","32003","94182","99999","89166","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Las Vegas, NV","Clark County School District",5313,1 
+"32","32003","94182","99999","89178","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Enterprise, NV","Clark County School District",9637,1 
+"32","32003","94182","99999","89179","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Clark CCD"," ","99999","Las Vegas, NV","Clark County School District",2340,1 
+"32","32003","94504","06500","89005","99999","00060","1,000,000+","10,000-24,999","NV","Clark NV","Las Vegas CCD","Boulder City city, NV","99999","Boulder City, NV","Clark County School District",15021,1 
+"32","32003","94504","23770","89113","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Spring Valley, NV","Clark County School District",8578,1 
+"32","32003","94504","23770","89118","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Spring Valley, NV","Clark County School District",2614,1 
+"32","32003","94504","23770","89119","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Paradise, NV","Clark County School District",322,1 
+"32","32003","94504","23770","89123","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Paradise, NV","Clark County School District",14919,1 
+"32","32003","94504","23770","89139","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Enterprise, NV","Clark County School District",28819,1 
+"32","32003","94504","23770","89141","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Enterprise, NV","Clark County School District",969,1 
+"32","32003","94504","23770","89148","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Spring Valley, NV","Clark County School District",1383,1 
+"32","32003","94504","23770","89183","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Enterprise CDP, NV","99999","Paradise, NV","Clark County School District",6757,1 
+"32","32003","94504","31900","89002","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",31880,1 
+"32","32003","94504","31900","89011","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",15363,1 
+"32","32003","94504","31900","89012","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",29085,1 
+"32","32003","94504","31900","89014","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",36910,1 
+"32","32003","94504","31900","89015","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",38993,1 
+"32","32003","94504","31900","89052","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",26417,1 
+"32","32003","94504","31900","89074","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Henderson, NV","Clark County School District",45277,1 
+"32","32003","94504","31900","89120","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Paradise, NV","Clark County School District",103,1 
+"32","32003","94504","31900","89122","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Whitney, NV","Clark County School District",749,1 
+"32","32003","94504","31900","89123","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Paradise, NV","Clark County School District",19,1 
+"32","32003","94504","31900","89183","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Henderson city, NV","99999","Paradise, NV","Clark County School District",245,1 
+"32","32003","94504","40000","89030","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",1264,1 
+"32","32003","94504","40000","89101","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",45622,1 
+"32","32003","94504","40000","89102","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",26482,1 
+"32","32003","94504","40000","89104","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Sunrise Manor, NV","Clark County School District",18934,1 
+"32","32003","94504","40000","89106","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",25665,1 
+"32","32003","94504","40000","89107","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",36282,1 
+"32","32003","94504","40000","89108","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",66797,1 
+"32","32003","94504","40000","89109","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Winchester, NV","Clark County School District",7,1 
+"32","32003","94504","40000","89110","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",39042,1 
+"32","32003","94504","40000","89117","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",36725,1 
+"32","32003","94504","40000","89128","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",35669,1 
+"32","32003","94504","40000","89129","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",46888,1 
+"32","32003","94504","40000","89130","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",31673,1 
+"32","32003","94504","40000","89131","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",39031,1 
+"32","32003","94504","40000","89134","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",24040,1 
+"32","32003","94504","40000","89135","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Summerlin South, NV","Clark County School District",79,1 
+"32","32003","94504","40000","89143","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",12554,1 
+"32","32003","94504","40000","89144","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",18714,1 
+"32","32003","94504","40000","89145","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",23186,1 
+"32","32003","94504","40000","89146","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",10588,1 
+"32","32003","94504","40000","89149","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",24628,1 
+"32","32003","94504","40000","89166","99999","00060","1,000,000+","250,000-999,999","NV","Clark NV","Las Vegas CCD","Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",7684,1 
+"32","32003","94504","50400","89115","99999","00060","1,000,000+","2500-9999","NV","Clark NV","Las Vegas CCD","Nellis AFB CDP, NV","99999","Sunrise Manor, NV","Clark County School District",2555,1 
+"32","32003","94504","50400","89191","99999","00060","1,000,000+","2500-9999","NV","Clark NV","Las Vegas CCD","Nellis AFB CDP, NV","99999","Nellis AFB, NV","Clark County School District",632,1 
+"32","32003","94504","51800","89030","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",52664,1 
+"32","32003","94504","51800","89031","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",60584,1 
+"32","32003","94504","51800","89032","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",40297,1 
+"32","32003","94504","51800","89081","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",29609,1 
+"32","32003","94504","51800","89084","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",21837,1 
+"32","32003","94504","51800","89085","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",3367,1 
+"32","32003","94504","51800","89086","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","North Las Vegas, NV","Clark County School District",4726,1 
+"32","32003","94504","51800","89106","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",15,1 
+"32","32003","94504","51800","89115","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","Sunrise Manor, NV","Clark County School District",3025,1 
+"32","32003","94504","51800","89130","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","North Las Vegas city, NV","99999","Las Vegas, NV","Clark County School District",709,1 
+"32","32003","94504","54600","89014","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Henderson, NV","Clark County School District",12,1 
+"32","32003","94504","54600","89052","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Henderson, NV","Clark County School District",2150,1 
+"32","32003","94504","54600","89074","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Henderson, NV","Clark County School District",1818,1 
+"32","32003","94504","54600","89102","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Las Vegas, NV","Clark County School District",7513,1 
+"32","32003","94504","54600","89103","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Spring Valley, NV","Clark County School District",15277,1 
+"32","32003","94504","54600","89109","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Winchester, NV","Clark County School District",933,1 
+"32","32003","94504","54600","89118","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Spring Valley, NV","Clark County School District",537,1 
+"32","32003","94504","54600","89119","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Paradise, NV","Clark County School District",49123,1 
+"32","32003","94504","54600","89120","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Paradise, NV","Clark County School District",23208,1 
+"32","32003","94504","54600","89121","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Paradise, NV","Clark County School District",38079,1 
+"32","32003","94504","54600","89123","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Paradise, NV","Clark County School District",41362,1 
+"32","32003","94504","54600","89169","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Paradise, NV","Clark County School District",14152,1 
+"32","32003","94504","54600","89183","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Paradise CDP, NV","99999","Paradise, NV","Clark County School District",29003,1 
+"32","32003","94504","68585","89102","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Las Vegas, NV","Clark County School District",1764,1 
+"32","32003","94504","68585","89103","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Spring Valley, NV","Clark County School District",35242,1 
+"32","32003","94504","68585","89113","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Spring Valley, NV","Clark County School District",14717,1 
+"32","32003","94504","68585","89117","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Las Vegas, NV","Clark County School District",18691,1 
+"32","32003","94504","68585","89118","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Spring Valley, NV","Clark County School District",16167,1 
+"32","32003","94504","68585","89146","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Las Vegas, NV","Clark County School District",7722,1 
+"32","32003","94504","68585","89147","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Spring Valley, NV","Clark County School District",49700,1 
+"32","32003","94504","68585","89148","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Spring Valley CDP, NV","99999","Spring Valley, NV","Clark County School District",34392,1 
+"32","32003","94504","70900","89135","99999","00060","1,000,000+","10,000-24,999","NV","Clark NV","Las Vegas CCD","Summerlin South CDP, NV","99999","Summerlin South, NV","Clark County School District",7285,1 
+"32","32003","94504","71400","89101","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Las Vegas, NV","Clark County School District",433,1 
+"32","32003","94504","71400","89104","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Sunrise Manor, NV","Clark County School District",20117,1 
+"32","32003","94504","71400","89110","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Las Vegas, NV","Clark County School District",30087,1 
+"32","32003","94504","71400","89115","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Sunrise Manor, NV","Clark County School District",53214,1 
+"32","32003","94504","71400","89121","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Paradise, NV","Clark County School District",14829,1 
+"32","32003","94504","71400","89122","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Whitney, NV","Clark County School District",8729,1 
+"32","32003","94504","71400","89142","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Sunrise Manor, NV","Clark County School District",32246,1 
+"32","32003","94504","71400","89156","99999","00060","1,000,000+","100,000-249,999","NV","Clark NV","Las Vegas CCD","Sunrise Manor CDP, NV","99999","Sunrise Manor, NV","Clark County School District",20249,1 
+"32","32003","94504","83800","89011","99999","00060","1,000,000+","25,000-99,999","NV","Clark NV","Las Vegas CCD","Whitney CDP, NV","99999","Henderson, NV","Clark County School District",4185,1 
+"32","32003","94504","83800","89121","99999","00060","1,000,000+","25,000-99,999","NV","Clark NV","Las Vegas CCD","Whitney CDP, NV","99999","Paradise, NV","Clark County School District",50,1 
+"32","32003","94504","83800","89122","99999","00060","1,000,000+","25,000-99,999","NV","Clark NV","Las Vegas CCD","Whitney CDP, NV","99999","Whitney, NV","Clark County School District",34350,1 
+"32","32003","94504","84600","89104","99999","00060","1,000,000+","25,000-99,999","NV","Clark NV","Las Vegas CCD","Winchester CDP, NV","99999","Sunrise Manor, NV","Clark County School District",858,1 
+"32","32003","94504","84600","89109","99999","00060","1,000,000+","25,000-99,999","NV","Clark NV","Las Vegas CCD","Winchester CDP, NV","99999","Winchester, NV","Clark County School District",6830,1 
+"32","32003","94504","84600","89121","99999","00060","1,000,000+","25,000-99,999","NV","Clark NV","Las Vegas CCD","Winchester CDP, NV","99999","Paradise, NV","Clark County School District",11138,1 
+"32","32003","94504","84600","89169","99999","00060","1,000,000+","25,000-99,999","NV","Clark NV","Las Vegas CCD","Winchester CDP, NV","99999","Paradise, NV","Clark County School District",9152,1 
+"32","32003","94504","99999","89011","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Henderson, NV","Clark County School District",2,1 
+"32","32003","94504","99999","89031","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","North Las Vegas, NV","Clark County School District",5,1 
+"32","32003","94504","99999","89081","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","North Las Vegas, NV","Clark County School District",165,1 
+"32","32003","94504","99999","89106","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",79,1 
+"32","32003","94504","99999","89108","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",3326,1 
+"32","32003","94504","99999","89129","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",4364,1 
+"32","32003","94504","99999","89130","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",633,1 
+"32","32003","94504","99999","89131","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",4041,1 
+"32","32003","94504","99999","89143","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",232,1 
+"32","32003","94504","99999","89146","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",761,1 
+"32","32003","94504","99999","89149","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",6515,1 
+"32","32003","94504","99999","89156","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Sunrise Manor, NV","Clark County School District",235,1 
+"32","32003","94504","99999","89166","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Las Vegas, NV","Clark County School District",179,1 
+"32","32003","94504","99999","89191","99999","00060","1,000,000+","Not in a place","NV","Clark NV","Las Vegas CCD"," ","99999","Nellis AFB, NV","Clark County School District",97,1 
+"32","32005","94364","10200","89410","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Gardnerville-Minden CCD","Carter Springs CDP, NV","99999","Gardnerville, NV","Douglas County School District",553,1 
+"32","32005","94364","21520","89410","99999","00090","25,000-99,999","1000-2499","NV","Douglas NV","Gardnerville-Minden CCD","East Valley CDP, NV","99999","Gardnerville, NV","Douglas County School District",934,1 
+"32","32005","94364","21520","89423","99999","00090","25,000-99,999","1000-2499","NV","Douglas NV","Gardnerville-Minden CCD","East Valley CDP, NV","99999","Johnson Lane, NV","Douglas County School District",21,1 
+"32","32005","94364","25000","89410","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Gardnerville-Minden CCD","Fish Springs CDP, NV","99999","Gardnerville, NV","Douglas County School District",231,1 
+"32","32005","94364","26300","89410","99999","00090","25,000-99,999","2500-9999","NV","Douglas NV","Gardnerville-Minden CCD","Gardnerville CDP, NV","99999","Gardnerville, NV","Douglas County School District",5620,1 
+"32","32005","94364","26300","89423","99999","00090","25,000-99,999","2500-9999","NV","Douglas NV","Gardnerville-Minden CCD","Gardnerville CDP, NV","99999","Johnson Lane, NV","Douglas County School District",36,1 
+"32","32005","94364","26500","89410","99999","00090","25,000-99,999","10,000-24,999","NV","Douglas NV","Gardnerville-Minden CCD","Gardnerville Ranchos CDP, NV","99999","Gardnerville, NV","Douglas County School District",7,1 
+"32","32005","94364","26500","89460","99999","00090","25,000-99,999","10,000-24,999","NV","Douglas NV","Gardnerville-Minden CCD","Gardnerville Ranchos CDP, NV","99999","Gardnerville Ranchos, NV","Douglas County School District",11305,1 
+"32","32005","94364","37190","89423","99999","00090","25,000-99,999","2500-9999","NV","Douglas NV","Gardnerville-Minden CCD","Johnson Lane CDP, NV","99999","Johnson Lane, NV","Douglas County School District",6490,1 
+"32","32005","94364","47000","89410","99999","00090","25,000-99,999","2500-9999","NV","Douglas NV","Gardnerville-Minden CCD","Minden CDP, NV","99999","Gardnerville, NV","Douglas County School District",15,1 
+"32","32005","94364","47000","89423","99999","00090","25,000-99,999","2500-9999","NV","Douglas NV","Gardnerville-Minden CCD","Minden CDP, NV","99999","Johnson Lane, NV","Douglas County School District",2986,1 
+"32","32005","94364","63450","89410","99999","00090","25,000-99,999","1000-2499","NV","Douglas NV","Gardnerville-Minden CCD","Ruhenstroth CDP, NV","99999","Gardnerville, NV","Douglas County School District",1293,1 
+"32","32005","94364","99999","89410","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Gardnerville-Minden CCD"," ","99999","Gardnerville, NV","Douglas County School District",303,1 
+"32","32005","94364","99999","89423","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Gardnerville-Minden CCD"," ","99999","Johnson Lane, NV","Douglas County School District",141,1 
+"32","32005","94364","99999","89460","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Gardnerville-Minden CCD"," ","99999","Gardnerville Ranchos, NV","Douglas County School District",285,1 
+"32","32005","94378","27100","89411","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Genoa-Jacks Valley CCD","Genoa CDP, NV","99999","Genoa, NV","Douglas County School District",929,1 
+"32","32005","94378","27100","89423","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Genoa-Jacks Valley CCD","Genoa CDP, NV","99999","Johnson Lane, NV","Douglas County School District",10,1 
+"32","32005","94378","35275","89423","99999","00090","25,000-99,999","2500-9999","NV","Douglas NV","Genoa-Jacks Valley CCD","Indian Hills CDP, NV","99999","Johnson Lane, NV","Douglas County School District",731,1 
+"32","32005","94378","35275","89705","99999","00090","25,000-99,999","2500-9999","NV","Douglas NV","Genoa-Jacks Valley CCD","Indian Hills CDP, NV","99999","Indian Hills, NV","Douglas County School District",4896,1 
+"32","32005","94378","99999","89423","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Genoa-Jacks Valley CCD"," ","99999","Johnson Lane, NV","Douglas County School District",50,1 
+"32","32005","94378","99999","89460","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Genoa-Jacks Valley CCD"," ","99999","Gardnerville Ranchos, NV","Douglas County School District",1590,1 
+"32","32005","94378","99999","89705","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Genoa-Jacks Valley CCD"," ","99999","Indian Hills, NV","Douglas County School District",26,1 
+"32","32005","94658","21520","89410","99999","00090","25,000-99,999","1000-2499","NV","Douglas NV","Pine Nut CCD","East Valley CDP, NV","99999","Gardnerville, NV","Douglas County School District",519,1 
+"32","32005","94658","25000","89410","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Pine Nut CCD","Fish Springs CDP, NV","99999","Gardnerville, NV","Douglas County School District",417,1 
+"32","32005","94658","99999","89410","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Pine Nut CCD"," ","99999","Gardnerville, NV","Douglas County School District",22,1 
+"32","32005","94826","19150","89410","99999","00090","25,000-99,999","Less than 200","NV","Douglas NV","Topaz Lake CCD","Double Spring CDP, NV","99999","Gardnerville, NV","Douglas County School District",158,1 
+"32","32005","94826","74200","89410","99999","00090","25,000-99,999","Less than 200","NV","Douglas NV","Topaz Lake CCD","Topaz Lake CDP, NV","99999","Gardnerville, NV","Douglas County School District",157,1 
+"32","32005","94826","74400","89444","99999","00090","25,000-99,999","1000-2499","NV","Douglas NV","Topaz Lake CCD","Topaz Ranch Estates CDP, NV","99999","Topaz Ranch Estates, NV","Douglas County School District",1501,1 
+"32","32005","94826","99999","89410","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Topaz Lake CCD"," ","99999","Gardnerville, NV","Douglas County School District",328,1 
+"32","32005","94826","99999","89444","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Topaz Lake CCD"," ","99999","Topaz Ranch Estates, NV","Douglas County School District",41,1 
+"32","32005","94952","27900","89413","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Zephyr Cove CCD","Glenbrook CDP, NV","99999","Lakeridge, NV","Douglas County School District",215,1 
+"32","32005","94952","38000","89449","99999","00090","25,000-99,999","1000-2499","NV","Douglas NV","Zephyr Cove CCD","Kingsbury CDP, NV","99999","Kingsbury, NV","Douglas County School District",2152,1 
+"32","32005","94952","39100","89413","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Zephyr Cove CCD","Lakeridge CDP, NV","99999","Lakeridge, NV","Douglas County School District",371,1 
+"32","32005","94952","42350","89413","99999","00090","25,000-99,999","Less than 200","NV","Douglas NV","Zephyr Cove CCD","Logan Creek CDP, NV","99999","Lakeridge, NV","Douglas County School District",26,1 
+"32","32005","94952","62170","89448","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Zephyr Cove CCD","Round Hill Village CDP, NV","99999","Round Hill Village, NV","Douglas County School District",759,1 
+"32","32005","94952","67600","89413","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Zephyr Cove CCD","Skyland CDP, NV","99999","Lakeridge, NV","Douglas County School District",5,1 
+"32","32005","94952","67600","89448","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Zephyr Cove CCD","Skyland CDP, NV","99999","Round Hill Village, NV","Douglas County School District",371,1 
+"32","32005","94952","69200","89449","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Zephyr Cove CCD","Stateline CDP, NV","99999","Kingsbury, NV","Douglas County School District",842,1 
+"32","32005","94952","86200","89448","99999","00090","25,000-99,999","200-999","NV","Douglas NV","Zephyr Cove CCD","Zephyr Cove CDP, NV","99999","Round Hill Village, NV","Douglas County School District",565,1 
+"32","32005","94952","99999","89413","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Zephyr Cove CCD"," ","99999","Lakeridge, NV","Douglas County School District",38,1 
+"32","32005","94952","99999","89460","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Zephyr Cove CCD"," ","99999","Gardnerville Ranchos, NV","Douglas County School District",56,1 
+"32","32005","94952","99999","89705","99999","00090","25,000-99,999","Not in a place","NV","Douglas NV","Zephyr Cove CCD"," ","99999","Indian Hills, NV","Douglas County School District",2,1 
+"32","32007","94126","08900","89822","99999","00120","25,000-99,999","1000-2499","NV","Elko NV","Carlin CCD","Carlin city, NV","99999","Carlin, NV","Elko County School District",2368,1 
+"32","32007","94126","99999","89801","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Carlin CCD"," ","99999","Elko, NV","Elko County School District",26,1 
+"32","32007","94126","99999","89822","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Carlin CCD"," ","99999","Carlin, NV","Elko County School District",2,1 
+"32","32007","94266","22500","89801","99999","00120","25,000-99,999","10,000-24,999","NV","Elko NV","Elko CCD","Elko city, NV","99999","Elko, NV","Elko County School District",18297,1 
+"32","32007","94266","39300","89828","99999","00120","25,000-99,999","Less than 200","NV","Elko NV","Elko CCD","Lamoille CDP, NV","99999","Lamoille, NV","Elko County School District",105,1 
+"32","32007","94266","53200","89801","99999","00120","25,000-99,999","200-999","NV","Elko NV","Elko CCD","Osino CDP, NV","99999","Elko, NV","Elko County School District",709,1 
+"32","32007","94266","68550","89815","99999","00120","25,000-99,999","10,000-24,999","NV","Elko NV","Elko CCD","Spring Creek CDP, NV","99999","Spring Creek, NV","Elko County School District",12361,1 
+"32","32007","94266","99999","89801","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Elko CCD"," ","99999","Elko, NV","Elko County School District",4165,1 
+"32","32007","94266","99999","89815","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Elko CCD"," ","99999","Spring Creek, NV","Elko County School District",985,1 
+"32","32007","94266","99999","89823","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Elko CCD"," ","99999","Deeth, NV","Elko County School District",133,1 
+"32","32007","94266","99999","89828","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Elko CCD"," ","99999","Lamoille, NV","Elko County School District",163,1 
+"32","32007","94266","99999","89834","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Elko CCD"," ","99999","Tuscarora, NV","Elko County School District",26,1 
+"32","32007","94476","36500","89825","99999","00120","25,000-99,999","1000-2499","NV","Elko NV","Jackpot CCD","Jackpot CDP, NV","99999","Jackpot, NV","Elko County School District",1195,1 
+"32","32007","94476","99999","89825","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Jackpot CCD"," ","99999","Jackpot, NV","Elko County School District",33,1 
+"32","32007","94476","99999","89830","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Jackpot CCD"," ","99999","Montello, NV (PO Boxes)","Elko County School District",4,1 
+"32","32007","94476","99999","89835","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Jackpot CCD"," ","99999","Wells, NV","Elko County School District",47,1 
+"32","32007","94476","99999","99999","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Jackpot CCD"," ","99999","99999","Elko County School District",6,1 
+"32","32007","94490","99999","89801","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Jarbidge CCD"," ","99999","Elko, NV","Elko County School District",33,1 
+"32","32007","94490","99999","89826","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Jarbidge CCD"," ","99999","Jarbidge, NV","Elko County School District",42,1 
+"32","32007","94490","99999","89835","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Jarbidge CCD"," ","99999","Wells, NV","Elko County School District",32,1 
+"32","32007","94602","48400","89830","99999","00120","25,000-99,999","Less than 200","NV","Elko NV","Montello CCD","Montello CDP, NV","99999","Montello, NV (PO Boxes)","Elko County School District",84,1 
+"32","32007","94602","52200","89830","99999","00120","25,000-99,999","Less than 200","NV","Elko NV","Montello CCD","Oasis CDP, NV","99999","Montello, NV (PO Boxes)","Elko County School District",29,1 
+"32","32007","94602","99999","89830","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Montello CCD"," ","99999","Montello, NV (PO Boxes)","Elko County School District",153,1 
+"32","32007","94602","99999","89835","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Montello CCD"," ","99999","Wells, NV","Elko County School District",17,1 
+"32","32007","94602","99999","89883","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Montello CCD"," ","99999","West Wendover, NV","Elko County School District",66,1 
+"32","32007","94616","53600","89832","99999","00120","25,000-99,999","200-999","NV","Elko NV","Mountain City CCD","Owyhee CDP, NV","99999","Owyhee, NV","Elko County School District",948,1 
+"32","32007","94616","53600","99999","99999","00120","25,000-99,999","200-999","NV","Elko NV","Mountain City CCD","Owyhee CDP, NV","99999","99999","Elko County School District",5,1 
+"32","32007","94616","99999","89414","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Mountain City CCD"," ","99999","Golconda, NV","Elko County School District",46,1 
+"32","32007","94616","99999","89801","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Mountain City CCD"," ","99999","Elko, NV","Elko County School District",68,1 
+"32","32007","94616","99999","89831","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Mountain City CCD"," ","99999","Mountain City, NV","Elko County School District",78,1 
+"32","32007","94616","99999","89834","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Mountain City CCD"," ","99999","Tuscarora, NV","Elko County School District",100,1 
+"32","32007","94882","83000","89835","99999","00120","25,000-99,999","1000-2499","NV","Elko NV","Wells CCD","Wells city, NV","99999","Wells, NV","Elko County School District",1292,1 
+"32","32007","94882","99999","89823","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Wells CCD"," ","99999","Deeth, NV","Elko County School District",140,1 
+"32","32007","94882","99999","89833","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Wells CCD"," ","99999","Ruby Valley, NV","Elko County School District",201,1 
+"32","32007","94882","99999","89835","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Wells CCD"," ","99999","Wells, NV","Elko County School District",423,1 
+"32","32007","94882","99999","99999","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","Wells CCD"," ","99999","99999","Elko County School District",3,1 
+"32","32007","94896","83730","89883","99999","00120","25,000-99,999","2500-9999","NV","Elko NV","West Wendover CCD","West Wendover city, NV","99999","West Wendover, NV","Elko County School District",4410,1 
+"32","32007","94896","99999","89835","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","West Wendover CCD"," ","99999","Wells, NV","Elko County School District",11,1 
+"32","32007","94896","99999","89883","99999","00120","25,000-99,999","Not in a place","NV","Elko NV","West Wendover CCD"," ","99999","West Wendover, NV","Elko County School District",12,1 
+"32","32009","94420","28900","89013","99999","00150","200-999","200-999","NV","Esmeralda NV","Goldfield CCD","Goldfield CDP, NV","99999","Goldfield, NV","Esmeralda County School District",268,1 
+"32","32009","94420","99999","89013","99999","00150","200-999","Not in a place","NV","Esmeralda NV","Goldfield CCD"," ","99999","Goldfield, NV","Esmeralda County School District",17,1 
+"32","32009","94420","99999","89049","99999","00150","200-999","Not in a place","NV","Esmeralda NV","Goldfield CCD"," ","99999","Tonopah, NV","Esmeralda County School District",22,1 
+"32","32009","94770","20700","89010","99999","00150","200-999","200-999","NV","Esmeralda NV","Silver Peak CCD","Dyer CDP, NV","99999","Dyer, NV","Esmeralda County School District",259,1 
+"32","32009","94770","67000","89047","99999","00150","200-999","Less than 200","NV","Esmeralda NV","Silver Peak CCD","Silver Peak CDP, NV","99999","Silver Peak, NV","Esmeralda County School District",107,1 
+"32","32009","94770","99999","89010","99999","00150","200-999","Not in a place","NV","Esmeralda NV","Silver Peak CCD"," ","99999","Dyer, NV","Esmeralda County School District",109,1 
+"32","32009","94770","99999","99999","99999","00150","200-999","Not in a place","NV","Esmeralda NV","Silver Peak CCD"," ","99999","99999","Esmeralda County School District",1,1 
+"32","32011","94098","16300","89821","99999","00180","1000-2499","200-999","NV","Eureka NV","Beowawe CCD","Crescent Valley CDP, NV","99999","Crescent Valley, NV","Eureka County School District",392,1 
+"32","32011","94098","99999","89316","99999","00180","1000-2499","Not in a place","NV","Eureka NV","Beowawe CCD"," ","99999","Eureka, NV","Eureka County School District",9,1 
+"32","32011","94098","99999","89820","99999","00180","1000-2499","Not in a place","NV","Eureka NV","Beowawe CCD"," ","99999","Battle Mountain, NV","Eureka County School District",2,1 
+"32","32011","94098","99999","89821","99999","00180","1000-2499","Not in a place","NV","Eureka NV","Beowawe CCD"," ","99999","Crescent Valley, NV","Eureka County School District",90,1 
+"32","32011","94098","99999","89822","99999","00180","1000-2499","Not in a place","NV","Eureka NV","Beowawe CCD"," ","99999","Carlin, NV","Eureka County School District",143,1 
+"32","32011","94294","23900","89316","99999","00180","1000-2499","200-999","NV","Eureka NV","Eureka CCD","Eureka CDP, NV","99999","Eureka, NV","Eureka County School District",610,1 
+"32","32011","94294","99999","89316","99999","00180","1000-2499","Not in a place","NV","Eureka NV","Eureka CCD"," ","99999","Eureka, NV","Eureka County School District",741,1 
+"32","32013","94406","28500","89414","99999","00210","10,000-24,999","200-999","NV","Humboldt NV","Golconda CCD","Golconda CDP, NV","99999","Golconda, NV","Humboldt County School District",214,1 
+"32","32013","94406","78200","89438","99999","00210","10,000-24,999","Less than 200","NV","Humboldt NV","Golconda CCD","Valmy CDP, NV","99999","Valmy, NV (PO Boxes)","Humboldt County School District",37,1 
+"32","32013","94406","99999","89414","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Golconda CCD"," ","99999","Golconda, NV","Humboldt County School District",89,1 
+"32","32013","94406","99999","89426","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Golconda CCD"," ","99999","Paradise Valley, NV","Humboldt County School District",31,1 
+"32","32013","94406","99999","89438","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Golconda CCD"," ","99999","Valmy, NV (PO Boxes)","Humboldt County School District",11,1 
+"32","32013","94406","99999","89445","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Golconda CCD"," ","99999","Winnemucca, NV","Humboldt County School District",1197,1 
+"32","32013","94546","25490","89421","99999","00210","10,000-24,999","200-999","NV","Humboldt NV","McDermitt CCD","Fort McDermitt CDP, NV","99999","Fort McDermitt, NV","Humboldt County School District",341,1 
+"32","32013","94546","44000","89421","99999","00210","10,000-24,999","Less than 200","NV","Humboldt NV","McDermitt CCD","McDermitt CDP, NV","99999","Fort McDermitt, NV","Humboldt County School District",172,1 
+"32","32013","94546","53000","89425","99999","00210","10,000-24,999","Less than 200","NV","Humboldt NV","McDermitt CCD","Orovada CDP, NV","99999","Orovada, NV","Humboldt County School District",112,1 
+"32","32013","94546","53000","89445","99999","00210","10,000-24,999","Less than 200","NV","Humboldt NV","McDermitt CCD","Orovada CDP, NV","99999","Winnemucca, NV","Humboldt County School District",43,1 
+"32","32013","94546","55400","89426","99999","00210","10,000-24,999","Less than 200","NV","Humboldt NV","McDermitt CCD","Paradise Valley CDP, NV","99999","Paradise Valley, NV","Humboldt County School District",109,1 
+"32","32013","94546","99999","89421","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","McDermitt CCD"," ","99999","Fort McDermitt, NV","Humboldt County School District",28,1 
+"32","32013","94546","99999","89425","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","McDermitt CCD"," ","99999","Orovada, NV","Humboldt County School District",173,1 
+"32","32013","94546","99999","89426","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","McDermitt CCD"," ","99999","Paradise Valley, NV","Humboldt County School District",68,1 
+"32","32013","94546","99999","89445","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","McDermitt CCD"," ","99999","Winnemucca, NV","Humboldt County School District",53,1 
+"32","32013","94798","18500","89404","99999","00210","10,000-24,999","Less than 200","NV","Humboldt NV","Summit Lake CCD","Denio CDP, NV","99999","Denio, NV (PO Boxes)","Humboldt County School District",47,1 
+"32","32013","94798","99999","89404","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Summit Lake CCD"," ","99999","Denio, NV (PO Boxes)","Humboldt County School District",5,1 
+"32","32013","94798","99999","89412","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Summit Lake CCD"," ","99999","Gerlach, NV","Humboldt County School District",8,1 
+"32","32013","94798","99999","89425","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Summit Lake CCD"," ","99999","Orovada, NV","Humboldt County School District",147,1 
+"32","32013","94798","99999","89445","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Summit Lake CCD"," ","99999","Winnemucca, NV","Humboldt County School District",111,1 
+"32","32013","94910","84800","89445","99999","00210","10,000-24,999","2500-9999","NV","Humboldt NV","Winnemucca CCD","Winnemucca city, NV","99999","Winnemucca, NV","Humboldt County School District",7396,1 
+"32","32013","94910","99999","89445","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Winnemucca CCD"," ","99999","Winnemucca, NV","Humboldt County School District",6100,1 
+"32","32013","94910","99999","89446","99999","00210","10,000-24,999","Not in a place","NV","Humboldt NV","Winnemucca CCD"," ","99999","Winnemucca, NV","Humboldt County School District",36,1 
+"32","32015","94042","03700","89310","99999","00240","2500-9999","Less than 200","NV","Lander NV","Austin CCD","Austin CDP, NV","99999","Austin, NV","Lander County School District",192,1 
+"32","32015","94042","38100","89310","99999","00240","2500-9999","Less than 200","NV","Lander NV","Austin CCD","Kingston CDP, NV","99999","Austin, NV","Lander County School District",113,1 
+"32","32015","94042","99999","89310","99999","00240","2500-9999","Not in a place","NV","Lander NV","Austin CCD"," ","99999","Austin, NV","Lander County School District",114,1 
+"32","32015","94042","99999","89820","99999","00240","2500-9999","Not in a place","NV","Lander NV","Austin CCD"," ","99999","Battle Mountain, NV","Lander County School District",109,1 
+"32","32015","94070","04900","89820","99999","00240","2500-9999","2500-9999","NV","Lander NV","Battle Mountain CCD","Battle Mountain CDP, NV","99999","Battle Mountain, NV","Lander County School District",3635,1 
+"32","32015","94070","99999","89820","99999","00240","2500-9999","Not in a place","NV","Lander NV","Battle Mountain CCD"," ","99999","Battle Mountain, NV","Lander County School District",1612,1 
+"32","32017","94014","00500","89001","99999","00270","2500-9999","1000-2499","NV","Lincoln NV","Alamo CCD","Alamo CDP, NV","99999","Alamo, NV","Lincoln County School District",1080,1 
+"32","32017","94014","32900","89001","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Alamo CCD","Hiko CDP, NV","99999","Alamo, NV","Lincoln County School District",5,1 
+"32","32017","94014","32900","89017","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Alamo CCD","Hiko CDP, NV","99999","Hiko, NV","Lincoln County School District",114,1 
+"32","32017","94014","58820","89001","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Alamo CCD","Rachel CDP, NV","99999","Alamo, NV","Lincoln County School District",54,1 
+"32","32017","94014","99999","89001","99999","00270","2500-9999","Not in a place","NV","Lincoln NV","Alamo CCD"," ","99999","Alamo, NV","Lincoln County School District",83,1 
+"32","32017","94014","99999","89017","99999","00270","2500-9999","Not in a place","NV","Lincoln NV","Alamo CCD"," ","99999","Hiko, NV","Lincoln County School District",62,1 
+"32","32017","94112","08500","89008","99999","00270","2500-9999","1000-2499","NV","Lincoln NV","Caliente CCD","Caliente city, NV","99999","Caliente, NV","Lincoln County School District",1130,1 
+"32","32017","94112","99999","89008","99999","00270","2500-9999","Not in a place","NV","Lincoln NV","Caliente CCD"," ","99999","Caliente, NV","Lincoln County School District",133,1 
+"32","32017","94672","05125","89008","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Pioche CCD","Beaverdam CDP, NV","99999","Caliente, NV","Lincoln County School District",44,1 
+"32","32017","94672","05275","89008","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Pioche CCD","Bennett Springs CDP, NV","99999","Caliente, NV","Lincoln County School District",132,1 
+"32","32017","94672","19800","89043","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Pioche CCD","Dry Valley CDP, NV","99999","Pioche, NV","Lincoln County School District",78,1 
+"32","32017","94672","49425","89043","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Pioche CCD","Mount Wilson CDP, NV","99999","Pioche, NV","Lincoln County School District",33,1 
+"32","32017","94672","54200","89042","99999","00270","2500-9999","200-999","NV","Lincoln NV","Pioche CCD","Panaca CDP, NV","99999","Panaca, NV","Lincoln County School District",963,1 
+"32","32017","94672","57400","89043","99999","00270","2500-9999","1000-2499","NV","Lincoln NV","Pioche CCD","Pioche CDP, NV","99999","Pioche, NV","Lincoln County School District",1002,1 
+"32","32017","94672","77200","89043","99999","00270","2500-9999","Less than 200","NV","Lincoln NV","Pioche CCD","Ursine CDP, NV","99999","Pioche, NV","Lincoln County School District",91,1 
+"32","32017","94672","99999","89008","99999","00270","2500-9999","Not in a place","NV","Lincoln NV","Pioche CCD"," ","99999","Caliente, NV","Lincoln County School District",69,1 
+"32","32017","94672","99999","89042","99999","00270","2500-9999","Not in a place","NV","Lincoln NV","Pioche CCD"," ","99999","Panaca, NV","Lincoln County School District",47,1 
+"32","32017","94672","99999","89043","99999","00270","2500-9999","Not in a place","NV","Lincoln NV","Pioche CCD"," ","99999","Pioche, NV","Lincoln County School District",225,1 
+"32","32019","94224","17500","89403","99999","00300","25,000-99,999","2500-9999","NV","Lyon NV","Dayton CCD","Dayton CDP, NV","99999","Dayton, NV","Lyon County School District",8951,1 
+"32","32019","94224","17500","89428","99999","00300","25,000-99,999","2500-9999","NV","Lyon NV","Dayton CCD","Dayton CDP, NV","99999","Silver City, NV (PO Boxes)","Lyon County School District",13,1 
+"32","32019","94224","99999","89403","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Dayton CCD"," ","99999","Dayton, NV","Lyon County School District",4526,1 
+"32","32019","94224","99999","89428","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Dayton CCD"," ","99999","Silver City, NV (PO Boxes)","Lyon County School District",166,1 
+"32","32019","94224","99999","89706","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Dayton CCD"," ","99999","Carson, NV","Lyon County School District",1620,1 
+"32","32019","94322","24900","89408","99999","00300","25,000-99,999","10,000-24,999","NV","Lyon NV","Fernley CCD","Fernley city, NV","99999","Fernley, NV","Lyon County School District",19368,1 
+"32","32019","94322","99999","89408","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Fernley CCD"," ","99999","Fernley, NV","Lyon County School District",151,1 
+"32","32019","94777","67200","89429","99999","00300","25,000-99,999","2500-9999","NV","Lyon NV","Silver Springs CCD","Silver Springs CDP, NV","99999","Silver Springs, NV","Lyon County School District",5296,1 
+"32","32019","94777","68800","89429","99999","00300","25,000-99,999","1000-2499","NV","Lyon NV","Silver Springs CCD","Stagecoach CDP, NV","99999","Silver Springs, NV","Lyon County School District",1874,1 
+"32","32019","94777","99999","89406","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Silver Springs CCD"," ","99999","Fallon, NV","Lyon County School District",2,1 
+"32","32019","94777","99999","89429","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Silver Springs CCD"," ","99999","Silver Springs, NV","Lyon County School District",457,1 
+"32","32019","94784","68050","89430","99999","00300","25,000-99,999","1000-2499","NV","Lyon NV","Smith Valley CCD","Smith Valley CDP, NV","99999","Smith Valley, NV","Lyon County School District",427,1 
+"32","32019","94784","68050","89444","99999","00300","25,000-99,999","1000-2499","NV","Lyon NV","Smith Valley CCD","Smith Valley CDP, NV","99999","Topaz Ranch Estates, NV","Lyon County School District",1176,1 
+"32","32019","94784","99999","89430","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Smith Valley CCD"," ","99999","Smith Valley, NV","Lyon County School District",6,1 
+"32","32019","94784","99999","89444","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Smith Valley CCD"," ","99999","Topaz Ranch Estates, NV","Lyon County School District",16,1 
+"32","32019","94784","99999","89447","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Smith Valley CCD"," ","99999","Yerington, NV","Lyon County School District",45,1 
+"32","32019","94924","85400","89447","99999","00300","25,000-99,999","2500-9999","NV","Lyon NV","Yerington CCD","Yerington city, NV","99999","Yerington, NV","Lyon County School District",3048,1 
+"32","32019","94924","99999","89447","99999","00300","25,000-99,999","Not in a place","NV","Lyon NV","Yerington CCD"," ","99999","Yerington, NV","Lyon County School District",4838,1 
+"32","32021","94434","31300","89415","99999","00330","2500-9999","2500-9999","NV","Mineral NV","Hawthorne CCD","Hawthorne CDP, NV","99999","Hawthorne, NV","Mineral County School District",3269,1 
+"32","32021","94434","81245","89415","99999","00330","2500-9999","200-999","NV","Mineral NV","Hawthorne CCD","Walker Lake CDP, NV","99999","Hawthorne, NV","Mineral County School District",275,1 
+"32","32021","94434","99999","89415","99999","00330","2500-9999","Not in a place","NV","Mineral NV","Hawthorne CCD"," ","99999","Hawthorne, NV","Mineral County School District",245,1 
+"32","32021","94588","46800","89422","99999","00330","2500-9999","Less than 200","NV","Mineral NV","Mina CCD","Mina CDP, NV","99999","Mina, NV","Mineral County School District",155,1 
+"32","32021","94588","99999","89010","99999","00330","2500-9999","Not in a place","NV","Mineral NV","Mina CCD"," ","99999","Dyer, NV","Mineral County School District",16,1 
+"32","32021","94588","99999","89415","99999","00330","2500-9999","Not in a place","NV","Mineral NV","Mina CCD"," ","99999","Hawthorne, NV","Mineral County School District",4,1 
+"32","32021","94588","99999","89420","99999","00330","2500-9999","Not in a place","NV","Mineral NV","Mina CCD"," ","99999","Luning, NV (PO Boxes)","Mineral County School District",48,1 
+"32","32021","94588","99999","89422","99999","00330","2500-9999","Not in a place","NV","Mineral NV","Mina CCD"," ","99999","Mina, NV","Mineral County School District",10,1 
+"32","32021","94868","65400","89427","99999","00330","2500-9999","200-999","NV","Mineral NV","Walker River CCD","Schurz CDP, NV","99999","Schurz, NV","Mineral County School District",658,1 
+"32","32021","94868","99999","89409","99999","00330","2500-9999","Not in a place","NV","Mineral NV","Walker River CCD"," ","99999","Gabbs, NV","Mineral County School District",4,1 
+"32","32021","94868","99999","89427","99999","00330","2500-9999","Not in a place","NV","Mineral NV","Walker River CCD"," ","99999","Schurz, NV","Mineral County School District",88,1 
+"32","32023","94028","99999","89020","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Amargosa Valley CCD"," ","99999","Amargosa Valley, NV","Nye County School District",1456,1 
+"32","32023","94084","05100","89003","99999","00360","25,000-99,999","1000-2499","NV","Nye NV","Beatty CCD","Beatty CDP, NV","99999","Beatty, NV","Nye County School District",1010,1 
+"32","32023","94084","99999","89003","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Beatty CCD"," ","99999","Beatty, NV","Nye County School District",22,1 
+"32","32023","94252","99999","89001","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Duckwater CCD"," ","99999","Alamo, NV","Nye County School District",2,1 
+"32","32023","94252","99999","89049","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Duckwater CCD"," ","99999","Tonopah, NV","Nye County School District",49,1 
+"32","32023","94252","99999","89314","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Duckwater CCD"," ","99999","Duckwater, NV","Nye County School District",158,1 
+"32","32023","94252","99999","89317","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Duckwater CCD"," ","99999","Lund, NV","Nye County School District",19,1 
+"32","32023","94350","25900","89409","99999","00360","25,000-99,999","200-999","NV","Nye NV","Gabbs CCD","Gabbs CDP, NV","99999","Gabbs, NV","Nye County School District",269,1 
+"32","32023","94350","99999","89045","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Gabbs CCD"," ","99999","Round Mountain, NV","Nye County School District",4,1 
+"32","32023","94350","99999","89049","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Gabbs CCD"," ","99999","Tonopah, NV","Nye County School District",111,1 
+"32","32023","94350","99999","89310","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Gabbs CCD"," ","99999","Austin, NV","Nye County School District",131,1 
+"32","32023","94350","99999","89409","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Gabbs CCD"," ","99999","Gabbs, NV","Nye County School District",10,1 
+"32","32023","94644","53800","89048","99999","00360","25,000-99,999","25,000-99,999","NV","Nye NV","Pahrump CCD","Pahrump CDP, NV","99999","Pahrump, NV","Nye County School District",21169,1 
+"32","32023","94644","53800","89060","99999","00360","25,000-99,999","25,000-99,999","NV","Nye NV","Pahrump CCD","Pahrump CDP, NV","99999","Pahrump, NV","Nye County School District",10086,1 
+"32","32023","94644","53800","89061","99999","00360","25,000-99,999","25,000-99,999","NV","Nye NV","Pahrump CCD","Pahrump CDP, NV","99999","Pahrump, NV","Nye County School District",5186,1 
+"32","32023","94644","99999","89060","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Pahrump CCD"," ","99999","Pahrump, NV","Nye County School District",111,1 
+"32","32023","94644","99999","89061","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Pahrump CCD"," ","99999","Pahrump, NV","Nye County School District",15,1 
+"32","32023","94644","99999","89124","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Pahrump CCD"," ","99999","Las Vegas, NV","Nye County School District",16,1 
+"32","32023","94701","99999","89049","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Ralston Valley CCD"," ","99999","Tonopah, NV","Nye County School District",48,1 
+"32","32023","94728","99999","89022","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Round Mountain CCD"," ","99999","Manhattan, NV (PO Boxes)","Nye County School District",69,1 
+"32","32023","94728","99999","89045","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Round Mountain CCD"," ","99999","Round Mountain, NV","Nye County School District",1501,1 
+"32","32023","94728","99999","89316","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Round Mountain CCD"," ","99999","Eureka, NV","Nye County School District",7,1 
+"32","32023","94812","73600","89049","99999","00360","25,000-99,999","1000-2499","NV","Nye NV","Tonopah CCD","Tonopah CDP, NV","99999","Tonopah, NV","Nye County School District",2478,1 
+"32","32023","94812","99999","89049","99999","00360","25,000-99,999","Not in a place","NV","Nye NV","Tonopah CCD"," ","99999","Tonopah, NV","Nye County School District",19,1 
+"32","32027","94448","30220","89445","99999","00420","2500-9999","1000-2499","NV","Pershing NV","Imlay CCD","Grass Valley CDP, NV","99999","Winnemucca, NV","Pershing County School District",1161,1 
+"32","32027","94448","34100","89419","99999","00420","2500-9999","Less than 200","NV","Pershing NV","Imlay CCD","Humboldt River Ranch CDP, NV","99999","Lovelock, NV","Pershing County School District",119,1 
+"32","32027","94448","34700","89418","99999","00420","2500-9999","Less than 200","NV","Pershing NV","Imlay CCD","Imlay CDP, NV","99999","Imlay, NV","Pershing County School District",171,1 
+"32","32027","94448","99999","89405","99999","00420","2500-9999","Not in a place","NV","Pershing NV","Imlay CCD"," ","99999","Empire, NV","Pershing County School District",1,1 
+"32","32027","94448","99999","89418","99999","00420","2500-9999","Not in a place","NV","Pershing NV","Imlay CCD"," ","99999","Imlay, NV","Pershing County School District",213,1 
+"32","32027","94448","99999","89419","99999","00420","2500-9999","Not in a place","NV","Pershing NV","Imlay CCD"," ","99999","Lovelock, NV","Pershing County School District",196,1 
+"32","32027","94448","99999","89445","99999","00420","2500-9999","Not in a place","NV","Pershing NV","Imlay CCD"," ","99999","Winnemucca, NV","Pershing County School District",53,1 
+"32","32027","94518","43000","89419","99999","00420","2500-9999","1000-2499","NV","Pershing NV","Lovelock CCD","Lovelock city, NV","99999","Lovelock, NV","Pershing County School District",1894,1 
+"32","32027","94518","99999","89418","99999","00420","2500-9999","Not in a place","NV","Pershing NV","Lovelock CCD"," ","99999","Imlay, NV","Pershing County School District",4,1 
+"32","32027","94518","99999","89419","99999","00420","2500-9999","Not in a place","NV","Pershing NV","Lovelock CCD"," ","99999","Lovelock, NV","Pershing County School District",2941,1 
+"32","32029","94196","99999","89434","99999","00450","2500-9999","Not in a place","NV","Storey NV","Clark CCD"," ","99999","Sparks, NV","Storey County School District",1113,1 
+"32","32029","94196","99999","89442","99999","00450","2500-9999","Not in a place","NV","Storey NV","Clark CCD"," ","99999","Wadsworth, NV","Storey County School District",10,1 
+"32","32029","94854","80000","89440","99999","00450","2500-9999","200-999","NV","Storey NV","Virginia City CCD","Virginia City CDP, NV","99999","Virginia City, NV","Storey County School District",855,1 
+"32","32029","94854","99999","89403","99999","00450","2500-9999","Not in a place","NV","Storey NV","Virginia City CCD"," ","99999","Dayton, NV","Storey County School District",681,1 
+"32","32029","94854","99999","89440","99999","00450","2500-9999","Not in a place","NV","Storey NV","Virginia City CCD"," ","99999","Virginia City, NV","Storey County School District",92,1 
+"32","32029","94854","99999","89521","99999","00450","2500-9999","Not in a place","NV","Storey NV","Virginia City CCD"," ","99999","Reno, NV","Storey County School District",1259,1 
+"32","32031","94440","23700","89405","99999","00480","250,000-999,999","200-999","NV","Washoe NV","High Desert CCD","Empire CDP, NV","99999","Empire, NV","Washoe County School District",217,1 
+"32","32031","94440","27300","89412","99999","00480","250,000-999,999","200-999","NV","Washoe NV","High Desert CCD","Gerlach CDP, NV","99999","Gerlach, NV","Washoe County School District",206,1 
+"32","32031","94440","99999","89405","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","High Desert CCD"," ","99999","Empire, NV","Washoe County School District",21,1 
+"32","32031","94440","99999","89412","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","High Desert CCD"," ","99999","Gerlach, NV","Washoe County School District",74,1 
+"32","32031","94440","99999","89510","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","High Desert CCD"," ","99999","Reno, NV","Washoe County School District",49,1 
+"32","32031","94462","16700","89402","99999","00480","250,000-999,999","200-999","NV","Washoe NV","Incline Village CCD","Crystal Bay CDP, NV","99999","Crystal Bay, NV","Washoe County School District",71,1 
+"32","32031","94462","16700","89451","99999","00480","250,000-999,999","200-999","NV","Washoe NV","Incline Village CCD","Crystal Bay CDP, NV","99999","Incline Village, NV","Washoe County School District",234,1 
+"32","32031","94462","35100","89450","99999","00480","250,000-999,999","2500-9999","NV","Washoe NV","Incline Village CCD","Incline Village CDP, NV","99999","Incline Village, NV","Washoe County School District",86,1 
+"32","32031","94462","35100","89451","99999","00480","250,000-999,999","2500-9999","NV","Washoe NV","Incline Village CCD","Incline Village CDP, NV","99999","Incline Village, NV","Washoe County School District",8691,1 
+"32","32031","94462","99999","89451","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Incline Village CCD"," ","99999","Incline Village, NV","Washoe County School District",5,1 
+"32","32031","94635","14090","89508","99999","00480","250,000-999,999","2500-9999","NV","Washoe NV","North Valleys CCD","Cold Springs CDP, NV","99999","Cold Springs, NV","Washoe County School District",8544,1 
+"32","32031","94635","28860","89506","99999","00480","250,000-999,999","1000-2499","NV","Washoe NV","North Valleys CCD","Golden Valley CDP, NV","99999","Reno, NV","Washoe County School District",1556,1 
+"32","32031","94635","41800","89506","99999","00480","250,000-999,999","2500-9999","NV","Washoe NV","North Valleys CCD","Lemmon Valley CDP, NV","99999","Reno, NV","Washoe County School District",5040,1 
+"32","32031","94635","60600","89503","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","North Valleys CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",808,1 
+"32","32031","94635","60600","89506","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","North Valleys CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",29903,1 
+"32","32031","94635","60600","89508","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","North Valleys CCD","Reno city, NV","99999","Cold Springs, NV","Washoe County School District",22,1 
+"32","32031","94635","60600","89512","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","North Valleys CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",977,1 
+"32","32031","94635","99999","89506","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","North Valleys CCD"," ","99999","Reno, NV","Washoe County School District",1867,1 
+"32","32031","94635","99999","89508","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","North Valleys CCD"," ","99999","Cold Springs, NV","Washoe County School District",3096,1 
+"32","32031","94686","51200","89424","99999","00480","250,000-999,999","200-999","NV","Washoe NV","Pyramid Lake CCD","Nixon CDP, NV","99999","Nixon, NV","Washoe County School District",286,1 
+"32","32031","94686","51200","89510","99999","00480","250,000-999,999","200-999","NV","Washoe NV","Pyramid Lake CCD","Nixon CDP, NV","99999","Reno, NV","Washoe County School District",88,1 
+"32","32031","94686","71800","89510","99999","00480","250,000-999,999","200-999","NV","Washoe NV","Pyramid Lake CCD","Sutcliffe CDP, NV","99999","Reno, NV","Washoe County School District",253,1 
+"32","32031","94686","81000","89442","99999","00480","250,000-999,999","200-999","NV","Washoe NV","Pyramid Lake CCD","Wadsworth CDP, NV","99999","Wadsworth, NV","Washoe County School District",834,1 
+"32","32031","94686","99999","89424","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Pyramid Lake CCD"," ","99999","Nixon, NV","Washoe County School District",55,1 
+"32","32031","94686","99999","89442","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Pyramid Lake CCD"," ","99999","Wadsworth, NV","Washoe County School District",121,1 
+"32","32031","94686","99999","89510","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Pyramid Lake CCD"," ","99999","Reno, NV","Washoe County School District",17,1 
+"32","32031","94703","48000","89523","99999","00480","250,000-999,999","1000-2499","NV","Washoe NV","Reno North CCD","Mogul CDP, NV","99999","Reno, NV","Washoe County School District",116,1 
+"32","32031","94703","60600","89431","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno North CCD","Reno city, NV","99999","Sparks, NV","Washoe County School District",31,1 
+"32","32031","94703","60600","89501","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno North CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",3418,1 
+"32","32031","94703","60600","89503","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno North CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",27062,1 
+"32","32031","94703","60600","89512","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno North CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",23129,1 
+"32","32031","94703","60600","89523","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno North CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",25696,1 
+"32","32031","94703","68400","89431","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Reno North CCD","Sparks city, NV","99999","Sparks, NV","Washoe County School District",2090,1 
+"32","32031","94703","68400","89512","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Reno North CCD","Sparks city, NV","99999","Reno, NV","Washoe County School District",9,1 
+"32","32031","94703","99999","89431","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno North CCD"," ","99999","Sparks, NV","Washoe County School District",55,1 
+"32","32031","94703","99999","89503","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno North CCD"," ","99999","Reno, NV","Washoe County School District",21,1 
+"32","32031","94703","99999","89523","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno North CCD"," ","99999","Reno, NV","Washoe County School District",6,1 
+"32","32031","94709","60600","89501","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southeast CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",426,1 
+"32","32031","94709","60600","89502","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southeast CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",40092,1 
+"32","32031","94709","60600","89511","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southeast CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",5080,1 
+"32","32031","94709","60600","89521","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southeast CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",18875,1 
+"32","32031","94709","99999","89502","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno Southeast CCD"," ","99999","Reno, NV","Washoe County School District",3344,1 
+"32","32031","94709","99999","89511","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno Southeast CCD"," ","99999","Reno, NV","Washoe County School District",62,1 
+"32","32031","94709","99999","89521","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno Southeast CCD"," ","99999","Reno, NV","Washoe County School District",1781,1 
+"32","32031","94712","60600","89501","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southwest CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",408,1 
+"32","32031","94712","60600","89502","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southwest CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",130,1 
+"32","32031","94712","60600","89509","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southwest CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",33394,1 
+"32","32031","94712","60600","89511","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southwest CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",2591,1 
+"32","32031","94712","60600","89519","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Reno Southwest CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",6566,1 
+"32","32031","94712","99999","89509","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno Southwest CCD"," ","99999","Reno, NV","Washoe County School District",1,1 
+"32","32031","94712","99999","89511","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno Southwest CCD"," ","99999","Reno, NV","Washoe County School District",12628,1 
+"32","32031","94712","99999","89519","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Reno Southwest CCD"," ","99999","Reno, NV","Washoe County School District",1826,1 
+"32","32031","94794","68400","89431","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Sparks CCD","Sparks city, NV","99999","Sparks, NV","Washoe County School District",33591,1 
+"32","32031","94794","68400","89434","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Sparks CCD","Sparks city, NV","99999","Sparks, NV","Washoe County School District",22009,1 
+"32","32031","94794","68400","89436","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Sparks CCD","Sparks city, NV","99999","Sparks, NV","Washoe County School District",880,1 
+"32","32031","94794","99999","89431","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Sparks CCD"," ","99999","Sparks, NV","Washoe County School District",410,1 
+"32","32031","94794","99999","89434","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Sparks CCD"," ","99999","Sparks, NV","Washoe County School District",211,1 
+"32","32031","94804","60600","89433","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Sun Valley CCD","Reno city, NV","99999","Sun Valley, NV","Washoe County School District",871,1 
+"32","32031","94804","60600","89512","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Sun Valley CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",1459,1 
+"32","32031","94804","68400","89433","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Sun Valley CCD","Sparks city, NV","99999","Sun Valley, NV","Washoe County School District",18,1 
+"32","32031","94804","71600","89433","99999","00480","250,000-999,999","10,000-24,999","NV","Washoe NV","Sun Valley CCD","Sun Valley CDP, NV","99999","Sun Valley, NV","Washoe County School District",17989,1 
+"32","32031","94840","48000","89523","99999","00480","250,000-999,999","1000-2499","NV","Washoe NV","Verdi CCD","Mogul CDP, NV","99999","Reno, NV","Washoe County School District",1174,1 
+"32","32031","94840","60600","89439","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Verdi CCD","Reno city, NV","99999","Verdi, NV","Washoe County School District",132,1 
+"32","32031","94840","60600","89523","99999","00480","250,000-999,999","100,000-249,999","NV","Washoe NV","Verdi CCD","Reno city, NV","99999","Reno, NV","Washoe County School District",4151,1 
+"32","32031","94840","79400","89439","99999","00480","250,000-999,999","1000-2499","NV","Washoe NV","Verdi CCD","Verdi CDP, NV","99999","Verdi, NV","Washoe County School District",1204,1 
+"32","32031","94840","79400","89523","99999","00480","250,000-999,999","1000-2499","NV","Washoe NV","Verdi CCD","Verdi CDP, NV","99999","Reno, NV","Washoe County School District",211,1 
+"32","32031","94840","99999","89439","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Verdi CCD"," ","99999","Verdi, NV","Washoe County School District",1,1 
+"32","32031","94840","99999","89523","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Verdi CCD"," ","99999","Reno, NV","Washoe County School District",19,1 
+"32","32031","94871","68350","89436","99999","00480","250,000-999,999","10,000-24,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Spanish Springs CDP, NV","99999","Sparks, NV","Washoe County School District",4013,1 
+"32","32031","94871","68350","89441","99999","00480","250,000-999,999","10,000-24,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Spanish Springs CDP, NV","99999","Spanish Springs, NV","Washoe County School District",11026,1 
+"32","32031","94871","68350","89510","99999","00480","250,000-999,999","10,000-24,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Spanish Springs CDP, NV","99999","Reno, NV","Washoe County School District",25,1 
+"32","32031","94871","68400","89431","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Sparks city, NV","99999","Sparks, NV","Washoe County School District",12,1 
+"32","32031","94871","68400","89434","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Sparks city, NV","99999","Sparks, NV","Washoe County School District",2034,1 
+"32","32031","94871","68400","89436","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Sparks city, NV","99999","Sparks, NV","Washoe County School District",29617,1 
+"32","32031","94871","68400","89442","99999","00480","250,000-999,999","25,000-99,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Sparks city, NV","99999","Wadsworth, NV","Washoe County School District",4,1 
+"32","32031","94871","71600","89433","99999","00480","250,000-999,999","10,000-24,999","NV","Washoe NV","Warm Springs-Truckee Canyon CCD","Sun Valley CDP, NV","99999","Sun Valley, NV","Washoe County School District",1310,1 
+"32","32031","94871","99999","89434","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Warm Springs-Truckee Canyon CCD"," ","99999","Sparks, NV","Washoe County School District",49,1 
+"32","32031","94871","99999","89436","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Warm Springs-Truckee Canyon CCD"," ","99999","Sparks, NV","Washoe County School District",2357,1 
+"32","32031","94871","99999","89441","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Warm Springs-Truckee Canyon CCD"," ","99999","Spanish Springs, NV","Washoe County School District",516,1 
+"32","32031","94871","99999","89442","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Warm Springs-Truckee Canyon CCD"," ","99999","Wadsworth, NV","Washoe County School District",149,1 
+"32","32031","94871","99999","89506","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Warm Springs-Truckee Canyon CCD"," ","99999","Reno, NV","Washoe County School District",13,1 
+"32","32031","94871","99999","89510","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Warm Springs-Truckee Canyon CCD"," ","99999","Reno, NV","Washoe County School District",1253,1 
+"32","32031","94874","82250","89704","99999","00480","250,000-999,999","2500-9999","NV","Washoe NV","Washoe Valley CCD","Washoe Valley CDP, NV","99999","Washoe Valley, NV","Washoe County School District",3019,1 
+"32","32031","94874","99999","89511","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Washoe Valley CCD"," ","99999","Reno, NV","Washoe County School District",4650,1 
+"32","32031","94874","99999","89521","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Washoe Valley CCD"," ","99999","Reno, NV","Washoe County School District",3801,1 
+"32","32031","94874","99999","89704","99999","00480","250,000-999,999","Not in a place","NV","Washoe NV","Washoe Valley CCD"," ","99999","Washoe Valley, NV","Washoe County School District",1271,1 
+"32","32033","94056","04100","89311","99999","00510","10,000-24,999","Less than 200","NV","White Pine NV","Baker CCD","Baker CDP, NV","99999","Baker, NV","White Pine County School District",68,1 
+"32","32033","94056","99999","84034","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Baker CCD"," ","99999","Ibapah, UT","White Pine County School District",21,1 
+"32","32033","94056","99999","89301","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Baker CCD"," ","99999","Ely, NV","White Pine County School District",107,1 
+"32","32033","94056","99999","89311","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Baker CCD"," ","99999","Baker, NV","White Pine County School District",167,1 
+"32","32033","94168","99999","89301","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Cherry Creek CCD"," ","99999","Ely, NV","White Pine County School District",50,1 
+"32","32033","94168","99999","89316","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Cherry Creek CCD"," ","99999","Eureka, NV","White Pine County School District",22,1 
+"32","32033","94280","23500","89301","99999","00510","10,000-24,999","2500-9999","NV","White Pine NV","Ely CCD","Ely city, NV","99999","Ely, NV","White Pine County School District",4255,1 
+"32","32033","94280","99999","89301","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Ely CCD"," ","99999","Ely, NV","White Pine County School District",1686,1 
+"32","32033","94532","43400","89317","99999","00510","10,000-24,999","200-999","NV","White Pine NV","Lund CCD","Lund CDP, NV","99999","Lund, NV","White Pine County School District",282,1 
+"32","32033","94532","58000","89301","99999","00510","10,000-24,999","Less than 200","NV","White Pine NV","Lund CCD","Preston CDP, NV","99999","Ely, NV","White Pine County School District",43,1 
+"32","32033","94532","58000","89317","99999","00510","10,000-24,999","Less than 200","NV","White Pine NV","Lund CCD","Preston CDP, NV","99999","Lund, NV","White Pine County School District",35,1 
+"32","32033","94532","99999","89301","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Lund CCD"," ","99999","Ely, NV","White Pine County School District",18,1 
+"32","32033","94532","99999","89316","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Lund CCD"," ","99999","Eureka, NV","White Pine County School District",19,1 
+"32","32033","94532","99999","89317","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Lund CCD"," ","99999","Lund, NV","White Pine County School District",141,1 
+"32","32033","94560","44200","89318","99999","00510","10,000-24,999","1000-2499","NV","White Pine NV","McGill CCD","McGill CDP, NV","99999","McGill, NV","White Pine County School District",1148,1 
+"32","32033","94560","99999","89301","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","McGill CCD"," ","99999","Ely, NV","White Pine County School District",228,1 
+"32","32033","94560","99999","89318","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","McGill CCD"," ","99999","McGill, NV","White Pine County School District",71,1 
+"32","32033","94742","63800","89319","99999","00510","10,000-24,999","200-999","NV","White Pine NV","Ruth CCD","Ruth CDP, NV","99999","Ruth, NV","White Pine County School District",440,1 
+"32","32033","94742","99999","89301","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Ruth CCD"," ","99999","Ely, NV","White Pine County School District",1219,1 
+"32","32033","94742","99999","89319","99999","00510","10,000-24,999","Not in a place","NV","White Pine NV","Ruth CCD"," ","99999","Ruth, NV","White Pine County School District",10,1 
+"32","32510","94140","09700","89701","99999","00390","25,000-99,999","25,000-99,999","NV","Carson City NV","Carson City CCD","Carson City, NV","99999","Carson, NV","Carson City School District",27625,1 
+"32","32510","94140","09700","89703","99999","00390","25,000-99,999","25,000-99,999","NV","Carson City NV","Carson City CCD","Carson City, NV","99999","Carson, NV","Carson City School District",9714,1 
+"32","32510","94140","09700","89705","99999","00390","25,000-99,999","25,000-99,999","NV","Carson City NV","Carson City CCD","Carson City, NV","99999","Indian Hills, NV","Carson City School District",45,1 
+"32","32510","94140","09700","89706","99999","00390","25,000-99,999","25,000-99,999","NV","Carson City NV","Carson City CCD","Carson City, NV","99999","Carson, NV","Carson City School District",17890,1 

@@ -1,0 +1,619 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"56","56001","91100","99999","82051","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","East Albany CCD"," ","99999","Bosler, WY","Albany County School District 1",38,1 
+"56","56001","91100","99999","82052","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","East Albany CCD"," ","99999","Buford, WY (PO Boxes)","Albany County School District 1",17,1 
+"56","56001","91100","99999","82058","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","East Albany CCD"," ","99999","Garrett, WY","Albany County School District 1",6,1 
+"56","56001","91100","99999","82070","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","East Albany CCD"," ","99999","Laramie, WY","Albany County School District 1",14,1 
+"56","56001","91100","99999","82072","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","East Albany CCD"," ","99999","Laramie, WY","Albany County School District 1",47,1 
+"56","56001","91100","99999","82201","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","East Albany CCD"," ","99999","Wheatland, WY","Albany County School District 1",60,1 
+"56","56001","92090","45050","82070","99999","00730","25,000-99,999","25,000-99,999","WY","Albany WY","Laramie CCD","Laramie city, WY","99999","Laramie, WY","Albany County School District 1",15845,1 
+"56","56001","92090","45050","82072","99999","00730","25,000-99,999","25,000-99,999","WY","Albany WY","Laramie CCD","Laramie city, WY","99999","Laramie, WY","Albany County School District 1",14971,1 
+"56","56001","92090","99999","82070","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Laramie CCD"," ","99999","Laramie, WY","Albany County School District 1",2754,1 
+"56","56001","92090","99999","82072","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Laramie CCD"," ","99999","Laramie, WY","Albany County School District 1",515,1 
+"56","56001","92090","99999","82073","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Laramie CCD"," ","99999","Laramie, WY","Albany County School District 1",72,1 
+"56","56001","92695","67090","82083","99999","00730","25,000-99,999","200-999","WY","Albany WY","Rock River CCD","Rock River town, WY","99999","Rock River, WY","Albany County School District 1",245,1 
+"56","56001","92695","99999","82051","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Rock River CCD"," ","99999","Bosler, WY","Albany County School District 1",22,1 
+"56","56001","92695","99999","82058","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Rock River CCD"," ","99999","Garrett, WY","Albany County School District 1",46,1 
+"56","56001","92695","99999","82070","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Rock River CCD"," ","99999","Laramie, WY","Albany County School District 1",3,1 
+"56","56001","92695","99999","82083","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Rock River CCD"," ","99999","Rock River, WY","Albany County School District 1",50,1 
+"56","56001","92695","99999","82201","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Rock River CCD"," ","99999","Wheatland, WY","Albany County School District 1",40,1 
+"56","56001","92695","99999","82329","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","Rock River CCD"," ","99999","Medicine Bow, WY","Albany County School District 1",26,1 
+"56","56001","93135","00680","82070","99999","00730","25,000-99,999","Less than 200","WY","Albany WY","South Albany CCD","Albany CDP, WY","99999","Laramie, WY","Albany County School District 1",55,1 
+"56","56001","93135","13440","82055","99999","00730","25,000-99,999","200-999","WY","Albany WY","South Albany CCD","Centennial CDP, WY","99999","Centennial, WY","Albany County School District 1",270,1 
+"56","56001","93135","29390","82070","99999","00730","25,000-99,999","Less than 200","WY","Albany WY","South Albany CCD","Fox Park CDP, WY","99999","Laramie, WY","Albany County School District 1",22,1 
+"56","56001","93135","84852","82063","99999","00730","25,000-99,999","Less than 200","WY","Albany WY","South Albany CCD","Woods Landing-Jelm CDP, WY","99999","Woods Landing-Jelm, WY","Albany County School District 1",48,1 
+"56","56001","93135","84852","82070","99999","00730","25,000-99,999","Less than 200","WY","Albany WY","South Albany CCD","Woods Landing-Jelm CDP, WY","99999","Laramie, WY","Albany County School District 1",49,1 
+"56","56001","93135","99999","82052","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","South Albany CCD"," ","99999","Buford, WY (PO Boxes)","Albany County School District 1",6,1 
+"56","56001","93135","99999","82055","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","South Albany CCD"," ","99999","Centennial, WY","Albany County School District 1",15,1 
+"56","56001","93135","99999","82063","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","South Albany CCD"," ","99999","Woods Landing-Jelm, WY","Albany County School District 1",23,1 
+"56","56001","93135","99999","82070","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","South Albany CCD"," ","99999","Laramie, WY","Albany County School District 1",1024,1 
+"56","56001","93135","99999","82084","99999","00730","25,000-99,999","Not in a place","WY","Albany WY","South Albany CCD"," ","99999","Tie Siding, WY (PO Boxes)","Albany County School District 1",16,1 
+"56","56003","90688","11120","82411","99999","01420","10,000-24,999","200-999","WY","Big Horn WY","Central Big Horn CCD","Burlington town, WY","99999","Burlington, WY","Big Horn County School District 1",288,1 
+"56","56003","90688","33885","82426","99999","03170","10,000-24,999","1000-2499","WY","Big Horn WY","Central Big Horn CCD","Greybull town, WY","99999","Greybull, WY","Big Horn County School District 3",1847,1 
+"56","56003","90688","69700","82441","99999","03170","10,000-24,999","Less than 200","WY","Big Horn WY","Central Big Horn CCD","Shell CDP, WY","99999","Shell, WY","Big Horn County School District 3",32,1 
+"56","56003","90688","99999","82410","99999","01090","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Basin, WY","Big Horn County School District 4",10,1 
+"56","56003","90688","99999","82410","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Basin, WY","Big Horn County School District 1",42,1 
+"56","56003","90688","99999","82411","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Burlington, WY","Big Horn County School District 1",305,1 
+"56","56003","90688","99999","82411","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Burlington, WY","Big Horn County School District 3",13,1 
+"56","56003","90688","99999","82422","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Emblem, WY (PO Boxes)","Big Horn County School District 3",105,1 
+"56","56003","90688","99999","82426","99999","01090","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Greybull, WY","Big Horn County School District 4",20,1 
+"56","56003","90688","99999","82426","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Greybull, WY","Big Horn County School District 3",681,1 
+"56","56003","90688","99999","82431","99999","01460","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Lovell, WY","Big Horn County School District 2",3,1 
+"56","56003","90688","99999","82434","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Otto, WY","Big Horn County School District 1",96,1 
+"56","56003","90688","99999","82435","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Powell, WY","Big Horn County School District 1",11,1 
+"56","56003","90688","99999","82441","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","Central Big Horn CCD"," ","99999","Shell, WY","Big Horn County School District 3",102,1 
+"56","56003","92393","11700","82412","99999","01420","10,000-24,999","200-999","WY","Big Horn WY","North Big Horn CCD","Byron town, WY","99999","Byron, WY","Big Horn County School District 1",593,1 
+"56","56003","92393","17645","82420","99999","01420","10,000-24,999","200-999","WY","Big Horn WY","North Big Horn CCD","Cowley town, WY","99999","Cowley, WY","Big Horn County School District 1",655,1 
+"56","56003","92393","19530","82421","99999","01420","10,000-24,999","Less than 200","WY","Big Horn WY","North Big Horn CCD","Deaver town, WY","99999","Deaver, WY","Big Horn County School District 1",178,1 
+"56","56003","92393","29825","82423","99999","01420","10,000-24,999","Less than 200","WY","Big Horn WY","North Big Horn CCD","Frannie town, WY","99999","Frannie, WY","Big Horn County School District 1",138,1 
+"56","56003","92393","47950","82431","99999","01460","10,000-24,999","1000-2499","WY","Big Horn WY","North Big Horn CCD","Lovell town, WY","99999","Lovell, WY","Big Horn County School District 2",2360,1 
+"56","56003","92393","99999","82412","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Byron, WY","Big Horn County School District 1",25,1 
+"56","56003","92393","99999","82412","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Byron, WY","Big Horn County School District 3",8,1 
+"56","56003","92393","99999","82420","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Cowley, WY","Big Horn County School District 1",128,1 
+"56","56003","92393","99999","82421","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Deaver, WY","Big Horn County School District 1",173,1 
+"56","56003","92393","99999","82423","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Frannie, WY","Big Horn County School District 1",70,1 
+"56","56003","92393","99999","82423","99999","01460","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Frannie, WY","Big Horn County School District 2",2,1 
+"56","56003","92393","99999","82431","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Lovell, WY","Big Horn County School District 1",110,1 
+"56","56003","92393","99999","82431","99999","01460","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Lovell, WY","Big Horn County School District 2",1065,1 
+"56","56003","92393","99999","82431","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Lovell, WY","Big Horn County School District 3",14,1 
+"56","56003","92393","99999","82435","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Powell, WY","Big Horn County School District 1",30,1 
+"56","56003","92393","99999","82435","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","North Big Horn CCD"," ","99999","Powell, WY","Big Horn County School District 3",22,1 
+"56","56003","93142","05320","82410","99999","01090","10,000-24,999","1000-2499","WY","Big Horn WY","South Big Horn CCD","Basin town, WY","99999","Basin, WY","Big Horn County School District 4",1285,1 
+"56","56003","93142","39395","82428","99999","01090","10,000-24,999","Less than 200","WY","Big Horn WY","South Big Horn CCD","Hyattville CDP, WY","99999","Hyattville, WY","Big Horn County School District 4",75,1 
+"56","56003","93142","49980","82432","99999","01090","10,000-24,999","Less than 200","WY","Big Horn WY","South Big Horn CCD","Manderson town, WY","99999","Manderson, WY","Big Horn County School District 4",114,1 
+"56","56003","93142","69700","82441","99999","03170","10,000-24,999","Less than 200","WY","Big Horn WY","South Big Horn CCD","Shell CDP, WY","99999","Shell, WY","Big Horn County School District 3",51,1 
+"56","56003","93142","99999","82401","99999","01090","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Worland, WY","Big Horn County School District 4",50,1 
+"56","56003","93142","99999","82410","99999","01090","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Basin, WY","Big Horn County School District 4",418,1 
+"56","56003","93142","99999","82410","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Basin, WY","Big Horn County School District 1",5,1 
+"56","56003","93142","99999","82411","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Burlington, WY","Big Horn County School District 1",58,1 
+"56","56003","93142","99999","82426","99999","01090","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Greybull, WY","Big Horn County School District 4",7,1 
+"56","56003","93142","99999","82426","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Greybull, WY","Big Horn County School District 3",89,1 
+"56","56003","93142","99999","82428","99999","01090","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Hyattville, WY","Big Horn County School District 4",64,1 
+"56","56003","93142","99999","82432","99999","01090","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Manderson, WY","Big Horn County School District 4",201,1 
+"56","56003","93142","99999","82434","99999","01420","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Otto, WY","Big Horn County School District 1",60,1 
+"56","56003","93142","99999","82441","99999","03170","10,000-24,999","Not in a place","WY","Big Horn WY","South Big Horn CCD"," ","99999","Shell, WY","Big Horn County School District 3",65,1 
+"56","56005","91210","31855","82716","99999","01470","25,000-99,999","25,000-99,999","WY","Campbell WY","Gillette North CCD","Gillette city, WY","99999","Gillette, WY","Campbell County School District 1",14273,1 
+"56","56005","91210","31855","82718","99999","01470","25,000-99,999","25,000-99,999","WY","Campbell WY","Gillette North CCD","Gillette city, WY","99999","Gillette, WY","Campbell County School District 1",9961,1 
+"56","56005","91210","99999","82716","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette North CCD"," ","99999","Gillette, WY","Campbell County School District 1",4052,1 
+"56","56005","91210","99999","82718","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette North CCD"," ","99999","Gillette, WY","Campbell County School District 1",1157,1 
+"56","56005","91210","99999","82725","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette North CCD"," ","99999","Recluse, WY","Campbell County School District 1",207,1 
+"56","56005","91210","99999","82727","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette North CCD"," ","99999","Rozet, WY","Campbell County School District 1",934,1 
+"56","56005","91210","99999","82731","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette North CCD"," ","99999","Weston, WY","Campbell County School District 1",135,1 
+"56","56005","91210","99999","82831","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette North CCD"," ","99999","Arvada, WY","Campbell County School District 1",49,1 
+"56","56005","91265","02900","82718","99999","01470","25,000-99,999","1000-2499","WY","Campbell WY","Gillette South CCD","Antelope Valley-Crestview CDP, WY","99999","Gillette, WY","Campbell County School District 1",1658,1 
+"56","56005","91265","31855","82718","99999","01470","25,000-99,999","25,000-99,999","WY","Campbell WY","Gillette South CCD","Gillette city, WY","99999","Gillette, WY","Campbell County School District 1",4853,1 
+"56","56005","91265","71350","82718","99999","01470","25,000-99,999","1000-2499","WY","Campbell WY","Gillette South CCD","Sleepy Hollow CDP, WY","99999","Gillette, WY","Campbell County School District 1",1308,1 
+"56","56005","91265","85015","82718","99999","01470","25,000-99,999","1000-2499","WY","Campbell WY","Gillette South CCD","Wright town, WY","99999","Gillette, WY","Campbell County School District 1",9,1 
+"56","56005","91265","85015","82732","99999","01470","25,000-99,999","1000-2499","WY","Campbell WY","Gillette South CCD","Wright town, WY","99999","Wright, WY","Campbell County School District 1",1798,1 
+"56","56005","91265","99999","82716","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette South CCD"," ","99999","Gillette, WY","Campbell County School District 1",422,1 
+"56","56005","91265","99999","82718","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette South CCD"," ","99999","Gillette, WY","Campbell County School District 1",4057,1 
+"56","56005","91265","99999","82727","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette South CCD"," ","99999","Rozet, WY","Campbell County School District 1",904,1 
+"56","56005","91265","99999","82732","99999","01470","25,000-99,999","Not in a place","WY","Campbell WY","Gillette South CCD"," ","99999","Wright, WY","Campbell County School District 1",356,1 
+"56","56007","91650","03245","82083","99999","01700","10,000-24,999","Less than 200","WY","Carbon WY","Hanna CCD","Arlington CDP, WY","99999","Rock River, WY","Carbon County School District 2",25,1 
+"56","56007","91650","24025","82324","99999","01700","10,000-24,999","Less than 200","WY","Carbon WY","Hanna CCD","Elk Mountain town, WY","99999","Elk Mountain, WY","Carbon County School District 2",191,1 
+"56","56007","91650","35335","82327","99999","01700","10,000-24,999","200-999","WY","Carbon WY","Hanna CCD","Hanna town, WY","99999","Hanna, WY","Carbon County School District 2",841,1 
+"56","56007","91650","51575","82329","99999","01700","10,000-24,999","200-999","WY","Carbon WY","Hanna CCD","Medicine Bow town, WY","99999","Medicine Bow, WY","Carbon County School District 2",284,1 
+"56","56007","91650","99999","82083","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Hanna CCD"," ","99999","Rock River, WY","Carbon County School District 2",53,1 
+"56","56007","91650","99999","82324","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Hanna CCD"," ","99999","Elk Mountain, WY","Carbon County School District 2",77,1 
+"56","56007","91650","99999","82327","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Hanna CCD"," ","99999","Hanna, WY","Carbon County School District 2",82,1 
+"56","56007","91650","99999","82329","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Hanna CCD"," ","99999","Medicine Bow, WY","Carbon County School District 2",49,1 
+"56","56007","91650","99999","82335","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Hanna CCD"," ","99999","Walcott, WY (PO Boxes)","Carbon County School District 1",4,1 
+"56","56007","91650","99999","82335","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Hanna CCD"," ","99999","Walcott, WY (PO Boxes)","Carbon County School District 2",17,1 
+"56","56007","91650","99999","82604","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Hanna CCD"," ","99999","Casper, WY","Carbon County School District 2",16,1 
+"56","56007","92640","04740","82321","99999","01030","10,000-24,999","200-999","WY","Carbon WY","Rawlins CCD","Baggs town, WY","99999","Baggs, WY","Carbon County School District 1",440,1 
+"56","56007","92640","20690","82323","99999","01030","10,000-24,999","Less than 200","WY","Carbon WY","Rawlins CCD","Dixon town, WY","99999","Dixon, WY","Carbon County School District 1",97,1 
+"56","56007","92640","63900","82301","99999","01030","10,000-24,999","2500-9999","WY","Carbon WY","Rawlins CCD","Rawlins city, WY","99999","Rawlins, WY","Carbon County School District 1",9259,1 
+"56","56007","92640","71150","82334","99999","01030","10,000-24,999","200-999","WY","Carbon WY","Rawlins CCD","Sinclair town, WY","99999","Sinclair, WY","Carbon County School District 1",433,1 
+"56","56007","92640","99999","82301","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Rawlins, WY","Carbon County School District 1",300,1 
+"56","56007","92640","99999","82321","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Baggs, WY","Carbon County School District 1",277,1 
+"56","56007","92640","99999","82323","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Dixon, WY","Carbon County School District 1",89,1 
+"56","56007","92640","99999","82325","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Encampment, WY","Carbon County School District 1",5,1 
+"56","56007","92640","99999","82327","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Hanna, WY","Carbon County School District 1",1,1 
+"56","56007","92640","99999","82327","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Hanna, WY","Carbon County School District 2",5,1 
+"56","56007","92640","99999","82331","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Saratoga, WY","Carbon County School District 1",3,1 
+"56","56007","92640","99999","82332","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Savery, WY","Carbon County School District 1",72,1 
+"56","56007","92640","99999","82334","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Sinclair, WY","Carbon County School District 1",68,1 
+"56","56007","92640","99999","82620","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Rawlins CCD"," ","99999","Alcova, WY (PO Boxes)","Carbon County School District 1",16,1 
+"56","56007","92860","24750","82325","99999","01700","10,000-24,999","200-999","WY","Carbon WY","Saratoga CCD","Encampment town, WY","99999","Encampment, WY","Carbon County School District 2",450,1 
+"56","56007","92860","66075","82325","99999","01700","10,000-24,999","Less than 200","WY","Carbon WY","Saratoga CCD","Riverside town, WY","99999","Encampment, WY","Carbon County School District 2",52,1 
+"56","56007","92860","67670","82331","99999","01700","10,000-24,999","Less than 200","WY","Carbon WY","Saratoga CCD","Ryan Park CDP, WY","99999","Saratoga, WY","Carbon County School District 2",38,1 
+"56","56007","92860","68685","82331","99999","01700","10,000-24,999","1000-2499","WY","Carbon WY","Saratoga CCD","Saratoga town, WY","99999","Saratoga, WY","Carbon County School District 2",1690,1 
+"56","56007","92860","99999","82325","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Saratoga CCD"," ","99999","Encampment, WY","Carbon County School District 2",371,1 
+"56","56007","92860","99999","82331","99999","01700","10,000-24,999","Not in a place","WY","Carbon WY","Saratoga CCD"," ","99999","Saratoga, WY","Carbon County School District 2",555,1 
+"56","56007","92860","99999","82332","99999","01030","10,000-24,999","Not in a place","WY","Carbon WY","Saratoga CCD"," ","99999","Savery, WY","Carbon County School District 1",25,1 
+"56","56009","90990","21125","82633","99999","02140","10,000-24,999","2500-9999","WY","Converse WY","Douglas CCD","Douglas city, WY","99999","Douglas, WY","Converse County School District 1",6120,1 
+"56","56009","90990","25185","82633","99999","02140","10,000-24,999","Less than 200","WY","Converse WY","Douglas CCD","Esterbrook CDP, WY","99999","Douglas, WY","Converse County School District 1",52,1 
+"56","56009","90990","47805","82229","99999","02140","10,000-24,999","Less than 200","WY","Converse WY","Douglas CCD","Lost Springs town, WY","99999","Shawnee, WY","Converse County School District 1",4,1 
+"56","56009","90990","58100","82633","99999","02140","10,000-24,999","Less than 200","WY","Converse WY","Douglas CCD","Orin CDP, WY","99999","Douglas, WY","Converse County School District 1",46,1 
+"56","56009","90990","99999","82229","99999","02140","10,000-24,999","Not in a place","WY","Converse WY","Douglas CCD"," ","99999","Shawnee, WY","Converse County School District 1",70,1 
+"56","56009","90990","99999","82633","99999","02140","10,000-24,999","Not in a place","WY","Converse WY","Douglas CCD"," ","99999","Douglas, WY","Converse County School District 1",3225,1 
+"56","56009","90990","99999","82633","99999","02150","10,000-24,999","Not in a place","WY","Converse WY","Douglas CCD"," ","99999","Douglas, WY","Converse County School District 2",20,1 
+"56","56009","91375","32435","82637","99999","02150","10,000-24,999","2500-9999","WY","Converse WY","Glenrock CCD","Glenrock town, WY","99999","Glenrock, WY","Converse County School District 2",2576,1 
+"56","56009","91375","67440","82637","99999","02150","10,000-24,999","200-999","WY","Converse WY","Glenrock CCD","Rolling Hills town, WY","99999","Glenrock, WY","Converse County School District 2",440,1 
+"56","56009","91375","99999","82633","99999","02140","10,000-24,999","Not in a place","WY","Converse WY","Glenrock CCD"," ","99999","Douglas, WY","Converse County School District 1",40,1 
+"56","56009","91375","99999","82633","99999","02150","10,000-24,999","Not in a place","WY","Converse WY","Glenrock CCD"," ","99999","Douglas, WY","Converse County School District 2",83,1 
+"56","56009","91375","99999","82636","99999","02150","10,000-24,999","Not in a place","WY","Converse WY","Glenrock CCD"," ","99999","Evansville, WY","Converse County School District 2",37,1 
+"56","56009","91375","99999","82637","99999","02150","10,000-24,999","Not in a place","WY","Converse WY","Glenrock CCD"," ","99999","Glenrock, WY","Converse County School District 2",1120,1 
+"56","56011","91760","39105","82720","99999","02370","2500-9999","200-999","WY","Crook WY","Hulett CCD","Hulett town, WY","99999","Hulett, WY","Crook County School District 1",383,1 
+"56","56011","91760","99999","57717","99999","02370","2500-9999","Not in a place","WY","Crook WY","Hulett CCD"," ","99999","Belle Fourche, SD","Crook County School District 1",70,1 
+"56","56011","91760","99999","82710","99999","02370","2500-9999","Not in a place","WY","Crook WY","Hulett CCD"," ","99999","Aladdin, WY","Crook County School District 1",154,1 
+"56","56011","91760","99999","82711","99999","02370","2500-9999","Not in a place","WY","Crook WY","Hulett CCD"," ","99999","Alva, WY","Crook County School District 1",102,1 
+"56","56011","91760","99999","82720","99999","02370","2500-9999","Not in a place","WY","Crook WY","Hulett CCD"," ","99999","Hulett, WY","Crook County School District 1",476,1 
+"56","56011","91760","99999","82721","99999","02370","2500-9999","Not in a place","WY","Crook WY","Hulett CCD"," ","99999","Moorcroft, WY","Crook County School District 1",26,1 
+"56","56011","92200","54185","82721","99999","02370","2500-9999","1000-2499","WY","Crook WY","Moorcroft CCD","Moorcroft town, WY","99999","Moorcroft, WY","Crook County School District 1",1009,1 
+"56","56011","92200","61610","82721","99999","02370","2500-9999","200-999","WY","Crook WY","Moorcroft CCD","Pine Haven town, WY","99999","Moorcroft, WY","Crook County School District 1",490,1 
+"56","56011","92200","99999","82714","99999","02370","2500-9999","Not in a place","WY","Crook WY","Moorcroft CCD"," ","99999","Devils Tower, WY","Crook County School District 1",46,1 
+"56","56011","92200","99999","82720","99999","02370","2500-9999","Not in a place","WY","Crook WY","Moorcroft CCD"," ","99999","Hulett, WY","Crook County School District 1",25,1 
+"56","56011","92200","99999","82721","99999","02370","2500-9999","Not in a place","WY","Crook WY","Moorcroft CCD"," ","99999","Moorcroft, WY","Crook County School District 1",1553,1 
+"56","56011","92200","99999","82729","99999","02370","2500-9999","Not in a place","WY","Crook WY","Moorcroft CCD"," ","99999","Sundance, WY","Crook County School District 1",104,1 
+"56","56011","92200","99999","82730","99999","02370","2500-9999","Not in a place","WY","Crook WY","Moorcroft CCD"," ","99999","Upton, WY","Crook County School District 1",43,1 
+"56","56011","93190","06480","82712","99999","02370","2500-9999","Less than 200","WY","Crook WY","Sundance CCD","Beulah CDP, WY","99999","Beulah, WY","Crook County School District 1",73,1 
+"56","56011","93190","74195","82729","99999","02370","2500-9999","1000-2499","WY","Crook WY","Sundance CCD","Sundance town, WY","99999","Sundance, WY","Crook County School District 1",1182,1 
+"56","56011","93190","99999","82710","99999","02370","2500-9999","Not in a place","WY","Crook WY","Sundance CCD"," ","99999","Aladdin, WY","Crook County School District 1",89,1 
+"56","56011","93190","99999","82711","99999","02370","2500-9999","Not in a place","WY","Crook WY","Sundance CCD"," ","99999","Alva, WY","Crook County School District 1",8,1 
+"56","56011","93190","99999","82712","99999","02370","2500-9999","Not in a place","WY","Crook WY","Sundance CCD"," ","99999","Beulah, WY","Crook County School District 1",191,1 
+"56","56011","93190","99999","82714","99999","02370","2500-9999","Not in a place","WY","Crook WY","Sundance CCD"," ","99999","Devils Tower, WY","Crook County School District 1",49,1 
+"56","56011","93190","99999","82720","99999","02370","2500-9999","Not in a place","WY","Crook WY","Sundance CCD"," ","99999","Hulett, WY","Crook County School District 1",71,1 
+"56","56011","93190","99999","82729","99999","02370","2500-9999","Not in a place","WY","Crook WY","Sundance CCD"," ","99999","Sundance, WY","Crook County School District 1",939,1 
+"56","56013","91045","21415","82513","99999","02670","25,000-99,999","200-999","WY","Fremont WY","Dubois CCD","Dubois town, WY","99999","Dubois, WY","Fremont County School District 2",971,1 
+"56","56013","91045","99999","82513","99999","02670","25,000-99,999","Not in a place","WY","Fremont WY","Dubois CCD"," ","99999","Dubois, WY","Fremont County School District 2",832,1 
+"56","56013","91842","40555","82520","99999","02870","25,000-99,999","Less than 200","WY","Fremont WY","Jeffrey City CCD","Jeffrey City CDP, WY","99999","Lander, WY","Fremont County School District 1",58,1 
+"56","56013","91842","99999","82301","99999","02870","25,000-99,999","Not in a place","WY","Fremont WY","Jeffrey City CCD"," ","99999","Rawlins, WY","Fremont County School District 1",8,1 
+"56","56013","91842","99999","82501","99999","02870","25,000-99,999","Not in a place","WY","Fremont WY","Jeffrey City CCD"," ","99999","Riverton, WY","Fremont County School District 1",1,1 
+"56","56013","91842","99999","82501","99999","05220","25,000-99,999","Not in a place","WY","Fremont WY","Jeffrey City CCD"," ","99999","Riverton, WY","Fremont County School District 25",1,1 
+"56","56013","91842","99999","82501","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Jeffrey City CCD"," ","99999","Riverton, WY","Fremont County School District 24",11,1 
+"56","56013","91842","99999","82520","99999","02870","25,000-99,999","Not in a place","WY","Fremont WY","Jeffrey City CCD"," ","99999","Lander, WY","Fremont County School District 1",56,1 
+"56","56013","91842","99999","82649","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Jeffrey City CCD"," ","99999","Shoshoni, WY","Fremont County School District 24",9,1 
+"56","56013","92035","04015","82520","99999","02870","25,000-99,999","Less than 200","WY","Fremont WY","Lander CCD","Atlantic City CDP, WY","99999","Lander, WY","Fremont County School District 1",37,1 
+"56","56013","92035","38960","82515","99999","02870","25,000-99,999","200-999","WY","Fremont WY","Lander CCD","Hudson town, WY","99999","Hudson, WY","Fremont County School District 1",328,1 
+"56","56013","92035","38960","82520","99999","02870","25,000-99,999","200-999","WY","Fremont WY","Lander CCD","Hudson town, WY","99999","Lander, WY","Fremont County School District 1",57,1 
+"56","56013","92035","44760","82520","99999","02870","25,000-99,999","2500-9999","WY","Fremont WY","Lander CCD","Lander city, WY","99999","Lander, WY","Fremont County School District 1",7487,1 
+"56","56013","92035","99999","82515","99999","02870","25,000-99,999","Not in a place","WY","Fremont WY","Lander CCD"," ","99999","Hudson, WY","Fremont County School District 1",1,1 
+"56","56013","92035","99999","82520","99999","02870","25,000-99,999","Not in a place","WY","Fremont WY","Lander CCD"," ","99999","Lander, WY","Fremont County School District 1",3109,1 
+"56","56013","93080","70570","82649","99999","05700","25,000-99,999","200-999","WY","Fremont WY","Shoshoni CCD","Shoshoni town, WY","99999","Shoshoni, WY","Fremont County School District 24",649,1 
+"56","56013","93080","99999","82501","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Shoshoni CCD"," ","99999","Riverton, WY","Fremont County School District 24",3,1 
+"56","56013","93080","99999","82642","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Shoshoni CCD"," ","99999","Lysite, WY","Fremont County School District 24",85,1 
+"56","56013","93080","99999","82649","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Shoshoni CCD"," ","99999","Shoshoni, WY","Fremont County School District 24",90,1 
+"56","56013","93685","03000","82501","99999","00960","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Arapahoe CDP, WY","99999","Riverton, WY","Fremont County School District 38",1196,1 
+"56","56013","93685","03000","82501","99999","05220","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Arapahoe CDP, WY","99999","Riverton, WY","Fremont County School District 25",218,1 
+"56","56013","93685","03000","82510","99999","00960","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Arapahoe CDP, WY","99999","Arapahoe, WY","Fremont County School District 38",242,1 
+"56","56013","93685","09307","82520","99999","04450","25,000-99,999","200-999","WY","Fremont WY","Wind River CCD","Boulder Flats CDP, WY","99999","Lander, WY","Fremont County School District 14",408,1 
+"56","56013","93685","18225","82512","99999","02830","25,000-99,999","Less than 200","WY","Fremont WY","Wind River CCD","Crowheart CDP, WY","99999","Crowheart, WY","Fremont County School District 6",141,1 
+"56","56013","93685","25330","82510","99999","04450","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Ethete CDP, WY","99999","Arapahoe, WY","Fremont County School District 14",58,1 
+"56","56013","93685","25330","82516","99999","04450","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Ethete CDP, WY","99999","Kinnear, WY","Fremont County School District 14",14,1 
+"56","56013","93685","25330","82520","99999","04450","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Ethete CDP, WY","99999","Lander, WY","Fremont County School District 14",1481,1 
+"56","56013","93685","28665","82514","99999","02820","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Fort Washakie CDP, WY","99999","Fort Washakie, WY","Fremont County School District 21",1400,1 
+"56","56013","93685","28665","82520","99999","02820","25,000-99,999","1000-2499","WY","Fremont WY","Wind River CCD","Fort Washakie CDP, WY","99999","Lander, WY","Fremont County School District 21",359,1 
+"56","56013","93685","38960","82515","99999","02870","25,000-99,999","200-999","WY","Fremont WY","Wind River CCD","Hudson town, WY","99999","Hudson, WY","Fremont County School District 1",73,1 
+"56","56013","93685","40945","82501","99999","02830","25,000-99,999","200-999","WY","Fremont WY","Wind River CCD","Johnstown CDP, WY","99999","Riverton, WY","Fremont County School District 6",55,1 
+"56","56013","93685","40945","82516","99999","00960","25,000-99,999","200-999","WY","Fremont WY","Wind River CCD","Johnstown CDP, WY","99999","Kinnear, WY","Fremont County School District 38",8,1 
+"56","56013","93685","40945","82516","99999","02820","25,000-99,999","200-999","WY","Fremont WY","Wind River CCD","Johnstown CDP, WY","99999","Kinnear, WY","Fremont County School District 21",47,1 
+"56","56013","93685","40945","82516","99999","02830","25,000-99,999","200-999","WY","Fremont WY","Wind River CCD","Johnstown CDP, WY","99999","Kinnear, WY","Fremont County School District 6",132,1 
+"56","56013","93685","60130","82523","99999","02830","25,000-99,999","200-999","WY","Fremont WY","Wind River CCD","Pavillion town, WY","99999","Pavillion, WY","Fremont County School District 6",231,1 
+"56","56013","93685","66220","82501","99999","05220","25,000-99,999","10,000-24,999","WY","Fremont WY","Wind River CCD","Riverton city, WY","99999","Riverton, WY","Fremont County School District 25",10615,1 
+"56","56013","93685","99999","82501","99999","00960","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Riverton, WY","Fremont County School District 38",94,1 
+"56","56013","93685","99999","82501","99999","02830","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Riverton, WY","Fremont County School District 6",666,1 
+"56","56013","93685","99999","82501","99999","02870","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Riverton, WY","Fremont County School District 1",71,1 
+"56","56013","93685","99999","82501","99999","05220","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Riverton, WY","Fremont County School District 25",6153,1 
+"56","56013","93685","99999","82501","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Riverton, WY","Fremont County School District 24",324,1 
+"56","56013","93685","99999","82510","99999","00960","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Arapahoe, WY","Fremont County School District 38",91,1 
+"56","56013","93685","99999","82510","99999","04450","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Arapahoe, WY","Fremont County School District 14",32,1 
+"56","56013","93685","99999","82512","99999","02670","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Crowheart, WY","Fremont County School District 2",9,1 
+"56","56013","93685","99999","82512","99999","02830","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Crowheart, WY","Fremont County School District 6",60,1 
+"56","56013","93685","99999","82513","99999","02670","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Dubois, WY","Fremont County School District 2",76,1 
+"56","56013","93685","99999","82514","99999","02820","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Fort Washakie, WY","Fremont County School District 21",245,1 
+"56","56013","93685","99999","82515","99999","02870","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Hudson, WY","Fremont County School District 1",44,1 
+"56","56013","93685","99999","82516","99999","02820","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Kinnear, WY","Fremont County School District 21",7,1 
+"56","56013","93685","99999","82516","99999","02830","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Kinnear, WY","Fremont County School District 6",288,1 
+"56","56013","93685","99999","82520","99999","02820","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Lander, WY","Fremont County School District 21",132,1 
+"56","56013","93685","99999","82520","99999","04450","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Lander, WY","Fremont County School District 14",351,1 
+"56","56013","93685","99999","82523","99999","02670","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Pavillion, WY","Fremont County School District 2",10,1 
+"56","56013","93685","99999","82523","99999","02830","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Pavillion, WY","Fremont County School District 6",625,1 
+"56","56013","93685","99999","82523","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Pavillion, WY","Fremont County School District 24",2,1 
+"56","56013","93685","99999","82649","99999","05700","25,000-99,999","Not in a place","WY","Fremont WY","Wind River CCD"," ","99999","Shoshoni, WY","Fremont County School District 24",372,1 
+"56","56015","91430","36060","82217","99999","02990","10,000-24,999","Less than 200","WY","Goshen WY","Goshen Hole CCD","Hawk Springs CDP, WY","99999","Hawk Springs, WY","Goshen County School District 1",36,1 
+"56","56015","91430","36060","82244","99999","02990","10,000-24,999","Less than 200","WY","Goshen WY","Goshen Hole CCD","Hawk Springs CDP, WY","99999","Yoder, WY","Goshen County School District 1",9,1 
+"56","56015","91430","43745","82221","99999","02990","10,000-24,999","200-999","WY","Goshen WY","Goshen Hole CCD","La Grange town, WY","99999","La Grange, WY","Goshen County School District 1",448,1 
+"56","56015","91430","86665","82244","99999","02990","10,000-24,999","Less than 200","WY","Goshen WY","Goshen Hole CCD","Yoder town, WY","99999","Yoder, WY","Goshen County School District 1",151,1 
+"56","56015","91430","99999","82210","99999","05090","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","Chugwater, WY","Platte County School District 1",46,1 
+"56","56015","91430","99999","82212","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","Fort Laramie, WY","Goshen County School District 1",55,1 
+"56","56015","91430","99999","82217","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","Hawk Springs, WY","Goshen County School District 1",71,1 
+"56","56015","91430","99999","82221","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","La Grange, WY","Goshen County School District 1",187,1 
+"56","56015","91430","99999","82223","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","Lingle, WY","Goshen County School District 1",91,1 
+"56","56015","91430","99999","82243","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","Veteran, WY","Goshen County School District 1",41,1 
+"56","56015","91430","99999","82244","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","Yoder, WY","Goshen County School District 1",281,1 
+"56","56015","91430","99999","82244","99999","05090","10,000-24,999","Not in a place","WY","Goshen WY","Goshen Hole CCD"," ","99999","Yoder, WY","Platte County School District 1",4,1 
+"56","56015","92585","99999","82212","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Fort Laramie, WY","Goshen County School District 1",92,1 
+"56","56015","92585","99999","82212","99999","03180","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Fort Laramie, WY","Platte County School District 2",3,1 
+"56","56015","92585","99999","82219","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Jay Em, WY","Goshen County School District 1",32,1 
+"56","56015","92585","99999","82219","99999","04230","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Jay Em, WY","Niobrara County School District 1",16,1 
+"56","56015","92585","99999","82223","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Lingle, WY","Goshen County School District 1",19,1 
+"56","56015","92585","99999","82225","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Lusk, WY","Goshen County School District 1",23,1 
+"56","56015","92585","99999","82225","99999","04230","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Lusk, WY","Niobrara County School District 1",20,1 
+"56","56015","92585","99999","82240","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Rawhide Creek CCD"," ","99999","Torrington, WY","Goshen County School District 1",204,1 
+"56","56015","93465","28230","82212","99999","02990","10,000-24,999","200-999","WY","Goshen WY","Torrington CCD","Fort Laramie town, WY","99999","Fort Laramie, WY","Goshen County School District 1",230,1 
+"56","56015","93465","39250","82240","99999","02990","10,000-24,999","Less than 200","WY","Goshen WY","Torrington CCD","Huntley CDP, WY","99999","Torrington, WY","Goshen County School District 1",30,1 
+"56","56015","93465","46790","82223","99999","02990","10,000-24,999","200-999","WY","Goshen WY","Torrington CCD","Lingle town, WY","99999","Lingle, WY","Goshen County School District 1",468,1 
+"56","56015","93465","77530","82240","99999","02990","10,000-24,999","2500-9999","WY","Goshen WY","Torrington CCD","Torrington city, WY","99999","Torrington, WY","Goshen County School District 1",6501,1 
+"56","56015","93465","80285","82243","99999","02990","10,000-24,999","Less than 200","WY","Goshen WY","Torrington CCD","Veteran CDP, WY","99999","Veteran, WY","Goshen County School District 1",23,1 
+"56","56015","93465","99999","82212","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Torrington CCD"," ","99999","Fort Laramie, WY","Goshen County School District 1",94,1 
+"56","56015","93465","99999","82223","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Torrington CCD"," ","99999","Lingle, WY","Goshen County School District 1",418,1 
+"56","56015","93465","99999","82240","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Torrington CCD"," ","99999","Torrington, WY","Goshen County School District 1",3500,1 
+"56","56015","93465","99999","82243","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Torrington CCD"," ","99999","Veteran, WY","Goshen County School District 1",123,1 
+"56","56015","93465","99999","82244","99999","02990","10,000-24,999","Not in a place","WY","Goshen WY","Torrington CCD"," ","99999","Yoder, WY","Goshen County School District 1",33,1 
+"56","56017","93355","22720","82443","99999","03310","2500-9999","200-999","WY","Hot Springs WY","Thermopolis East CCD","East Thermopolis town, WY","99999","Thermopolis, WY","Hot Springs County School District 1",254,1 
+"56","56017","93355","48240","82443","99999","03310","2500-9999","200-999","WY","Hot Springs WY","Thermopolis East CCD","Lucerne CDP, WY","99999","Thermopolis, WY","Hot Springs County School District 1",53,1 
+"56","56017","93355","76515","82443","99999","03310","2500-9999","2500-9999","WY","Hot Springs WY","Thermopolis East CCD","Thermopolis town, WY","99999","Thermopolis, WY","Hot Springs County School District 1",60,1 
+"56","56017","93355","99999","82443","99999","03310","2500-9999","Not in a place","WY","Hot Springs WY","Thermopolis East CCD"," ","99999","Thermopolis, WY","Hot Springs County School District 1",150,1 
+"56","56017","93410","42730","82430","99999","03310","2500-9999","Less than 200","WY","Hot Springs WY","Thermopolis West CCD","Kirby town, WY","99999","Kirby, WY","Hot Springs County School District 1",90,1 
+"56","56017","93410","42730","82443","99999","03310","2500-9999","Less than 200","WY","Hot Springs WY","Thermopolis West CCD","Kirby town, WY","99999","Thermopolis, WY","Hot Springs County School District 1",2,1 
+"56","56017","93410","48240","82443","99999","03310","2500-9999","200-999","WY","Hot Springs WY","Thermopolis West CCD","Lucerne CDP, WY","99999","Thermopolis, WY","Hot Springs County School District 1",482,1 
+"56","56017","93410","59332","82443","99999","03310","2500-9999","Less than 200","WY","Hot Springs WY","Thermopolis West CCD","Owl Creek CDP, WY","99999","Thermopolis, WY","Hot Springs County School District 1",5,1 
+"56","56017","93410","76515","82443","99999","03310","2500-9999","2500-9999","WY","Hot Springs WY","Thermopolis West CCD","Thermopolis town, WY","99999","Thermopolis, WY","Hot Springs County School District 1",2949,1 
+"56","56017","93410","99999","82401","99999","03310","2500-9999","Not in a place","WY","Hot Springs WY","Thermopolis West CCD"," ","99999","Worland, WY","Hot Springs County School District 1",15,1 
+"56","56017","93410","99999","82430","99999","03310","2500-9999","Not in a place","WY","Hot Springs WY","Thermopolis West CCD"," ","99999","Kirby, WY","Hot Springs County School District 1",10,1 
+"56","56017","93410","99999","82443","99999","03310","2500-9999","Not in a place","WY","Hot Springs WY","Thermopolis West CCD"," ","99999","Thermopolis, WY","Hot Springs County School District 1",582,1 
+"56","56017","93744","99999","82443","99999","03310","2500-9999","Not in a place","WY","Hot Springs WY","Wind River Reservation CCD"," ","99999","Thermopolis, WY","Hot Springs County School District 1",160,1 
+"56","56019","90495","10685","82834","99999","03770","2500-9999","2500-9999","WY","Johnson WY","Buffalo CCD","Buffalo city, WY","99999","Buffalo, WY","Johnson County School District 1",4585,1 
+"56","56019","90495","99999","82831","99999","03770","2500-9999","Not in a place","WY","Johnson WY","Buffalo CCD"," ","99999","Arvada, WY","Johnson County School District 1",61,1 
+"56","56019","90495","99999","82832","99999","03770","2500-9999","Not in a place","WY","Johnson WY","Buffalo CCD"," ","99999","Banner, WY","Johnson County School District 1",135,1 
+"56","56019","90495","99999","82834","99999","03770","2500-9999","Not in a place","WY","Johnson WY","Buffalo CCD"," ","99999","Buffalo, WY","Johnson County School District 1",2956,1 
+"56","56019","91870","41353","82639","99999","03770","2500-9999","200-999","WY","Johnson WY","Kaycee CCD","Kaycee town, WY","99999","Kaycee, WY","Johnson County School District 1",263,1 
+"56","56019","91870","99999","82639","99999","03770","2500-9999","Not in a place","WY","Johnson WY","Kaycee CCD"," ","99999","Kaycee, WY","Johnson County School District 1",496,1 
+"56","56019","91870","99999","82640","99999","03770","2500-9999","Not in a place","WY","Johnson WY","Kaycee CCD"," ","99999","Linch, WY (PO Boxes)","Johnson County School District 1",29,1 
+"56","56019","91870","99999","82834","99999","03770","2500-9999","Not in a place","WY","Johnson WY","Kaycee CCD"," ","99999","Buffalo, WY","Johnson County School District 1",44,1 
+"56","56021","90715","13900","82001","99999","01980","25,000-99,999","25,000-99,999","WY","Laramie WY","Cheyenne CCD","Cheyenne city, WY","99999","Cheyenne, WY","Laramie County School District 1",31989,1 
+"56","56021","90715","13900","82007","99999","01980","25,000-99,999","25,000-99,999","WY","Laramie WY","Cheyenne CCD","Cheyenne city, WY","99999","Cheyenne, WY","Laramie County School District 1",8634,1 
+"56","56021","90715","13900","82009","99999","01980","25,000-99,999","25,000-99,999","WY","Laramie WY","Cheyenne CCD","Cheyenne city, WY","99999","Cheyenne, WY","Laramie County School District 1",18629,1 
+"56","56021","90715","29300","82007","99999","01980","25,000-99,999","2500-9999","WY","Laramie WY","Cheyenne CCD","Fox Farm-College CDP, WY","99999","Cheyenne, WY","Laramie County School District 1",3647,1 
+"56","56021","90715","63800","82009","99999","01980","25,000-99,999","2500-9999","WY","Laramie WY","Cheyenne CCD","Ranchettes CDP, WY","99999","Cheyenne, WY","Laramie County School District 1",3205,1 
+"56","56021","90715","71800","82007","99999","01980","25,000-99,999","2500-9999","WY","Laramie WY","Cheyenne CCD","South Greeley CDP, WY","99999","Cheyenne, WY","Laramie County School District 1",4217,1 
+"56","56021","90715","99999","82001","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",473,1 
+"56","56021","90715","99999","82007","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",1593,1 
+"56","56021","90715","99999","82009","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",76,1 
+"56","56021","90770","13900","82001","99999","01980","25,000-99,999","25,000-99,999","WY","Laramie WY","Cheyenne East CCD","Cheyenne city, WY","99999","Cheyenne, WY","Laramie County School District 1",147,1 
+"56","56021","90770","13900","82007","99999","01980","25,000-99,999","25,000-99,999","WY","Laramie WY","Cheyenne East CCD","Cheyenne city, WY","99999","Cheyenne, WY","Laramie County School District 1",67,1 
+"56","56021","90770","63800","82009","99999","01980","25,000-99,999","2500-9999","WY","Laramie WY","Cheyenne East CCD","Ranchettes CDP, WY","99999","Cheyenne, WY","Laramie County School District 1",2130,1 
+"56","56021","90770","99999","82001","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",147,1 
+"56","56021","90770","99999","82007","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",490,1 
+"56","56021","90770","99999","82007","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Cheyenne, WY","Laramie County School District 2",284,1 
+"56","56021","90770","99999","82009","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",3500,1 
+"56","56021","90770","99999","82009","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Cheyenne, WY","Laramie County School District 2",368,1 
+"56","56021","90770","99999","82053","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Burns, WY","Laramie County School District 2",665,1 
+"56","56021","90770","99999","82054","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Carpenter, WY","Laramie County School District 2",506,1 
+"56","56021","90770","99999","82060","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Hillsdale, WY (PO Boxes)","Laramie County School District 2",313,1 
+"56","56021","90770","99999","82081","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne East CCD"," ","99999","Meriden, WY","Laramie County School District 2",25,1 
+"56","56021","90825","63800","82009","99999","01980","25,000-99,999","2500-9999","WY","Laramie WY","Cheyenne West CCD","Ranchettes CDP, WY","99999","Cheyenne, WY","Laramie County School District 1",463,1 
+"56","56021","90825","81640","82001","99999","01980","25,000-99,999","2500-9999","WY","Laramie WY","Cheyenne West CCD","Warren AFB CDP, WY","99999","Cheyenne, WY","Laramie County School District 1",2655,1 
+"56","56021","90825","81640","82005","99999","01980","25,000-99,999","2500-9999","WY","Laramie WY","Cheyenne West CCD","Warren AFB CDP, WY","99999","Warren AFB, WY","Laramie County School District 1",417,1 
+"56","56021","90825","99999","82001","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne West CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",73,1 
+"56","56021","90825","99999","82007","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne West CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",164,1 
+"56","56021","90825","99999","82009","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne West CCD"," ","99999","Cheyenne, WY","Laramie County School District 1",3308,1 
+"56","56021","90825","99999","82059","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne West CCD"," ","99999","Granite Canyon, WY","Laramie County School District 1",135,1 
+"56","56021","90825","99999","82061","99999","01980","25,000-99,999","Not in a place","WY","Laramie WY","Cheyenne West CCD"," ","99999","Horse Creek, WY (PO Boxes)","Laramie County School District 1",39,1 
+"56","56021","92420","00825","82050","99999","04120","25,000-99,999","Less than 200","WY","Laramie WY","Pine Bluffs CCD","Albin town, WY","99999","Albin, WY","Laramie County School District 2",181,1 
+"56","56021","92420","11265","82053","99999","04120","25,000-99,999","200-999","WY","Laramie WY","Pine Bluffs CCD","Burns town, WY","99999","Burns, WY","Laramie County School District 2",301,1 
+"56","56021","92420","12860","82054","99999","04120","25,000-99,999","Less than 200","WY","Laramie WY","Pine Bluffs CCD","Carpenter CDP, WY","99999","Carpenter, WY","Laramie County School District 2",94,1 
+"56","56021","92420","37510","82060","99999","04120","25,000-99,999","Less than 200","WY","Laramie WY","Pine Bluffs CCD","Hillsdale CDP, WY","99999","Hillsdale, WY (PO Boxes)","Laramie County School District 2",47,1 
+"56","56021","92420","61435","82082","99999","04120","25,000-99,999","1000-2499","WY","Laramie WY","Pine Bluffs CCD","Pine Bluffs town, WY","99999","Pine Bluffs, WY","Laramie County School District 2",1129,1 
+"56","56021","92420","99999","82009","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Pine Bluffs CCD"," ","99999","Cheyenne, WY","Laramie County School District 2",24,1 
+"56","56021","92420","99999","82050","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Pine Bluffs CCD"," ","99999","Albin, WY","Laramie County School District 2",220,1 
+"56","56021","92420","99999","82053","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Pine Bluffs CCD"," ","99999","Burns, WY","Laramie County School District 2",558,1 
+"56","56021","92420","99999","82054","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Pine Bluffs CCD"," ","99999","Carpenter, WY","Laramie County School District 2",320,1 
+"56","56021","92420","99999","82060","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Pine Bluffs CCD"," ","99999","Hillsdale, WY (PO Boxes)","Laramie County School District 2",12,1 
+"56","56021","92420","99999","82081","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Pine Bluffs CCD"," ","99999","Meriden, WY","Laramie County School District 2",35,1 
+"56","56021","92420","99999","82082","99999","04120","25,000-99,999","Not in a place","WY","Laramie WY","Pine Bluffs CCD"," ","99999","Pine Bluffs, WY","Laramie County School District 2",458,1 
+"56","56023","90055","00245","83110","99999","04060","10,000-24,999","1000-2499","WY","Lincoln WY","Afton CCD","Afton town, WY","99999","Afton, WY","Lincoln County School District 2",1911,1 
+"56","56023","90055","01695","83128","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Alpine town, WY","99999","Alpine, WY","Lincoln County School District 2",828,1 
+"56","56023","90055","01888","83128","99999","04060","10,000-24,999","Less than 200","WY","Lincoln WY","Afton CCD","Alpine Northeast CDP, WY","99999","Alpine, WY","Lincoln County School District 2",196,1 
+"56","56023","90055","01936","83128","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Alpine Northwest CDP, WY","99999","Alpine, WY","Lincoln County School District 2",244,1 
+"56","56023","90055","04160","83111","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Auburn CDP, WY","99999","Auburn, WY","Lincoln County School District 2",328,1 
+"56","56023","90055","06045","83112","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Bedford CDP, WY","99999","Bedford, WY","Lincoln County School District 2",201,1 
+"56","56023","90055","25475","83118","99999","04060","10,000-24,999","Less than 200","WY","Lincoln WY","Afton CCD","Etna CDP, WY","99999","Nordic, WY","Lincoln County School District 2",164,1 
+"56","56023","90055","25910","83110","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Fairview CDP, WY","99999","Afton, WY","Lincoln County School District 2",205,1 
+"56","56023","90055","25910","83119","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Fairview CDP, WY","99999","Fairview, WY (PO Boxes)","Lincoln County School District 2",70,1 
+"56","56023","90055","30115","83118","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Freedom CDP, WY","99999","Nordic, WY","Lincoln County School District 2",2,1 
+"56","56023","90055","30115","83120","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Freedom CDP, WY","99999","Freedom, WY","Lincoln County School District 2",212,1 
+"56","56023","90055","34030","83122","99999","04060","10,000-24,999","Less than 200","WY","Lincoln WY","Afton CCD","Grover CDP, WY","99999","Grover, WY","Lincoln County School District 2",147,1 
+"56","56023","90055","56520","83118","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Nordic CDP, WY","99999","Nordic, WY","Lincoln County School District 2",602,1 
+"56","56023","90055","58970","83110","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Osmond CDP, WY","99999","Afton, WY","Lincoln County School District 2",397,1 
+"56","56023","90055","71440","83110","99999","04060","10,000-24,999","Less than 200","WY","Lincoln WY","Afton CCD","Smoot CDP, WY","99999","Afton, WY","Lincoln County School District 2",27,1 
+"56","56023","90055","71440","83126","99999","04060","10,000-24,999","Less than 200","WY","Lincoln WY","Afton CCD","Smoot CDP, WY","99999","Smoot, WY","Lincoln County School District 2",168,1 
+"56","56023","90055","73180","83127","99999","04060","10,000-24,999","1000-2499","WY","Lincoln WY","Afton CCD","Star Valley Ranch town, WY","99999","Star Valley Ranch, WY","Lincoln County School District 2",1503,1 
+"56","56023","90055","76370","83127","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Afton CCD","Thayne town, WY","99999","Star Valley Ranch, WY","Lincoln County School District 2",366,1 
+"56","56023","90055","78400","83112","99999","04060","10,000-24,999","Less than 200","WY","Lincoln WY","Afton CCD","Turnerville CDP, WY","99999","Bedford, WY","Lincoln County School District 2",192,1 
+"56","56023","90055","99999","83110","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Afton, WY","Lincoln County School District 2",1767,1 
+"56","56023","90055","99999","83111","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Auburn, WY","Lincoln County School District 2",137,1 
+"56","56023","90055","99999","83112","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Bedford, WY","Lincoln County School District 2",273,1 
+"56","56023","90055","99999","83118","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Nordic, WY","Lincoln County School District 2",371,1 
+"56","56023","90055","99999","83119","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Fairview, WY (PO Boxes)","Lincoln County School District 2",102,1 
+"56","56023","90055","99999","83120","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Freedom, WY","Lincoln County School District 2",147,1 
+"56","56023","90055","99999","83122","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Grover, WY","Lincoln County School District 2",347,1 
+"56","56023","90055","99999","83126","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Smoot, WY","Lincoln County School District 2",166,1 
+"56","56023","90055","99999","83127","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Star Valley Ranch, WY","Lincoln County School District 2",1172,1 
+"56","56023","90055","99999","83128","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Afton CCD"," ","99999","Alpine, WY","Lincoln County School District 2",333,1 
+"56","56023","91925","20110","83101","99999","04030","10,000-24,999","200-999","WY","Lincoln WY","Kemmerer East CCD","Diamondville town, WY","99999","Kemmerer, WY","Lincoln County School District 1",9,1 
+"56","56023","91925","20110","83116","99999","04030","10,000-24,999","200-999","WY","Lincoln WY","Kemmerer East CCD","Diamondville town, WY","99999","Diamondville, WY","Lincoln County School District 1",728,1 
+"56","56023","91925","27650","83101","99999","04030","10,000-24,999","Less than 200","WY","Lincoln WY","Kemmerer East CCD","Fontenelle CDP, WY","99999","Kemmerer, WY","Lincoln County School District 1",13,1 
+"56","56023","91925","42005","83101","99999","04030","10,000-24,999","2500-9999","WY","Lincoln WY","Kemmerer East CCD","Kemmerer city, WY","99999","Kemmerer, WY","Lincoln County School District 1",2650,1 
+"56","56023","91925","42005","83121","99999","04030","10,000-24,999","2500-9999","WY","Lincoln WY","Kemmerer East CCD","Kemmerer city, WY","99999","Frontier, WY (PO Boxes)","Lincoln County School District 1",6,1 
+"56","56023","91925","43455","83123","99999","01260","10,000-24,999","200-999","WY","Lincoln WY","Kemmerer East CCD","La Barge town, WY","99999","La Barge, WY","Sublette County School District 9",551,1 
+"56","56023","91925","57375","83101","99999","04030","10,000-24,999","Less than 200","WY","Lincoln WY","Kemmerer East CCD","Oakley CDP, WY","99999","Kemmerer, WY","Lincoln County School District 1",49,1 
+"56","56023","91925","57810","83124","99999","04030","10,000-24,999","Less than 200","WY","Lincoln WY","Kemmerer East CCD","Opal town, WY","99999","Opal, WY","Lincoln County School District 1",96,1 
+"56","56023","91925","99999","83101","99999","01260","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer East CCD"," ","99999","Kemmerer, WY","Sublette County School District 9",93,1 
+"56","56023","91925","99999","83101","99999","04030","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer East CCD"," ","99999","Kemmerer, WY","Lincoln County School District 1",142,1 
+"56","56023","91925","99999","83121","99999","04030","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer East CCD"," ","99999","Frontier, WY (PO Boxes)","Lincoln County School District 1",8,1 
+"56","56023","91925","99999","83123","99999","01260","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer East CCD"," ","99999","La Barge, WY","Sublette County School District 9",160,1 
+"56","56023","91925","99999","83124","99999","04030","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer East CCD"," ","99999","Opal, WY","Lincoln County School District 1",41,1 
+"56","56023","91980","15905","83114","99999","04060","10,000-24,999","200-999","WY","Lincoln WY","Kemmerer West CCD","Cokeville town, WY","99999","Cokeville, WY","Lincoln County School District 2",535,1 
+"56","56023","91980","75572","83114","99999","04060","10,000-24,999","Less than 200","WY","Lincoln WY","Kemmerer West CCD","Taylor CDP, WY","99999","Cokeville, WY","Lincoln County School District 2",90,1 
+"56","56023","91980","99999","83101","99999","04030","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer West CCD"," ","99999","Kemmerer, WY","Lincoln County School District 1",146,1 
+"56","56023","91980","99999","83101","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer West CCD"," ","99999","Kemmerer, WY","Lincoln County School District 2",2,1 
+"56","56023","91980","99999","83114","99999","04060","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer West CCD"," ","99999","Cokeville, WY","Lincoln County School District 2",203,1 
+"56","56023","91980","99999","99999","99999","04030","10,000-24,999","Not in a place","WY","Lincoln WY","Kemmerer West CCD"," ","99999","99999","Lincoln County School District 1",6,1 
+"56","56025","90550","13150","82601","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Casper CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",20191,1 
+"56","56025","90550","13150","82604","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Casper CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",14788,1 
+"56","56025","90550","13150","82609","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Casper CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",12324,1 
+"56","56025","90550","53460","82604","99999","04510","25,000-99,999","2500-9999","WY","Natrona WY","Casper CCD","Mills town, WY","99999","Casper, WY","Natrona County School District 1",1981,1 
+"56","56025","90550","53460","82644","99999","04510","25,000-99,999","2500-9999","WY","Natrona WY","Casper CCD","Mills town, WY","99999","Mills, WY","Natrona County School District 1",1480,1 
+"56","56025","90550","55200","82604","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Casper CCD","Mountain View CDP, WY","99999","Casper, WY","Natrona County School District 1",60,1 
+"56","56025","90550","99999","82601","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper CCD"," ","99999","Casper, WY","Natrona County School District 1",736,1 
+"56","56025","90550","99999","82604","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper CCD"," ","99999","Casper, WY","Natrona County School District 1",834,1 
+"56","56025","90550","99999","82609","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper CCD"," ","99999","Casper, WY","Natrona County School District 1",5,1 
+"56","56025","90605","02877","82601","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Casper North CCD","Antelope Hills CDP, WY","99999","Casper, WY","Natrona County School District 1",97,1 
+"56","56025","90605","05245","82601","99999","04510","25,000-99,999","1000-2499","WY","Natrona WY","Casper North CCD","Bar Nunn town, WY","99999","Casper, WY","Natrona County School District 1",2213,1 
+"56","56025","90605","13150","82601","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Casper North CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",36,1 
+"56","56025","90605","23155","82635","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Casper North CCD","Edgerton town, WY","99999","Edgerton, WY","Natrona County School District 1",195,1 
+"56","56025","90605","35552","82601","99999","04510","25,000-99,999","200-999","WY","Natrona WY","Casper North CCD","Hartrandt CDP, WY","99999","Casper, WY","Natrona County School District 1",693,1 
+"56","56025","90605","38307","82601","99999","04510","25,000-99,999","200-999","WY","Natrona WY","Casper North CCD","Homa Hills CDP, WY","99999","Casper, WY","Natrona County School District 1",278,1 
+"56","56025","90605","52445","82643","99999","04510","25,000-99,999","200-999","WY","Natrona WY","Casper North CCD","Midwest town, WY","99999","Midwest, WY","Natrona County School District 1",404,1 
+"56","56025","90605","99999","82601","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper North CCD"," ","99999","Casper, WY","Natrona County School District 1",345,1 
+"56","56025","90605","99999","82604","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper North CCD"," ","99999","Casper, WY","Natrona County School District 1",4,1 
+"56","56025","90605","99999","82635","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper North CCD"," ","99999","Edgerton, WY","Natrona County School District 1",12,1 
+"56","56025","90605","99999","82636","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper North CCD"," ","99999","Evansville, WY","Natrona County School District 1",1271,1 
+"56","56025","90605","99999","82639","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper North CCD"," ","99999","Kaycee, WY","Natrona County School District 1",7,1 
+"56","56025","90605","99999","82643","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper North CCD"," ","99999","Midwest, WY","Natrona County School District 1",65,1 
+"56","56025","90660","10175","82636","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Casper South CCD","Brookhurst CDP, WY","99999","Evansville, WY","Natrona County School District 1",185,1 
+"56","56025","90660","13150","82601","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Casper South CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",1709,1 
+"56","56025","90660","13150","82604","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Casper South CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",252,1 
+"56","56025","90660","13150","82609","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Casper South CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",3161,1 
+"56","56025","90660","13222","82601","99999","04510","25,000-99,999","200-999","WY","Natrona WY","Casper South CCD","Casper Mountain CDP, WY","99999","Casper, WY","Natrona County School District 1",401,1 
+"56","56025","90660","25765","82601","99999","04510","25,000-99,999","2500-9999","WY","Natrona WY","Casper South CCD","Evansville town, WY","99999","Casper, WY","Natrona County School District 1",378,1 
+"56","56025","90660","25765","82609","99999","04510","25,000-99,999","2500-9999","WY","Natrona WY","Casper South CCD","Evansville town, WY","99999","Casper, WY","Natrona County School District 1",53,1 
+"56","56025","90660","25765","82636","99999","04510","25,000-99,999","2500-9999","WY","Natrona WY","Casper South CCD","Evansville town, WY","99999","Evansville, WY","Natrona County School District 1",2113,1 
+"56","56025","90660","51285","82636","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Casper South CCD","Meadow Acres CDP, WY","99999","Evansville, WY","Natrona County School District 1",198,1 
+"56","56025","90660","99999","82601","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper South CCD"," ","99999","Casper, WY","Natrona County School District 1",323,1 
+"56","56025","90660","99999","82604","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper South CCD"," ","99999","Casper, WY","Natrona County School District 1",1352,1 
+"56","56025","90660","99999","82609","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper South CCD"," ","99999","Casper, WY","Natrona County School District 1",187,1 
+"56","56025","90660","99999","82636","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Casper South CCD"," ","99999","Evansville, WY","Natrona County School District 1",177,1 
+"56","56025","91705","01115","82620","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Hells Half Acre CCD","Alcova CDP, WY","99999","Alcova, WY (PO Boxes)","Natrona County School District 1",76,1 
+"56","56025","91705","06407","82604","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Hells Half Acre CCD","Bessemer Bend CDP, WY","99999","Casper, WY","Natrona County School District 1",199,1 
+"56","56025","91705","13150","82604","99999","04510","25,000-99,999","25,000-99,999","WY","Natrona WY","Hells Half Acre CCD","Casper city, WY","99999","Casper, WY","Natrona County School District 1",2855,1 
+"56","56025","91705","55200","82604","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Hells Half Acre CCD","Mountain View CDP, WY","99999","Casper, WY","Natrona County School District 1",36,1 
+"56","56025","91705","62305","82604","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Hells Half Acre CCD","Powder River CDP, WY","99999","Casper, WY","Natrona County School District 1",8,1 
+"56","56025","91705","62305","82648","99999","04510","25,000-99,999","Less than 200","WY","Natrona WY","Hells Half Acre CCD","Powder River CDP, WY","99999","Powder River, WY","Natrona County School District 1",36,1 
+"56","56025","91705","64400","82604","99999","04510","25,000-99,999","200-999","WY","Natrona WY","Hells Half Acre CCD","Red Butte CDP, WY","99999","Casper, WY","Natrona County School District 1",449,1 
+"56","56025","91705","80575","82604","99999","04510","25,000-99,999","200-999","WY","Natrona WY","Hells Half Acre CCD","Vista West CDP, WY","99999","Casper, WY","Natrona County School District 1",951,1 
+"56","56025","91705","99999","82604","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Casper, WY","Natrona County School District 1",2097,1 
+"56","56025","91705","99999","82620","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Alcova, WY (PO Boxes)","Natrona County School District 1",118,1 
+"56","56025","91705","99999","82630","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Arminto, WY","Natrona County School District 1",10,1 
+"56","56025","91705","99999","82638","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Hiland, WY","Natrona County School District 1",17,1 
+"56","56025","91705","99999","82639","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Kaycee, WY","Natrona County School District 1",39,1 
+"56","56025","91705","99999","82642","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Lysite, WY","Natrona County School District 1",9,1 
+"56","56025","91705","99999","82646","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Natrona, WY","Natrona County School District 1",20,1 
+"56","56025","91705","99999","82648","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","Powder River, WY","Natrona County School District 1",20,1 
+"56","56025","91705","99999","99999","99999","04510","25,000-99,999","Not in a place","WY","Natrona WY","Hells Half Acre CCD"," ","99999","99999","Natrona County School District 1",2,1 
+"56","56027","91128","48530","82225","99999","04230","1000-2499","1000-2499","WY","Niobrara WY","East Niobrara CCD","Lusk town, WY","99999","Lusk, WY","Niobrara County School District 1",661,1 
+"56","56027","91128","79705","82242","99999","04230","1000-2499","Less than 200","WY","Niobrara WY","East Niobrara CCD","Van Tassell town, WY","99999","Van Tassell, WY","Niobrara County School District 1",15,1 
+"56","56027","91128","99999","82225","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","East Niobrara CCD"," ","99999","Lusk, WY","Niobrara County School District 1",292,1 
+"56","56027","91128","99999","82242","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","East Niobrara CCD"," ","99999","Van Tassell, WY","Niobrara County School District 1",24,1 
+"56","56027","91128","99999","82701","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","East Niobrara CCD"," ","99999","Newcastle, WY","Niobrara County School District 1",3,1 
+"56","56027","93603","44615","82222","99999","04230","1000-2499","Less than 200","WY","Niobrara WY","West Niobrara CCD","Lance Creek CDP, WY","99999","Lance Creek, WY","Niobrara County School District 1",28,1 
+"56","56027","93603","44615","82224","99999","04230","1000-2499","Less than 200","WY","Niobrara WY","West Niobrara CCD","Lance Creek CDP, WY","99999","Lost Springs, WY","Niobrara County School District 1",7,1 
+"56","56027","93603","44615","82225","99999","04230","1000-2499","Less than 200","WY","Niobrara WY","West Niobrara CCD","Lance Creek CDP, WY","99999","Lusk, WY","Niobrara County School District 1",8,1 
+"56","56027","93603","48530","82225","99999","04230","1000-2499","1000-2499","WY","Niobrara WY","West Niobrara CCD","Lusk town, WY","99999","Lusk, WY","Niobrara County School District 1",906,1 
+"56","56027","93603","50270","82227","99999","04230","1000-2499","Less than 200","WY","Niobrara WY","West Niobrara CCD","Manville town, WY","99999","Manville, WY","Niobrara County School District 1",95,1 
+"56","56027","93603","99999","82222","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","West Niobrara CCD"," ","99999","Lance Creek, WY","Niobrara County School District 1",79,1 
+"56","56027","93603","99999","82224","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","West Niobrara CCD"," ","99999","Lost Springs, WY","Niobrara County School District 1",16,1 
+"56","56027","93603","99999","82225","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","West Niobrara CCD"," ","99999","Lusk, WY","Niobrara County School District 1",157,1 
+"56","56027","93603","99999","82227","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","West Niobrara CCD"," ","99999","Manville, WY","Niobrara County School District 1",146,1 
+"56","56027","93603","99999","82633","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","West Niobrara CCD"," ","99999","Douglas, WY","Niobrara County School District 1",6,1 
+"56","56027","93603","99999","82701","99999","04230","1000-2499","Not in a place","WY","Niobrara WY","West Niobrara CCD"," ","99999","Newcastle, WY","Niobrara County School District 1",41,1 
+"56","56029","90935","15760","82414","99999","02070","25,000-99,999","2500-9999","WY","Park WY","Cody CCD","Cody city, WY","99999","Cody, WY","Park County School District 6",9520,1 
+"56","56029","90935","99999","82414","99999","02070","25,000-99,999","Not in a place","WY","Park WY","Cody CCD"," ","99999","Cody, WY","Park County School District 6",5138,1 
+"56","56029","90935","99999","82414","99999","05160","25,000-99,999","Not in a place","WY","Park WY","Cody CCD"," ","99999","Cody, WY","Park County School District 1",130,1 
+"56","56029","90935","99999","82435","99999","02070","25,000-99,999","Not in a place","WY","Park WY","Cody CCD"," ","99999","Powell, WY","Park County School District 6",35,1 
+"56","56029","90935","99999","82435","99999","05160","25,000-99,999","Not in a place","WY","Park WY","Cody CCD"," ","99999","Powell, WY","Park County School District 1",648,1 
+"56","56029","90935","99999","82450","99999","02070","25,000-99,999","Not in a place","WY","Park WY","Cody CCD"," ","99999","Wapiti, WY (PO Boxes)","Park County School District 6",177,1 
+"56","56029","92145","51720","82433","99999","04380","25,000-99,999","200-999","WY","Park WY","Meeteetse CCD","Meeteetse town, WY","99999","Meeteetse, WY","Park County School District 16",327,1 
+"56","56029","92145","99999","82414","99999","02070","25,000-99,999","Not in a place","WY","Park WY","Meeteetse CCD"," ","99999","Cody, WY","Park County School District 6",223,1 
+"56","56029","92145","99999","82433","99999","04380","25,000-99,999","Not in a place","WY","Park WY","Meeteetse CCD"," ","99999","Meeteetse, WY","Park County School District 16",462,1 
+"56","56029","92530","29825","82423","99999","01420","25,000-99,999","Less than 200","WY","Park WY","Powell CCD","Frannie town, WY","99999","Frannie, WY","Big Horn County School District 1",19,1 
+"56","56029","92530","30985","82435","99999","05160","25,000-99,999","Less than 200","WY","Park WY","Powell CCD","Garland CDP, WY","99999","Powell, WY","Park County School District 1",115,1 
+"56","56029","92530","62450","82435","99999","05160","25,000-99,999","2500-9999","WY","Park WY","Powell CCD","Powell city, WY","99999","Powell, WY","Park County School District 1",6314,1 
+"56","56029","92530","63465","82435","99999","05160","25,000-99,999","200-999","WY","Park WY","Powell CCD","Ralston CDP, WY","99999","Powell, WY","Park County School District 1",135,1 
+"56","56029","92530","63465","82440","99999","05160","25,000-99,999","200-999","WY","Park WY","Powell CCD","Ralston CDP, WY","99999","Ralston, WY","Park County School District 1",145,1 
+"56","56029","92530","99999","82421","99999","01420","25,000-99,999","Not in a place","WY","Park WY","Powell CCD"," ","99999","Deaver, WY","Big Horn County School District 1",97,1 
+"56","56029","92530","99999","82423","99999","01420","25,000-99,999","Not in a place","WY","Park WY","Powell CCD"," ","99999","Frannie, WY","Big Horn County School District 1",4,1 
+"56","56029","92530","99999","82435","99999","05160","25,000-99,999","Not in a place","WY","Park WY","Powell CCD"," ","99999","Powell, WY","Park County School District 1",4428,1 
+"56","56029","93850","49775","82190","99999","99997","25,000-99,999","200-999","WY","Park WY","Yellowstone National Park CCD","Mammoth CDP, WY","99999","Mammoth, WY","School District Not Defined",263,1 
+"56","56029","93850","99999","82190","99999","99997","25,000-99,999","Not in a place","WY","Park WY","Yellowstone National Park CCD"," ","99999","Mammoth, WY","School District Not Defined",25,1 
+"56","56031","90880","14165","82210","99999","05090","2500-9999","200-999","WY","Platte WY","Chugwater CCD","Chugwater town, WY","99999","Chugwater, WY","Platte County School District 1",212,1 
+"56","56031","90880","71295","82201","99999","05090","2500-9999","Less than 200","WY","Platte WY","Chugwater CCD","Slater CDP, WY","99999","Wheatland, WY","Platte County School District 1",78,1 
+"56","56031","90880","71295","82210","99999","05090","2500-9999","Less than 200","WY","Platte WY","Chugwater CCD","Slater CDP, WY","99999","Chugwater, WY","Platte County School District 1",2,1 
+"56","56031","90880","99999","82201","99999","02990","2500-9999","Not in a place","WY","Platte WY","Chugwater CCD"," ","99999","Wheatland, WY","Goshen County School District 1",4,1 
+"56","56031","90880","99999","82201","99999","05090","2500-9999","Not in a place","WY","Platte WY","Chugwater CCD"," ","99999","Wheatland, WY","Platte County School District 1",87,1 
+"56","56031","90880","99999","82210","99999","05090","2500-9999","Not in a place","WY","Platte WY","Chugwater CCD"," ","99999","Chugwater, WY","Platte County School District 1",139,1 
+"56","56031","91320","32290","82213","99999","05090","2500-9999","200-999","WY","Platte WY","Glendo CCD","Glendo town, WY","99999","Glendo, WY","Platte County School District 1",205,1 
+"56","56031","91320","99999","82201","99999","05090","2500-9999","Not in a place","WY","Platte WY","Glendo CCD"," ","99999","Wheatland, WY","Platte County School District 1",106,1 
+"56","56031","91320","99999","82213","99999","05090","2500-9999","Not in a place","WY","Platte WY","Glendo CCD"," ","99999","Glendo, WY","Platte County School District 1",263,1 
+"56","56031","91320","99999","82214","99999","03180","2500-9999","Not in a place","WY","Platte WY","Glendo CCD"," ","99999","Guernsey, WY","Platte County School District 2",2,1 
+"56","56031","91595","34320","82214","99999","03180","2500-9999","1000-2499","WY","Platte WY","Guernsey CCD","Guernsey town, WY","99999","Guernsey, WY","Platte County School District 2",1147,1 
+"56","56031","91595","35625","82215","99999","03180","2500-9999","Less than 200","WY","Platte WY","Guernsey CCD","Hartville town, WY","99999","Hartville, WY","Platte County School District 2",62,1 
+"56","56031","91595","99999","82201","99999","05090","2500-9999","Not in a place","WY","Platte WY","Guernsey CCD"," ","99999","Wheatland, WY","Platte County School District 1",39,1 
+"56","56031","91595","99999","82213","99999","03180","2500-9999","Not in a place","WY","Platte WY","Guernsey CCD"," ","99999","Glendo, WY","Platte County School District 2",21,1 
+"56","56031","91595","99999","82213","99999","05090","2500-9999","Not in a place","WY","Platte WY","Guernsey CCD"," ","99999","Glendo, WY","Platte County School District 1",24,1 
+"56","56031","91595","99999","82214","99999","03180","2500-9999","Not in a place","WY","Platte WY","Guernsey CCD"," ","99999","Guernsey, WY","Platte County School District 2",151,1 
+"56","56031","91595","99999","82214","99999","05090","2500-9999","Not in a place","WY","Platte WY","Guernsey CCD"," ","99999","Guernsey, WY","Platte County School District 1",2,1 
+"56","56031","91595","99999","82215","99999","03180","2500-9999","Not in a place","WY","Platte WY","Guernsey CCD"," ","99999","Hartville, WY","Platte County School District 2",70,1 
+"56","56031","93630","14097","82201","99999","05090","2500-9999","Less than 200","WY","Platte WY","Wheatland CCD","Chugcreek CDP, WY","99999","Wheatland, WY","Platte County School District 1",156,1 
+"56","56031","93630","44252","82201","99999","05090","2500-9999","Less than 200","WY","Platte WY","Wheatland CCD","Lakeview North CDP, WY","99999","Wheatland, WY","Platte County School District 1",84,1 
+"56","56031","93630","82967","82201","99999","05090","2500-9999","Less than 200","WY","Platte WY","Wheatland CCD","Westview Circle CDP, WY","99999","Wheatland, WY","Platte County School District 1",52,1 
+"56","56031","93630","83040","82201","99999","05090","2500-9999","2500-9999","WY","Platte WY","Wheatland CCD","Wheatland town, WY","99999","Wheatland, WY","Platte County School District 1",3627,1 
+"56","56031","93630","83100","82201","99999","05090","2500-9999","Less than 200","WY","Platte WY","Wheatland CCD","Whiting CDP, WY","99999","Wheatland, WY","Platte County School District 1",83,1 
+"56","56031","93630","86737","82201","99999","05090","2500-9999","Less than 200","WY","Platte WY","Wheatland CCD","Y-O Ranch CDP, WY","99999","Wheatland, WY","Platte County School District 1",195,1 
+"56","56031","93630","99999","82201","99999","03180","2500-9999","Not in a place","WY","Platte WY","Wheatland CCD"," ","99999","Wheatland, WY","Platte County School District 2",9,1 
+"56","56031","93630","99999","82201","99999","05090","2500-9999","Not in a place","WY","Platte WY","Wheatland CCD"," ","99999","Wheatland, WY","Platte County School District 1",1847,1 
+"56","56033","92915","03725","82831","99999","05680","25,000-99,999","Less than 200","WY","Sheridan WY","Sheridan CCD","Arvada CDP, WY","99999","Arvada, WY","Sheridan County School District 3",43,1 
+"56","56033","92915","15325","82835","99999","05680","25,000-99,999","Less than 200","WY","Sheridan WY","Sheridan CCD","Clearmont town, WY","99999","Clearmont, WY","Sheridan County School District 3",142,1 
+"56","56033","92915","69845","82801","99999","05695","25,000-99,999","10,000-24,999","WY","Sheridan WY","Sheridan CCD","Sheridan city, WY","99999","Sheridan, WY","Sheridan County School District 2",17437,1 
+"56","56033","92915","99999","82801","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Sheridan, WY","Sheridan County School District 1",5,1 
+"56","56033","92915","99999","82801","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Sheridan, WY","Sheridan County School District 2",3421,1 
+"56","56033","92915","99999","82831","99999","05680","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Arvada, WY","Sheridan County School District 3",63,1 
+"56","56033","92915","99999","82832","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Banner, WY","Sheridan County School District 2",99,1 
+"56","56033","92915","99999","82835","99999","05680","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Clearmont, WY","Sheridan County School District 3",151,1 
+"56","56033","92915","99999","82835","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Clearmont, WY","Sheridan County School District 2",24,1 
+"56","56033","92915","99999","82837","99999","05680","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Leiter, WY (PO Boxes)","Sheridan County School District 3",29,1 
+"56","56033","92915","99999","82845","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan CCD"," ","99999","Wyarno, WY (PO Boxes)","Sheridan County School District 2",37,1 
+"56","56033","92970","06770","82801","99999","05690","25,000-99,999","200-999","WY","Sheridan WY","Sheridan South CCD","Big Horn CDP, WY","99999","Sheridan, WY","Sheridan County School District 1",490,1 
+"56","56033","92970","69845","82801","99999","05695","25,000-99,999","10,000-24,999","WY","Sheridan WY","Sheridan South CCD","Sheridan city, WY","99999","Sheridan, WY","Sheridan County School District 2",7,1 
+"56","56033","92970","73615","82832","99999","05695","25,000-99,999","200-999","WY","Sheridan WY","Sheridan South CCD","Story CDP, WY","99999","Banner, WY","Sheridan County School District 2",2,1 
+"56","56033","92970","73615","82842","99999","05695","25,000-99,999","200-999","WY","Sheridan WY","Sheridan South CCD","Story CDP, WY","99999","Story, WY","Sheridan County School District 2",826,1 
+"56","56033","92970","99999","82801","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Sheridan, WY","Sheridan County School District 1",1390,1 
+"56","56033","92970","99999","82801","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Sheridan, WY","Sheridan County School District 2",1697,1 
+"56","56033","92970","99999","82832","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Banner, WY","Sheridan County School District 1",15,1 
+"56","56033","92970","99999","82832","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Banner, WY","Sheridan County School District 2",367,1 
+"56","56033","92970","99999","82833","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Big Horn, WY (PO Boxes)","Sheridan County School District 1",225,1 
+"56","56033","92970","99999","82835","99999","05680","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Clearmont, WY","Sheridan County School District 3",1,1 
+"56","56033","92970","99999","82842","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Story, WY","Sheridan County School District 1",9,1 
+"56","56033","92970","99999","82842","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan South CCD"," ","99999","Story, WY","Sheridan County School District 2",8,1 
+"56","56033","93025","19385","82836","99999","05690","25,000-99,999","200-999","WY","Sheridan WY","Sheridan West CCD","Dayton town, WY","99999","Dayton, WY","Sheridan County School District 1",757,1 
+"56","56033","93025","59985","82838","99999","05690","25,000-99,999","Less than 200","WY","Sheridan WY","Sheridan West CCD","Parkman CDP, WY","99999","Parkman, WY","Sheridan County School District 1",141,1 
+"56","56033","93025","59985","82839","99999","05690","25,000-99,999","Less than 200","WY","Sheridan WY","Sheridan West CCD","Parkman CDP, WY","99999","Ranchester, WY","Sheridan County School District 1",10,1 
+"56","56033","93025","63755","82839","99999","05690","25,000-99,999","200-999","WY","Sheridan WY","Sheridan West CCD","Ranchester town, WY","99999","Ranchester, WY","Sheridan County School District 1",855,1 
+"56","56033","93025","99999","82801","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan West CCD"," ","99999","Sheridan, WY","Sheridan County School District 1",9,1 
+"56","56033","93025","99999","82801","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan West CCD"," ","99999","Sheridan, WY","Sheridan County School District 2",90,1 
+"56","56033","93025","99999","82836","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan West CCD"," ","99999","Dayton, WY","Sheridan County School District 1",316,1 
+"56","56033","93025","99999","82838","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan West CCD"," ","99999","Parkman, WY","Sheridan County School District 1",127,1 
+"56","56033","93025","99999","82839","99999","05690","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan West CCD"," ","99999","Ranchester, WY","Sheridan County School District 1",274,1 
+"56","56033","93025","99999","82839","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan West CCD"," ","99999","Ranchester, WY","Sheridan County School District 2",14,1 
+"56","56033","93025","99999","82844","99999","05695","25,000-99,999","Not in a place","WY","Sheridan WY","Sheridan West CCD"," ","99999","Wolf, WY","Sheridan County School District 2",35,1 
+"56","56035","90330","07060","83113","99999","01260","10,000-24,999","200-999","WY","Sublette WY","Big Piney CCD","Big Piney town, WY","99999","Big Piney, WY","Sublette County School District 9",552,1 
+"56","56035","90330","50415","83113","99999","01260","10,000-24,999","1000-2499","WY","Sublette WY","Big Piney CCD","Marbleton town, WY","99999","Big Piney, WY","Sublette County School District 9",1094,1 
+"56","56035","90330","99999","83113","99999","01260","10,000-24,999","Not in a place","WY","Sublette WY","Big Piney CCD"," ","99999","Big Piney, WY","Sublette County School District 9",1292,1 
+"56","56035","90330","99999","83113","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Big Piney CCD"," ","99999","Big Piney, WY","Sublette County School District 1",4,1 
+"56","56035","90330","99999","83115","99999","01260","10,000-24,999","Not in a place","WY","Sublette WY","Big Piney CCD"," ","99999","Daniel, WY","Sublette County School District 9",12,1 
+"56","56035","90385","09235","82923","99999","04860","10,000-24,999","Less than 200","WY","Sublette WY","Boulder CCD","Boulder CDP, WY","99999","Boulder, WY","Sublette County School District 1",170,1 
+"56","56035","90385","99999","82923","99999","01260","10,000-24,999","Not in a place","WY","Sublette WY","Boulder CCD"," ","99999","Boulder, WY","Sublette County School District 9",14,1 
+"56","56035","90385","99999","82923","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Boulder CCD"," ","99999","Boulder, WY","Sublette County School District 1",204,1 
+"56","56035","90385","99999","83113","99999","01260","10,000-24,999","Not in a place","WY","Sublette WY","Boulder CCD"," ","99999","Big Piney, WY","Sublette County School District 9",13,1 
+"56","56035","92475","08365","82922","99999","04860","10,000-24,999","Less than 200","WY","Sublette WY","Pinedale CCD","Bondurant CDP, WY","99999","Bondurant, WY","Sublette County School District 1",93,1 
+"56","56035","92475","17210","82925","99999","04860","10,000-24,999","Less than 200","WY","Sublette WY","Pinedale CCD","Cora CDP, WY","99999","Cora, WY","Sublette County School District 1",105,1 
+"56","56035","92475","17210","82941","99999","04860","10,000-24,999","Less than 200","WY","Sublette WY","Pinedale CCD","Cora CDP, WY","99999","Pinedale, WY","Sublette County School District 1",37,1 
+"56","56035","92475","18950","83115","99999","04860","10,000-24,999","Less than 200","WY","Sublette WY","Pinedale CCD","Daniel CDP, WY","99999","Daniel, WY","Sublette County School District 1",150,1 
+"56","56035","92475","61580","82941","99999","04860","10,000-24,999","1000-2499","WY","Sublette WY","Pinedale CCD","Pinedale town, WY","99999","Pinedale, WY","Sublette County School District 1",2030,1 
+"56","56035","92475","99999","82922","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Bondurant, WY","Sublette County School District 1",164,1 
+"56","56035","92475","99999","82923","99999","01260","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Boulder, WY","Sublette County School District 9",3,1 
+"56","56035","92475","99999","82923","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Boulder, WY","Sublette County School District 1",167,1 
+"56","56035","92475","99999","82925","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Cora, WY","Sublette County School District 1",185,1 
+"56","56035","92475","99999","82941","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Pinedale, WY","Sublette County School District 1",2961,1 
+"56","56035","92475","99999","83001","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Jackson, WY","Sublette County School District 1",6,1 
+"56","56035","92475","99999","83113","99999","01260","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Big Piney, WY","Sublette County School District 9",323,1 
+"56","56035","92475","99999","83115","99999","01260","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Daniel, WY","Sublette County School District 9",12,1 
+"56","56035","92475","99999","83115","99999","04860","10,000-24,999","Not in a place","WY","Sublette WY","Pinedale CCD"," ","99999","Daniel, WY","Sublette County School District 1",656,1 
+"56","56037","91485","23010","82932","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Green River North CCD","Eden CDP, WY","99999","Farson, WY","Sweetwater County School District 1",194,1 
+"56","56037","91485","26055","82932","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Green River North CCD","Farson CDP, WY","99999","Farson, WY","Sweetwater County School District 1",56,1 
+"56","56037","91485","32870","82934","99999","05762","25,000-99,999","Less than 200","WY","Sweetwater WY","Green River North CCD","Granger town, WY","99999","Granger, WY","Sweetwater County School District 2",139,1 
+"56","56037","91485","33740","82935","99999","05762","25,000-99,999","10,000-24,999","WY","Sweetwater WY","Green River North CCD","Green River city, WY","99999","Green River, WY","Sweetwater County School District 2",9066,1 
+"56","56037","91485","40265","82935","99999","05762","25,000-99,999","200-999","WY","Sweetwater WY","Green River North CCD","James Town CDP, WY","99999","Green River, WY","Sweetwater County School District 2",511,1 
+"56","56037","91485","46935","82929","99999","05762","25,000-99,999","Less than 200","WY","Sweetwater WY","Green River North CCD","Little America CDP, WY","99999","Little America, WY","Sweetwater County School District 2",68,1 
+"56","56037","91485","62812","82901","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Green River North CCD","Purple Sage CDP, WY","99999","Rock Springs, WY","Sweetwater County School District 1",535,1 
+"56","56037","91485","99999","82901","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Green River North CCD"," ","99999","Rock Springs, WY","Sweetwater County School District 1",390,1 
+"56","56037","91485","99999","82929","99999","05762","25,000-99,999","Not in a place","WY","Sweetwater WY","Green River North CCD"," ","99999","Little America, WY","Sweetwater County School District 2",2,1 
+"56","56037","91485","99999","82932","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Green River North CCD"," ","99999","Farson, WY","Sweetwater County School District 1",51,1 
+"56","56037","91485","99999","82934","99999","05762","25,000-99,999","Not in a place","WY","Sweetwater WY","Green River North CCD"," ","99999","Granger, WY","Sweetwater County School District 2",46,1 
+"56","56037","91485","99999","82935","99999","05762","25,000-99,999","Not in a place","WY","Sweetwater WY","Green River North CCD"," ","99999","Green River, WY","Sweetwater County School District 2",62,1 
+"56","56037","91540","33740","82935","99999","05762","25,000-99,999","10,000-24,999","WY","Sweetwater WY","Green River South CCD","Green River city, WY","99999","Green River, WY","Sweetwater County School District 2",3449,1 
+"56","56037","91540","40265","82935","99999","05762","25,000-99,999","200-999","WY","Sweetwater WY","Green River South CCD","James Town CDP, WY","99999","Green River, WY","Sweetwater County School District 2",25,1 
+"56","56037","91540","49400","82938","99999","05762","25,000-99,999","Less than 200","WY","Sweetwater WY","Green River South CCD","McKinnon CDP, WY","99999","Mc Kinnon, WY","Sweetwater County School District 2",60,1 
+"56","56037","91540","81703","82938","99999","05762","25,000-99,999","Less than 200","WY","Sweetwater WY","Green River South CCD","Washam CDP, WY","99999","Mc Kinnon, WY","Sweetwater County School District 2",51,1 
+"56","56037","91540","99999","82935","99999","05762","25,000-99,999","Not in a place","WY","Sweetwater WY","Green River South CCD"," ","99999","Green River, WY","Sweetwater County School District 2",8,1 
+"56","56037","91540","99999","82938","99999","05762","25,000-99,999","Not in a place","WY","Sweetwater WY","Green River South CCD"," ","99999","Mc Kinnon, WY","Sweetwater County School District 2",116,1 
+"56","56037","92750","15400","82901","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Rock Springs North CCD","Clearview Acres CDP, WY","99999","Rock Springs, WY","Sweetwater County School District 1",795,1 
+"56","56037","92750","23010","82932","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Rock Springs North CCD","Eden CDP, WY","99999","Farson, WY","Sweetwater County School District 1",87,1 
+"56","56037","92750","26055","82932","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Rock Springs North CCD","Farson CDP, WY","99999","Farson, WY","Sweetwater County School District 1",257,1 
+"56","56037","92750","56700","82901","99999","05302","25,000-99,999","1000-2499","WY","Sweetwater WY","Rock Springs North CCD","North Rock Springs CDP, WY","99999","Rock Springs, WY","Sweetwater County School District 1",2207,1 
+"56","56037","92750","65060","82901","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Rock Springs North CCD","Reliance CDP, WY","99999","Rock Springs, WY","Sweetwater County School District 1",433,1 
+"56","56037","92750","65060","82943","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Rock Springs North CCD","Reliance CDP, WY","99999","Reliance, WY","Sweetwater County School District 1",281,1 
+"56","56037","92750","67235","82901","99999","05302","25,000-99,999","10,000-24,999","WY","Sweetwater WY","Rock Springs North CCD","Rock Springs city, WY","99999","Rock Springs, WY","Sweetwater County School District 1",23036,1 
+"56","56037","92750","74775","82945","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Rock Springs North CCD","Superior town, WY","99999","Superior, WY","Sweetwater County School District 1",336,1 
+"56","56037","92750","99999","82901","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Rock Springs North CCD"," ","99999","Rock Springs, WY","Sweetwater County School District 1",418,1 
+"56","56037","92750","99999","82932","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Rock Springs North CCD"," ","99999","Farson, WY","Sweetwater County School District 1",191,1 
+"56","56037","92750","99999","82942","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Rock Springs North CCD"," ","99999","Point Of Rocks, WY","Sweetwater County School District 1",123,1 
+"56","56037","92750","99999","82943","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Rock Springs North CCD"," ","99999","Reliance, WY","Sweetwater County School District 1",20,1 
+"56","56037","92750","99999","82945","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Rock Springs North CCD"," ","99999","Superior, WY","Sweetwater County School District 1",15,1 
+"56","56037","92805","03652","82901","99999","05302","25,000-99,999","Less than 200","WY","Sweetwater WY","Rock Springs South CCD","Arrowhead Springs CDP, WY","99999","Rock Springs, WY","Sweetwater County School District 1",63,1 
+"56","56037","92805","99999","82901","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Rock Springs South CCD"," ","99999","Rock Springs, WY","Sweetwater County School District 1",30,1 
+"56","56037","92805","99999","82901","99999","05762","25,000-99,999","Not in a place","WY","Sweetwater WY","Rock Springs South CCD"," ","99999","Rock Springs, WY","Sweetwater County School District 2",54,1 
+"56","56037","93575","04885","82322","99999","01030","25,000-99,999","Less than 200","WY","Sweetwater WY","Wamsutter CCD","Bairoil town, WY","99999","Bairoil, WY","Carbon County School District 1",106,1 
+"56","56037","93575","81300","82336","99999","05302","25,000-99,999","200-999","WY","Sweetwater WY","Wamsutter CCD","Wamsutter town, WY","99999","Wamsutter, WY","Sweetwater County School District 1",451,1 
+"56","56037","93575","99999","82301","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Wamsutter CCD"," ","99999","Rawlins, WY","Sweetwater County School District 1",17,1 
+"56","56037","93575","99999","82336","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Wamsutter CCD"," ","99999","Wamsutter, WY","Sweetwater County School District 1",47,1 
+"56","56037","93575","99999","82901","99999","05302","25,000-99,999","Not in a place","WY","Sweetwater WY","Wamsutter CCD"," ","99999","Rock Springs, WY","Sweetwater County School District 1",10,1 
+"56","56039","90110","01985","83414","99999","05830","10,000-24,999","200-999","WY","Teton WY","Alta CCD","Alta CDP, WY","99999","Alta, WY","Teton County School District 1",394,1 
+"56","56039","90110","99999","83414","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Alta CCD"," ","99999","Alta, WY","Teton County School District 1",150,1 
+"56","56039","91815","37945","83001","99999","05830","10,000-24,999","1000-2499","WY","Teton WY","Jackson Hole CCD","Hoback CDP, WY","99999","Jackson, WY","Teton County School District 1",1176,1 
+"56","56039","91815","40120","83001","99999","05830","10,000-24,999","2500-9999","WY","Teton WY","Jackson Hole CCD","Jackson town, WY","99999","Jackson, WY","Teton County School District 1",9577,1 
+"56","56039","91815","41860","83011","99999","05830","10,000-24,999","Less than 200","WY","Teton WY","Jackson Hole CCD","Kelly CDP, WY","99999","Kelly, WY","Teton County School District 1",138,1 
+"56","56039","91815","54402","83014","99999","05830","10,000-24,999","1000-2499","WY","Teton WY","Jackson Hole CCD","Moose Wilson Road CDP, WY","99999","Moose Wilson Road, WY","Teton County School District 1",1821,1 
+"56","56039","91815","63100","83001","99999","05830","10,000-24,999","1000-2499","WY","Teton WY","Jackson Hole CCD","Rafter J Ranch CDP, WY","99999","Jackson, WY","Teton County School District 1",1075,1 
+"56","56039","91815","71947","83001","99999","05830","10,000-24,999","1000-2499","WY","Teton WY","Jackson Hole CCD","South Park CDP, WY","99999","Jackson, WY","Teton County School District 1",1731,1 
+"56","56039","91815","75935","83025","99999","05830","10,000-24,999","200-999","WY","Teton WY","Jackson Hole CCD","Teton Village CDP, WY","99999","Teton Village, WY","Teton County School District 1",330,1 
+"56","56039","91815","83765","83014","99999","05830","10,000-24,999","1000-2499","WY","Teton WY","Jackson Hole CCD","Wilson CDP, WY","99999","Moose Wilson Road, WY","Teton County School District 1",1482,1 
+"56","56039","91815","99999","82925","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Jackson Hole CCD"," ","99999","Cora, WY","Teton County School District 1",14,1 
+"56","56039","91815","99999","83001","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Jackson Hole CCD"," ","99999","Jackson, WY","Teton County School District 1",2286,1 
+"56","56039","91815","99999","83011","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Jackson Hole CCD"," ","99999","Kelly, WY","Teton County School District 1",102,1 
+"56","56039","91815","99999","83012","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Jackson Hole CCD"," ","99999","Moose, WY","Teton County School District 1",180,1 
+"56","56039","91815","99999","83013","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Jackson Hole CCD"," ","99999","Moran, WY (PO Boxes)","Teton County School District 1",395,1 
+"56","56039","91815","99999","83014","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Jackson Hole CCD"," ","99999","Moose Wilson Road, WY","Teton County School District 1",292,1 
+"56","56039","91815","99999","83025","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Jackson Hole CCD"," ","99999","Teton Village, WY","Teton County School District 1",70,1 
+"56","56039","93905","99999","82190","99999","05830","10,000-24,999","Not in a place","WY","Teton WY","Yellowstone National Park CCD"," ","99999","Mammoth, WY","Teton County School District 1",81,1 
+"56","56041","90440","13005","82937","99999","04500","10,000-24,999","Less than 200","WY","Uinta WY","Bridger Valley CCD","Carter CDP, WY","99999","Lyman, WY","Uinta County School District 4",10,1 
+"56","56041","90440","27940","82933","99999","04500","10,000-24,999","200-999","WY","Uinta WY","Bridger Valley CCD","Fort Bridger CDP, WY","99999","Fort Bridger, WY","Uinta County School District 4",345,1 
+"56","56041","90440","47370","82936","99999","04500","10,000-24,999","Less than 200","WY","Uinta WY","Bridger Valley CCD","Lonetree CDP, WY","99999","Lonetree, WY","Uinta County School District 4",49,1 
+"56","56041","90440","48675","82937","99999","04260","10,000-24,999","1000-2499","WY","Uinta WY","Bridger Valley CCD","Lyman town, WY","99999","Lyman, WY","Uinta County School District 6",2115,1 
+"56","56041","90440","55345","82939","99999","04500","10,000-24,999","1000-2499","WY","Uinta WY","Bridger Valley CCD","Mountain View town, WY","99999","Mountain View, WY","Uinta County School District 4",1286,1 
+"56","56041","90440","66655","82944","99999","04500","10,000-24,999","Less than 200","WY","Uinta WY","Bridger Valley CCD","Robertson CDP, WY","99999","Robertson, WY (PO Boxes)","Uinta County School District 4",97,1 
+"56","56041","90440","79270","82937","99999","04260","10,000-24,999","200-999","WY","Uinta WY","Bridger Valley CCD","Urie CDP, WY","99999","Lyman, WY","Uinta County School District 6",17,1 
+"56","56041","90440","79270","82937","99999","04500","10,000-24,999","200-999","WY","Uinta WY","Bridger Valley CCD","Urie CDP, WY","99999","Lyman, WY","Uinta County School District 4",245,1 
+"56","56041","90440","99999","82933","99999","04500","10,000-24,999","Not in a place","WY","Uinta WY","Bridger Valley CCD"," ","99999","Fort Bridger, WY","Uinta County School District 4",414,1 
+"56","56041","90440","99999","82937","99999","04260","10,000-24,999","Not in a place","WY","Uinta WY","Bridger Valley CCD"," ","99999","Lyman, WY","Uinta County School District 6",1116,1 
+"56","56041","90440","99999","82937","99999","04500","10,000-24,999","Not in a place","WY","Uinta WY","Bridger Valley CCD"," ","99999","Lyman, WY","Uinta County School District 4",151,1 
+"56","56041","90440","99999","82939","99999","04500","10,000-24,999","Not in a place","WY","Uinta WY","Bridger Valley CCD"," ","99999","Mountain View, WY","Uinta County School District 4",575,1 
+"56","56041","90440","99999","82944","99999","02760","10,000-24,999","Not in a place","WY","Uinta WY","Bridger Valley CCD"," ","99999","Robertson, WY (PO Boxes)","Uinta County School District 1",6,1 
+"56","56041","90440","99999","82944","99999","04500","10,000-24,999","Not in a place","WY","Uinta WY","Bridger Valley CCD"," ","99999","Robertson, WY (PO Boxes)","Uinta County School District 4",79,1 
+"56","56041","91155","05625","82930","99999","02760","10,000-24,999","200-999","WY","Uinta WY","Evanston CCD","Bear River town, WY","99999","Evanston, WY","Uinta County School District 1",518,1 
+"56","56041","91155","25620","82930","99999","02760","10,000-24,999","10,000-24,999","WY","Uinta WY","Evanston CCD","Evanston city, WY","99999","Evanston, WY","Uinta County School District 1",12359,1 
+"56","56041","91155","99999","82930","99999","02760","10,000-24,999","Not in a place","WY","Uinta WY","Evanston CCD"," ","99999","Evanston, WY","Uinta County School District 1",1702,1 
+"56","56041","91155","99999","82944","99999","02760","10,000-24,999","Not in a place","WY","Uinta WY","Evanston CCD"," ","99999","Robertson, WY (PO Boxes)","Uinta County School District 1",33,1 
+"56","56041","91155","99999","82944","99999","04500","10,000-24,999","Not in a place","WY","Uinta WY","Evanston CCD"," ","99999","Robertson, WY (PO Boxes)","Uinta County School District 4",1,1 
+"56","56043","93300","75790","82442","99999","05820","2500-9999","200-999","WY","Washakie WY","Ten Sleep CCD","Ten Sleep town, WY","99999","Ten Sleep, WY","Washakie County School District 2",260,1 
+"56","56043","93300","99999","82442","99999","05820","2500-9999","Not in a place","WY","Washakie WY","Ten Sleep CCD"," ","99999","Ten Sleep, WY","Washakie County School District 2",470,1 
+"56","56043","93795","84925","82401","99999","06240","2500-9999","2500-9999","WY","Washakie WY","Worland CCD","Worland city, WY","99999","Worland, WY","Washakie County School District 1",5487,1 
+"56","56043","93795","99999","82401","99999","06240","2500-9999","Not in a place","WY","Washakie WY","Worland CCD"," ","99999","Worland, WY","Washakie County School District 1",2314,1 
+"56","56043","93795","99999","82442","99999","05820","2500-9999","Not in a place","WY","Washakie WY","Worland CCD"," ","99999","Ten Sleep, WY","Washakie County School District 2",2,1 
+"56","56045","92255","37727","82701","99999","04830","2500-9999","Less than 200","WY","Weston WY","Newcastle CCD","Hill View Heights CDP, WY","99999","Newcastle, WY","Weston County School District 1",170,1 
+"56","56045","92255","56215","82701","99999","04830","2500-9999","2500-9999","WY","Weston WY","Newcastle CCD","Newcastle city, WY","99999","Newcastle, WY","Weston County School District 1",3532,1 
+"56","56045","92255","58680","82723","99999","04830","2500-9999","200-999","WY","Weston WY","Newcastle CCD","Osage CDP, WY","99999","Osage, WY","Weston County School District 1",208,1 
+"56","56045","92255","99999","82701","99999","04830","2500-9999","Not in a place","WY","Weston WY","Newcastle CCD"," ","99999","Newcastle, WY","Weston County School District 1",1666,1 
+"56","56045","92255","99999","82701","99999","06090","2500-9999","Not in a place","WY","Weston WY","Newcastle CCD"," ","99999","Newcastle, WY","Weston County School District 7",2,1 
+"56","56045","92255","99999","82723","99999","04830","2500-9999","Not in a place","WY","Weston WY","Newcastle CCD"," ","99999","Osage, WY","Weston County School District 1",65,1 
+"56","56045","92255","99999","82723","99999","06090","2500-9999","Not in a place","WY","Weston WY","Newcastle CCD"," ","99999","Osage, WY","Weston County School District 7",1,1 
+"56","56045","92255","99999","82729","99999","04830","2500-9999","Not in a place","WY","Weston WY","Newcastle CCD"," ","99999","Sundance, WY","Weston County School District 1",26,1 
+"56","56045","92255","99999","82730","99999","04830","2500-9999","Not in a place","WY","Weston WY","Newcastle CCD"," ","99999","Upton, WY","Weston County School District 1",8,1 
+"56","56045","92255","99999","82730","99999","06090","2500-9999","Not in a place","WY","Weston WY","Newcastle CCD"," ","99999","Upton, WY","Weston County School District 7",18,1 
+"56","56045","93520","79125","82730","99999","06090","2500-9999","1000-2499","WY","Weston WY","Upton CCD","Upton town, WY","99999","Upton, WY","Weston County School District 7",1100,1 
+"56","56045","93520","99999","82701","99999","04830","2500-9999","Not in a place","WY","Weston WY","Upton CCD"," ","99999","Newcastle, WY","Weston County School District 1",8,1 
+"56","56045","93520","99999","82701","99999","06090","2500-9999","Not in a place","WY","Weston WY","Upton CCD"," ","99999","Newcastle, WY","Weston County School District 7",3,1 
+"56","56045","93520","99999","82723","99999","04830","2500-9999","Not in a place","WY","Weston WY","Upton CCD"," ","99999","Osage, WY","Weston County School District 1",4,1 
+"56","56045","93520","99999","82730","99999","06090","2500-9999","Not in a place","WY","Weston WY","Upton CCD"," ","99999","Upton, WY","Weston County School District 7",397,1 

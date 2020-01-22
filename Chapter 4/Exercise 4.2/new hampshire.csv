@@ -1,0 +1,519 @@
+"state","county","cousubfp","placefp","zcta5","metdiv10","sduni","cntysc","placesc","stab","cntyname","cousubnm","placenm","mdivname10","zipname","uschlnm10","pop10","afact"
+"State code","County code","County subdivision code","Place code","ZIP census tabulation area","metdiv10","Unified school district (2010)","cntysc","placesc","State abbreviation","County name","County subdivision name","Place name","2010 Metro div name","ZCTA name","Unified school district name 2010","Total population (2010)","placesc to state allocation factor"
+"33","33001","01060","00980","03809","99999"," ","25,000-99,999","200-999","NH","Belknap NH","Alton town","Alton CDP, NH","99999","Alton, NH","33",501,1 
+"33","33001","01060","99999","03809","99999"," ","25,000-99,999","Not in a place","NH","Belknap NH","Alton town"," ","99999","Alton, NH","33",3215,1 
+"33","33001","01060","99999","03810","99999"," ","25,000-99,999","Not in a place","NH","Belknap NH","Alton town"," ","99999","Alton Bay, NH","33",1534,1 
+"33","33001","03220","99999","03218","99999"," ","25,000-99,999","Not in a place","NH","Belknap NH","Barnstead town"," ","99999","Barnstead, NH (PO Boxes)","33",960,1 
+"33","33001","03220","99999","03225","99999"," ","25,000-99,999","Not in a place","NH","Belknap NH","Barnstead town"," ","99999","Center Barnstead, NH","33",3633,1 
+"33","33001","04740","04660","03220","99999","06180","25,000-99,999","1000-2499","NH","Belknap NH","Belmont town","Belmont CDP, NH","99999","Belmont, NH","Shaker Regional School District",1301,1 
+"33","33001","04740","99999","03220","99999","06180","25,000-99,999","Not in a place","NH","Belknap NH","Belmont town"," ","99999","Belmont, NH","Shaker Regional School District",6048,1 
+"33","33001","04740","99999","03246","99999","06180","25,000-99,999","Not in a place","NH","Belknap NH","Belmont town"," ","99999","Laconia, NH","Shaker Regional School District",7,1 
+"33","33001","10660","99999","03226","99999","03960","25,000-99,999","Not in a place","NH","Belknap NH","Center Harbor town"," ","99999","Center Harbor, NH","Inter-Lakes School District",1096,1 
+"33","33001","28740","99999","03246","99999","03180","25,000-99,999","Not in a place","NH","Belknap NH","Gilford town"," ","99999","Laconia, NH","Gilford School District",13,1 
+"33","33001","28740","99999","03249","99999","03180","25,000-99,999","Not in a place","NH","Belknap NH","Gilford town"," ","99999","Gilford, NH","Gilford School District",7113,1 
+"33","33001","28980","99999","03237","99999"," ","25,000-99,999","Not in a place","NH","Belknap NH","Gilmanton town"," ","99999","Gilmanton, NH","33",2254,1 
+"33","33001","28980","99999","03810","99999"," ","25,000-99,999","Not in a place","NH","Belknap NH","Gilmanton town"," ","99999","Alton Bay, NH","33",4,1 
+"33","33001","28980","99999","03837","99999"," ","25,000-99,999","Not in a place","NH","Belknap NH","Gilmanton town"," ","99999","Gilmanton Iron Works, NH","33",1519,1 
+"33","33001","40180","40180","03246","99999","04140","25,000-99,999","10,000-24,999","NH","Belknap NH","Laconia city","Laconia city, NH","99999","Laconia, NH","Laconia School District",15943,1 
+"33","33001","40180","40180","03253","99999","04140","25,000-99,999","10,000-24,999","NH","Belknap NH","Laconia city","Laconia city, NH","99999","Meredith, NH","Laconia School District",8,1 
+"33","33001","47140","47060","03253","99999","03960","25,000-99,999","1000-2499","NH","Belknap NH","Meredith town","Meredith CDP, NH","99999","Meredith, NH","Inter-Lakes School District",1718,1 
+"33","33001","47140","99999","03226","99999","03960","25,000-99,999","Not in a place","NH","Belknap NH","Meredith town"," ","99999","Center Harbor, NH","Inter-Lakes School District",21,1 
+"33","33001","47140","99999","03253","99999","03960","25,000-99,999","Not in a place","NH","Belknap NH","Meredith town"," ","99999","Meredith, NH","Inter-Lakes School District",4485,1 
+"33","33001","47140","99999","03254","99999","03960","25,000-99,999","Not in a place","NH","Belknap NH","Meredith town"," ","99999","Moultonborough, NH","Inter-Lakes School District",5,1 
+"33","33001","47140","99999","03256","99999","03960","25,000-99,999","Not in a place","NH","Belknap NH","Meredith town"," ","99999","New Hampton, NH","Inter-Lakes School District",12,1 
+"33","33001","51540","51460","03256","99999","05220","25,000-99,999","200-999","NH","Belknap NH","New Hampton town","New Hampton CDP, NH","99999","New Hampton, NH","Newfound Area School District",351,1 
+"33","33001","51540","99999","03253","99999","05220","25,000-99,999","Not in a place","NH","Belknap NH","New Hampton town"," ","99999","Meredith, NH","Newfound Area School District",8,1 
+"33","33001","51540","99999","03256","99999","05220","25,000-99,999","Not in a place","NH","Belknap NH","New Hampton town"," ","99999","New Hampton, NH","Newfound Area School District",1806,1 
+"33","33001","67300","99999","03269","99999","07300","25,000-99,999","Not in a place","NH","Belknap NH","Sanbornton town"," ","99999","Sanbornton, NH","Winnisquam Regional School District",2966,1 
+"33","33001","77060","77100","03276","99999","07300","25,000-99,999","2500-9999","NH","Belknap NH","Tilton town","Tilton Northfield CDP, NH","99999","Tilton, NH","Winnisquam Regional School District",1619,1 
+"33","33001","77060","99999","03276","99999","07300","25,000-99,999","Not in a place","NH","Belknap NH","Tilton town"," ","99999","Tilton, NH","Winnisquam Regional School District",1948,1 
+"33","33003","00420","99999","03818","99999","01350","25,000-99,999","Not in a place","NH","Carroll NH","Albany town"," ","99999","Conway, NH","Albany School District",726,1 
+"33","33003","00420","99999","03886","99999","01350","25,000-99,999","Not in a place","NH","Carroll NH","Albany town"," ","99999","Tamworth, NH","Albany School District",9,1 
+"33","33003","03700","03620","03812","99999"," ","25,000-99,999","200-999","NH","Carroll NH","Bartlett town","Bartlett CDP, NH","99999","Bartlett, NH (PO Boxes)","33",373,1 
+"33","33003","03700","99999","03812","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Bartlett town"," ","99999","Bartlett, NH (PO Boxes)","33",410,1 
+"33","33003","03700","99999","03838","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Bartlett town"," ","99999","Glen, NH","33",1031,1 
+"33","33003","03700","99999","03845","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Bartlett town"," ","99999","Intervale, NH","33",932,1 
+"33","33003","03700","99999","03860","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Bartlett town"," ","99999","North Conway, NH","33",42,1 
+"33","33003","07940","99999","03872","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Brookfield town"," ","99999","Sanbornville, NH","Governor Wentworth Regional School District",712,1 
+"33","33003","11780","99999","03813","99999","02200","25,000-99,999","Not in a place","NH","Carroll NH","Chatham town"," ","99999","Center Conway, NH","Chatham School District",337,1 
+"33","33003","14660","14580","03818","99999","02490","25,000-99,999","1000-2499","NH","Carroll NH","Conway town","Conway CDP, NH","99999","Conway, NH","Conway School District",1788,1 
+"33","33003","14660","14580","03860","99999","02490","25,000-99,999","1000-2499","NH","Carroll NH","Conway town","Conway CDP, NH","99999","North Conway, NH","Conway School District",35,1 
+"33","33003","14660","53860","03845","99999","02490","25,000-99,999","1000-2499","NH","Carroll NH","Conway town","North Conway CDP, NH","99999","Intervale, NH","Conway School District",42,1 
+"33","33003","14660","53860","03847","99999","02490","25,000-99,999","1000-2499","NH","Carroll NH","Conway town","North Conway CDP, NH","99999","North Conway, NH","Conway School District",255,1 
+"33","33003","14660","53860","03860","99999","02490","25,000-99,999","1000-2499","NH","Carroll NH","Conway town","North Conway CDP, NH","99999","North Conway, NH","Conway School District",2052,1 
+"33","33003","14660","99999","03813","99999","02490","25,000-99,999","Not in a place","NH","Carroll NH","Conway town"," ","99999","Center Conway, NH","Conway School District",2913,1 
+"33","33003","14660","99999","03818","99999","02490","25,000-99,999","Not in a place","NH","Carroll NH","Conway town"," ","99999","Conway, NH","Conway School District",1182,1 
+"33","33003","14660","99999","03832","99999","02490","25,000-99,999","Not in a place","NH","Carroll NH","Conway town"," ","99999","Eaton Center, NH","Conway School District",2,1 
+"33","33003","14660","99999","03847","99999","02490","25,000-99,999","Not in a place","NH","Carroll NH","Conway town"," ","99999","North Conway, NH","Conway School District",39,1 
+"33","33003","14660","99999","03860","99999","02490","25,000-99,999","Not in a place","NH","Carroll NH","Conway town"," ","99999","North Conway, NH","Conway School District",1807,1 
+"33","33003","23380","99999","03832","99999","02850","25,000-99,999","Not in a place","NH","Carroll NH","Eaton town"," ","99999","Eaton Center, NH","Eaton School District",393,1 
+"33","33003","23620","99999","03882","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Effingham town"," ","99999","Effingham, NH","Governor Wentworth Regional School District",1465,1 
+"33","33003","27700","99999","03836","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Freedom town"," ","99999","Freedom, NH","33",1489,1 
+"33","33003","32500","99999","03860","99999","02510","25,000-99,999","Not in a place","NH","Carroll NH","Hales location"," ","99999","North Conway, NH","Coos County School District",120,1 
+"33","33003","34500","99999","03812","99999","03640","25,000-99,999","Not in a place","NH","Carroll NH","Harts Location town"," ","99999","Bartlett, NH (PO Boxes)","Harts Location School District",41,1 
+"33","33003","38260","99999","03845","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Jackson town"," ","99999","Intervale, NH","33",17,1 
+"33","33003","38260","99999","03846","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Jackson town"," ","99999","Jackson, NH","33",799,1 
+"33","33003","45060","99999","03818","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Madison town"," ","99999","Conway, NH","33",111,1 
+"33","33003","45060","99999","03849","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Madison town"," ","99999","Madison, NH","33",1585,1 
+"33","33003","45060","99999","03875","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Madison town"," ","99999","Silver Lake, NH","33",794,1 
+"33","33003","45060","99999","03886","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Madison town"," ","99999","Tamworth, NH","33",12,1 
+"33","33003","49380","74780","03254","99999","04960","25,000-99,999","200-999","NH","Carroll NH","Moultonborough town","Suissevale CDP, NH","99999","Moultonborough, NH","Moultonborough School District",249,1 
+"33","33003","49380","99999","03254","99999","04960","25,000-99,999","Not in a place","NH","Carroll NH","Moultonborough town"," ","99999","Moultonborough, NH","Moultonborough School District",3795,1 
+"33","33003","58740","10820","03814","99999","03330","25,000-99,999","200-999","NH","Carroll NH","Ossipee town","Center Ossipee CDP, NH","99999","Center Ossipee, NH","Governor Wentworth Regional School District",561,1 
+"33","33003","58740","99999","03814","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Ossipee town"," ","99999","Center Ossipee, NH","Governor Wentworth Regional School District",1761,1 
+"33","33003","58740","99999","03864","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Ossipee town"," ","99999","Ossipee, NH","Governor Wentworth Regional School District",1696,1 
+"33","33003","58740","99999","03890","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Ossipee town"," ","99999","West Ossipee, NH","Governor Wentworth Regional School District",327,1 
+"33","33003","67780","10900","03227","99999","03960","25,000-99,999","Less than 200","NH","Carroll NH","Sandwich town","Center Sandwich CDP, NH","99999","Center Sandwich, NH","Inter-Lakes School District",123,1 
+"33","33003","67780","99999","03227","99999","03960","25,000-99,999","Not in a place","NH","Carroll NH","Sandwich town"," ","99999","Center Sandwich, NH","Inter-Lakes School District",802,1 
+"33","33003","67780","99999","03259","99999","03960","25,000-99,999","Not in a place","NH","Carroll NH","Sandwich town"," ","99999","North Sandwich, NH","Inter-Lakes School District",368,1 
+"33","33003","67780","99999","03883","99999","03960","25,000-99,999","Not in a place","NH","Carroll NH","Sandwich town"," ","99999","South Tamworth, NH","Inter-Lakes School District",18,1 
+"33","33003","67780","99999","03886","99999","03960","25,000-99,999","Not in a place","NH","Carroll NH","Sandwich town"," ","99999","Tamworth, NH","Inter-Lakes School District",15,1 
+"33","33003","76100","99999","03814","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Tamworth town"," ","99999","Center Ossipee, NH","33",7,1 
+"33","33003","76100","99999","03817","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Tamworth town"," ","99999","Chocorua, NH","33",574,1 
+"33","33003","76100","99999","03875","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Tamworth town"," ","99999","Silver Lake, NH","33",39,1 
+"33","33003","76100","99999","03883","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Tamworth town"," ","99999","South Tamworth, NH","33",160,1 
+"33","33003","76100","99999","03886","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Tamworth town"," ","99999","Tamworth, NH","33",2076,1 
+"33","33003","77620","46980","03850","99999","03330","25,000-99,999","200-999","NH","Carroll NH","Tuftonboro town","Melvin Village CDP, NH","99999","Melvin Village, NH","Governor Wentworth Regional School District",241,1 
+"33","33003","77620","99999","03816","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Tuftonboro town"," ","99999","Center Tuftonboro, NH","Governor Wentworth Regional School District",1368,1 
+"33","33003","77620","99999","03850","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Tuftonboro town"," ","99999","Melvin Village, NH","Governor Wentworth Regional School District",131,1 
+"33","33003","77620","99999","03853","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Tuftonboro town"," ","99999","Mirror Lake, NH","Governor Wentworth Regional School District",602,1 
+"33","33003","77620","99999","03894","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Tuftonboro town"," ","99999","Wolfeboro, NH","Governor Wentworth Regional School District",45,1 
+"33","33003","78180","67460","03872","99999"," ","25,000-99,999","1000-2499","NH","Carroll NH","Wakefield town","Sanbornville CDP, NH","99999","Sanbornville, NH","33",1056,1 
+"33","33003","78180","77780","03887","99999"," ","25,000-99,999","200-999","NH","Carroll NH","Wakefield town","Union CDP, NH","99999","Union, NH","33",204,1 
+"33","33003","78180","99999","03830","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Wakefield town"," ","99999","East Wakefield, NH","33",1610,1 
+"33","33003","78180","99999","03872","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Wakefield town"," ","99999","Sanbornville, NH","33",2041,1 
+"33","33003","78180","99999","03887","99999"," ","25,000-99,999","Not in a place","NH","Carroll NH","Wakefield town"," ","99999","Union, NH","33",167,1 
+"33","33003","86420","86340","03894","99999","03330","25,000-99,999","2500-9999","NH","Carroll NH","Wolfeboro town","Wolfeboro CDP, NH","99999","Wolfeboro, NH","Governor Wentworth Regional School District",2838,1 
+"33","33003","86420","99999","03894","99999","03330","25,000-99,999","Not in a place","NH","Carroll NH","Wolfeboro town"," ","99999","Wolfeboro, NH","Governor Wentworth Regional School District",3431,1 
+"33","33005","00820","99999","03602","99999","02990","25,000-99,999","Not in a place","NH","Cheshire NH","Alstead town"," ","99999","Alstead, NH","Fall Mountain Regional School District",1937,1 
+"33","33005","12260","99999","03443","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Chesterfield town"," ","99999","Chesterfield, NH","33",742,1 
+"33","33005","12260","99999","03462","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Chesterfield town"," ","99999","Spofford, NH","33",1530,1 
+"33","33005","12260","99999","03466","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Chesterfield town"," ","99999","West Chesterfield, NH","33",1332,1 
+"33","33005","19140","99999","03444","99999","02480","25,000-99,999","Not in a place","NH","Cheshire NH","Dublin town"," ","99999","Dublin, NH (PO Boxes)","Contoocook Valley School District",1590,1 
+"33","33005","19140","99999","03458","99999","02480","25,000-99,999","Not in a place","NH","Cheshire NH","Dublin town"," ","99999","Peterborough, NH","Contoocook Valley School District",7,1 
+"33","33005","26500","99999","03447","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Fitzwilliam town"," ","99999","Fitzwilliam, NH","Monadnock Regional School District",2385,1 
+"33","33005","26500","99999","03465","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Fitzwilliam town"," ","99999","Troy, NH","Monadnock Regional School District",11,1 
+"33","33005","29220","99999","03431","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Gilsum town"," ","99999","Keene, NH","Monadnock Regional School District",3,1 
+"33","33005","29220","99999","03448","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Gilsum town"," ","99999","Gilsum, NH","Monadnock Regional School District",810,1 
+"33","33005","34420","99999","03450","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Harrisville town"," ","99999","Harrisville, NH","33",961,1 
+"33","33005","36660","36580","03451","99999","03780","25,000-99,999","1000-2499","NH","Cheshire NH","Hinsdale town","Hinsdale CDP, NH","99999","Hinsdale, NH","Hinsdale School District",1548,1 
+"33","33005","36660","99999","03451","99999","03780","25,000-99,999","Not in a place","NH","Cheshire NH","Hinsdale town"," ","99999","Hinsdale, NH","Hinsdale School District",2498,1 
+"33","33005","38500","38420","03452","99999","04030","25,000-99,999","2500-9999","NH","Cheshire NH","Jaffrey town","Jaffrey CDP, NH","99999","Jaffrey, NH","Jaffrey-Rindge Cooperative School District",2757,1 
+"33","33005","38500","99999","03452","99999","04030","25,000-99,999","Not in a place","NH","Cheshire NH","Jaffrey town"," ","99999","Jaffrey, NH","Jaffrey-Rindge Cooperative School District",2700,1 
+"33","33005","39300","39300","03431","99999","04050","25,000-99,999","10,000-24,999","NH","Cheshire NH","Keene city","Keene city, NH","99999","Keene, NH","Keene School District",23409,1 
+"33","33005","45460","45380","03455","99999"," ","25,000-99,999","1000-2499","NH","Cheshire NH","Marlborough town","Marlborough CDP, NH","99999","Marlborough, NH","33",1094,1 
+"33","33005","45460","99999","03455","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Marlborough town"," ","99999","Marlborough, NH","33",969,1 
+"33","33005","45700","99999","03456","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Marlow town"," ","99999","Marlow, NH","33",742,1 
+"33","33005","50580","99999","03457","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Nelson town"," ","99999","Nelson, NH","33",729,1 
+"33","33005","64420","99999","03447","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Richmond town"," ","99999","Fitzwilliam, NH","Monadnock Regional School District",37,1 
+"33","33005","64420","99999","03470","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Richmond town"," ","99999","Winchester, NH","Monadnock Regional School District",1118,1 
+"33","33005","64580","99999","03461","99999","04030","25,000-99,999","Not in a place","NH","Cheshire NH","Rindge town"," ","99999","Rindge, NH","Jaffrey-Rindge Cooperative School District",6014,1 
+"33","33005","65700","99999","03431","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Roxbury town"," ","99999","Keene, NH","Monadnock Regional School District",192,1 
+"33","33005","65700","99999","03445","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Roxbury town"," ","99999","Sullivan, NH","Monadnock Regional School District",14,1 
+"33","33005","65700","99999","03455","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Roxbury town"," ","99999","Marlborough, NH","Monadnock Regional School District",23,1 
+"33","33005","73700","99999","03457","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Stoddard town"," ","99999","Nelson, NH","33",123,1 
+"33","33005","73700","99999","03464","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Stoddard town"," ","99999","Stoddard, NH","33",1109,1 
+"33","33005","74900","99999","03445","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Sullivan town"," ","99999","Sullivan, NH","Monadnock Regional School District",677,1 
+"33","33005","75300","99999","03431","99999","03275","25,000-99,999","Not in a place","NH","Cheshire NH","Surry town"," ","99999","Keene, NH","Surry School District",731,1 
+"33","33005","75300","99999","03448","99999","03275","25,000-99,999","Not in a place","NH","Cheshire NH","Surry town"," ","99999","Gilsum, NH","Surry School District",1,1 
+"33","33005","75700","83700","03446","99999","04890","25,000-99,999","1000-2499","NH","Cheshire NH","Swanzey town","West Swanzey CDP, NH","99999","Swanzey, NH","Monadnock Regional School District",1308,1 
+"33","33005","75700","99999","03431","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Swanzey town"," ","99999","Keene, NH","Monadnock Regional School District",945,1 
+"33","33005","75700","99999","03446","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Swanzey town"," ","99999","Swanzey, NH","Monadnock Regional School District",4977,1 
+"33","33005","77380","77300","03465","99999","04890","25,000-99,999","1000-2499","NH","Cheshire NH","Troy town","Troy CDP, NH","99999","Troy, NH","Monadnock Regional School District",1221,1 
+"33","33005","77380","99999","03465","99999","04890","25,000-99,999","Not in a place","NH","Cheshire NH","Troy town"," ","99999","Troy, NH","Monadnock Regional School District",924,1 
+"33","33005","78420","56420","03609","99999","02990","25,000-99,999","200-999","NH","Cheshire NH","Walpole town","North Walpole CDP, NH","99999","North Walpole, NH","Fall Mountain Regional School District",828,1 
+"33","33005","78420","78340","03608","99999","02990","25,000-99,999","200-999","NH","Cheshire NH","Walpole town","Walpole CDP, NH","99999","Walpole, NH","Fall Mountain Regional School District",605,1 
+"33","33005","78420","99999","03604","99999","02990","25,000-99,999","Not in a place","NH","Cheshire NH","Walpole town"," ","99999","Drewsville, NH","Fall Mountain Regional School District",69,1 
+"33","33005","78420","99999","03608","99999","02990","25,000-99,999","Not in a place","NH","Cheshire NH","Walpole town"," ","99999","Walpole, NH","Fall Mountain Regional School District",2206,1 
+"33","33005","78420","99999","03609","99999","02990","25,000-99,999","Not in a place","NH","Cheshire NH","Walpole town"," ","99999","North Walpole, NH","Fall Mountain Regional School District",26,1 
+"33","33005","82660","99999","03462","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Westmoreland town"," ","99999","Spofford, NH","33",32,1 
+"33","33005","82660","99999","03467","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Westmoreland town"," ","99999","Westmoreland, NH","33",1842,1 
+"33","33005","85540","85460","03470","99999"," ","25,000-99,999","1000-2499","NH","Cheshire NH","Winchester town","Winchester CDP, NH","99999","Winchester, NH","33",1733,1 
+"33","33005","85540","99999","03441","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Winchester town"," ","99999","Ashuelot, NH","33",395,1 
+"33","33005","85540","99999","03451","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Winchester town"," ","99999","Hinsdale, NH","33",31,1 
+"33","33005","85540","99999","03470","99999"," ","25,000-99,999","Not in a place","NH","Cheshire NH","Winchester town"," ","99999","Winchester, NH","33",2182,1 
+"33","33007","05140","05140","03570","99999","01860","25,000-99,999","10,000-24,999","NH","Coos NH","Berlin city","Berlin city, NH","99999","Berlin, NH","Berlin School District",10051,1 
+"33","33007","08420","99999","03579","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Cambridge township"," ","99999","Errol, NH","Coos County School District",8,1 
+"33","33007","10100","99999","03575","99999","07050","25,000-99,999","Not in a place","NH","Coos NH","Carroll town"," ","99999","Bretton Woods, NH (PO Boxes)","White Mountain Regional School District",124,1 
+"33","33007","10100","99999","03595","99999","07050","25,000-99,999","Not in a place","NH","Coos NH","Carroll town"," ","99999","Twin Mountain, NH (PO Boxes)","White Mountain Regional School District",639,1 
+"33","33007","13220","99999","03592","99999","02370","25,000-99,999","Not in a place","NH","Coos NH","Clarksville town"," ","99999","Pittsburg, NH","Clarksville School District",265,1 
+"33","33007","13780","13700","03576","99999","02400","25,000-99,999","1000-2499","NH","Coos NH","Colebrook town","Colebrook CDP, NH","99999","Colebrook, NH","Colebrook School District",1394,1 
+"33","33007","13780","99999","03576","99999","02400","25,000-99,999","Not in a place","NH","Coos NH","Colebrook town"," ","99999","Colebrook, NH","Colebrook School District",907,1 
+"33","33007","13940","99999","03576","99999","02430","25,000-99,999","Not in a place","NH","Coos NH","Columbia town"," ","99999","Colebrook, NH","Columbia School District",448,1 
+"33","33007","13940","99999","03590","99999","02430","25,000-99,999","Not in a place","NH","Coos NH","Columbia town"," ","99999","North Stratford, NH","Columbia School District",309,1 
+"33","33007","16820","99999","03598","99999","07050","25,000-99,999","Not in a place","NH","Coos NH","Dalton town"," ","99999","Whitefield, NH","White Mountain Regional School District",979,1 
+"33","33007","18340","99999","03579","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Dixs grant"," ","99999","Errol, NH","Coos County School District",1,1 
+"33","33007","18420","99999","03576","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Dixville township"," ","99999","Colebrook, NH","Coos County School District",10,1 
+"33","33007","18420","99999","03579","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Dixville township"," ","99999","Errol, NH","Coos County School District",2,1 
+"33","33007","19300","99999","03588","99999","02730","25,000-99,999","Not in a place","NH","Coos NH","Dummer town"," ","99999","Milan, NH","Dummer School District",304,1 
+"33","33007","25140","99999","03579","99999"," ","25,000-99,999","Not in a place","NH","Coos NH","Errol town"," ","99999","Errol, NH","33",291,1 
+"33","33007","30260","30180","03581","99999","00035","25,000-99,999","1000-2499","NH","Coos NH","Gorham town","Gorham CDP, NH","99999","Gorham, NH","Gorham Randolph Shelburne Cooperative School District",1600,1 
+"33","33007","30260","99999","03581","99999","00035","25,000-99,999","Not in a place","NH","Coos NH","Gorham town"," ","99999","Gorham, NH","Gorham Randolph Shelburne Cooperative School District",1248,1 
+"33","33007","31780","99999","03581","99999","99997","25,000-99,999","Not in a place","NH","Coos NH","Greens grant"," ","99999","Gorham, NH","School District Not Defined",1,1 
+"33","33007","38820","99999","03583","99999","07050","25,000-99,999","Not in a place","NH","Coos NH","Jefferson town"," ","99999","Jefferson, NH","White Mountain Regional School District",1107,1 
+"33","33007","40420","40340","03584","99999","07050","25,000-99,999","1000-2499","NH","Coos NH","Lancaster town","Lancaster CDP, NH","99999","Lancaster, NH","White Mountain Regional School District",1725,1 
+"33","33007","40420","99999","03584","99999","07050","25,000-99,999","Not in a place","NH","Coos NH","Lancaster town"," ","99999","Lancaster, NH","White Mountain Regional School District",1782,1 
+"33","33007","47860","99999","03588","99999"," ","25,000-99,999","Not in a place","NH","Coos NH","Milan town"," ","99999","Milan, NH","33",1337,1 
+"33","33007","48260","99999","03579","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Millsfield township"," ","99999","Errol, NH","Coos County School District",23,1 
+"33","33007","56100","32260","03582","99999","05400","25,000-99,999","1000-2499","NH","Coos NH","Northumberland town","Groveton CDP, NH","99999","Groveton, NH","Northumberland School District",1118,1 
+"33","33007","56100","99999","03582","99999","05400","25,000-99,999","Not in a place","NH","Coos NH","Northumberland town"," ","99999","Groveton, NH","Northumberland School District",903,1 
+"33","33007","56100","99999","03584","99999","05400","25,000-99,999","Not in a place","NH","Coos NH","Northumberland town"," ","99999","Lancaster, NH","Northumberland School District",267,1 
+"33","33007","57860","99999","03597","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Odell township"," ","99999","West Stewartstown, NH","Coos County School District",4,1 
+"33","33007","61620","99999","03581","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Pinkhams grant"," ","99999","Gorham, NH","Coos County School District",9,1 
+"33","33007","61780","99999","03592","99999","05700","25,000-99,999","Not in a place","NH","Coos NH","Pittsburg town"," ","99999","Pittsburg, NH","Pittsburg School District",869,1 
+"33","33007","63860","99999","03593","99999","00035","25,000-99,999","Not in a place","NH","Coos NH","Randolph town"," ","99999","Randolph, NH","Gorham Randolph Shelburne Cooperative School District",310,1 
+"33","33007","67860","99999","03593","99999","99997","25,000-99,999","Not in a place","NH","Coos NH","Sargents purchase"," ","99999","Randolph, NH","School District Not Defined",3,1 
+"33","33007","68980","99999","03581","99999","00035","25,000-99,999","Not in a place","NH","Coos NH","Shelburne town"," ","99999","Gorham, NH","Gorham Randolph Shelburne Cooperative School District",372,1 
+"33","33007","73060","99999","03582","99999"," ","25,000-99,999","Not in a place","NH","Coos NH","Stark town"," ","99999","Groveton, NH","33",556,1 
+"33","33007","73380","83620","03597","99999"," ","25,000-99,999","200-999","NH","Coos NH","Stewartstown town","West Stewartstown CDP, NH","99999","West Stewartstown, NH","33",386,1 
+"33","33007","73380","99999","03576","99999"," ","25,000-99,999","Not in a place","NH","Coos NH","Stewartstown town"," ","99999","Colebrook, NH","33",479,1 
+"33","33007","73380","99999","03592","99999"," ","25,000-99,999","Not in a place","NH","Coos NH","Stewartstown town"," ","99999","Pittsburg, NH","33",11,1 
+"33","33007","73380","99999","03597","99999"," ","25,000-99,999","Not in a place","NH","Coos NH","Stewartstown town"," ","99999","West Stewartstown, NH","33",128,1 
+"33","33007","74180","99999","03590","99999","06450","25,000-99,999","Not in a place","NH","Coos NH","Stratford town"," ","99999","North Stratford, NH","Stratford School District",743,1 
+"33","33007","74180","99999","03597","99999","06450","25,000-99,999","Not in a place","NH","Coos NH","Stratford town"," ","99999","West Stewartstown, NH","Stratford School District",3,1 
+"33","33007","80740","99999","03579","99999","02510","25,000-99,999","Not in a place","NH","Coos NH","Wentworth location"," ","99999","Errol, NH","Coos County School District",33,1 
+"33","33007","84420","84340","03598","99999","07050","25,000-99,999","1000-2499","NH","Coos NH","Whitefield town","Whitefield CDP, NH","99999","Whitefield, NH","White Mountain Regional School District",1142,1 
+"33","33007","84420","99999","03598","99999","07050","25,000-99,999","Not in a place","NH","Coos NH","Whitefield town"," ","99999","Whitefield, NH","White Mountain Regional School District",1164,1 
+"33","33009","00580","99999","03222","99999","05220","25,000-99,999","Not in a place","NH","Grafton NH","Alexandria town"," ","99999","Bristol, NH","Newfound Area School District",1613,1 
+"33","33009","02020","01940","03217","99999"," ","25,000-99,999","1000-2499","NH","Grafton NH","Ashland town","Ashland CDP, NH","99999","Ashland, NH","33",1244,1 
+"33","33009","02020","99999","03217","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Ashland town"," ","99999","Ashland, NH","33",832,1 
+"33","33009","03940","49600","03740","99999"," ","25,000-99,999","200-999","NH","Grafton NH","Bath town","Mountain Lakes CDP, NH","99999","Bath, NH (PO Boxes)","33",28,1 
+"33","33009","03940","49600","03785","99999"," ","25,000-99,999","200-999","NH","Grafton NH","Bath town","Mountain Lakes CDP, NH","99999","Woodsville, NH","33",97,1 
+"33","33009","03940","99999","03740","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Bath town"," ","99999","Bath, NH (PO Boxes)","33",853,1 
+"33","33009","03940","99999","03785","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Bath town"," ","99999","Woodsville, NH","33",99,1 
+"33","33009","05060","99999","03780","99999","01830","25,000-99,999","Not in a place","NH","Grafton NH","Benton town"," ","99999","Pike, NH","Benton School District",11,1 
+"33","33009","05060","99999","03785","99999","01830","25,000-99,999","Not in a place","NH","Grafton NH","Benton town"," ","99999","Woodsville, NH","Benton School District",353,1 
+"33","33009","05460","05380","03574","99999"," ","25,000-99,999","200-999","NH","Grafton NH","Bethlehem town","Bethlehem CDP, NH","99999","Bethlehem, NH","33",972,1 
+"33","33009","05460","99999","03574","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Bethlehem town"," ","99999","Bethlehem, NH","33",1554,1 
+"33","33009","07540","99999","03222","99999","05220","25,000-99,999","Not in a place","NH","Grafton NH","Bridgewater town"," ","99999","Bristol, NH","Newfound Area School District",686,1 
+"33","33009","07540","99999","03264","99999","05220","25,000-99,999","Not in a place","NH","Grafton NH","Bridgewater town"," ","99999","Plymouth, NH","Newfound Area School District",397,1 
+"33","33009","07700","07620","03222","99999","05220","25,000-99,999","1000-2499","NH","Grafton NH","Bristol town","Bristol CDP, NH","99999","Bristol, NH","Newfound Area School District",1688,1 
+"33","33009","07700","99999","03222","99999","05220","25,000-99,999","Not in a place","NH","Grafton NH","Bristol town"," ","99999","Bristol, NH","Newfound Area School District",1366,1 
+"33","33009","08660","99999","03223","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Campton town"," ","99999","Campton, NH","33",3333,1 
+"33","33009","08980","08900","03741","99999","04680","25,000-99,999","200-999","NH","Grafton NH","Canaan town","Canaan CDP, NH","99999","Canaan, NH","Mascoma Valley Regional School District",524,1 
+"33","33009","08980","99999","03741","99999","04680","25,000-99,999","Not in a place","NH","Grafton NH","Canaan town"," ","99999","Canaan, NH","Mascoma Valley Regional School District",3353,1 
+"33","33009","08980","99999","03748","99999","04680","25,000-99,999","Not in a place","NH","Grafton NH","Canaan town"," ","99999","Enfield, NH","Mascoma Valley Regional School District",32,1 
+"33","33009","18740","99999","03266","99999","04680","25,000-99,999","Not in a place","NH","Grafton NH","Dorchester town"," ","99999","Rumney, NH","Mascoma Valley Regional School District",355,1 
+"33","33009","22020","99999","03580","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Easton town"," ","99999","Franconia, NH","33",249,1 
+"33","33009","22020","99999","03785","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Easton town"," ","99999","Woodsville, NH","33",5,1 
+"33","33009","23860","99999","03223","99999","02870","25,000-99,999","Not in a place","NH","Grafton NH","Ellsworth town"," ","99999","Campton, NH","Ellsworth School District",82,1 
+"33","33009","23860","99999","03266","99999","02870","25,000-99,999","Not in a place","NH","Grafton NH","Ellsworth town"," ","99999","Rumney, NH","Ellsworth School District",1,1 
+"33","33009","24340","24260","03748","99999","04680","25,000-99,999","1000-2499","NH","Grafton NH","Enfield town","Enfield CDP, NH","99999","Enfield, NH","Mascoma Valley Regional School District",1540,1 
+"33","33009","24340","99999","03748","99999","04680","25,000-99,999","Not in a place","NH","Grafton NH","Enfield town"," ","99999","Enfield, NH","Mascoma Valley Regional School District",3001,1 
+"33","33009","24340","99999","03766","99999","04680","25,000-99,999","Not in a place","NH","Grafton NH","Enfield town"," ","99999","Lebanon, NH","Mascoma Valley Regional School District",41,1 
+"33","33009","27300","99999","03580","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Franconia town"," ","99999","Franconia, NH","33",1093,1 
+"33","33009","27300","99999","03586","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Franconia town"," ","99999","Sugar Hill, NH","33",11,1 
+"33","33009","30820","99999","03240","99999","04680","25,000-99,999","Not in a place","NH","Grafton NH","Grafton town"," ","99999","Grafton, NH","Mascoma Valley Regional School District",1340,1 
+"33","33009","32180","99999","03241","99999","05220","25,000-99,999","Not in a place","NH","Grafton NH","Groton town"," ","99999","Hebron, NH","Newfound Area School District",274,1 
+"33","33009","32180","99999","03266","99999","05220","25,000-99,999","Not in a place","NH","Grafton NH","Groton town"," ","99999","Rumney, NH","Newfound Area School District",319,1 
+"33","33009","33860","33780","03755","99999"," ","25,000-99,999","2500-9999","NH","Grafton NH","Hanover town","Hanover CDP, NH","99999","Hanover, NH","33",8636,1 
+"33","33009","33860","99999","03750","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Hanover town"," ","99999","Etna, NH","33",870,1 
+"33","33009","33860","99999","03755","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Hanover town"," ","99999","Hanover, NH","33",1754,1 
+"33","33009","34820","49600","03740","99999","03660","25,000-99,999","200-999","NH","Grafton NH","Haverhill town","Mountain Lakes CDP, NH","99999","Bath, NH (PO Boxes)","Haverhill Cooperative School District",30,1 
+"33","33009","34820","49600","03774","99999","03660","25,000-99,999","200-999","NH","Grafton NH","Haverhill town","Mountain Lakes CDP, NH","99999","North Haverhill, NH","Haverhill Cooperative School District",49,1 
+"33","33009","34820","49600","03785","99999","03660","25,000-99,999","200-999","NH","Grafton NH","Haverhill town","Mountain Lakes CDP, NH","99999","Woodsville, NH","Haverhill Cooperative School District",284,1 
+"33","33009","34820","87140","03785","99999","03660","25,000-99,999","1000-2499","NH","Grafton NH","Haverhill town","Woodsville CDP, NH","99999","Woodsville, NH","Haverhill Cooperative School District",1126,1 
+"33","33009","34820","99999","03765","99999","03660","25,000-99,999","Not in a place","NH","Grafton NH","Haverhill town"," ","99999","Haverhill, NH","Haverhill Cooperative School District",503,1 
+"33","33009","34820","99999","03774","99999","03660","25,000-99,999","Not in a place","NH","Grafton NH","Haverhill town"," ","99999","North Haverhill, NH","Haverhill Cooperative School District",1917,1 
+"33","33009","34820","99999","03780","99999","03660","25,000-99,999","Not in a place","NH","Grafton NH","Haverhill town"," ","99999","Pike, NH","Haverhill Cooperative School District",399,1 
+"33","33009","34820","99999","03785","99999","03660","25,000-99,999","Not in a place","NH","Grafton NH","Haverhill town"," ","99999","Woodsville, NH","Haverhill Cooperative School District",389,1 
+"33","33009","35220","99999","03241","99999","05220","25,000-99,999","Not in a place","NH","Grafton NH","Hebron town"," ","99999","Hebron, NH","Newfound Area School District",602,1 
+"33","33009","36900","99999","03245","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Holderness town"," ","99999","Holderness, NH (PO Boxes)","33",2027,1 
+"33","33009","36900","99999","03264","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Holderness town"," ","99999","Plymouth, NH","33",81,1 
+"33","33009","40660","99999","03585","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Landaff town"," ","99999","Lisbon, NH","33",402,1 
+"33","33009","40660","99999","03785","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Landaff town"," ","99999","Woodsville, NH","33",13,1 
+"33","33009","41300","41300","03755","99999","04230","25,000-99,999","10,000-24,999","NH","Grafton NH","Lebanon city","Lebanon city, NH","99999","Hanover, NH","Lebanon School District",148,1 
+"33","33009","41300","41300","03766","99999","04230","25,000-99,999","10,000-24,999","NH","Grafton NH","Lebanon city","Lebanon city, NH","99999","Lebanon, NH","Lebanon School District",8917,1 
+"33","33009","41300","41300","03784","99999","04230","25,000-99,999","10,000-24,999","NH","Grafton NH","Lebanon city","Lebanon city, NH","99999","Lebanon, NH","Lebanon School District",4086,1 
+"33","33009","41860","41780","03251","99999","04260","25,000-99,999","200-999","NH","Grafton NH","Lincoln town","Lincoln CDP, NH","99999","Lincoln, NH","Lincoln-Woodstock School District",993,1 
+"33","33009","41860","99999","03251","99999","04260","25,000-99,999","Not in a place","NH","Grafton NH","Lincoln town"," ","99999","Lincoln, NH","Lincoln-Woodstock School District",669,1 
+"33","33009","42020","41940","03585","99999","04290","25,000-99,999","200-999","NH","Grafton NH","Lisbon town","Lisbon CDP, NH","99999","Lisbon, NH","Lisbon Regional School District",980,1 
+"33","33009","42020","99999","03585","99999","04290","25,000-99,999","Not in a place","NH","Grafton NH","Lisbon town"," ","99999","Lisbon, NH","Lisbon Regional School District",615,1 
+"33","33009","42580","42500","03561","99999","04380","25,000-99,999","2500-9999","NH","Grafton NH","Littleton town","Littleton CDP, NH","99999","Littleton, NH","Littleton School District",4412,1 
+"33","33009","42580","99999","03561","99999","04380","25,000-99,999","Not in a place","NH","Grafton NH","Littleton town"," ","99999","Littleton, NH","Littleton School District",1516,1 
+"33","33009","44100","99999","03561","99999","04290","25,000-99,999","Not in a place","NH","Grafton NH","Lyman town"," ","99999","Littleton, NH","Lisbon Regional School District",11,1 
+"33","33009","44100","99999","03585","99999","04290","25,000-99,999","Not in a place","NH","Grafton NH","Lyman town"," ","99999","Lisbon, NH","Lisbon Regional School District",522,1 
+"33","33009","44260","99999","03768","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Lyme town"," ","99999","Lyme, NH","33",1716,1 
+"33","33009","48980","99999","03771","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Monroe town"," ","99999","Monroe, NH","33",754,1 
+"33","33009","48980","99999","03785","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Monroe town"," ","99999","Woodsville, NH","33",34,1 
+"33","33009","58340","99999","03741","99999","04680","25,000-99,999","Not in a place","NH","Grafton NH","Orange town"," ","99999","Canaan, NH","Mascoma Valley Regional School District",331,1 
+"33","33009","58500","99999","03777","99999","33009","25,000-99,999","Not in a place","NH","Grafton NH","Orford town"," ","99999","Orford, NH","Rivendell Interstate School District",1237,1 
+"33","33009","61060","99999","03779","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Piermont town"," ","99999","Piermont, NH","33",790,1 
+"33","33009","62660","62580","03264","99999"," ","25,000-99,999","2500-9999","NH","Grafton NH","Plymouth town","Plymouth CDP, NH","99999","Plymouth, NH","33",4456,1 
+"33","33009","62660","99999","03264","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Plymouth town"," ","99999","Plymouth, NH","33",2534,1 
+"33","33009","65940","99999","03223","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Rumney town"," ","99999","Campton, NH","33",1,1 
+"33","33009","65940","99999","03266","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Rumney town"," ","99999","Rumney, NH","33",1479,1 
+"33","33009","74740","99999","03580","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Sugar Hill town"," ","99999","Franconia, NH","33",27,1 
+"33","33009","74740","99999","03586","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Sugar Hill town"," ","99999","Sugar Hill, NH","33",536,1 
+"33","33009","76740","99999","03223","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Thornton town"," ","99999","Campton, NH","33",11,1 
+"33","33009","76740","99999","03285","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Thornton town"," ","99999","Thornton, NH","33",2479,1 
+"33","33009","78740","99999","03238","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Warren town"," ","99999","Glencliff, NH (PO Boxes)","33",75,1 
+"33","33009","78740","99999","03279","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Warren town"," ","99999","Warren, NH","33",829,1 
+"33","33009","79380","99999","03215","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Waterville Valley town"," ","99999","Waterville Valley, NH","33",247,1 
+"33","33009","80500","99999","03266","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Wentworth town"," ","99999","Rumney, NH","33",9,1 
+"33","33009","80500","99999","03282","99999"," ","25,000-99,999","Not in a place","NH","Grafton NH","Wentworth town"," ","99999","Wentworth, NH","33",902,1 
+"33","33009","87060","57220","03262","99999","04260","25,000-99,999","200-999","NH","Grafton NH","Woodstock town","North Woodstock CDP, NH","99999","North Woodstock, NH","Lincoln-Woodstock School District",528,1 
+"33","33009","87060","99999","03262","99999","04260","25,000-99,999","Not in a place","NH","Grafton NH","Woodstock town"," ","99999","North Woodstock, NH","Lincoln-Woodstock School District",703,1 
+"33","33009","87060","99999","03293","99999","04260","25,000-99,999","Not in a place","NH","Grafton NH","Woodstock town"," ","99999","Woodstock, NH","Lincoln-Woodstock School District",143,1 
+"33","33011","01300","01220","03031","99999"," ","250,000-999,999","200-999","NH","Hillsborough NH","Amherst town","Amherst CDP, NH","99999","Amherst, NH","33",613,1 
+"33","33011","01300","99999","03031","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Amherst town"," ","99999","Amherst, NH","33",10588,1 
+"33","33011","01700","01620","03440","99999","02480","250,000-999,999","1000-2499","NH","Hillsborough NH","Antrim town","Antrim CDP, NH","99999","Antrim, NH","Contoocook Valley School District",1397,1 
+"33","33011","01700","99999","03440","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Antrim town"," ","99999","Antrim, NH","Contoocook Valley School District",1240,1 
+"33","33011","04500","99999","03110","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Bedford town"," ","99999","Bedford, NH","33",21203,1 
+"33","33011","04900","04820","03442","99999","02480","250,000-999,999","200-999","NH","Hillsborough NH","Bennington town","Bennington CDP, NH","99999","Bennington, NH","Contoocook Valley School District",381,1 
+"33","33011","04900","99999","03442","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Bennington town"," ","99999","Bennington, NH","Contoocook Valley School District",1095,1 
+"33","33011","08100","99999","03033","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Brookline town"," ","99999","Brookline, NH","33",4987,1 
+"33","33011","08100","99999","03049","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Brookline town"," ","99999","Hollis, NH","33",4,1 
+"33","33011","17780","99999","03244","99999","03750","250,000-999,999","Not in a place","NH","Hillsborough NH","Deering town"," ","99999","Hillsborough, NH","Hillsboro-Deering Cooperative School District",1912,1 
+"33","33011","27140","99999","03043","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Francestown town"," ","99999","Francestown, NH","Contoocook Valley School District",1547,1 
+"33","33011","27140","99999","03442","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Francestown town"," ","99999","Bennington, NH","Contoocook Valley School District",15,1 
+"33","33011","29860","29780","03045","99999","03240","250,000-999,999","2500-9999","NH","Hillsborough NH","Goffstown town","Goffstown CDP, NH","99999","Goffstown, NH","Goffstown School District",3196,1 
+"33","33011","29860","61220","03045","99999","03240","250,000-999,999","2500-9999","NH","Hillsborough NH","Goffstown town","Pinardville CDP, NH","99999","Goffstown, NH","Goffstown School District",2043,1 
+"33","33011","29860","61220","03102","99999","03240","250,000-999,999","2500-9999","NH","Hillsborough NH","Goffstown town","Pinardville CDP, NH","99999","Manchester, NH","Goffstown School District",2737,1 
+"33","33011","29860","99999","03045","99999","03240","250,000-999,999","Not in a place","NH","Hillsborough NH","Goffstown town"," ","99999","Goffstown, NH","Goffstown School District",8321,1 
+"33","33011","29860","99999","03102","99999","03240","250,000-999,999","Not in a place","NH","Hillsborough NH","Goffstown town"," ","99999","Manchester, NH","Goffstown School District",1354,1 
+"33","33011","31540","99999","03047","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Greenfield town"," ","99999","Greenfield, NH","Contoocook Valley School District",1749,1 
+"33","33011","31940","31860","03048","99999","04670","250,000-999,999","1000-2499","NH","Hillsborough NH","Greenville town","Greenville CDP, NH","99999","Greenville, NH","Mascenic Regional School District",1094,1 
+"33","33011","31940","31860","03071","99999","04670","250,000-999,999","1000-2499","NH","Hillsborough NH","Greenville town","Greenville CDP, NH","99999","New Ipswich, NH","Mascenic Regional School District",14,1 
+"33","33011","31940","99999","03048","99999","04670","250,000-999,999","Not in a place","NH","Hillsborough NH","Greenville town"," ","99999","Greenville, NH","Mascenic Regional School District",997,1 
+"33","33011","33700","33620","03449","99999","02480","250,000-999,999","200-999","NH","Hillsborough NH","Hancock town","Hancock CDP, NH","99999","Hancock, NH","Contoocook Valley School District",204,1 
+"33","33011","33700","99999","03449","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Hancock town"," ","99999","Hancock, NH","Contoocook Valley School District",1450,1 
+"33","33011","36180","36020","03244","99999","03750","250,000-999,999","1000-2499","NH","Hillsborough NH","Hillsborough town","Hillsborough CDP, NH","99999","Hillsborough, NH","Hillsboro-Deering Cooperative School District",1976,1 
+"33","33011","36180","99999","03244","99999","03750","250,000-999,999","Not in a place","NH","Hillsborough NH","Hillsborough town"," ","99999","Hillsborough, NH","Hillsboro-Deering Cooperative School District",3980,1 
+"33","33011","36180","99999","03440","99999","03750","250,000-999,999","Not in a place","NH","Hillsborough NH","Hillsborough town"," ","99999","Antrim, NH","Hillsboro-Deering Cooperative School District",55,1 
+"33","33011","37140","99999","03049","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Hollis town"," ","99999","Hollis, NH","33",7684,1 
+"33","33011","37940","37860","03051","99999","03930","250,000-999,999","2500-9999","NH","Hillsborough NH","Hudson town","Hudson CDP, NH","99999","Hudson, NH","Hudson School District",7336,1 
+"33","33011","37940","99999","03051","99999","03930","250,000-999,999","Not in a place","NH","Hillsborough NH","Hudson town"," ","99999","Hudson, NH","Hudson School District",17123,1 
+"33","33011","37940","99999","03052","99999","03930","250,000-999,999","Not in a place","NH","Hillsborough NH","Hudson town"," ","99999","Litchfield, NH","Hudson School District",8,1 
+"33","33011","42260","99999","03051","99999","04350","250,000-999,999","Not in a place","NH","Hillsborough NH","Litchfield town"," ","99999","Hudson, NH","Litchfield School District",21,1 
+"33","33011","42260","99999","03052","99999","04350","250,000-999,999","Not in a place","NH","Hillsborough NH","Litchfield town"," ","99999","Litchfield, NH","Litchfield School District",8250,1 
+"33","33011","44580","99999","03043","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Lyndeborough town"," ","99999","Francestown, NH","33",26,1 
+"33","33011","44580","99999","03047","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Lyndeborough town"," ","99999","Greenfield, NH","33",18,1 
+"33","33011","44580","99999","03070","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Lyndeborough town"," ","99999","New Boston, NH","33",24,1 
+"33","33011","44580","99999","03082","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Lyndeborough town"," ","99999","Lyndeborough, NH","33",1615,1 
+"33","33011","45140","45140","03101","99999","04590","250,000-999,999","100,000-249,999","NH","Hillsborough NH","Manchester city","Manchester city, NH","99999","Manchester, NH","Manchester School District",3049,1 
+"33","33011","45140","45140","03102","99999","04590","250,000-999,999","100,000-249,999","NH","Hillsborough NH","Manchester city","Manchester city, NH","99999","Manchester, NH","Manchester School District",27005,1 
+"33","33011","45140","45140","03103","99999","04590","250,000-999,999","100,000-249,999","NH","Hillsborough NH","Manchester city","Manchester city, NH","99999","Manchester, NH","Manchester School District",36476,1 
+"33","33011","45140","45140","03104","99999","04590","250,000-999,999","100,000-249,999","NH","Hillsborough NH","Manchester city","Manchester city, NH","99999","Manchester, NH","Manchester School District",32721,1 
+"33","33011","45140","45140","03109","99999","04590","250,000-999,999","100,000-249,999","NH","Hillsborough NH","Manchester city","Manchester city, NH","99999","Manchester, NH","Manchester School District",10314,1 
+"33","33011","46260","99999","03048","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Mason town"," ","99999","Greenville, NH","33",1331,1 
+"33","33011","46260","99999","03086","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Mason town"," ","99999","Wilton, NH","33",51,1 
+"33","33011","47540","21780","03054","99999","04740","250,000-999,999","2500-9999","NH","Hillsborough NH","Merrimack town","East Merrimack CDP, NH","99999","Merrimack, NH","Merrimack School District",4197,1 
+"33","33011","47540","99999","03031","99999","04740","250,000-999,999","Not in a place","NH","Hillsborough NH","Merrimack town"," ","99999","Amherst, NH","Merrimack School District",17,1 
+"33","33011","47540","99999","03054","99999","04740","250,000-999,999","Not in a place","NH","Hillsborough NH","Merrimack town"," ","99999","Merrimack, NH","Merrimack School District",21280,1 
+"33","33011","48020","47940","03031","99999","04830","250,000-999,999","2500-9999","NH","Hillsborough NH","Milford town","Milford CDP, NH","99999","Amherst, NH","Milford School District",25,1 
+"33","33011","48020","47940","03055","99999","04830","250,000-999,999","2500-9999","NH","Hillsborough NH","Milford town","Milford CDP, NH","99999","Milford, NH","Milford School District",8810,1 
+"33","33011","48020","85140","03055","99999","04830","250,000-999,999","1000-2499","NH","Hillsborough NH","Milford town","Wilton CDP, NH","99999","Milford, NH","Milford School District",114,1 
+"33","33011","48020","99999","03031","99999","04830","250,000-999,999","Not in a place","NH","Hillsborough NH","Milford town"," ","99999","Amherst, NH","Milford School District",4,1 
+"33","33011","48020","99999","03055","99999","04830","250,000-999,999","Not in a place","NH","Hillsborough NH","Milford town"," ","99999","Milford, NH","Milford School District",6162,1 
+"33","33011","49140","99999","03057","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Mont Vernon town"," ","99999","Mont Vernon, NH","33",2409,1 
+"33","33011","50260","50260","03060","99999","04980","250,000-999,999","25,000-99,999","NH","Hillsborough NH","Nashua city","Nashua city, NH","99999","Nashua, NH","Nashua School District",29357,1 
+"33","33011","50260","50260","03062","99999","04980","250,000-999,999","25,000-99,999","NH","Hillsborough NH","Nashua city","Nashua city, NH","99999","Nashua, NH","Nashua School District",26694,1 
+"33","33011","50260","50260","03063","99999","04980","250,000-999,999","25,000-99,999","NH","Hillsborough NH","Nashua city","Nashua city, NH","99999","Nashua, NH","Nashua School District",16216,1 
+"33","33011","50260","50260","03064","99999","04980","250,000-999,999","25,000-99,999","NH","Hillsborough NH","Nashua city","Nashua city, NH","99999","Nashua, NH","Nashua School District",14227,1 
+"33","33011","50740","99999","03057","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","New Boston town"," ","99999","Mont Vernon, NH","33",91,1 
+"33","33011","50740","99999","03070","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","New Boston town"," ","99999","New Boston, NH","33",5230,1 
+"33","33011","51940","99999","03048","99999","04670","250,000-999,999","Not in a place","NH","Hillsborough NH","New Ipswich town"," ","99999","Greenville, NH","Mascenic Regional School District",4,1 
+"33","33011","51940","99999","03071","99999","04670","250,000-999,999","Not in a place","NH","Hillsborough NH","New Ipswich town"," ","99999","New Ipswich, NH","Mascenic Regional School District",5095,1 
+"33","33011","59940","99999","03076","99999","05550","250,000-999,999","Not in a place","NH","Hillsborough NH","Pelham town"," ","99999","Pelham, NH","Pelham School District",12897,1 
+"33","33011","60580","60500","03458","99999","02480","250,000-999,999","2500-9999","NH","Hillsborough NH","Peterborough town","Peterborough CDP, NH","99999","Peterborough, NH","Contoocook Valley School District",3103,1 
+"33","33011","60580","99999","03458","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Peterborough town"," ","99999","Peterborough, NH","Contoocook Valley School District",3181,1 
+"33","33011","68820","99999","03458","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Sharon town"," ","99999","Peterborough, NH","Contoocook Valley School District",352,1 
+"33","33011","76260","99999","03084","99999","02480","250,000-999,999","Not in a place","NH","Hillsborough NH","Temple town"," ","99999","Temple, NH","Contoocook Valley School District",1366,1 
+"33","33011","79780","99999","03281","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Weare town"," ","99999","Weare, NH","33",8785,1 
+"33","33011","85220","85140","03086","99999"," ","250,000-999,999","1000-2499","NH","Hillsborough NH","Wilton town","Wilton CDP, NH","99999","Wilton, NH","33",1049,1 
+"33","33011","85220","99999","03086","99999"," ","250,000-999,999","Not in a place","NH","Hillsborough NH","Wilton town"," ","99999","Wilton, NH","33",2628,1 
+"33","33011","85940","99999","03244","99999","07200","250,000-999,999","Not in a place","NH","Hillsborough NH","Windsor town"," ","99999","Hillsborough, NH","Windsor School District",224,1 
+"33","33013","00660","75140","03275","99999"," ","100,000-249,999","2500-9999","NH","Merrimack NH","Allenstown town","Suncook CDP, NH","99999","Suncook, NH","33",1794,1 
+"33","33013","00660","99999","03275","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Allenstown town"," ","99999","Suncook, NH","33",2528,1 
+"33","33013","01460","99999","03216","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Andover town"," ","99999","Andover, NH","33",2159,1 
+"33","33013","01460","99999","03231","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Andover town"," ","99999","East Andover, NH (PO Boxes)","33",202,1 
+"33","33013","01460","99999","03235","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Andover town"," ","99999","Franklin, NH","33",10,1 
+"33","33013","06260","99999","03303","99999","04760","100,000-249,999","Not in a place","NH","Merrimack NH","Boscawen town"," ","99999","Concord, NH","Merrimack Valley School District",3965,1 
+"33","33013","06500","99999","03304","99999","01950","100,000-249,999","Not in a place","NH","Merrimack NH","Bow town"," ","99999","Bow, NH","Bow School District",7519,1 
+"33","33013","06980","06900","03221","99999","04040","100,000-249,999","200-999","NH","Merrimack NH","Bradford town","Bradford CDP, NH","99999","Bradford, NH","Kearsarge Regional School District",355,1 
+"33","33013","06980","06900","03255","99999","04040","100,000-249,999","200-999","NH","Merrimack NH","Bradford town","Bradford CDP, NH","99999","Newbury, NH","Kearsarge Regional School District",1,1 
+"33","33013","06980","99999","03221","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Bradford town"," ","99999","Bradford, NH","Kearsarge Regional School District",1294,1 
+"33","33013","09860","99999","03224","99999","06180","100,000-249,999","Not in a place","NH","Merrimack NH","Canterbury town"," ","99999","Canterbury, NH","Shaker Regional School District",2318,1 
+"33","33013","09860","99999","03276","99999","06180","100,000-249,999","Not in a place","NH","Merrimack NH","Canterbury town"," ","99999","Tilton, NH","Shaker Regional School District",9,1 
+"33","33013","09860","99999","03307","99999","06180","100,000-249,999","Not in a place","NH","Merrimack NH","Canterbury town"," ","99999","Loudon, NH","Shaker Regional School District",25,1 
+"33","33013","12420","99999","03234","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Chichester town"," ","99999","Epsom, NH","33",6,1 
+"33","33013","12420","99999","03258","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Chichester town"," ","99999","Chichester, NH","33",2517,1 
+"33","33013","14200","14200","03301","99999","02460","100,000-249,999","25,000-99,999","NH","Merrimack NH","Concord city","Concord city, NH","99999","Concord, NH","Concord School District",32975,1 
+"33","33013","14200","14200","03301","99999","04760","100,000-249,999","25,000-99,999","NH","Merrimack NH","Concord city","Concord city, NH","99999","Concord, NH","Merrimack Valley School District",33,1 
+"33","33013","14200","14200","03303","99999","02460","100,000-249,999","25,000-99,999","NH","Merrimack NH","Concord city","Concord city, NH","99999","Concord, NH","Concord School District",4849,1 
+"33","33013","14200","14200","03303","99999","04760","100,000-249,999","25,000-99,999","NH","Merrimack NH","Concord city","Concord city, NH","99999","Concord, NH","Merrimack Valley School District",4838,1 
+"33","33013","16980","99999","03230","99999","05220","100,000-249,999","Not in a place","NH","Merrimack NH","Danbury town"," ","99999","Danbury, NH","Newfound Area School District",1164,1 
+"33","33013","19460","99999","03046","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Dunbarton town"," ","99999","Dunbarton, NH","33",2758,1 
+"33","33013","24900","99999","03234","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Epsom town"," ","99999","Epsom, NH","33",4566,1 
+"33","33013","27380","27380","03235","99999","03090","100,000-249,999","2500-9999","NH","Merrimack NH","Franklin city","Franklin city, NH","99999","Franklin, NH","Franklin School District",8477,1 
+"33","33013","35540","35460","03242","99999"," ","100,000-249,999","1000-2499","NH","Merrimack NH","Henniker town","Henniker CDP, NH","99999","Henniker, NH","33",1747,1 
+"33","33013","35540","99999","03242","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Henniker town"," ","99999","Henniker, NH","33",3089,1 
+"33","33013","35860","99999","03230","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Hill town"," ","99999","Danbury, NH","33",4,1 
+"33","33013","35860","99999","03243","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Hill town"," ","99999","Hill, NH","33",1085,1 
+"33","33013","37300","37220","03106","99999"," ","100,000-249,999","2500-9999","NH","Merrimack NH","Hooksett town","Hooksett CDP, NH","99999","South Hooksett, NH","33",4147,1 
+"33","33013","37300","71220","03104","99999"," ","100,000-249,999","2500-9999","NH","Merrimack NH","Hooksett town","South Hooksett CDP, NH","99999","Manchester, NH","33",77,1 
+"33","33013","37300","71220","03106","99999"," ","100,000-249,999","2500-9999","NH","Merrimack NH","Hooksett town","South Hooksett CDP, NH","99999","South Hooksett, NH","33",5341,1 
+"33","33013","37300","99999","03106","99999"," ","100,000-249,999","Not in a place","NH","Merrimack NH","Hooksett town"," ","99999","South Hooksett, NH","33",3886,1 
+"33","33013","37540","14340","03229","99999","03900","100,000-249,999","1000-2499","NH","Merrimack NH","Hopkinton town","Contoocook CDP, NH","99999","Contoocook, NH","Hopkinton School District",1444,1 
+"33","33013","37540","99999","03229","99999","03900","100,000-249,999","Not in a place","NH","Merrimack NH","Hopkinton town"," ","99999","Contoocook, NH","Hopkinton School District",4145,1 
+"33","33013","43380","43300","03307","99999","04760","100,000-249,999","200-999","NH","Merrimack NH","Loudon town","Loudon CDP, NH","99999","Loudon, NH","Merrimack Valley School District",559,1 
+"33","33013","43380","99999","03263","99999","04760","100,000-249,999","Not in a place","NH","Merrimack NH","Loudon town"," ","99999","Pittsfield, NH","Merrimack Valley School District",8,1 
+"33","33013","43380","99999","03307","99999","04760","100,000-249,999","Not in a place","NH","Merrimack NH","Loudon town"," ","99999","Loudon, NH","Merrimack Valley School District",4750,1 
+"33","33013","50900","06020","03255","99999","04040","100,000-249,999","Less than 200","NH","Merrimack NH","Newbury town","Blodgett Landing CDP, NH","99999","Newbury, NH","Kearsarge Regional School District",101,1 
+"33","33013","50900","99999","03255","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Newbury town"," ","99999","Newbury, NH","Kearsarge Regional School District",1971,1 
+"33","33013","52100","52020","03257","99999","04040","100,000-249,999","1000-2499","NH","Merrimack NH","New London town","New London CDP, NH","99999","New London, NH","Kearsarge Regional School District",1415,1 
+"33","33013","52100","99999","03233","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","New London town"," ","99999","Elkins, NH (PO Boxes)","Kearsarge Regional School District",115,1 
+"33","33013","52100","99999","03257","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","New London town"," ","99999","New London, NH","Kearsarge Regional School District",2867,1 
+"33","33013","54260","77100","03276","99999","07300","100,000-249,999","2500-9999","NH","Merrimack NH","Northfield town","Tilton Northfield CDP, NH","99999","Tilton, NH","Winnisquam Regional School District",1456,1 
+"33","33013","54260","99999","03220","99999","07300","100,000-249,999","Not in a place","NH","Merrimack NH","Northfield town"," ","99999","Belmont, NH","Winnisquam Regional School District",81,1 
+"33","33013","54260","99999","03276","99999","07300","100,000-249,999","Not in a place","NH","Merrimack NH","Northfield town"," ","99999","Tilton, NH","Winnisquam Regional School District",3292,1 
+"33","33013","60020","75140","03275","99999","05580","100,000-249,999","2500-9999","NH","Merrimack NH","Pembroke town","Suncook CDP, NH","99999","Suncook, NH","Pembroke School District",3585,1 
+"33","33013","60020","99999","03275","99999","05580","100,000-249,999","Not in a place","NH","Merrimack NH","Pembroke town"," ","99999","Suncook, NH","Pembroke School District",3530,1 
+"33","33013","61940","61860","03263","99999","05730","100,000-249,999","1000-2499","NH","Merrimack NH","Pittsfield town","Pittsfield CDP, NH","99999","Pittsfield, NH","Pittsfield School District",1576,1 
+"33","33013","61940","99999","03263","99999","05730","100,000-249,999","Not in a place","NH","Merrimack NH","Pittsfield town"," ","99999","Pittsfield, NH","Pittsfield School District",2530,1 
+"33","33013","66980","99999","03235","99999","04760","100,000-249,999","Not in a place","NH","Merrimack NH","Salisbury town"," ","99999","Franklin, NH","Merrimack Valley School District",75,1 
+"33","33013","66980","99999","03268","99999","04760","100,000-249,999","Not in a place","NH","Merrimack NH","Salisbury town"," ","99999","Salisbury, NH","Merrimack Valley School District",1272,1 
+"33","33013","66980","99999","03278","99999","04760","100,000-249,999","Not in a place","NH","Merrimack NH","Salisbury town"," ","99999","Warner, NH","Merrimack Valley School District",35,1 
+"33","33013","75460","99999","03221","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Sutton town"," ","99999","Bradford, NH","Kearsarge Regional School District",395,1 
+"33","33013","75460","99999","03255","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Sutton town"," ","99999","Newbury, NH","Kearsarge Regional School District",17,1 
+"33","33013","75460","99999","03257","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Sutton town"," ","99999","New London, NH","Kearsarge Regional School District",173,1 
+"33","33013","75460","99999","03260","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Sutton town"," ","99999","North Sutton, NH (PO Boxes)","Kearsarge Regional School District",809,1 
+"33","33013","75460","99999","03273","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Sutton town"," ","99999","South Sutton, NH (PO Boxes)","Kearsarge Regional School District",312,1 
+"33","33013","75460","99999","03278","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Sutton town"," ","99999","Warner, NH","Kearsarge Regional School District",131,1 
+"33","33013","78580","78500","03278","99999","04040","100,000-249,999","200-999","NH","Merrimack NH","Warner town","Warner CDP, NH","99999","Warner, NH","Kearsarge Regional School District",444,1 
+"33","33013","78580","99999","03221","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Warner town"," ","99999","Bradford, NH","Kearsarge Regional School District",47,1 
+"33","33013","78580","99999","03278","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Warner town"," ","99999","Warner, NH","Kearsarge Regional School District",2342,1 
+"33","33013","80020","99999","03303","99999","04760","100,000-249,999","Not in a place","NH","Merrimack NH","Webster town"," ","99999","Concord, NH","Merrimack Valley School District",1872,1 
+"33","33013","84900","99999","03230","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Wilmot town"," ","99999","Danbury, NH","Kearsarge Regional School District",63,1 
+"33","33013","84900","99999","03287","99999","04040","100,000-249,999","Not in a place","NH","Merrimack NH","Wilmot town"," ","99999","Wilmot, NH","Kearsarge Regional School District",1295,1 
+"33","33015","02340","99999","03811","40484","06720","250,000-999,999","Not in a place","NH","Rockingham NH","Atkinson town"," ","418366","Atkinson, NH","Timberlane Regional School District",6751,1 
+"33","33015","02820","99999","03032","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Auburn town"," ","418366","Auburn, NH","33",4953,1 
+"33","33015","07220","99999","03833","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Brentwood town"," ","418366","Exeter, NH","33",4486,1 
+"33","33015","09300","99999","03034","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Candia town"," ","418366","Candia, NH","33",3909,1 
+"33","33015","12100","99999","03036","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Chester town"," ","418366","Chester, NH","33",4768,1 
+"33","33015","17140","99999","03819","40484","06720","250,000-999,999","Not in a place","NH","Rockingham NH","Danville town"," ","418366","Danville, NH","Timberlane Regional School District",4377,1 
+"33","33015","17140","99999","03826","40484","06720","250,000-999,999","Not in a place","NH","Rockingham NH","Danville town"," ","418366","East Hampstead, NH","Timberlane Regional School District",10,1 
+"33","33015","17460","99999","03034","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Deerfield town"," ","418366","Candia, NH","33",61,1 
+"33","33015","17460","99999","03037","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Deerfield town"," ","418366","Deerfield, NH","33",4219,1 
+"33","33015","17940","17860","03036","40484"," ","250,000-999,999","10,000-24,999","NH","Rockingham NH","Derry town","Derry CDP, NH","418366","Chester, NH","33",14,1 
+"33","33015","17940","17860","03038","40484"," ","250,000-999,999","10,000-24,999","NH","Rockingham NH","Derry town","Derry CDP, NH","418366","Derry, NH","33",22001,1 
+"33","33015","17940","99999","03038","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Derry town"," ","418366","Derry, NH","33",11092,1 
+"33","33015","17940","99999","03811","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Derry town"," ","418366","Atkinson, NH","33",2,1 
+"33","33015","21380","99999","03827","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","East Kingston town"," ","418366","East Kingston, NH","33",2336,1 
+"33","33015","21380","99999","03833","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","East Kingston town"," ","418366","Exeter, NH","33",21,1 
+"33","33015","24660","24580","03042","40484","02880","250,000-999,999","1000-2499","NH","Rockingham NH","Epping town","Epping CDP, NH","418366","Epping, NH","Epping School District",1681,1 
+"33","33015","24660","99999","03042","40484","02880","250,000-999,999","Not in a place","NH","Rockingham NH","Epping town"," ","418366","Epping, NH","Epping School District",4660,1 
+"33","33015","24660","99999","03857","40484","02880","250,000-999,999","Not in a place","NH","Rockingham NH","Epping town"," ","418366","Newmarket, NH","Epping School District",70,1 
+"33","33015","25380","25300","03833","40484"," ","250,000-999,999","2500-9999","NH","Rockingham NH","Exeter town","Exeter CDP, NH","418366","Exeter, NH","33",9242,1 
+"33","33015","25380","99999","03833","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Exeter town"," ","418366","Exeter, NH","33",5064,1 
+"33","33015","27940","99999","03044","40484","03150","250,000-999,999","Not in a place","NH","Rockingham NH","Fremont town"," ","418366","Fremont, NH","Fremont School District",4263,1 
+"33","33015","27940","99999","03077","40484","03150","250,000-999,999","Not in a place","NH","Rockingham NH","Fremont town"," ","418366","Raymond, NH","Fremont School District",7,1 
+"33","33015","27940","99999","03833","40484","03150","250,000-999,999","Not in a place","NH","Rockingham NH","Fremont town"," ","418366","Exeter, NH","Fremont School District",13,1 
+"33","33015","31700","99999","03840","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Greenland town"," ","418366","Greenland, NH","33",3549,1 
+"33","33015","32900","99999","03038","40484","03480","250,000-999,999","Not in a place","NH","Rockingham NH","Hampstead town"," ","418366","Derry, NH","Hampstead School District",4,1 
+"33","33015","32900","99999","03826","40484","03480","250,000-999,999","Not in a place","NH","Rockingham NH","Hampstead town"," ","418366","East Hampstead, NH","Hampstead School District",2460,1 
+"33","33015","32900","99999","03841","40484","03480","250,000-999,999","Not in a place","NH","Rockingham NH","Hampstead town"," ","418366","Hampstead, NH","Hampstead School District",6059,1 
+"33","33015","33060","32980","03842","40484"," ","250,000-999,999","2500-9999","NH","Rockingham NH","Hampton town","Hampton CDP, NH","418366","Hampton, NH","33",9656,1 
+"33","33015","33060","33140","03842","40484"," ","250,000-999,999","1000-2499","NH","Rockingham NH","Hampton town","Hampton Beach CDP, NH","418366","Hampton, NH","33",2275,1 
+"33","33015","33060","68340","03874","40484"," ","250,000-999,999","200-999","NH","Rockingham NH","Hampton town","Seabrook Beach CDP, NH","418366","Seabrook, NH","33",83,1 
+"33","33015","33060","99999","03842","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Hampton town"," ","418366","Hampton, NH","33",3414,1 
+"33","33015","33060","99999","03844","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Hampton town"," ","418366","Hampton Falls, NH","33",2,1 
+"33","33015","33460","99999","03844","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Hampton Falls town"," ","418366","Hampton Falls, NH","33",2236,1 
+"33","33015","39780","99999","03833","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Kensington town"," ","418366","Exeter, NH","33",2124,1 
+"33","33015","40100","99999","03833","40484","06080","250,000-999,999","Not in a place","NH","Rockingham NH","Kingston town"," ","418366","Exeter, NH","Sanborn Regional School District",5,1 
+"33","33015","40100","99999","03848","40484","06080","250,000-999,999","Not in a place","NH","Rockingham NH","Kingston town"," ","418366","Kingston, NH","Sanborn Regional School District",6020,1 
+"33","33015","43220","43140","03038","40484","04410","250,000-999,999","10,000-24,999","NH","Rockingham NH","Londonderry town","Londonderry CDP, NH","418366","Derry, NH","Londonderry School District",49,1 
+"33","33015","43220","43140","03053","40484","04410","250,000-999,999","10,000-24,999","NH","Rockingham NH","Londonderry town","Londonderry CDP, NH","418366","Londonderry, NH","Londonderry School District",10988,1 
+"33","33015","43220","99999","03038","40484","04410","250,000-999,999","Not in a place","NH","Rockingham NH","Londonderry town"," ","418366","Derry, NH","Londonderry School District",123,1 
+"33","33015","43220","99999","03053","40484","04410","250,000-999,999","Not in a place","NH","Rockingham NH","Londonderry town"," ","418366","Londonderry, NH","Londonderry School District",12969,1 
+"33","33015","50980","99999","03854","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","New Castle town"," ","418366","New Castle, NH (PO Boxes)","33",968,1 
+"33","33015","51380","51300","03856","40484"," ","250,000-999,999","200-999","NH","Rockingham NH","Newfields town","Newfields CDP, NH","418366","Newfields, NH","33",301,1 
+"33","33015","51380","99999","03856","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Newfields town"," ","418366","Newfields, NH","33",1379,1 
+"33","33015","51620","99999","03801","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Newington town"," ","418366","Portsmouth, NH","33",753,1 
+"33","33015","52340","52260","03857","40484","05280","250,000-999,999","2500-9999","NH","Rockingham NH","Newmarket town","Newmarket CDP, NH","418366","Newmarket, NH","Newmarket School District",5297,1 
+"33","33015","52340","99999","03857","40484","05280","250,000-999,999","Not in a place","NH","Rockingham NH","Newmarket town"," ","418366","Newmarket, NH","Newmarket School District",3639,1 
+"33","33015","52900","99999","03858","40484","06080","250,000-999,999","Not in a place","NH","Rockingham NH","Newton town"," ","418366","Newton, NH","Sanborn Regional School District",4603,1 
+"33","33015","54580","99999","03862","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","North Hampton town"," ","418366","North Hampton, NH","33",4278,1 
+"33","33015","54580","99999","03885","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","North Hampton town"," ","418366","Stratham, NH","33",23,1 
+"33","33015","56820","99999","03261","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Northwood town"," ","418366","Northwood, NH","33",4231,1 
+"33","33015","56820","99999","03290","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Northwood town"," ","418366","Nottingham, NH","33",10,1 
+"33","33015","57460","99999","03077","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Nottingham town"," ","418366","Raymond, NH","33",10,1 
+"33","33015","57460","99999","03261","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Nottingham town"," ","418366","Northwood, NH","33",15,1 
+"33","33015","57460","99999","03290","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Nottingham town"," ","418366","Nottingham, NH","33",4721,1 
+"33","33015","57460","99999","03291","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Nottingham town"," ","418366","West Nottingham, NH","33",39,1 
+"33","33015","62500","99999","03865","40484","06720","250,000-999,999","Not in a place","NH","Rockingham NH","Plaistow town"," ","418366","Plaistow, NH","Timberlane Regional School District",7609,1 
+"33","33015","62900","62900","03801","40484","05820","250,000-999,999","10,000-24,999","NH","Rockingham NH","Portsmouth city","Portsmouth city, NH","418366","Portsmouth, NH","Portsmouth School District",20779,1 
+"33","33015","64020","63940","03077","40484","05880","250,000-999,999","2500-9999","NH","Rockingham NH","Raymond town","Raymond CDP, NH","418366","Raymond, NH","Raymond School District",2855,1 
+"33","33015","64020","99999","03077","40484","05880","250,000-999,999","Not in a place","NH","Rockingham NH","Raymond town"," ","418366","Raymond, NH","Raymond School District",7283,1 
+"33","33015","66180","99999","03870","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Rye town"," ","418366","Rye, NH","33",5162,1 
+"33","33015","66180","99999","03871","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Rye town"," ","418366","Rye Beach, NH (PO Boxes)","33",136,1 
+"33","33015","66660","99999","03079","40484","06060","250,000-999,999","Not in a place","NH","Rockingham NH","Salem town"," ","418366","Salem, NH","Salem School District",28776,1 
+"33","33015","67620","99999","03841","40484","06720","250,000-999,999","Not in a place","NH","Rockingham NH","Sandown town"," ","418366","Hampstead, NH","Timberlane Regional School District",275,1 
+"33","33015","67620","99999","03873","40484","06720","250,000-999,999","Not in a place","NH","Rockingham NH","Sandown town"," ","418366","Sandown, NH","Timberlane Regional School District",5711,1 
+"33","33015","68260","68340","03874","40484"," ","250,000-999,999","200-999","NH","Rockingham NH","Seabrook town","Seabrook Beach CDP, NH","418366","Seabrook, NH","33",909,1 
+"33","33015","68260","99999","03874","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Seabrook town"," ","418366","Seabrook, NH","33",7784,1 
+"33","33015","71140","99999","03827","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","South Hampton town"," ","418366","East Kingston, NH","33",814,1 
+"33","33015","74340","99999","03840","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Stratham town"," ","418366","Greenland, NH","33",17,1 
+"33","33015","74340","99999","03885","40484"," ","250,000-999,999","Not in a place","NH","Rockingham NH","Stratham town"," ","418366","Stratham, NH","33",7238,1 
+"33","33015","85780","99999","03087","40484","07170","250,000-999,999","Not in a place","NH","Rockingham NH","Windham town"," ","418366","Windham, NH","Windham School District",13592,1 
+"33","33017","03460","99999","03825","40484"," ","100,000-249,999","Not in a place","NH","Strafford NH","Barrington town"," ","418366","Barrington, NH","33",8512,1 
+"33","33017","03460","99999","03839","40484"," ","100,000-249,999","Not in a place","NH","Strafford NH","Barrington town"," ","418366","Rochester, NH","33",64,1 
+"33","33017","18820","18820","03820","40484","02640","100,000-249,999","25,000-99,999","NH","Strafford NH","Dover city","Dover city, NH","418366","Dover, NH","Dover School District",29987,1 
+"33","33017","19700","19620","03824","40484","05520","100,000-249,999","10,000-24,999","NH","Strafford NH","Durham town","Durham CDP, NH","418366","Durham, NH","Oyster River Cooperative School District",10345,1 
+"33","33017","19700","99999","03824","40484","05520","100,000-249,999","Not in a place","NH","Strafford NH","Durham town"," ","418366","Durham, NH","Oyster River Cooperative School District",4293,1 
+"33","33017","26020","25940","03835","40484","03000","100,000-249,999","2500-9999","NH","Strafford NH","Farmington town","Farmington CDP, NH","418366","Farmington, NH","Farmington School District",3885,1 
+"33","33017","26020","99999","03835","40484","03000","100,000-249,999","Not in a place","NH","Strafford NH","Farmington town"," ","418366","Farmington, NH","Farmington School District",2901,1 
+"33","33017","41460","99999","03861","40484","05520","100,000-249,999","Not in a place","NH","Strafford NH","Lee town"," ","418366","Lee, NH","Oyster River Cooperative School District",4330,1 
+"33","33017","44820","99999","03820","40484","05520","100,000-249,999","Not in a place","NH","Strafford NH","Madbury town"," ","418366","Dover, NH","Oyster River Cooperative School District",52,1 
+"33","33017","44820","99999","03823","40484","05520","100,000-249,999","Not in a place","NH","Strafford NH","Madbury town"," ","418366","Madbury, NH","Oyster River Cooperative School District",1719,1 
+"33","33017","47700","99999","03887","40484","04770","100,000-249,999","Not in a place","NH","Strafford NH","Middleton town"," ","418366","Union, NH","Middleton School District",1783,1 
+"33","33017","48660","48580","03851","40484","00616","100,000-249,999","200-999","NH","Strafford NH","Milton town","Milton CDP, NH","418366","Milton, NH (PO Boxes)","Milton School District",575,1 
+"33","33017","48660","48740","03852","40484","00616","100,000-249,999","200-999","NH","Strafford NH","Milton town","Milton Mills CDP, NH","418366","Milton Mills, NH","Milton School District",299,1 
+"33","33017","48660","99999","03851","40484","00616","100,000-249,999","Not in a place","NH","Strafford NH","Milton town"," ","418366","Milton, NH (PO Boxes)","Milton School District",3465,1 
+"33","33017","48660","99999","03852","40484","00616","100,000-249,999","Not in a place","NH","Strafford NH","Milton town"," ","418366","Milton Mills, NH","Milton School District",259,1 
+"33","33017","51220","99999","03855","40484","03330","100,000-249,999","Not in a place","NH","Strafford NH","New Durham town"," ","418366","New Durham, NH","Governor Wentworth Regional School District",2638,1 
+"33","33017","65140","65140","03839","40484","05940","100,000-249,999","25,000-99,999","NH","Strafford NH","Rochester city","Rochester city, NH","418366","Rochester, NH","Rochester School District",3671,1 
+"33","33017","65140","65140","03867","40484","05940","100,000-249,999","25,000-99,999","NH","Strafford NH","Rochester city","Rochester city, NH","418366","Rochester, NH","Rochester School District",20758,1 
+"33","33017","65140","65140","03868","40484","05940","100,000-249,999","25,000-99,999","NH","Strafford NH","Rochester city","Rochester city, NH","418366","Rochester, NH","Rochester School District",5323,1 
+"33","33017","65540","99999","03869","40484"," ","100,000-249,999","Not in a place","NH","Strafford NH","Rollinsford town"," ","418366","Rollinsford, NH","33",2469,1 
+"33","33017","65540","99999","03878","40484"," ","100,000-249,999","Not in a place","NH","Strafford NH","Rollinsford town"," ","418366","Somersworth, NH","33",58,1 
+"33","33017","69940","69940","03878","40484","06240","100,000-249,999","10,000-24,999","NH","Strafford NH","Somersworth city","Somersworth city, NH","418366","Somersworth, NH","Somersworth School District",11766,1 
+"33","33017","73860","99999","03225","40484"," ","100,000-249,999","Not in a place","NH","Strafford NH","Strafford town"," ","418366","Center Barnstead, NH","33",27,1 
+"33","33017","73860","99999","03884","40484"," ","100,000-249,999","Not in a place","NH","Strafford NH","Strafford town"," ","418366","Strafford, NH","33",3964,1 
+"33","33019","00260","99999","03601","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Acworth town"," ","99999","Acworth, NH","Fall Mountain Regional School District",466,1 
+"33","33019","00260","99999","03602","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Acworth town"," ","99999","Alstead, NH","Fall Mountain Regional School District",50,1 
+"33","33019","00260","99999","03605","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Acworth town"," ","99999","Lempster, NH","Fall Mountain Regional School District",6,1 
+"33","33019","00260","99999","03607","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Acworth town"," ","99999","South Acworth, NH","Fall Mountain Regional School District",322,1 
+"33","33019","00260","99999","03773","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Acworth town"," ","99999","Newport, NH","Fall Mountain Regional School District",47,1 
+"33","33019","11380","11300","03603","99999","02990","25,000-99,999","1000-2499","NH","Sullivan NH","Charlestown town","Charlestown CDP, NH","99999","Charlestown, NH","Fall Mountain Regional School District",1152,1 
+"33","33019","11380","99999","03603","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Charlestown town"," ","99999","Charlestown, NH","Fall Mountain Regional School District",3962,1 
+"33","33019","12900","12900","03743","99999","02340","25,000-99,999","10,000-24,999","NH","Sullivan NH","Claremont city","Claremont city, NH","99999","Claremont, NH","Claremont School District",13355,1 
+"33","33019","15060","99999","03745","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Cornish town"," ","99999","Cornish, NH","33",1424,1 
+"33","33019","15060","99999","03746","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Cornish town"," ","99999","Cornish Flat, NH","33",216,1 
+"33","33019","16340","99999","03773","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Croydon town"," ","99999","Newport, NH","33",741,1 
+"33","33019","16340","99999","03782","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Croydon town"," ","99999","Sunapee, NH","33",23,1 
+"33","33019","30500","99999","03752","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Goshen town"," ","99999","Goshen, NH","33",810,1 
+"33","33019","31220","99999","03748","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Grantham town"," ","99999","Enfield, NH","33",35,1 
+"33","33019","31220","99999","03753","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Grantham town"," ","99999","Grantham, NH","33",2950,1 
+"33","33019","40900","99999","03602","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Langdon town"," ","99999","Alstead, NH","Fall Mountain Regional School District",667,1 
+"33","33019","40900","99999","03603","99999","02990","25,000-99,999","Not in a place","NH","Sullivan NH","Langdon town"," ","99999","Charlestown, NH","Fall Mountain Regional School District",21,1 
+"33","33019","41700","99999","03605","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Lempster town"," ","99999","Lempster, NH","33",1154,1 
+"33","33019","52580","52500","03773","99999","05310","25,000-99,999","2500-9999","NH","Sullivan NH","Newport town","Newport CDP, NH","99999","Newport, NH","Newport School District",4769,1 
+"33","33019","52580","99999","03754","99999","05310","25,000-99,999","Not in a place","NH","Sullivan NH","Newport town"," ","99999","Guild, NH (PO Boxes)","Newport School District",86,1 
+"33","33019","52580","99999","03773","99999","05310","25,000-99,999","Not in a place","NH","Sullivan NH","Newport town"," ","99999","Newport, NH","Newport School District",1649,1 
+"33","33019","52580","99999","03782","99999","05310","25,000-99,999","Not in a place","NH","Sullivan NH","Newport town"," ","99999","Sunapee, NH","Newport School District",3,1 
+"33","33019","62340","62260","03781","99999"," ","25,000-99,999","200-999","NH","Sullivan NH","Plainfield town","Plainfield CDP, NH","99999","Plainfield, NH","33",205,1 
+"33","33019","62340","99999","03770","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Plainfield town"," ","99999","Meriden, NH","33",524,1 
+"33","33019","62340","99999","03781","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Plainfield town"," ","99999","Plainfield, NH","33",1635,1 
+"33","33019","72740","99999","03284","99999","04040","25,000-99,999","Not in a place","NH","Sullivan NH","Springfield town"," ","99999","Springfield, NH","Kearsarge Regional School District",999,1 
+"33","33019","72740","99999","03748","99999","04040","25,000-99,999","Not in a place","NH","Sullivan NH","Springfield town"," ","99999","Enfield, NH","Kearsarge Regional School District",154,1 
+"33","33019","72740","99999","03751","99999","04040","25,000-99,999","Not in a place","NH","Sullivan NH","Springfield town"," ","99999","Georges Mills, NH (PO Boxes)","Kearsarge Regional School District",137,1 
+"33","33019","72740","99999","03753","99999","04040","25,000-99,999","Not in a place","NH","Sullivan NH","Springfield town"," ","99999","Grantham, NH","Kearsarge Regional School District",21,1 
+"33","33019","75060","99999","03751","99999","06540","25,000-99,999","Not in a place","NH","Sullivan NH","Sunapee town"," ","99999","Georges Mills, NH (PO Boxes)","Sunapee School District",446,1 
+"33","33019","75060","99999","03782","99999","06540","25,000-99,999","Not in a place","NH","Sullivan NH","Sunapee town"," ","99999","Sunapee, NH","Sunapee School District",2919,1 
+"33","33019","77940","99999","03601","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Unity town"," ","99999","Acworth, NH","33",11,1 
+"33","33019","77940","99999","03603","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Unity town"," ","99999","Charlestown, NH","33",277,1 
+"33","33019","77940","99999","03743","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Unity town"," ","99999","Claremont, NH","33",748,1 
+"33","33019","77940","99999","03773","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Unity town"," ","99999","Newport, NH","33",635,1 
+"33","33019","78980","99999","03280","99999"," ","25,000-99,999","Not in a place","NH","Sullivan NH","Washington town"," ","99999","Washington, NH","33",1123,1 
